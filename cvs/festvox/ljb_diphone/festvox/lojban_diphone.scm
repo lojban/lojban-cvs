@@ -12,7 +12,7 @@
 ;; $Revision$
 
 ;;; load up the ljb diphone files
-(defvar ljb_diphone_dir "/home/steve/work/lojban/festvox/ljb_diphone/" 
+(defvar ljb_diphone_dir "/home/lusers/a/arj/festvox/ljb_diphone/" 
 
   "ljb_diphone_dir
   The default directory for the lojban diphone database.")
@@ -178,7 +178,7 @@
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
   (require 'lts)
-;; (print word) ;; DEBUG
+;(print word) ;; DEBUG
   (list word
         nil
         (lex.syllabify.phstress (lts.apply (downcase word) 'lojban))))
@@ -294,11 +294,11 @@ Set up synthesis for a male Lojban speaker"
   (set! us_rel_offset 0.0)
   (set! us_gain 1.0)
   
-  (Parameter.set 'Duration_Stretch 1.2)
+  (Parameter.set 'Duration_Stretch 1.8)
 
 
   (Parameter.set 'Synth_Method 'UniSyn)
-  (Parameter.set 'us_sigpr 'lpc)
+  (Parameter.set 'us_sigpr 'psola)
   (us_db_select 'lojban_lpc_group)
 
   (set! current-voice 'lojban_diphone)
