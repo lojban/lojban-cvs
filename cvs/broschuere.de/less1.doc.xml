@@ -8,7 +8,7 @@ einfach.</para>
 
 <sect2><title>Vokale</title>
 
-<para>In Lojban gibt es sechs Vokale</para>
+<para>In Lojban gibt es sechs Vokale:</para>
 
 <variablelist>
 <varlistentry> <term><foreignphrase
@@ -40,6 +40,8 @@ heisst bei den Linguisten <wordasword>Schwa</wordasword>.
 Schwa ist ein undifferenzierter Vokal, der entsteht, wenn der Mund bei der Aussprache vollst&auml;ndig entspannt
 und leicht ge&ouml;ffnet ist.
 </para>
+
+<!-- NN wie in <wordasword>End<emphasis role="bold">e</emphasis></wordasword> -->
 
 <para>Zwei Vokale werden zusammen wie einer ausgesprochen, ein sogenannter Diphtong:</para>
 
@@ -96,6 +98,10 @@ ausgesprochen, wie im Deutschen: </para>
 
 <variablelist>
 
+<varlistentry><term><foreignphrase lang="loj">v</foreignphrase></term>
+<listitem><para><wordasword>w</wordasword>, wie in <wordasword><emphasis
+role="bold">W</emphasis>ien</wordasword></para></listitem></varlistentry>
+
 <varlistentry><term><foreignphrase lang="loj">c</foreignphrase></term>
 <listitem><para><wordasword>sch</wordasword>, wie in <wordasword><emphasis
 role="bold">Sch</emphasis>iff</wordasword></para></listitem></varlistentry>
@@ -115,7 +121,7 @@ ausgesprochen, wie in <wordasword>Ba<emphasis
 role="bold">s</emphasis>el</wordasword></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="loj">x</foreignphrase></term>
-<listitem><para>wie in <wordasword>Ba<emphasis role="bold">ch</emphasis></wordasword>
+<listitem><para><wordasword>ch</wordasword>, wie in <wordasword>Ba<emphasis role="bold">ch</emphasis></wordasword>
 </para></listitem></varlistentry> </variablelist>
 
 
@@ -139,7 +145,7 @@ ein Diphtong, aber <foreignphrase lang="loj">u'i</foreignphrase> wird
 also die gleiche Funktion, wie das Apostroph, nur dass es lautlos ist, was in Namen erw&uuml;nscht sein kann.
 Lojban W&ouml;rter enthalten keine Kommata. Hier einige Beispiele:
 <foreignphrase lang="loj">pi,ER.</foreignphrase> (<wordasword>Pierre</wordasword>), im Gegensatz zu
-<foreignphrase lang="loj">pier.</foreignphrase> (<wordasword>P-yerr</wordasword>) oder <foreignphrase
+<foreignphrase lang="loj">pier.</foreignphrase> (<wordasword>Pjerr</wordasword>) oder <foreignphrase
 lang="loj">pi'ER.</foreignphrase> (<wordasword>Piherr</wordasword>).</para>
 
 <para>Der Punkt dient als Pausenzeichen, in der Aussprache &auml;ussert er sich als glottaler Verschluss.
@@ -196,7 +202,7 @@ Apostroph in der Mitte. Hier seien zum Anfang einige angef&uuml;hrt:
 <listitem><para>Beschwerde</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="loj">.ua</foreignphrase></term>
 <listitem><para>Entdeckung</para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="loj">.&uuml;</foreignphrase></term>
+<varlistentry><term><foreignphrase lang="loj">.ue</foreignphrase></term>
 <listitem><para>&Uuml;berraschung</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="loj">.u'e</foreignphrase></term>
 <listitem><para>Bewunderung</para></listitem></varlistentry>
@@ -207,7 +213,7 @@ Apostroph in der Mitte. Hier seien zum Anfang einige angef&uuml;hrt:
 <varlistentry><term><foreignphrase lang="loj">.uu</foreignphrase></term>
 <listitem><para>Mitleid</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="loj">.u'u</foreignphrase></term>
-<listitem><para>Re&uuml;</para></listitem></varlistentry>
+<listitem><para>Reue</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -237,7 +243,7 @@ Was w&uuml;rden Sie in den folgenden Situationen sagen?
 
 <listitem><para>Jemand tritt Ihnen auf die Zehen.</para></listitem>
 
-<listitem><para>Sie scha&uuml;n einen langweiligen Film.</para></listitem>
+<listitem><para>Sie schauen einen langweiligen Film.</para></listitem>
 
 <listitem><para>Jemand hat Ihnen gerade eine lustige Geschichte erz&auml;hlt.</para></listitem>
 
@@ -294,6 +300,8 @@ gesetzt werden, um den Anfang zu markieren. Hier einige Beispiele: </para>
 
 <variablelist>
 
+<!-- NN Give a German name with an umlaut -- say Bj&ouml;rn -->
+
 <varlistentry><term><foreignphrase lang="loj">.an.</foreignphrase></term>
 <listitem><para>Anne</para></listitem></varlistentry>
 
@@ -318,6 +326,8 @@ lang="loj">.eduard.</foreignphrase></term>
 <para>Man kann auch noch einen Punkt zwischen Vor- und Nachnamen setzen, obwohl das nicht zwingend notwendig 
 ist, <wordasword>Jim Jones</wordasword>
 wird also <foreignphrase lang="loj">djim.djonz.</foreignphrase> .</para>
+
+<!-- NN Give a German name and surname instead -->
 
 <para>Eine weitere Regel f&uuml;r die Lojbanisierung von Namen ist, dass der 
 <foreignphrase lang="loj">cmene</foreignphrase>, Lojban f&uuml;r Name, als letzten Buchstaben 
@@ -420,21 +430,24 @@ lang="loj">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry>
 lang="loj">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 </variablelist>
-<simplesect role="exercise"><title>Exercise 2</title>
+<simplesect role="exercise"><title>&Uuml;bung 2</title>
 
 <para>Wo liegen diese Orte?</para>
 
 
 <orderedlist>
+
+<listitem><para><foreignphrase lang="loj">munxen.</foreignphrase></para></listitem>
+
 <listitem><para><foreignphrase lang="loj">niu,IORK.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="loj">romas.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="loj">kitos.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">kardif.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">vin.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">.beidjin.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">beidjin.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="loj">.ankaras.</foreignphrase></para></listitem>
 
@@ -444,7 +457,7 @@ lang="loj">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para><foreignphrase lang="loj">taibeis.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">bon.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">laiptsix.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="loj">delis.</foreignphrase></para></listitem>
 
@@ -466,6 +479,8 @@ lang="loj">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <orderedlist>
 
+<!-- NN The Anglo names here should absolutely be replaced with German names; I'd only keep one famous Anglo name -->
+
 <listitem><para>John</para></listitem>
 
 <listitem><para>Melissa</para></listitem>
@@ -474,7 +489,7 @@ lang="loj">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para>Matthew</para></listitem>
 
-<listitem><para>Mich&auml;l</para></listitem>
+<listitem><para>Michael</para></listitem>
 
 <listitem><para>David Bowie</para></listitem>
 
@@ -565,7 +580,7 @@ lang="loj">.oi.i'enai</foreignphrase></para></listitem>
 <foreignphrase
 lang="loj">.ii</foreignphrase> falls Sie eine Phobie haben, <foreignphrase
 lang="loj">.a'unai</foreignphrase> falls Sie sie einfach abstossend finden,
- <foreignphrase lang="loj">.a'u</foreignphrase> k&ouml;nnte ein Entomologe,
+ <foreignphrase lang="loj">.a'u</foreignphrase> k&ouml;nnte ein Entomologe
 sagen. </para> </listitem>
 
 </orderedlist>
@@ -576,13 +591,15 @@ sagen. </para> </listitem>
 
 <orderedlist>
 
+<listitem><para>M&uuml;nchen</para></listitem>
+
 <listitem><para>New York</para></listitem>
 
 <listitem><para>Rome</para></listitem>
 
 <listitem><para>Quito</para></listitem>
 
-<listitem><para>Cardiff</para></listitem>
+<listitem><para>Wien</para></listitem>
 
 <listitem><para>Beijing (bevorzugt gegen&uuml;ber dem im Deutschen &uuml;blichen <wordasword>Peking</wordasword>)</para></listitem>
 
@@ -595,7 +612,7 @@ sagen. </para> </listitem>
 <listitem><para>Taipei (man beachte: <foreignphrase lang="loj">b</foreignphrase>, nicht
 <foreignphrase lang="loj">p</foreignphrase>)</para></listitem>
 
-<listitem><para>Bonn</para></listitem>
+<listitem><para>Leipzig</para></listitem>
 
 <listitem><para>Delhi</para></listitem>
 
@@ -658,6 +675,8 @@ In Lojban bevorzugt man <foreignphrase
 lang="loj">cmene</foreignphrase>, die auf der urspr&uuml;nglichen Aussprache des Namens basieren. 
 Dies ist jedoch keine absolute Regel.
 </para></listitem>
+
+<!-- NN What is the default German accentuation? -->
 
 <listitem><para><foreignphrase lang="loj">maDRID.</foreignphrase></para></listitem>
 
