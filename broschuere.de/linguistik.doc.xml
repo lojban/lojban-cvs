@@ -1,0 +1,218 @@
+<sect1 id="linguistik"><title>Sprachwissenschaftliche Aspekte von Lojban &mdash;
+<foreignphrase lang="loj">bauske se casnu co lojbo </foreignphrase>
+</title>
+
+<sect2 id="sapirwhorf"><title>Whas ist die Sapir-Whorf Hypothese?</title>
+
+<para>The Sapir-Whorf hypothesis is the notion that the language you speak
+affects the way you think.  Most people who have learnt a foreign language,
+or have grown up speaking two languages, will be familiar with this idea,
+having found themselves thinking and speaking in one language or the other
+because something is easier to say in that language.  One of the main ideas
+behind the Loglan/Lojban project was to create a language which is both
+highly expressive and as culturally neutral as possible, then see what
+people from different cultures do with it.  To give an example, in most
+European languages time and gender are very important &mdash; you can say
+<quote>She goes</quote>, <quote>It went</quote>, <quote>He'll go</quote>
+and so on, but just to say <quote>She/he/it go</quote>, with no particular
+gender or time in mind, sounds strange.  In Chinese, on the other hand,
+<wordasword>ta qu</wordasword> (he/she/it go) is perfectly normal.  In Lojban there are
+plenty of words to show the time of an action, its length, how it happens
+and so on &mdash; but you don't have to use any of them.  If you really
+wanted to, you could say: 
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">le ninmu puzuze'udi'i klama</foreignphrase>
+the female-human past-long-time-distance-long-time-interval-regularly go
+<quote>A long time ago, for a long time, she went regularly.</quote></literallayout>
+</informalexample>
+
+But normally you'd just say:
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">klama</foreignphrase>
+[someone / something] go </literallayout>
+</informalexample>
+
+</para>
+
+<para>Notice that you can translate the first example into English
+(more-or-less) but the second one just won't go into English, or most
+European languages.  If you're European and this strikes you as odd, you
+may have just witnessed a Sapir-Whorf effect!  Understanding the potential
+for Sapir-Whorf effects may lead to better inter-cultural understanding,
+promoting communication and peace.  </para>
+
+
+<para>It is known that people's ideas and thought change somewhat when they
+learn a foreign language.  It is not known whether this change is due to
+exposure to a different culture or even just getting outside of ones own
+culture.  It is also not known how much (if any) of the change is due to
+the nature of the language, as opposed to the cultural associations. 
+</para>
+
+
+<para>The Sapir-Whorf hypothesis was important in linguistics in the 1950s,
+but interest fell off partially because properly testing it was so
+difficult.  Lojban is a new approach to such testing.  Obviously, if a
+culture-independent language could be taught to groups of people, the
+effects of language could more easily be separated from those of culture. 
+</para>
+
+
+<para>Unique features of Lojban remove constraints on language in the areas
+of logic, ambiguity, and expressive power, opening up areas of thought that
+have not been easily accessible by human language before.  Meanwhile, the
+formal rigidity of the language definition allows speakers to carefully
+control their expressions (and perhaps therefore their thought processes). 
+This gives some measure of predictive power that can be used in designing
+and preparing for actual Sapir-Whorf experiments.  </para>
+
+
+<para>One of the prerequisites of a Sapir-Whorf experiment is an
+international body of Lojban speakers.  We need to be able to teach Lojban
+to subjects who know only their native (non-English) tongue, and we need to
+know in advance the difficulties that people from each language and culture
+will have in learning Lojban.  Thus, the Lojban community is actively
+reaching out to speakers of languages other than English.  </para>
+
+
+<para>Lojban does not need to prove or disprove the Sapir-Whorf hypothesis
+in order to be successful.  However, if evidence is produced supporting the
+Sapir-Whorf effect, Lojban will likely be perceived as an outstanding tool
+of analytical and creative thought.  </para> </sect2>
+
+<sect2><title>How else might Lojban be used by scientists studying language? 
+</title>
+
+<para>An artificial language (AL) is a simple model of a natural language. 
+It is used for communication like natural languages, simpler, more regular,
+and relatively uncontaminated by culture effects.  Unlike most natural
+languages, an AL has not evolved through naturally processes of internal
+change or contact with other languages.  In addition, to the extent to
+which details of an AL is pre-defined, the internal structure of the
+language is far better known than that of any natural language.  </para>
+
+
+<para>Such a pre-definition, a language <quote role="socalled">prescription</quote>, makes an AL a
+unique tool for studying the nature of language.  As people learn the
+language, the way they <quote role="socalled">acquire</quote> understanding of that prescription can
+tell scientists how <quote role="socalled">natural</quote> the prescribed forms are.  Actual usage of
+the language can be compared to the prescription providing quantitative
+data on specific patterns of usage.  As the language evolves from its
+relatively pristine initial state, it may start to deviate from its
+prescription.  Any such deviations will better inform researchers as to the
+properties of a <quote role="socalled">natural</quote> language.  The process of language change itself
+will of course be open to investigation in a way never before possible. 
+Finally, the existence of a relatively complete language prescription at
+the birth of the language means that a <quote role="socalled">description</quote> of actual usage after
+that initial state can be more simply created, maintained, and studied. 
+</para>
+
+
+<para>Lojban is undoubtedly the most carefully designed and defined AL ever
+created.  All aspects of its design have been carefully engineered by
+several people encompassing expertise in a variety of disciplines,
+including linguistics.  The language prescription is similarly the most
+complete of any language.  As such, it serves as a unique basis for the
+study of language usage and language change.  </para>
+
+
+<para>A new language like Lojban, with no native speakers, is termed a
+<quote role="socalled">pidgin</quote>.  As the language evolves, native speakers of other languages will
+learn it, and will bring into their Lojban usage the perspective and
+patterns of their native language.  This interaction process, called
+<quote role="socalled">creolization</quote>, affects all languages, and may be the principle cause of
+language change.  As Lojban is learned by speakers of a variety of natural
+languages, this process can be studied directly in a way never before
+possible, with the language prescription serving as a standard by which
+deviations associated with speaker origin, and evolution of usage, can be
+measured and described in detail.  </para>
+
+
+<para>An AL like Lojban has neither an associated <quote role="socalled">native accent</quote> nor a
+culture base.  Being much simpler and more regular than a natural language,
+an adult speaker should acquire a fluency seldom achieved when studying a
+natural language, and in a relatively short time.  Lojban thus makes
+possible relatively short-term studies of language learning and language
+change.  Processes that take generations in natural languages may be
+observed in a few years in Lojban speakers.  </para>
+
+
+<para>With the learning of other languages acquiring critical importance in
+today's international economy, Lojban provides a tool for researching in
+language acquisition.  Again, Lojban's simplicity allows the results of
+such research to be obtained more quickly than in similar studies of
+natural language acquisition.  </para>
+
+
+<para>No claim is made that studying Lojban will tell <quote role="socalled">all</quote> about language. 
+While Lojban has already seen considerable communicative use, as far as the
+rigorous standards of linguistics are concerned it will only be a <quote role="socalled">model</quote>
+of a language at least for several decades, whose <quote role="socalled">naturalness</quote> will be
+suspect.  However, to the extent that Lojban serves the communicative and
+expressive functions of human language, any theory about the nature of
+human language must apply to Lojban.  Language features and processes
+identified in studying Lojban can then be confirmed in natural languages. 
+Similarly, theories of the nature of language can be tested and refined
+against this simpler model of a language before facing the more difficult
+and time-consuming testing and analysis involved in natural language
+research.  </para>
+
+
+<para>Because Lojban is relatively culture-free, and because of its
+prescribed structure that is consistent with predicate logic, Lojban is an
+ideal medium for the analysis and description of other languages. 
+Currently, features in language must be compared against other natural
+languages, and are usually described in scientific literature by glossed
+translation into English.  Lojban is simple and regular enough to be
+acquired as a metalanguage for describing other languages; its structures
+allow clearer reflection of the patterns of the language being described,
+without interference from the competing patterns of English.  </para>
+
+
+<para>It is believed that, for anyone planning to later learn other
+languages, the short time spent learning Lojban will be made up by the
+reduced time needed later to learn those others.  Studies in the 1930s, for
+example, demonstrated that students could acquire greater skill in French
+through one semester of Esperanto followed by one semester of French, than
+they could by a full year course in French.  Lojban offers similar
+benefits, less likely to be limited to European languages.  For example,
+structures in Japanese that are difficult to explain in English because
+they are so unlike English usage are much easier to explain using Lojban
+patterns.  Such study can be tied in with concepts of logic, and possibly
+with computer-related activities, helping to show the essential
+interrelated nature of language and other human endeavor.  </para>
+
+
+<para>Finally, Lojban's predicate grammar, makes it eminently suited for
+ongoing computer research into natural languages.  Lojban can be used for
+parsing and analysis, as an internal medium of data storage, or as an
+intermediate language for machine translation.  Having a combination of
+logical and natural language structures, Lojban combines the best of both
+major structural approaches to language processing in computers.  </para>
+
+
+<para>The exercise of trying to invent a language can teach us things about
+language that probably can't be learned in any other way.  Even if Lojban
+should fail as a language, we will learn.  However, to the extent Lojban
+succeeds, its potential as a basis for testing ideas about language, its
+structure, and usage, is unlimited.  The invention of Lojban is the
+invention of the science of experimental linguistics.  </para>
+
+<para>
+<literallayout>
+Event contours, Aristoteleian Events
+
+
+
+
+
+Insert
+reply.doc (Cowan to Zwicky)
+
+Insert lojling.doc
+</literallayout>
+</para>
+</sect2>
+</sect1>

@@ -2,11 +2,18 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "/usr/local/docbook/docbookdtd/docbookx.dtd"
 [
 <!ENTITY einf SYSTEM "einfuehrung.doc.xml">
+<!ENTITY frageundantw SYSTEM "frageundantw.doc.xml">
 <!ENTITY ling SYSTEM "linguistik.doc.xml">
+<!ENTITY diag SYSTEM "diagsumm.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
+<!ENTITY bradi SYSTEM "bradi.doc.xml">
+<!ENTITY ckape SYSTEM "ckape.doc.xml">
+<!ENTITY texte SYSTEM "texte.doc.xml">
 ]>
 <book lang="de">
+<!--vielleicht ein vorwort?-->
+<!--kapitel-->
 &einf;
-&ling;
-&lorxu;
+
+&texte;
 </book>

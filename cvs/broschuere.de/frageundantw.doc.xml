@@ -1,0 +1,1165 @@
+<!-- -*- DocBook -*- -->
+<sect1 id="frageundantw"><title>Fragen und Antworten</title>
+
+<qandaset defaultlabel="none">
+
+<qandaentry>
+
+<question><para>Was ist
+Lojban? &mdash; <foreignphrase lang="loj">la lojban
+mo</foreignphrase></para></question>
+
+<answer>
+<para>Lojban <wordasword>[lo&#658;'ban]</wordasword> ist eine konstuierte Sprache.
+Urspr&uuml;nglich wurde sie <quote>Loglan</quote> genannt und von Dr.  James Cooke Brown im Jahre 1955 
+beginnend entwickelt. Die Ziele dieser Entwicklung wurden zuerst in einem Artikel im 
+<citetitle>Scientific American</citetitle> vom Juni 1960 beschrieben. 
+Durch diesen Artikel, durch einzelne Science Fiction Geschichten und durch Informatik Literatur wurde 
+Loglan/Lojban bekannt. An der Sprache wurde &uuml;ber drei Jahrzehnte von hunderten weiter gearbeitet, seit 
+1987 unter F&uuml;hrung der <orgname>Logical Language Group.</orgname></para>
+
+<para>Es gibt eine ganze Reihe von k&uuml;nstlichen Sprachen, Loglan/Lojban jedoch 
+wurde gezielt mit in mehrfacher Hinsicht einzigartigen Eigenschaften versehen. Dies sind einige 
+der wesentlichen: </para>
+
+<itemizedlist>
+
+<listitem><para>Lojban is designed to be used by people in communication
+with each other, and possibly in the future with
+computers.</para></listitem>
+<listitem><para>Lojban wurde f&uuml;r die Kommunikation von Menschen untereinander als auch f&uuml;r die 
+m&ouml;gliche zuk&uuml;nftige Kommunikation mit Computer entworfen. </para></listitem>
+
+<listitem><para>Lojban is designed to be culturally
+neutral.</para></listitem>
+
+<listitem><para>Lojban ist kulturell neutral.</para></listitem>
+
+
+<listitem><para>Die Lojban Grammatik basiert auf den Prinzipien der mathematischen Logik.
+</para></listitem>
+
+
+<listitem><para>Lojban hat eine unzweideutige Grammatik</para></listitem>
+
+<listitem><para>Lojban ist audiovisuell isomorph, es gibt also eine eineindeutige Zuordnung von
+Lauten und Zeichen.</para></listitem>
+
+<listitem><para>Im Vergleich zu nat&uuml;rlichen Sprachen ist Lojban einfach und leicht zu lernen.
+</para></listitem>
+
+<listitem><para>Lojbans 1250 Stammw&ouml;rter k&ouml;nnen kombiniert werden und
+so leicht ein Gesamtvokabular von mehreren Millionen erzeugen.</para></listitem>
+
+<listitem><para>Lojban ist v&ouml;llig regelm&auml;ssig, alle Regeln gelten ohne Ausnahme.</para></listitem>
+
+<listitem><para>Lojban versucht eine m&ouml;glichst unbehinderte Gedankent&auml;tigkeit und 
+Ausdrucksweise erm&ouml;glichen.</para></listitem>
+
+<listitem><para>Lojban hat ein sehr breites Anwendungsspektrum, das vom kreativen zum wissenschaftlichen
+und vom theoretischen zum praktischen reicht.</para></listitem></itemizedlist>
+
+
+
+<para>Die folgenden Punkte beziehen sich auf die genannten Eigenschaften von Lojban und versuchen
+die am meisten dazu gestellten Fragen zu beantworten.</para>
+
+</answer>
+
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Warum wurde Lojban entwickelt?</para>
+</question>
+
+<answer>
+<para>Lojban wurde urspr&uuml;nglich als Hilfsmittel entworfen, um die Sapir-Whorf Hypothese zu pr&uuml;fen.
+Einfach ausgedr&uuml;ckt besagt diese Hypothese, dass eine Sprache beschr&auml;nkt, was ihre Benutzer denken
+ k&ouml;nnen. Lojban hat das gleiche Ausdruckspotential, wie nat&uuml;rliche Sprachen, aber seine Struktur
+unterscheidet bedeutend sich von diesen. Dies ist ein zentraler Aspekt in der Untersuchung des Zusammenhangs 
+von Sprache, Kultur und Denken. 
+</para>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Gibt es andere Anwendungen f&uuml;r Lojban?</para>
+</question>
+
+<answer>
+<para>Ja, einige. Wegen seiner einfachen Struktur und unzweideutigen Grammatik, kann
+Lojban leicht von Computern analysiert werden. Was die M&ouml;glichkeit er&ouml;ffet Lojban 
+in der Zukunft f&uuml;r die Interaktion von Menschen und Computern zu benutzen, vielleicht 
+sogar zur Konversation. Lojbans Struktur &auml;hnelt der einiger Programmiersprachen f&uuml;r 
+k&uuml;nstliche Intelligenzen, und stellt wahrscheinlich ein sehr m&auml;chtiges Werkzeug f&uuml;r 
+kommende Probleme der k&uuml;nstlichen Intelligenz dar, besonders in der Speicherung und Bearbeitung
+ von Daten &uuml;ber die Welt und ihre Wahrnehmung durch den Menschen. Einige Linguisten interessieren sich
+auch f&uuml;r Lojban als m&ouml;gliches Medium f&uuml;r die computergest&uuml;tzte &Uuml;bersetzung
+von nat&uuml;rlichen Sprachen. Auch ist Lojban als m&ouml;gliche Trittstufe f&uuml;r das Lernen anderer 
+Sprachen interessant. Da Lojban kulturell neutral ist und ein sehr machtvolles Vokabular hat, das von
+Leuten mit verschiedener Herkunft leicht gelernt werden kann, eignet sie sich hervorragend  als 
+internationale Sprache. Und dies sind nur die Anf&auml;nge der Anwendungsm&ouml;glichkeiten.
+</para>
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Ist Lojban eine Computersprache?</para>
+</question>
+
+<answer>
+<para>Lojban wurde als <emphasis>menschliche Sprache</emphasis>, nicht als Computersprache entworfen.
+Sie ist zum Unterhalten, Lesen, Schreiben und Denken gedacht. Da Lojban aber von Computern viel leichter
+verarbeitet werden kann als nat&uuml;rliche Sprachen, ist es nur eine Frage der Zeit bis es Computerprogramme
+geben wird, die mit Lojban funktionieren. Um Lojban zu lernen und zu benutzen, ist es 
+jedoch nicht n&ouml;tig irgendetwas von Computern zu wissen, noch wie einer zu reden.
+</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Wie wird Lojban geschrieben? Und wie h&ouml;rt es sich an?</para>
+</question>
+
+<answer>
+<para>F&uuml;r gew&ouml;hnlich wird das lateinische Alphabet benutzt, um
+die 6 Vokale und 17 Konsonanten darzustellen. Der Lojban Zeichensatz besteht nur aus 
+Buchstaben, die sich auch auf den meisten Schreibmaschinen- und Computertastaturen finden.
+Grossschreibung wird nur verwendet, um uregelm&auml;ssige Betonung in Namen zu notieren.
+Die wenigen Interpunktionszeichen werden wie Buchstaben behandelt und sind alle h&ouml;rbar. Das Geschriebene
+und das Gesprochene entsprechen einander, die Buchstabierung und die Aussprache sind unzweideutig und
+der Fluss der gesprochenen Sprache l&auml;sst sich eindeutig in einzelne W&ouml;rter aufl&ouml;sen. Dies macht
+die Spracherkennung und Transkribtion durch Computer sehr einfach und praktischer als mit 
+nat&uuml;rlichen Sprachen. Lojban schreiben und sprechen zu lernen ist trivial.
+</para>
+
+<para>Gesprochenes Lojban h&ouml;rt sich weich und rhythmisch an, ein wenig wie Italienisch.
+Aber die Konsonanten geben ihr eine F&uuml;lle und Kraft, die man in slavischen Sprachen findet. 
+Und die grosse Zahl von Vokalpaaren f&uuml;gt noch eine Note vom Klang der chineschen, polynesischen und
+orientalischen Sprachen hinzu. Aber ohne all die Laute, die diese Sprachen f&uuml;r andere 
+schwierig machen.</para>
+
+<para>Da es keine Idiome gibt, die Ausdr&uuml;cke abk&uuml;rzen k&ouml;nnten, 
+erscheint Lojban oft l&auml;nger, als die gleiche Aussage in nat&uuml;rlicher
+Umgangssprache. Die unzweideutigkeit der Struktur in Lojban ist jedoch eine w&uuml;nschenswerte
+Eigenschaft.</para>
+
+
+
+<para>Als Bespiel ist hier die Lojban &Uuml;bersetzung von Occams Regel (<quote>Die einfachste Erkl&auml;rung
+ist meisst die beste</quote>) gezeigt:
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
+['roda poi 'vel&#643;ki 'kuho so'heroi ke 'ganai 'saprai gi 'xagrai]
+<wordasword>f&uuml;r alle Dinge die-sind(Erkl&auml;rung) gilt-meistens(wenn besonders-einfach dann besonders-gut)</wordasword>
+</literallayout>
+</informalexample>
+</para>
+<para>Das Apostroph wird wie ein kurzes <quote role="gloss">h</quote> gesprochen, es wird benutzt, 
+um zwei aufeinander folgende Vokale h&ouml;rbar zu trennen ohne eine Pause zu machen.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Was f&uuml;r eine Grammatik hat Lojban?</para>
+</question>
+
+<answer> <para>
+
+<quote role="gloss">Grammatik</quote> weckt bei vielen Leuten unangenehme Erinnerungen.
+Auch wenn die Lojban Grammatik auf den ersten Blick recht kompliziert erscheint, so ist sie doch 
+recht einfach. Sie basiert auf der sogenannten Pr&auml;dikatenlogik. Diese  Pr&auml;dikatenlogik 
+dr&uuml;ckt in jedem Satz eine Beziehung (<foreignphrase lang="loj">selbri</foreignphrase> in Lojban)
+zwischen ein oder mehreren Argumenten (<foreignphrase lang="loj">sumti</foreignphrase>) aus. Diese Argumente
+k&ouml;nnen Dinge, Ereignisse, Qualit&auml;ten und noch vieles andere sein. Der Satz
+
+<informalexample>
+<literallayout>
+Hans liebt Maria
+</literallayout>
+</informalexample>
+
+dr&uuml;ckt die Beziehung (oder <quote role="gloss">Relation</quote>), 
+<wordasword>liebt</wordasword>,
+zwischen den Argumenten, <wordasword>Hans</wordasword> und <wordasword>Maria</wordasword> aus. 
+In Lojban ist das 
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">la xans. prami la marias.</foreignphrase></literallayout>
+</informalexample>
+
+oder je nach Belieben auch
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">la xans. la marias. prami</foreignphrase></literallayout>
+</informalexample>
+</para>
+
+<para>
+Sie denken wahrscheinlich: <quote>Naja, die Relation ist eben ein Verb und das Argument einfach ein Nomen,
+warum soll man also extra neue W&ouml;rter wie
+<foreignphrase lang="loj">selbri</foreignphrase> und so weiter einf&uuml;hren?</quote>
+In Lojban kann man Hans' Gef&uuml;hle f&uuml;r Maria so beschreiben:
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">la marias. melbi</foreignphrase>
+Maria ist sch&ouml;n.</literallayout>
+</informalexample>
+</para>
+
+<para>Im Deutschen hat man das Verb (<quote role="gloss">Tu-Wort</quote>), 
+<wordasword>ist</wordasword>, und das Adjektiv (<quote role="gloss">Eigenschaftswort</quote>), 
+<wordasword>sch&ouml;n</wordasword>.  Auf 
+T&uuml;rkisch, w&uuml;rde man sagen<wordasword>Hans g&uuml;zel</wordasword>, 
+was ein Nomen und ein Adjektiv ist, man ben&ouml;tigt also kein Verb.
+Im Chinesischen w&uuml;rde man  <wordasword>meili</wordasword> benutzen, ein
+<quote role="gloss">Statisches Verb</quote> &mdash; aber genug!  In Lojban braucht man das alles nicht.
+</para>
+
+
+
+
+<para>Wenn es also in Lojban keine Verben, Nomen und Adjektive gibt, wie
+weiss man dann, dass <foreignphrase lang="loj">la xans. la marias. prami</foreignphrase> 
+<quote>Hans liebt Maria.</quote> bedeutet und nicht <quote>Maria liebt Hans.</quote> ? 
+Nun, verschiedene Sprachen l&ouml;sen dieses Problem unterschiedlich, im Deutschen entscheiden die
+Wortstellung, die Beugung, oder Deklination, und, wenn das nicht ausreicht, Pr&auml;positionen &uuml;ber 
+die Bedeutung eines Nomens. Im Lateinischen hingegen ist die Wortstellung weitgehend unerheblich,
+<foreignphrase lang="lat">Ioannies Mariam amat</foreignphrase> bedeutet das selbe wie
+<foreignphrase lang="lat">Mariam amat Ioannies</foreignphrase> .
+</para> 
+
+
+<para>In Lojban ist diese Funktionsbestimmung quasi in die W&ouml;rter <quote>eingebaut</quote>.
+Das Wort<foreignphrase lang="loj">dunda</foreignphrase> zum Beispiel bedeutet
+<wordasword>geben</wordasword>, die vollst&auml;ndige Definition hingegen lautet:
+
+<informalexample>
+<literallayout>x1 gibt x2 an x3 </literallayout>
+</informalexample>
+</para>
+
+
+<para>Also bedeutet <foreignphrase lang="loj">mi pu dunda le
+cuska le ninmu</foreignphrase> <quote>Ich habe der Frau das Buch gegeben</quote>,
+ nicht etwa <quote>Ich habe die Frau dem Buch gegeben</quote>. 
+</para>
+
+
+<para>Der entscheidende Punkt ist, dass es in Lojban viel von dem gibt, was wir
+<quote role="gloss">Grammatik</quote>nennen w&uuml;rden, aber 
+das meiste davon ist in den <foreignphrase lang="loj">cmavo</foreignphrase>, 
+<quote>Strukturw&ouml;rtern</quote> enthalten, und man kann davon beinahe soviele oder sowenige verwenden, 
+wie man m&ouml;chte.</para>
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>What else is distinctive about Lojban grammar?</para>
+</question>
+
+<answer> <para>In Lojban, it is equally easy to speak of something as being
+action as it is as being a case of existence.  The distinction between the
+two can be ignored, or can be explicitly expressed by associating concepts
+in <foreignphrase lang="loj">tanru</foreignphrase> metaphors (combinations
+of <foreignphrase lang="loj">selbri</foreignphrase>) involving words like
+<foreignphrase lang="loj">gasnu</foreignphrase> (<quote
+role="gloss">do</quote>), <foreignphrase lang="loj">zasti</foreignphrase>
+(<quote role="gloss">exist</quote>), <foreignphrase
+lang="loj">zukte</foreignphrase> (<quote role="gloss">act with
+purpose</quote>); with a variety of <quote role="gloss">operators</quote>
+(<foreignphrase lang="loj">cmavo</foreignphrase>)
+dealing with abstractions such as events, states, properties, amounts,
+ideas, experience, and truth; or with four pre-defined varieties of
+causality (others can be developed through metaphor).</para>
+
+
+<para>A major benefit of using a predicate grammar is that Lojban doesn't
+have mandatory inflections and declensions on nouns, verbs, and adjectives. 
+Most natural languages have evolved such variations to reduce ambiguity as
+to how words are related in a sentence.  Evolutionary development has made
+these inflections and declensions highly irregular and thus difficult to
+learn.  Lojban uses the simple but flexible predicate relationship to erase
+both the irregularity and the declensions.</para>
+
+
+<para>Tense and location markers (inflections), adverbs, and prepositions
+are combined into one part of speech.  New preposition-like forms can be
+built at will from predicates; these allow the user to expand upon a
+sentence by attaching and relating clauses not normally implied in the
+meaning of a word.</para>
+
+
+<para>Numbers and quantifiers are conceptually expanded from natural
+languages.  <wordasword>Many</wordasword>, <wordasword>enough</wordasword>,
+<wordasword>too much</wordasword>, <wordasword>a few</wordasword>, and <wordasword>at
+least</wordasword> are among concepts that are expressed as numbers in Lojban. 
+Thus <quote>it costs $3.95</quote> and <quote>it costs too
+much</quote> are grammatically identical, and one can talk of being
+<quote>enoughth in line</quote> for tickets to a sellout movie.  Core
+concepts of logic, mathematics, and science are built into the root
+vocabulary.  They enhance discussion of those topics, and are surprisingly
+useful in ordinary speech, too.</para>
+
+
+<para>Predicate logic can express a wide variety of human thought; Lojban
+adds in non-logical constructs that do not affect or obscure the logical
+structure, allowing communications that are not amenable to logical
+analysis.  For example, Lojban has a full set of emotional indicators which
+allow expression of intensity and denial.  These are similar to such
+ejaculations in English as <wordasword>Oh!</wordasword>, <wordasword>Aha!</wordasword>,
+and <wordasword>Wheee!</wordasword>, but each has a specific meaning.  Similarly,
+Lojban has indicators of the speaker's relationship to what is said (Is it
+hearsay, direct observation, logical deduction, etc.?)  similar to those
+found in some American Indian languages.</para>
+
+
+<para>Lojban supports metalinguistic discussion about the sentences being
+spoken while remaining unambiguous.  (<quote>This sentence is not
+true</quote> need not be a paradox in Lojban.)  Lojban also supports a
+variety of <quote role="gloss">tense</quote> logic that allows extreme specificity of time and space
+(and space-time) relationships, even those implied by the concept of time
+travel.  A substantial portion of Lojban's grammar is designed to support
+unambiguous statement of mathematical expressions and relations in a manner
+compatible both with international usage and Lojban's non-mathematical
+grammar.</para>
+
+
+<para>Lojban <quote role="gloss">parts of speech</quote> are convertible
+from one to another by using short structure words (called <foreignphrase
+lang="loj">cmavo</foreignphrase>).  One can make numbers serve as nouns or
+verbs, or can invent new numbers and prepositions.  Lojban removes many of
+the constraints on human thought while preserving tight control on
+structural syntax.</para>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Lojban seems complex.  How hard is it to learn?</para>
+</question>
+
+<answer>
+<para>Lojban is actually much simpler than natural languages.  Its grammar
+is comparable in complexity with the current generation of computer
+languages (such as C++ or Perl).  Lojban seems complex only because the
+varieties of human thought are complex, and Lojban is designed to minimize
+constraints on those thoughts.  Lojban text appears longer and more complex
+due to its lack of idiom, its complete revelation of logical structure, and
+most importantly, its unfamiliarity.  On the other hand, conversational
+speech uses less than half of the possible grammatical structures, leaving
+the rest for writing and for other circumstances when one is likely to take
+time to carefully formulate exact logical phrasings.</para>
+
+
+<para>Lojban's pronunciation, spelling, word formation, and grammar rules
+are fixed, and the language is free of exceptions to these rules.  Rule
+exceptions are the bane of learning and <emphasis>correctly</emphasis> speaking natural
+languages.  Without the burden of ambiguity, Lojban users can be precise
+and specific more easily than in other languages.</para>
+
+
+<para>Because Lojban's grammar is simple, it is easier to learn than other
+languages.  A working vocabulary including the complete set of 1250 root
+words takes about 8&ndash;12 weeks of study at 1 hour per day.  It is by no means
+uncommon for people who embark on learning Lojban to be able to write
+grammatical Lojban within a few days, and to hold at least a limited
+conversation within a few weeks.  Natural languages, especially English,
+have been determined to take several years to learn to a comparable level
+of skill.</para>
+
+
+<para>The available Lojban teaching materials are so structured that you
+can learn the language without classroom instruction, and possibly without
+a close community of speakers.  Communication practice with others is
+needed to achieve fluency, but you can start using the language as you
+achieve proficiency.</para>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>What do you mean by unambiguous?</para> </question>
+
+<answer>
+<para>Lojban has an unambiguous grammar (proven by computer analysis of a
+formal grammar), pronunciation, and morphology (word forms).  In practice
+this means that the person who reads or hears a Lojban sentence is never in
+doubt as to what words it contains or what roles they play in the sentence. 
+This is true even if the words are unfamiliar, so long as the spelling and
+grammar rules are known.  Lojban has no words that sound alike but have
+different meanings (like <quote role="gloss">herd</quote> and
+<quote role="gloss">heard</quote>), that have multiple unrelated meanings
+(<quote role="gloss">set</quote>), or that differ only in punctuation but not in
+sound (like the abominable <quote role="gloss">its</quote> and
+<quote role="gloss">it's</quote>).  There is never any doubt about where words begin
+and end (if you hear <quote role="gloss">cargo shipment</quote>, do you hear 2, 3,
+or 4 words?).  Most important, the function of each word is inescapably
+clear; there is nothing like the English sentence <quote>Time flies like
+an arrow.</quote>, in which any of the first three words could be the
+verb.</para>
+
+
+<para>Lojban is NOT entirely unambiguous, of course; human beings
+occasionally desire to be ambiguous in their expressions.  In Lojban, this
+ambiguity is limited to semantics, metaphor, and intentional omission of
+information (ellipsis).</para>
+
+
+<para>Semantic ambiguity results because words in natural languages
+represent families of concepts rather than individual meanings.  These
+meanings often have only weak semantic relationships to each other (the
+English word <wordasword>run</wordasword> is an outstanding example).  In
+addition, each individual's personal experiences provide emotional
+connotations to words.  By providing a fresh, culturally-neutral start,
+Lojban attempts to minimize the transference of these associations as
+people learn the language.  (Most Lojban words do not much resemble
+corresponding words in other languages; the differences aid in making this
+fresh start possible.</para>
+
+
+<para>Lojban's powerful metaphor and word-building features make it easy to
+make fine distinctions between concepts.  This discourages the tendency for
+individual words to acquire families of meanings.  Lojban metaphors (called
+<foreignphrase lang="loj">tanru</foreignphrase>) are themselves ambiguous; they specify a relationship
+between concepts, but not what the relationship is.  That relationship can
+be made explicit using unambiguous logical constructs if necessary, or can
+be left vague as the speaker (usually) desires.  Similarly, portions of the
+logical structure of a Lojban expression can be omitted, greatly
+simplifying the expression while causing some ambiguity.  Unlike in the
+natural languages, though, this ambiguity is readily identified by a reader
+or listener.  Thus all ambiguity in Lojban is constrained and recognizable,
+and can be clarified as necessary by further interaction.</para>
+
+
+<para>This precision in no way confines the meaning of a Lojban sentence. 
+It is possible to be fanciful or ridiculous, to tell a lie, or to be
+misunderstood.  You can be very specific, or you can be intentionally
+vague.  Your hearer may not understand what you <emphasis>meant</emphasis>, but will
+always understand what you <emphasis>said</emphasis>.</para>
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Can you make jokes in an unambiguous language?</para>
+</question>
+<answer>
+<para>Most humor arises from situation and character and is as funny in
+Lojban as in any language.  Humor based on word play, of course, is
+language-dependent.  Lojban has no homonyms, and hence no simple puns; puns
+derived from similar sounds are still possible.  Since Lojban will almost
+always be a second language, bilingual puns and word play abound, often
+based on the relative ambiguity of the other languages involved.  Humor
+based on internal grammatical ambiguity is of course impossible in Lojban,
+but humor based on nonsensical statements or on logical structures that
+would be difficult to clearly express in another language, become
+easier.</para>
+
+
+<para>As speakers become fluent, and conventional phrases come into use,
+Lojban will develop its own forms of spoonerisms and subtle puns.  Unique
+forms of Lojban word-play have already turned up; they exploit the way
+small variations in Lojban grammar create unexpected variations in meaning,
+and the capability to simply express rather mind-boggling relationships. 
+Like all word-play, these lose zest when translated into other
+languages.</para>
+
+
+<para>Related to humor is the aphorism: the pithy saying that gains
+pungency or poignancy from terse, elegant phrasing.  Lojban seems as
+capable of aphorisms as any language, perhaps more than most; however,
+because the language is so young, such aphorisms are still rare.</para>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+
+<para>Isn't Esperanto the <quote role="gloss">international language</quote>?</para>
+</question>
+<answer>
+
+<para>There have been hundreds of international languages developed, of
+which Esperanto is the most successful and widely known.  Esperanto, like
+most other such languages, was based on European languages in both grammar
+and vocabulary.  The inherent cultural bias makes Esperanto unsuited for
+most of the purposes that Lojban was designed for.</para>
+
+
+<para>Lojban is culturally neutral.  Its vocabulary was built
+algorithmically using today's six most widely spoken languages: Chinese,
+English, Hindi, Russian, Spanish, and Arabic.  Lojban's words thus show
+roots in three major families of languages spoken by most of the world's
+people.  Lojban's grammar accommodates structures found in non-European
+languages, and uses sounds found in most of the world's languages.  Coupled
+with the potential computer applications that will make Lojban a useful
+language to know, it is believed that Lojban's potential as an
+international language is more far-reaching than Esperanto's.</para>
+
+
+<para>Lojban was not designed primarily to be an international language,
+but rather as a linguistic tool for studying and understanding language. 
+Linguistic and computer applications make Lojban unique among proposed
+international languages, in that Lojban can be successful without
+immediately being accepted and adopted everywhere, and Lojban can be useful
+and interesting even to those skeptical of or hostile towards the
+international language movement.</para>
+
+
+<para>Lojban also is not in direct competition with Esperanto, in that
+Lojban's potential success is not dependent on its immediate practical use
+as an international language.  Lojban has proven attractive to Esperantists
+interested in acquiring a new perspective on their own international
+language', who feel less threatened because Lojban has different goals. 
+Lojban's supporters recognize that it will take decades for Lojban to
+acquire both the number and variety of speakers and the extensive history
+of usage that marks Esperanto culture.  Meanwhile, each language community
+has much to learn from each other; this process has started and is most
+active.</para> 
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+
+<para>How about English as an international language?</para>
+</question>
+<answer>
+
+<para>English is commonly used as an <quote role="gloss">international language</quote> in the fields
+of science and technology, and is probably the most-widely spoken language
+in the world.  American dominance of technology this century has caused
+massive borrowing from English into other languages that do not have words
+for all these new concepts.  This dominance, and a heritage of colonialism
+and imperialism that built resentment towards American and European
+impositions on native culture, has caused recent movements in other
+countries <emphasis>away</emphasis> from English.  The rising influence of Japan and
+other countries on world economics, science, and technology makes further
+declines in English's universality likely.</para>
+
+
+<para>In addition, most who know English as a second language speak it only
+minimally, though they may be able to read or understand many words.  In
+fact, English is one of the most difficult languages to learn fluently.  In
+countries where English is spoken along with other languages, it has been
+adapted into dialects which match the local culture and borrow words from
+the other local languages.  Some of these dialects are as much as 70%
+unintelligible to American or British speakers, or to each other.  As such,
+there is no single English language to call an <quote role="gloss">international</quote> one.</para>
+
+
+<para>Lojban is a single language, with design features to discourage
+dialectization.  While it was developed primarily by Americans and supports
+the full range of expression of English, Lojban's cultural neutrality gives
+equal priority to the structures and concepts of other languages and
+cultures.  This cultural neutrality enhances Lojban's acceptability as an
+international language.  Since it is as capable of generating or borrowing
+any words needed to support the concepts of science and technology as
+English, and has advantages for computer applications, Lojban is likely to
+spread worldwide through the technological community.  Far more so than
+English, Lojban is simple and easy to learn for people of all
+cultures.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+
+<para>Can poetry be written in a <quote role="socalled">logical</quote> language 
+or an <quote role="socalled">unambiguous</quote>
+one?</para> </question>
+<answer>
+
+<para>Original poetry has already been written in Lojban, and some has been
+translated into the language.  Lojban's powerful metaphor structure allows
+you to build concepts into words easily, as you need them.  A Lojban
+speaker doesn't need a dictionary to use and understand millions of words
+that can potentially exist in the language.  The absence of cultural
+constraints makes consideration of new ideas and relationships easier than
+in natural languages, spurring creativity.  Lojban aids in communicating
+abstractions by identifying their nature explicitly.  Lojban is a thus a
+very powerful language, not only for poetry, but for discussing such
+abstract fields as philosophy, physics, metaphysics, and religion.</para>
+
+
+<para>Lojban poets are already experimenting with new (and old) forms of
+poetry that seem especially well suited to the rhythm, sound, and flow of
+the language.  Not since the Middle Ages have poets had such an opportunity
+to affect the development of a new language, as they now can with Lojban. 
+Lojban's rich and powerful <foreignphrase lang="loj">tanru</foreignphrase>
+have been used to create colorful images and to convey moving emotions. 
+Unhindered by grammatical ambiguity that can obscure desired meanings,
+Lojban unleashes the full potential of poetic expression to communicate
+both concrete and abstract ideas.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How was Lojban developed?</para> </question>
+<answer>
+
+<para>The language, then called <quote role="gloss">Loglan</quote>, was first described in
+the 1950s, by Dr.  James Cooke Brown.  The 1960 Scientific American article
+<citetitle>Loglan</citetitle> was his call for assistance in developing the
+language.  A revolution in linguistics was simultaneously taking place,
+resulting in a rapidly increasing knowledge of the nature of human
+language, thus changing the requirements for the developing language.  The
+first widely distributed Loglan dictionary and language description did not
+appear until 1975; the incompleteness of this description and continued
+development work discouraged people from learning the language. 
+Furthermore, computers caught up with Loglan just then, making it possible
+to refine the grammar, eliminate ambiguity and mathematically prove its
+absence.  For over 35 years, this work has been performed by volunteers,
+and without financial support.  Now, after several versions of the
+language, people are learning and using the current version, which is the
+first called <quote role="gloss">Lojban</quote> (from the roots
+<quote>logical-language</quote> in Lojban).</para>
+
+
+<para>This version is the first version with a stable vocabulary, and the
+first to have a stable and completely defined grammar.  The stabilization
+of the language in this version has followed a painstaking and extensive
+period of research and analysis, ranging from 1988 to 1998.  Thus, in an
+important sense, Lojban is a very new language.  To ensure Lojban remains
+stable while people learn it, the language definition is being closely
+controlled; the grammar and vocabulary has already been baselined (frozen)
+for several years.  When the number of speakers has grown significantly,
+and a Lojban literature has developed, Lojban will be treated like a
+natural language and allowed to grow and flourish without constraint, as do
+other natural languages.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How many people speak Lojban?</para> </question>
+<answer>
+
+<para>Questions of how many people speak a language greatly depend on your
+presuppositions and definitions &mdash; which a language like Lojban, at least,
+can make explicit!  The on-line Lojban mailing list, which constitutes the
+largest community of people using the language, has over 200 subscribers,
+with well over 20 regular posters as of this writing.  The level of
+confidence of the language community has already risen to such a level that
+there is a Lojban-language-only discussion group, parallel to the general
+mailing list.  Lojban has also been used extensively in real-time
+conversation, both electronically (IRC) and face-to-face.  Though the
+Lojban-speaking community is so widely diffused that the opportunity for
+conversation does not arise frequently, the number of Lojbanists who can
+sustain a conversation in the language certainly ranges beyond what can be
+counted on the fingers of one hand, and is steadily increasing.  Lojban has
+been proven in communicative use for well over a decade, and the range and
+expressivity of the language is being continually explored by the language
+community.</para>
+
+
+<para>The first speakers of Lojban have a unique opportunity.  They are the
+history-makers who will shape the flavor of the first totally new language
+to achieve broad speakability.  Their ideas will be most influential in
+setting the patterns of usage that others will learn from.  Their
+experiences will teach things about language that have never before been
+learned &mdash; or learnable.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Why should I learn Lojban?</para> </question>
+<answer>
+
+<para>There are several reasons for learning the language now.  Those who
+are working with the language now are actively consulted for their opinions
+on how to teach and spread the language.  Within a few weeks of work
+learning the material already written and some of the vocabulary, you will
+be able to work with those who have already started.  You will be a
+significant part of this small but rapidly growing community.  You will
+receive personalized attention to any problems you have with the language
+from those leading the effort.  If you are truly ambitious and committed to
+the language, you are welcome to join in that leadership.</para>
+
+
+<para>Those with a computer background who learn the language now will be
+the leaders in developing the first meaningful computer applications for
+the language.  Expertise in the language will no doubt be valuable as
+Lojban becomes recognized as a useful tool for computer applications by the
+computer industry.  Meanwhile, computer-oriented Lojbanists can also aid in
+developing computer-aided instruction tools or converting existing software
+to run on new computers.</para>
+
+
+<para>Those without a computer orientation will also find Lojban a valuable
+language.  You may be interested in the Sapir-Whorf hypothesis, and in the
+scientific tests to be planned and conducted, or in other language-related
+research.  You may be interested in Lojban's potential as international
+language, and in the attempts to use the language to reach across cultural
+bounds.</para>
+
+
+<para>Regardless of your background, you will find learning Lojban to be a
+mind-expanding experience.  Learning any language other than your native
+tongue broadens your perspectives and allows you to transcend the limited
+viewpoints of your native language culture.  Lojban, being much simpler to
+learn than natural languages, provides this benefit much more quickly than
+does the study of other languages.</para>
+
+
+<para>Having learned Lojban, you will find it easier to learn other
+languages and to communicate with people from other backgrounds, regardless
+of the language studied; the linguistic principles you learn while learning
+Lojban are applicable to these languages and communication problems.  The
+logical organization embedded in Lojban will aid you in organizing and
+clarifying your thoughts.  Having done so, your new perspective on
+language, ambiguity, and communication will allow you to express those
+thoughts more clearly, even when you use an ambiguous natural
+language.</para>
+
+
+<para>You needn't learn Lojban for any practical purpose, however.  Many,
+if not most, of those who are learning Lojban are doing so because it is
+fun.  Learning Lojban is intellectually stimulating, providing human
+interaction (a way to meet other people and get to know them) and mental
+challenge.  Lojban has all the benefits of games designed for
+entertainment, with the added prospect of that entertainment possibly
+developing into a useful skill as a side benefit.</para>
+
+
+<para>Learning Lojban as an <quote role="socalled">intellectual toy</quote> means that you can get
+enjoyment from learning Lojban without nearly the effort needed to benefit
+from studying other languages.  While becoming fluent in Lojban will
+probably take hundreds of hours over several months, you can feel some
+sense of accomplishment in the language after just a couple of hours of
+study.  You can use Lojban immediately for fun, while gaining skill with
+greater experience.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How do I learn Lojban?</para> </question>
+<answer>
+
+<para>If you received this brochure by mail, you probably also received an
+overview of the language design and structures, and possibly other
+materials such as an introductory lesson.  If you obtained this brochure
+via computer transmission, these added materials are probably available via
+the same source.  If you have not received these materials, you may write
+to The Logical Language Group, Inc.   at the address found at the end of
+this brochure, and we will be happy to provide them.  We request a
+contribution of $5 to cover the costs of these materials (listed on the
+Registration form as <quote>Package 0</quote>).</para>
+
+
+<para>If you are reading this brochure on-line, or have access to the
+Internet, the materials in Package 0 are also available on the World Wide
+Web for free at the address:
+
+<informalexample>
+<literallayout><computeroutput>http://www.lojban.org/brochures/package0.html</computeroutput></literallayout>
+</informalexample>
+</para>
+
+<para>Once you have read these initial materials, there are several
+directions you may proceed, depending on your time, location, and other
+circumstances, and your goals for use of the language.</para>
+
+
+<para>Most people learning the language will work for some time on their
+own before working with others.  We recommend where possible, that you
+identify at least one other person to study and interact with, either in
+person or by mail.  The Logical Language Group maintains lists of Lojban
+students of various degrees of skill and activity levels.  There are also
+both a general and an in-Lojban discussion group available on the Internet. 
+Information will be found at the end of this brochure.</para>
+
+
+<para>Almost any use you wish to make of Lojban requires some degree of
+mastery of the basic vocabulary.  You can learn enough Lojban grammar to
+support conversation in just a couple of hours, but you will need
+vocabulary in order to use that grammar.</para>
+
+
+<para>You can learn the Lojban vocabulary using computer software.  The
+Logical Language Group has computer-aided-teaching programs distributed
+under the name <citetitle>LogFlash</citetitle>, with an MS-DOS version currently
+available.  The software is based on flash-card teaching techniques, which
+are extremely efficient in helping you learn the vocabulary.  Other
+computer software is available, including a parser and a glosser.</para>
+
+
+<para>You can learn the Lojban grammar in several ways, including study of
+examples in our on-line text archives and mailing lists, reading past
+issues of the Logical Language Group journal <foreignphrase lang="loj">ju'i 
+lobypli</foreignphrase>, or by
+inspection and analysis of the formal grammar description (available in
+higher-level teaching materials; see below for contact details.)  The
+formal grammars are specified with the computer language tool
+<citetitle>YACC</citetitle>, or in a simplified version in <citetitle>E-BNF</citetitle> notation.</para>
+
+
+<para>An introduction to the grammar of Lojban will be found in <link 
+linkend="sect2">Section II</link>
+of this booklet, with a more technical discussion in <link linkend="sect3">Section 
+III</link>. For more
+advanced study, you may wish to use the draft lessons written in the late
+1980s (22 lessons); these draft lessons will eventually form the basis of a
+Lojban textbook.  A complete grammatical description of Lojban, <citetitle>The
+Complete Lojban Language</citetitle> by John W. Cowan, was published by the Logical
+Language Group in 1997.  This is an authoritative is being used as an aid
+to learning the advanced features of the language.</para>
+
+
+<para>A formal <quote role="socalled">Lojban dictionary</quote> is being compiled, and will encompass
+the word lists already available from the Logical Language Group as of this
+writing.  Draft versions of the dictionary are available on the Lojban web
+site (see contact details below), and encompass several megabytes.</para>
+
+
+<para>Of course the only way to really learn a language is to <emphasis>use</emphasis>
+it.  The Logical Language Group will assist you in finding other Lojban
+students of comparable skill level and interests, either in your local area
+or reachable by post or computer mail.  The on-line Lojban discussion
+groups regularly contains Lojban text, some with detailed translations and
+some without translation, as well as discussions of language points by
+various members of the Lojban community.  Of course the best way to use the
+language is to recruit friends and associates into studying and using the
+language with you.  Even if they are not interested in the same language
+goals as you are, the <quote role="socalled">hobbyist</quote> aspect of the language will provide
+interesting and stimulating entertainment for all concerned.</para>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question><para>What is The Logical Language Group?</para> </question>
+<answer>
+
+<para>The Logical Language Group, Inc.  is a non-profit organization, the
+embodiment of the Loglan/Lojban community.  We were founded to complete the
+language development process, to develop and publish teaching materials, to
+organize and teach the community, to promote applications of Lojban, and to
+initiate and lead research efforts in linguistics, language education, and
+other areas related to Lojban.  Simply put, our purpose is to serve you in
+all manner of things Lojbanic.  The Logical Language Group is not
+affiliated with The Loglan Institute, Inc., the organization founded by
+James Cooke Brown.</para>
+
+
+<para>The Logical Language Group is also called <foreignphrase
+lang="loj">la lojbangirz.</foreignphrase> (<wordasword>/lah
+lozh-BAHN-geerz./</wordasword>), its Lojban name.  It was founded
+informally in 1987, and incorporated in 1988.  The U. S. Internal Revenue
+Service approved our status as a non-profit educational/scientific charity
+in 1989, making donations and grants to the organization deductible under
+U. S. tax law.</para>
+
+
+<para>Loglan/Lojban has been developed almost totally by volunteer labor
+and small donations of money.  Lojban attracts people who are willing to
+devote a lot of time and effort to seeing their dreams become reality. 
+Thus, our only income has been money derived from sales of our
+publications, and donations from interested supporters.</para>
+
+
+<para>The Logical Language Group publishes and sells materials on a
+balance/credit system.  We distribute materials to people and ask that they
+contribute to cover the costs of those materials.  All language definition
+information is considered in the public domain, and most Logical Language
+Group publications are distributed under a policy which allows
+not-for-charge copying and redistribution.  Computer versions of many of
+our publications are available on-line at no charge.  We ask people who
+receive our materials under any of these alternate means to register your
+interest in Lojban with us so we may better serve that community, and
+donate liberally so that we may continue to serve you.</para>
+
+
+<para>We ask that you keep a positive account balance of up to a year or
+more of expected expenditures for orders, as indicated on our registration
+and order forms.  Such balance money serves as our day-to-day operating
+funds.  We will refund positive balance contributions within 6 weeks of
+your request.  If you move without notifying us and we therefore cannot
+contact you, we will maintain your positive balance for a year before
+treating it as a donation.</para>
+
+
+<para>Most materials that we sell require either prior payment, an informal
+commitment to pay on your part, or your statement that you cannot afford to
+pay for materials (in which case our supplying these materials is at our
+discretion).  We attempt to flexibly support Lojbanists with financial
+constraints, and will accept reasonable offers of reduced or delayed
+payments subject to our financial condition, coupled with your commitment
+to actively maintain contact and involvement with the community through us. 
+Obviously, the level of your prior and current activity and any commitments
+you make in learning the language or in volunteer work for <foreignphrase
+lang="loj">la lojbangirz.</foreignphrase>
+will be factored into our decision.</para> 
+
+<para><foreignphrase lang="loj">la lojbangirz.</foreignphrase> has a
+special commitment to support non-U. S. Lojbanists, because so many of the
+language goals are dependent on building an international community of
+speakers, and because we recognize the difficulties caused by the
+international currency market and the relative wealth of nations.  We can
+accept bank cheques in most currencies and international payment via Master
+Card and Visa.  We also encourage groups to form and receive a single copy
+of our materials, copying or passing them to others so that the per-person
+costs remain low.  We require a lower standard of contact and contribution
+from overseas Lojbanists when deciding on whether to continue sending our
+materials at reduced or no charge.</para>
+
+
+<para>We ask that all recipients of our materials voluntarily contribute
+what you can, and to maintain sufficient funds in your balance to cover our
+suggested prices.  These will be deducted automatically when we send you
+materials.  We will notify you requesting more money when your balance
+becomes negative.  We reserve the right to refuse orders when your balance
+is not fully paid, but again will make every effort to support those who
+support Lojban through their time, commitment, and money.</para> 
+
+<para><emphasis role="bold">You have no legal obligation to pay for materials sent to you without
+your request, but such materials will be charged against your balance in
+the absence of any agreement otherwise</emphasis>, with adjustments made to that
+balance per agreement.  If we accept an offer of reduced payment from you,
+we will charge that amount to your balance.</para>
+
+
+<para>We ask all recipients of our materials to help us financially in any
+way you can.  The Logical Language Group needs your gifts for support of
+the Loglan/Lojban project.  Artificial languages are historically not
+financially lucrative, and have difficulty receiving outside support.  The
+Logical Language Group, Inc.  is prohibited by its bylaws from spending
+more than 10% of its expenses for administrative purposes, except by
+special agreement with a donor who agrees to cover such added costs in
+full.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How does The Logical Language Group serve the community?</para>
+</question>
+
+<answer> <para>The Logical Language Group coordinates and promotes
+activities involving Lojban and the Lojban community.  In that role, it
+publishes materials enabling people to learn the language, and facilitates
+their forming a community of speakers.  Most people involved with Lojban
+stay informed by checking our web page or participating in the Lojban
+mailing lists (see contact details below).  A printed newsletter
+(<foreignphrase lang="loj">le lojbo karni</foreignphrase>) and a journal
+(<foreignphrase lang="loj">ju'i lobypli</foreignphrase>) have been
+published intermittently, and may or may not be in active publication when
+you read this.  <foreignphrase lang="loj">le lojbo karni</foreignphrase>
+contains general news aimed at those not actively involved in the language
+community.  <foreignphrase lang="loj">ju'i lobypli</foreignphrase> contains
+discussions of features of the language, debates on research issues and
+applications, letters from the community and responses, and Lojban writings
+and translations.</para>
+
+
+<para>Our publications are free of advertisements (other than our own
+ordering information, and occasional mention of individuals and
+organizations who have contributed particular service to our efforts), and
+we do not sell our mailing list.  Our publications are distributed as
+cheaply as possible to encourage new people to participate.  In the
+interest of attracting the widest audience possible, we are committed to
+distributing as much material as possible using the <quote role="socalled">Shareware</quote> concept for
+computer software and a similar policy for printed publications.  This
+policy retains our copyrights but allows you, with relatively little
+restriction, to copy our materials for your friends, as long as you don't
+charge for the copies.  We also ask that recipients of copies register with
+us, so that we know who has our materials.  Such registration does not
+require contribution.</para>
+
+
+<para>Certain materials that we publish contain information that we place
+in the public domain.  All language definition information is considered to
+be public.</para>
+
+
+<para>You can participate in the Lojban community at several levels of
+activity, listed on the detachable registration form that accompanies this
+brochure.  It is entirely possible for you to participate in the community
+without any expense, but we welcome contributions and donations to offset
+our costs.</para>
+
+
+<para>If you are attempting to learn the language, we provide as much help
+as we can to assist in this process.  We will put you in touch with
+Lojbanists who might be interested in studying or communicating with you in
+the language.  You can also send your writings to us for review, or for
+indirect exchange with others.  We try to foster research and social
+interaction among those who are learning, or who have already learned the
+language.  We aid such people in organizing, leading, and teaching formal
+classes and study groups, and will sponsor affiliated groups in local areas
+where non-profit sponsorship brings useful benefits.  We also conduct an
+annual (northern summer) celebration of the language and community, called
+<quote>LogFest</quote>, in conjunction with our annual business meeting in the
+Washington DC area.  We also expect to support other local meetings and
+gatherings as the community grows.</para>
+
+
+<para>Of course, we also try to publicize the language.  Our
+representatives attend meetings and give presentations on the language.  We
+distribute these brochures.  Through our efforts, and with your help, the
+community of Lojbanists is rapidly growing.</para> </answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>What can I do now?</para> </question>
+
+<answer>
+<para>You can become involved in the Lojban project in a variety of ways,
+depending on your background and interests, and on your available
+time:</para>
+
+<itemizedlist>
+
+<listitem><para>you can participate in completing the language
+development;</para></listitem>
+
+<listitem><para>you can devise applications for Lojban in computers,
+education, linguistics, and other fields;</para></listitem>
+
+<listitem><para>you can help in organizing Lojbanists in your area, and in
+recruiting new Lojbanists;</para></listitem>
+
+<listitem><para>you can help in teaching the language to new people (even
+while learning yourself);</para></listitem>
+
+<listitem><para>you can assist in spreading Lojban to non-English-speaking
+cultures by helping translate materials into other languages and by
+identifying, recruiting, and communicating with contacts in other countries
+(international involvement is vital to ensuring that Lojban remains
+culturally neutral);</para></listitem>
+
+<listitem><para>you can contribute financially to support our organization,
+its activities, and its publications;</para></listitem>
+
+<listitem><para>you can use Lojban in composition, translation, and in
+conversation with other Lojbanists.</para></listitem></itemizedlist>
+
+
+
+<para>For many of these activities, you need to learn the language first. 
+However, even those who haven't time to learn the language at this point,
+or who live apart from other Lojbanists, can assist in recruiting and
+contributing ideas to the effort.</para>
+
+
+<para>Helping to publicize the language, of course, does not take a lot of
+time, or necessarily even knowing the language.  Talk to friends, relatives
+and colleagues.  We will gladly provide copies of this brochure upon your
+request.  Lojban tends to sell itself; people who become informed tend to
+be interested to at least some degree.</para>
+
+
+<para>Keep in touch with us.  We want to know your ideas and opinions on
+the language, on our various activities, and on our products.  We welcome
+open debate on the language design, and have even printed and made
+available writings that are critical of various aspects of our efforts,
+when they are of sufficient general interest.  Open debate aids in
+understanding and improves the overall quality of the language and of our
+presentation of it to the world.  We would rather hear criticism now within
+our friendly community and either correct our problems or prepare an
+adequate response, than to do so later when such issues are raised by
+outsiders.</para>
+
+
+<para>In short, Lojban is a product of ALL of the community, including YOU
+&mdash; if you choose.</para>
+
+
+<para>Of course, once you have started to learn the language,</para>
+<important><title>USE LOJBAN</title>
+
+
+<para>Lojban will not really achieve the status of <quote role="gloss">language</quote> until people
+<emphasis>use</emphasis> it.  We need creative people to write Lojban prose, poetry, and
+dialog.  We need translations made from fiction, technical literature, from
+religious and philosophical writings, and from music.  <emphasis>Only</emphasis> in this
+way will Lojban be proven practical, and gain the credibility it needs to
+succeed.</para> </important>
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+
+<para>Who do I contact?</para> </question>
+
+<answer>
+<para>Write or call:
+
+<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
+<affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
+<street>2904 Beau Lane</street> 
+<city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
+<country>USA</country>
+<phone>(+1 703) 385-0273</phone>
+</address> 
+</para>
+
+<para>E-mail can be sent to us at: 
+<ulink 
+url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink>
+</para>
+
+<para>We have several volunteers who serve to coordinate Lojban activities
+in specific regions of the world.  There is also a limited amount of Lojban
+materials translated into languages other than English.  This support is
+constantly being added to; please contact us for details.</para>
+
+
+<para>The Logical Language Group's website, which contains all its publicly
+available information, is at: 
+<ulink url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></para> 
+
+
+<para>Two active Lojban-related mailing lists are available on the
+Internet.  The mailing lists may be accessed at: <ulink
+url="http://www.yahoogroups.com"><computeroutput>http://www.yahoogroups.com</computeroutput></ulink>
+
+Search for the keyword <quote>lojban</quote>; the General Lojban list is
+called <computeroutput>lojban</computeroutput>, while the list for
+discussions in Lojban only is <computeroutput>jbosnu</computeroutput>. 
+They may be accessed as follows:
+
+<variablelist>
+
+<varlistentry><term>Web</term><listitem><para><ulink
+url="http://www.yahoogroups.com/lojban"><computeroutput>http://www.yahoogroups.com/lojban</computeroutput></ulink>, <ulink
+url="http://www.yahoogroups.com/jbosnu"><computeroutput>http://www.yahoogroups.com/jbosnu</computeroutput></ulink></para></listitem></varlistentry>
+
+<varlistentry><term>Email</term><listitem><para><ulink
+url="mailto://lojban@yahoogroups.com"><computeroutput>lojban@yahoogroups.com</computeroutput></ulink>, <ulink
+url="mailto://jbosnu@yahoogroups.com"><computeroutput>jbosnu@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+
+<varlistentry><term>Subscribe</term><listitem><para><ulink
+url="mailto://lojban-subscribe@yahoogroups.com"><computeroutput>lojban-subscribe@yahoogroups.com</computeroutput></ulink>, <ulink
+url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+
+</variablelist>
+</para>
+
+
+<para>If you have received a registration form and an order form with this
+brochure, you can provide us with useful information to aid us in serving
+you, and can order some of our materials.</para> 
+
+<important><title></title>
+<para>
+<literallayout>
+<foreignphrase lang="loj">e'osai ko sarji la lojban.</foreignphrase>
+<wordasword>/eh-ho-sai, ko-SAHR-zhee, lah LOZH-bahn./</wordasword>
+Please support Lojban!
+</literallayout>
+</para>
+</important>
+
+</answer>
+</qandaentry>
+</qandaset>
+
+</sect1>
