@@ -1,0 +1,20 @@
+This is the Lojban Text-to-Speech project
+
+The goal is to create a voice for Festival that can speak any valid 
+lojban text. (It should hopefully be able to handle other languages as 
+well using language shifts and other Festival voices. That is the 
+future.) 
+
+The tools used here are as follows:
+
+* Festival - the open-source text-to-speech engine that will eventually 
+             speak everything for us
+* Festvox  - Festival's voice development package. This is used to build 
+             various component of the voice database
+
+both of these can be acquired from http://www.festvox.org/
+
+* Praat    - A wonderful tool for maniuplating, analyzing and generally 
+             poking at sound files in a phonetic nature. 
+* Perl     - used for converting Praat files to something Festival 
+             understands. 

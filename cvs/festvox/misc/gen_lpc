@@ -1,0 +1,4 @@
+#!/bin/bash
+
+for a in wav/*.wav; do echo $a; sig2fv $a -o lpc/`echo $a|sed 's/wav\/\(.*\)\.wav/\1/'`.lpc -otype est -lpc_order 16 -coefs "lpc" -pm pm/`echo $a|sed 's/wav\/\(.*\)\.wav/\1/'`.pm -preemph 0.95 -factor 3 -window_type hamming; sigfilter $a -o lpc/`echo $a|sed 's/wav\/\(.*\)\.wav/\1/'`.lpc -otype nist -lpcfilter lpc/`echo $a|sed 's/wav\/\(.*\)\.wav/\1/'`.lpc -inv_filter; done
+
