@@ -28,7 +28,7 @@
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
 <!ENTITY schwa "@">
-<!ENTITY Iipa "I">
+<!ENTITY Ibarredipa "I">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 ]>
@@ -40,3 +40,5 @@
 &xtomathy;
 &index;
 </book>
+
+

@@ -2,11 +2,6 @@
 <foreignphrase lang="art-lojban">naltcila velski be le lojbo gerna 
 sidbo</foreignphrase></title><titleabbrev id="overviewtitle">Overview of Lojban Grammar</titleabbrev>
 
-<important><para>Add paragraph or two on:
-Tense
-Place structures: gismu --- there but not rigorous; 
-lujvo --- conventions non-binding</para></important>
-
 <para>This overview of Lojban will hopefully
 give you a good feel for the design and scope of the language. It serves as
 an introduction to learning the language; most of the special terminology
@@ -66,10 +61,7 @@ the grammar. The comma<indexterm id="idx102">
 </indexterm> is used to indicate a syllable break within a word,
 generally one that is not obvious to the reader. The alphabet order given
 above is that of the ASCII symbol set, most widely used in computers for
-sorting and searching. The Lojban word <foreignphrase
-lang="art-lojban"><firstterm>lerfu</firstterm></foreignphrase> is used for symbols of an alphabet
-or character set and their grammar, including their usage in mathematical
-expressions, acronyms, and spelling.</para>
+sorting and searching.</para>
 
 <para>Lojban does not require capitalization<indexterm id="idx103">
 <primary>capitalization</primary>
@@ -519,7 +511,7 @@ lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 However, there are two English pronunciations to consider. The normal
 Lojban pronunciation is shown in the first table. In names, borrowings,
 and a few other situations, these consonants can occur with no vowel in the
-same syllable. In this case they are called <firstterm>vocalic
+same syllable. In this case they are called <firstterm>syllabic
 consonants</firstterm>, and are pronounced as in the second table.
 
 <informaltable frame="none">
@@ -726,7 +718,7 @@ speakers and understandable to most listeners. If you run across a cluster
 that you simply cannot pronounce due to its unfamiliarity, it is
 permissible to insert a very short <emphasis>non-Lojban</emphasis> vowel
 sound between them. The English /i/ as in <wordasword>b<emphasis
-role="bold">i</emphasis>t</wordasword>, is recommended for English
+role="bold">i</emphasis>t</wordasword> is recommended for English
 speakers.</para>
 
 <para>The basic Lojban vowels are best described as being similar to the
@@ -738,7 +730,7 @@ help, along with keeping the lips and tongue tensed (for example by smiling
 tightly) while speaking.</para>
 
 <para>There are five common vowels (<foreignphrase lang="art-lojban">a, e,
-i, o, u</foreignphrase>), and one special purpose vowel (<foreignphrase
+i, o, u</foreignphrase>), and one special-purpose vowel (<foreignphrase
 lang="art-lojban">y</foreignphrase>). English words that are close in
 pronunciation are given, but few English speakers pronounce these words
 with the purity and tension needed in Lojban pronunciation.
@@ -880,8 +872,10 @@ lang="art-lojban">sfofa</foreignphrase>
 /SFO,fah/).</para>
 
 <para>Lojban has diphthongs as well, but these are always represented by
-the two vowels that combine to form them:
+the two vowels that combine to form them:</para>
 
+<formalpara><title><firstterm>Rising diphthongs</firstterm></title>
+<para>
 <informaltable frame="none">
 <tgroup cols="5">
 <colspec colnum="1" colwidth="1*" />
@@ -955,7 +949,21 @@ lang="art-lojban">c<emphasis role="bold">oi</emphasis></foreignphrase></entry>
 <entry>/shoi/</entry>
 
 </row>
+</tbody>
+</tgroup>
+</informaltable></para>
+</formalpara>
 
+<formalpara><title><firstterm>Falling diphthongs</firstterm></title>
+<para>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
+<tbody>
 
 <row>
 
@@ -1066,10 +1074,10 @@ lang="art-lojban">uu</foreignphrase></entry>
 <entry><wordasword><emphasis role="bold">woo</emphasis></wordasword></entry>
 
 </row>
-
 </tbody>
 </tgroup>
 </informaltable></para>
+</formalpara>
 
 <para>The diphthongs in the second table are found in Lojban only in
 stand-alone words, and in Lojbanized names. Those in the first table may be
@@ -1100,8 +1108,7 @@ vowel.</para>
 a consonant. (A <quote><foreignphrase
 lang="art-lojban">.</foreignphrase></quote> is written after the name to mark this, thus
 distinguishing names from other words without capitalization. Every
-vowel-initial Lojban word is thus preceded by a pause, and such words may
-be habitually spelled with a <quote><foreignphrase
+vowel-initial Lojban word is thus preceded by a pause, and such words are usually spelled with a <quote><foreignphrase
 lang="art-lojban">.</foreignphrase></quote> at the beginning. There are a small number
 of other places where pauses<indexterm id="idx105">
 <primary>pause</primary><!--<seealso>period</seealso>-->
@@ -1223,7 +1230,7 @@ lang="art-lojban">s</foreignphrase>), without an intervening pause. This
 is why the single-word version of <wordasword>United States</wordasword> 
 goes into Lojban as <foreignphrase 
 lang="art-lojban">.iunaitet,steits.</foreignphrase>, whereas the two-word 
-version tays <foreignphrase 
+version remains as is: <foreignphrase 
 lang="art-lojban">.iunaited. steits.</foreignphrase></para></note>
 
 <para>The final arbiter of the correct form of the <foreignphrase
@@ -1330,8 +1337,8 @@ lang="art-lojban">lobypli</foreignphrase></para></listitem>
 lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase></term>
 
 <listitem><para><quote role="socalled">borrowings</quote> from other
-languages that have been Lojbanized somewhat as <foreignphrase
-lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are Lojbanized to fit within the
+languages that have been Lojbanized (in a manner similar to how <foreignphrase
+lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are Lojbanized) in order to fit within the
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> requirements; e.g.
 <foreignphrase lang="art-lojban">djarspageti</foreignphrase> (<quote
 role="gloss">spaghetti</quote>)</para></listitem>
@@ -1378,15 +1385,9 @@ known as <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis>
 </indexterm>. One is the
 <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase> itself; one is the
 <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase> with the final vowel
-deleted. Certain <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>
-have additional, shorter <foreignphrase
-lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> assigned. Up to three of these
-shorter <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> may be
-assigned to a <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>,
-depending on frequency of usage of the <foreignphrase
-lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase> in building complex concepts and on
-availability of these shorter <foreignphrase
-lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase>. Short <foreignphrase
+deleted. Many <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>
+have one, two, or three shorter <foreignphrase
+lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> assigned as well. Short <foreignphrase
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> use only certain combinations of
 letters from the <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>,
 and are of the forms CCV, CVC, and CVV or CV'V. The use of these
@@ -1479,7 +1480,7 @@ lang="art-lojban">bridyvla</foreignphrase>, and <foreignphrase
 lang="art-lojban">bridyvalsi</foreignphrase>, each using a different
 combination of <foreignphrase lang="art-lojban"><emphasis
 role="term">rafsi</emphasis></foreignphrase>.</para>
-
+<!--
 <para>When assembling <foreignphrase
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> together into <foreignphrase
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>, the rules for valid <foreignphrase
@@ -1523,7 +1524,7 @@ meaning than that intended.</para>
 the rules for assembling them into <foreignphrase
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase> is thus seen to be basic to having
 a full use of the Lojban potential vocabulary.<indexterm id="idx119" startref="idx118" significance="preferred" class="endofrange"/></para>
-
+-->
 </sect3>
 
 <sect3><title><foreignphrase
@@ -1596,7 +1597,7 @@ not <foreignphrase lang="art-lojban">y</foreignphrase> is counted</para></listit
 
 <listitem><para>end in a vowel</para></listitem>
 
-<listitem><para>Multi-syllable <foreignphrase
+<listitem><para><foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> need not be penultimately stressed,
 though they often are</para></listitem>
 
@@ -1613,11 +1614,10 @@ stands for a vowel:
 <member>CV'V</member>
 </simplelist></para><para>The letter pattern generally does not indicate anything about the grammar.</para>
 
-<para>Compound <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
-(single words consisting of strings of <foreignphrase
-lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>) exist, and are used when the
-component <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> act
-together on the rest of the sentence. For example, a set of digits
+<para>A sequence of <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
+can be written without intervening spaces, without any change to its meaning.
+Such a sequence is called a compound  <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>.
+For example, a set of digits
 comprising a longer number is written as a single word (e.g. <foreignphrase
 lang="art-lojban">pareci</foreignphrase> = <foreignphrase
 lang="art-lojban">pa</foreignphrase> + <foreignphrase
@@ -1690,10 +1690,9 @@ structure</firstterm><indexterm id="idx131">
 </indexterm>) to allow a speaker to clearly indicate which place is
 which. By convention, we number these places as: x<subscript>1</subscript>,
 x<subscript>2</subscript>, x<subscript>3</subscript>,
-x<subscript>4</subscript>, x<subscript>5</subscript>, etc. Numbering is
-always from the left; <wordasword>y</wordasword> and
-<wordasword>z</wordasword> may be used with subscripts, or multiple
-subscripts may be used, when comparing two or more place structures. When
+x<subscript>4</subscript>, x<subscript>5</subscript>, etc., numbering 
+from the left. Other letters may be used when referring to
+two or more place structures together. When
 space is at a premium, ellipsis marks can be used instead to indicate places, since
 the reader can always count them in order.</para>
 
@@ -1840,8 +1839,8 @@ ambiguous language. Lojbanists strive for accuracy in Lojban grammatical
 usage, and thereby for grammatically unambiguous communication.</para>
 
 <para>It is important to note that new Lojbanists will not be able to speak
-<quote role="socalled">unambiguously</quote> when first learning Lojban. In
-fact, you may never speak unambiguously in <quote
+<quote role="socalled">perfectly</quote> when first learning Lojban. In
+fact, you may never speak perfectly in <quote
 role="socalled">natural</quote> Lojban conversation, even though you
 achieve fluency in the language. No English speaker always speaks textbook
 English in natural conversation; Lojban speakers will also make grammatical
@@ -1852,28 +1851,29 @@ not impossible with a natural language.</para>
 <para>The machine grammar includes rules which describe how each word is
 interpreted. A classification scheme categorizes each word based on what
 rules it is used in and how it interacts with other words in the grammar.
-The classification divides Lojban words into about 100 of these categories
-of grammar units, called <firstterm>lexemes</firstterm><indexterm id="idx136">
-<primary>lexeme</primary>
+All <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>
+and all <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>
+are treated identically by the grammar.
+The classification divides the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
+of Lojban into about 100 of these categories
+of grammar units, called <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase><indexterm id="idx136">
+<primary><foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase></primary>
 </indexterm>. Whereas the three
 word types: <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>,
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, and <foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>, are generally considered to
 correspond to the <quote role="socalled">parts of speech</quote> of
-English, these 100 lexemes correspond to the more subtle variations in
+English, these 100 <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> correspond to the more subtle variations in
 English grammar, such as the varieties of ways to pluralize a noun or to
 express the past tense of a verb. In this sense, English has thousands of
 <quote role="socalled">parts of speech</quote>.</para>
 
-<para>Lojban lexemes are named after one word within the category, often
-the one most frequently used. The lexeme names are capitalized in English
-discussion of Lojban: BRIVLA, CMENE, PU, and UI, are examples of lexemes. More
-elaborate expressions are needed to refer to lexeme names within Lojban
-text, since capitalization is not applicable, and one must distinguish
-between the lexeme name (e.g. UI) and the word (<foreignphrase
-lang="art-lojban">ui</foreignphrase>) that typifies the lexeme.</para>
+<para>Lojban <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>
+are named after one word within the category, often
+the one most frequently used. The <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> names are capitalized in English
+discussion of Lojban: CU, KOhA, PU, and UI, are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.</para>
 
-<para>In Lojban grammar rules, lexemes are assembled into short phrases
+<para>In Lojban grammar rules, words are assembled into short phrases
 representing a possible piece of a Lojban expression. These phrases are
 then assembled into longer phrases, and so forth, until all possible pieces
 have been incorporated in rules that describe all possible expressions in
@@ -1990,14 +1990,7 @@ role="term">brivla</emphasis></foreignphrase> and its associated
 <foreignphrase lang="art-lojban"><emphasis
 role="term">sumti</emphasis></foreignphrase>, used in a sentence, have
 become a <foreignphrase lang="art-lojban"><emphasis
-role="term">bridi</emphasis></foreignphrase> &mdash; more specifically a
-<foreignphrase lang="art-lojban"><emphasis
-role="term">ju'abri</emphasis></foreignphrase>, or <quote
-role="socalled">sentence-<foreignphrase lang="art-lojban"><emphasis
-role="term">bridi</emphasis></foreignphrase></quote>. (The <foreignphrase
-lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>
-for the English concept <quote role="socalled">sentence</quote> is
-<foreignphrase lang="art-lojban">jufra</foreignphrase>.) For logicians, the
+role="term">bridi</emphasis></foreignphrase>. For logicians, the
 comparable English concept is called a <quote
 role="socalled">predication</quote>. In each <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>, a
@@ -2287,7 +2280,7 @@ lang="art-lojban">le prenu le zdani le briju le zarci le karce cu klama</foreign
 <para>Since most European languages use SVO order than SOV order, a
 Lojbanist communicating internationally is often likely to see SVO Lojban
 sentences. On the other hand, SOV order is found in more non-European
-languages, and the Lojbanists from such cultures will be more likely to use
+languages, and the Lojbanists from such cultures may be more likely to use
 SOV-ordered Lojban.</para>
 
 <para>There are a variety of <foreignphrase
@@ -2844,6 +2837,35 @@ of truth and falsity. In the first case, the answer is an emotional
 indicator. In the second case, the answer is an assertion or denial of the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> expressing the state
 being questioned. <indexterm id="idx186" startref="idx185" class="endofrange"/></para> </sect2>
+
+<sect2><title>Tenses</title>
+
+<para><indexterm id="idx185a" class="startofrange">
+<primary>tense</primary>
+</indexterm>The tense system of Lojban expresses not only the time at which
+something happens, but also the place.  It can express very
+complex combinations of both temporal and spatial distances and directions (the time
+directions are <quote role="socalled">past</quote> and <quote role="socalled">future</quote>, of course), interval
+sizes and ranges, and the parts of events such as <quote role="socalled">beginning</quote>, <quote role="socalled">middle</quote>,
+and <quote role="socalled">end</quote>. Fortunately, this entire system is optional:
+it is perfectly correct to express <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> with no specific
+tense at all, in which case the place and time is up to
+the listener to figure out.</para>
+
+<para>Some examples of tenses in use are <foreignphrase
+lang="art-lojban">mi ca ba'o cadzu</foreignphrase> <quote>I have now walked</quote>,
+<foreignphrase
+lang="art-lojban">mi ri'u va cadzu</foreignphrase> <quote>I walk to the right of here, at some medium distance</quote>, and the formidable
+<foreignphrase
+lang="art-lojban">mi pu zu ze'i mo'i te'e cadzu</foreignphrase> <quote>A long time ago in the past, I walked
+for a short time along the edge<!--</quote>, and the formidable
+<foreignphrase
+lang="art-lojban">mi ba zi ze'a pu'o ru'i fe'e ba'o mo'i ri'u cadzu</foreignphrase> 
+<quote>In a very short while in the future, I will be about to walk continuously
+past the end, rightwards-->.</quote>
+<indexterm id="idx186a" startref="idx185a" class="endofrange"/></para></sect2>
+
+
 
 <sect2><title>Logic and Lojban</title>
 

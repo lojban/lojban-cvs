@@ -16,7 +16,7 @@
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 <!ENTITY schwa "&#601;">
-<!ENTITY Iipa "&#618;">
+<!ENTITY Ibarredipa "&#616;">
 ]>
 <book>
 &bookinfo;
