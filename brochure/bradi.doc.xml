@@ -1,65 +1,44 @@
 <chapter id="bradi">
 
-<chapterinfo><author><firstname>Arnt</firstname><othername>Richard</othername><surname>Johansen</surname></author>
-<printhistory><para>Published at Arnt Richard Johansen's <ulink url="http://people.fix.no/arj/lojban/bradi-je-bandu.html">homepage</ulink>.</para></printhistory>
-</chapterinfo>
-
 <title><foreignphrase lang="art-lojban">bradi je 
 bandu</foreignphrase></title>
 
-<sect1><title></title>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">
-bi'u pa finti co jmive je prami
-cu zutse co fengu gi'e pilno le skami
-i darlu co darsi sai ne'i le dinju
-i za'a le lisri cu ckape lei rinju
-</foreignphrase>
-</literallayout>
-</para>
+<para>By Arnt Richard Johansen (Norway), early 1999; Published at Johansen's homepage, <ulink
+url="http://people.fix.no/arj/lojban/bradi-je-bandu.html"><computeroutput>http://people.fix.no/arj/lojban/bradi-je-bandu.html</computeroutput></ulink>.</para>
 
+<sect1 id="bradiloj"><title></title>
 <para>
 <literallayout>
-<foreignphrase lang="art-lojban">
-i pa jdara'u co prami je krici
-cu dunku bo catlu se farna le vrici
-i malsi co krasi lo panpi bo stura
-i turni co terpa lo nu se malxlura
-</foreignphrase>
-</literallayout>
-</para>
+<foreignphrase lang="art-lojban">bi'u pa finti co jmive je prami</foreignphrase>
+<foreignphrase lang="art-lojban">cu zutse co fengu gi'e pilno le skami</foreignphrase>
+<foreignphrase lang="art-lojban">i ciska lo valsi voi vindu je ralci</foreignphrase>
+<foreignphrase lang="art-lojban">i za'a le lisri cu ckape lei palci</foreignphrase>
 
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">
-i bi'u pa nanmu co krici je tavla
-cu ca ve'u jgira bo cusku lo bravla
-i misno bo sazri le slabu ke cradi
-i ti'e le nanmu le jecta cu bradi
-</foreignphrase>
-</literallayout>
-</para>
+<foreignphrase lang="art-lojban">i pa jdaralju co prami je krici</foreignphrase>
+<foreignphrase lang="art-lojban">cu dunku bo catlu se farna le vrici</foreignphrase>
+<foreignphrase lang="art-lojban">i malsi co krasi lo panpi bo stura</foreignphrase>
+<foreignphrase lang="art-lojban">i turni co terpa lo nu se malxlura</foreignphrase>
 
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">
-i uusai le bandu cu na'e se bandu
-i za'a se jalge le nu mrocoldandu
-i uosai le rinju cu jmaji co salci
-i sisti co zasti fa le remna co kalci
-</foreignphrase>
+<foreignphrase lang="art-lojban">i bi'u pa nanmu co krici je tavla</foreignphrase>
+<foreignphrase lang="art-lojban">cu ca ve'u jgira bo cusku lo bravla</foreignphrase>
+<foreignphrase lang="art-lojban">i misno bo sazri le slabu ke cradi</foreignphrase>
+<foreignphrase lang="art-lojban">i ti'e le nanmu le jecta cu bradi</foreignphrase>
+
+<foreignphrase lang="art-lojban">i uusai le bandu cu na'e se bandu</foreignphrase>
+<foreignphrase lang="art-lojban">i za'a se jalge le nu mrocoldandu</foreignphrase>
+<foreignphrase lang="art-lojban">i uosai le palci cu jmaji co salci</foreignphrase>
+<foreignphrase lang="art-lojban">i sisti co zasti fa le remna co kalci</foreignphrase>
 </literallayout>
 </para>
 </sect1>
 
-<sect1><title>Enemies and defenders</title>
+<sect1 id="bradieng"><title>Enemies and defenders</title>
 <para>
 <literallayout>
 There's an author, living and loving,
 sitting angrily down in front of his computer.
-So daringly he argues inside the house.
-I see that the stories are dangerous to the captors.
+He writes words venomous and subtle.
+I see that the stories are dangerous to the evil ones.
 </literallayout>
 </para>
 
@@ -85,198 +64,1122 @@ I hear that the man is an enemy of the state.
 <literallayout>
 Unfortunately, the defenders were not defended.
 I see that it results in death by hanging.
-At last, the captors can gather and celebrate.
+At last, the evil ones can gather and celebrate.
 The human waste is no longer here. 
 </literallayout>
 </para>
 </sect1>
 
-<sect1><title>Gloss</title>
+<sect1 id="bradigloss"><title>Gloss</title>
 <para>
-<literallayout class=monospaced>
-<![CDATA[
+<informaltable frame=none>
 
-bi'u                [ ( pa                  |  finti       co      |  jmive     
-{new information..} [ ( 1                   |  create-r(s) of-type |  live-r(s) 
-                    [ ( zutse1 (sit-ter(s))  \                      \           
-                    1 2 pilno1 (use-r(s))   3                      4            
+<tgroup cols=5>
+<colspec colnum=1 colname=c1 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c2 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c3 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c4 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c5 colwidth="1*"></colspec>
+<spanspec spanname=zutse1 namest=c2 nameend=c5></spanspec>
+<tbody>
+<row>
 
-je  prami      |  | ) 
-and love-r(s)  |  | ) 
-              /  /  ) 
-              4  3  2 
+<entry><foreignphrase lang="art-lojban">bi'u</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignphrase></entry>
 
-cu      << |  zutse    co      fengu        | >> gi'e << pilno  >> ( 
-is/does << |  sit-ting of-type being angry  | >> and  << us-ing >> ( 
-        <<  \                              /  >>      <<        >> ( 
-        5  6                               6  5       7         7  8 
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>finti</foreignphrase></entry>
 
-le               skami       ) ] 
-the              computer(s) ) ] 
-pilno2 (tool(s))             ) ] 
-                             8 1 
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
 
+<entry><foreignphrase lang="art-lojban">{<subscript>4</subscript>jmive</foreignphrase></entry>
 
-.i  [ << |  darlu                   co      darsi              sai         | >> 
-`.' [ << |  present-ing an argument of-type show-wing audacity {strong..}  | >> 
-    [ <<  \                                                               /  >> 
-    9 10 11                                                               11 10 
+</row>
 
-(  ne'i   le  dinju       )  ] 
-(  within the building(s) )  ] 
-(                         )  ] 
-12                        12 9 
+<row>
+<entry>{new information...}</entry>
+<entry>1</entry>
+<entry>create-r(s)</entry>
+<entry>of-type</entry>
+<entry>live-r(s)</entry>
+</row>
 
+<row>
+<entry></entry>
 
-.i  za'a          [  (  le                          lisri      )  cu      << 
-`.' {I observe..} [  (  the                         story(ies) )  is/does << 
-                  [  (  ckape1 (dangerous thing(s))            )          << 
-                  13 14                                        14         15 
+<entry spanname=zutse1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zutse</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (sit-ter(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">pilno</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (use-r(s))</emphasis></entry>
 
-ckape           >> (  lei                 rinju               )  ]  
-being dangerous >> (  between them the    restrained thing(s) )  ]  
-                >> (  ckape2 (harmful to)                     )  ]  
-                15 16                                         16 13 
+</row>
 
+</tbody>
+</tgroup>
 
-.i  [  (  pa                                   |  jdara'u                      
-`.' [  (  1                                    |  religion-ish-disturb-er(s)?? 
-    [  (  farna2 (thing(s) found in direction)  \                              
-    17 18                                      19                              
+<tgroup cols=2>
+<colspec colnum=1 colname=c6 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c7 colwidth="1*"></colspec>
+<tbody>
+<row>
 
-co      |  prami     je  krici         |  | )  
-of-type |  love-r(s) and believe-r(s)  |  | )  
-         \                            /  /  )  
-        20                            20 19 18 
+<entry><foreignphrase lang="art-lojban">je</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">prami}<subscript>4</subscript>}<subscript>3</subscript>)<subscript>2</subscript></foreignphrase></entry>
 
-cu      << |  |  dunku      bo catlu        |           
-is/does << |  |  distressed    look-ing at  | [type-of] 
-        <<  \  \                           /            
-        21 22 23                           23           
+</row>
 
-se farna                  | >> (  le                    vrici                  
-being found in direction  | >> (  the                   miscellaneous thing(s) 
-                         /  >> (  farna1 (direction(s))                        
-                         22 21 24                                              
+<row>
+<entry>and</entry>
+<entry>love-r(s)</entry>
+</row>
 
-)  ]  
-)  ]  
-)  ]  
-24 17 
+</tbody>
+</tgroup>
 
+<tgroup cols=6>
+<colspec colnum=1 colname=c8 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c9 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c10 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c11 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c12 colwidth="1*"></colspec>
+<colspec colnum=6 colname=c13 colwidth="1*"></colspec>
+<tbody>
+<row>
 
-.i  [  << |  malsi            co      krasi            | >> (  
-`.' [  << |  being church(es) of-type being origin(s)  | >> (  
-    [  <<  \                                          /  >> (  
-    25 26 27                                          27 26 28 
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
 
-lo                                         |  panpi             bo stura        
-any/some                                   |  thing(s) at peace    structure(s) 
-krasi2 (object(s)/process(es) with origin)  \                                   
-                                           29                                   
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>5</subscript>{<subscript>6</subscript>zuste</foreignphrase></entry>
 
- | )  ]  
- | )  ]  
-/  )  ]  
-29 28 25 
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">fengu}<subscript>6</subscript>&raquo;<subscript>5</subscript></foreignphrase></entry>
 
-.i  [  << |  turni      co      terpa          | >> (  
-`.' [  << |  govern-ing of-type being fearful  | >> (  
-    [  <<  \                                  /  >> (  
-    30 31 32                                  32 31 33 
+<entry><foreignphrase lang="art-lojban">gi'e</foreignphrase></entry>
 
-lo                             <  nu          [  << 
-any/some                       <  event(s) of [  << 
-terpa2 (thing(s) causing fear) <              [  << 
-                               34             35 36 
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>7</subscript>pilno&raquo;<subscript>7</subscript></foreignphrase></entry>
 
-se malxlura                            >> ]  >  )  ]  
-derogative form-ish-tempted thing(s)?? >> ]  >  )  ]  
-                                       >> ]  >  )  ]  
-                                       36 35 34 33 30 
+</row>
 
+<row>
+<entry>is/does</entry>
+<entry>sit-ting</entry>
+<entry>of-type</entry>
+<entry>being angry</entry>
+<entry>and</entry>
+<entry>us-ing</entry>
+</row>
 
-.i  bi'u                [  (  pa                 |  nanmu   co      |  
-`.' {new information..} [  (  1                  |  man/men of-type |  
-                        [  (  cusku1 (say-er(s))  \                  \ 
-                        37 38                    39                 40 
+</tbody>
+</tgroup>
 
-krici        je  tavla       |  | )  
-believe-r(s) and talk-er(s)  |  | )  
-                            /  /  )  
-                            40 39 38 
+<tgroup cols=2>
+<colspec colnum=1 colname=c14 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c15 colwidth="1*"></colspec>
+<spanspec spanname=pilno2 namest=c14 nameend=c15></spanspec>
+<tbody>
+<row>
 
+<entry><foreignphrase lang="art-lojban">(<subscript>8</subscript>le</foreignphrase></entry>
 
-cu      << ca      ve'u               |  jgira       bo cusku    | >> (  
-is/does << is/does big space interval |  being proud    say-ing  | >> (  
-        <<                             \                        /  >> (  
-        41                            42                        42 41 43 
+<entry><foreignphrase 
+lang="art-lojban">skami)<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></entry>
 
-lo                     bravla         )  ]  
-any/some               big word(s)(s) )  ]  
-cusku2 (said thing(s))                )  ]  
-                                      43 37 
+</row>
 
+<row>
+<entry>the</entry>
+<entry>computer(s)</entry>
+</row>
 
-.i  [  << |  misno        bo sazri       | >> (  le                         |  
-`.' [  << |  being famous    operat-ing  | >> (  the                        |  
-    [  <<  \                            /  >> (  sazri2 (operated thing(s))  \ 
-    44 45 46                            46 45 47                            48 
+<row rowsep=1>
+<entry></entry>
 
-slabu              ke cradi            | )  ]  
-familiar [type-of]    broadcast-er(s)  | )  ]  
-                                      /  )  ]  
-                                      48 47 44 
+<entry spanname=pilno2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">pilno</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (tool(s))</emphasis></entry>
+
+</row>
 
 
-.i  ti'e       [  (  le                  nanmu   )  (  
-`.' {I hear..} [  (  the                 man/men )  (  
-               [  (  bradi1 (enemy(ies))         )  (  
-               49 50                             50 51 
+</tbody>
+</tgroup>
 
-le                           jecta       )  cu      << bradi            >> ]  
-the                          polity(ies) )  is/does << being enemy(ies) >> ]  
-bradi2 (thing(s) with enemy)             )          <<                  >> ]  
-                                         51         52                  52 49 
+<tgroup cols=5>
+<colspec colnum=1 colname=c16 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c17 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c18 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c19 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c20 colwidth="1*"></colspec>
+<spanspec spanname=ciska2 namest=c18 nameend=c20></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>ciska&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>3</subscript>{<subscript>4</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">valsi}<subscript>4</subscript></foreignphrase></entry>
+
+<entry><foreignphrase
+lang="art-lojban">&lt;<subscript>5</subscript>voi</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>writ-ing</entry>
+<entry>any/some</entry>
+<entry>word(s)</entry>
+<entry>which (I call)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=ciska2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">ciska</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thing(s) written)</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c21 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c22 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c23 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>6</subscript>&laquo;<subscript>7</subscript>{<subscript>8</subscript>vindu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">je</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">ralci}<subscript>8</subscript>&raquo;<subscript>7</subscript>]<subscript>6</subscript>&gt;<subscript>5</subscript>)<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>being toxic</entry>
+<entry>and</entry>
+<entry>being delicate</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c24 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c25 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c26 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c27 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c28 colwidth="1*"></colspec>
+<spanspec spanname=ckape1 namest=c26 nameend=c27></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">za'a</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">lisri)<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{I observe...}</entry>
+<entry>the</entry>
+<entry>story(ies)</entry>
+<entry>is/does</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=ckape1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">ckape</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (dangerous thing(s))</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c29 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c30 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c31 colwidth="1*"></colspec>
+<spanspec spanname=ckape2 namest=c30 nameend=c31></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>ckape&raquo;<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>lei</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">palci)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>being dangerous</entry>
+<entry>between them the</entry>
+<entry>evil thing(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry></entry>
+<entry spanname=ckape2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">ckape</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (harmful to)</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c32 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c33 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c34 colwidth="1*"></colspec>
+<spanspec spanname=farna2 namest=c33 nameend=c34></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">{<subscript>3</subscript>jdaralju</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>1</entry>
+<entry>religion-chief(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=farna2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">farna</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thing(s) found in direction)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c35 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c36 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c37 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c38 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>4</subscript>prami</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">je</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">krici}<subscript>4</subscript>}<subscript>3</subscript>)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>of-type</entry>
+<entry>love-r(s)</entry>
+<entry>and</entry>
+<entry>believe-r(s)</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c39 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c40 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c41 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c42 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c43 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>5</subscript>{<subscript>6</subscript>{<subscript>7</subscript>dunku</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">catlu}<subscript>7</subscript></foreignphrase></entry>
+
+<entry></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>distressed</entry>
+<entry></entry>
+<entry>look-ing at</entry>
+<entry>[type-of]</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c44 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c45 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c46 colwidth="1*"></colspec>
+<spanspec spanname=farna1 namest=c45 nameend=c46></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">se 
+farna}<subscript>6</subscript>&raquo;<subscript>5</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>8</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">vrici)<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>being found in direction</entry>
+<entry>the</entry>
+<entry>miscellaneous thing(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry></entry>
+<entry spanname=farna1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">farna</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (direction(s))</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c47 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c48 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c49 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c50 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>{<subscript>3</subscript>malsi</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">krasi}<subscript>3</subscript>&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>being church(es)</entry>
+<entry>of-type</entry>
+<entry>being origin(s)</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c51 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c52 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c53 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c54 colwidth="1*"></colspec>
+<spanspec spanname=krasi2 namest=c51 nameend=c54></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>5</subscript>panpi</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">stura}<subscript>5</subscript>)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>any/some</entry>
+<entry>thing(s) at peace</entry>
+<entry></entry>
+<entry>structure(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=krasi2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">krasi</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (object(s)/process(es) with origin)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c55 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c56 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c57 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c58 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>{<subscript>3</subscript>turni</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">terpa}<subscript>3</subscript>&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>govern-ing</entry>
+<entry>of-type</entry>
+<entry>being fearful</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c59 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c60 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c61 colwidth="3*"></colspec>
+<spanspec spanname=terpa2 namest=c59 nameend=c61></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>5</subscript>nu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>6</subscript>&laquo;<subscript>7</subscript>se 
+malxlura&raquo;<subscript>7</subscript>]<subscript>6</subscript>&gt;<subscript>5</subscript>)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>any/some</entry>
+<entry>event(s) of</entry>
+<entry>derogative form-ish&ndash;tempted thing(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=terpa2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">terpa</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thing(s) causing fear)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c62 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c63 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c64 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c65 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c66 colwidth="1*"></colspec>
+<spanspec spanname=cusku1 namest=c64 nameend=c66></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">bi'u</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">{<subscript>3</subscript>nanmu</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">co</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{new information...}</entry>
+<entry>1</entry>
+<entry>man/men</entry>
+<entry>of-type</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=cusku1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">cusku</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (say-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c67 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c68 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c69 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c70 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>4</subscript>krici</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">je</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">tavla}<subscript>4</subscript>}<subscript>3</subscript>)<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>believe-r(s)</entry>
+<entry>and</entry>
+<entry>talk-er(s)</entry>
+<entry>is/does</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c71 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c72 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c73 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c74 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c75 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>5</subscript>ca</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">ve'u</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>6</subscript>jgira</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cusku}<subscript>6</subscript>&raquo;<subscript>5</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>big space interval</entry>
+<entry>being proud</entry>
+<entry></entry>
+<entry>say-ing</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=2>
+<colspec colnum=1 colname=c76 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c77 colwidth="1*"></colspec>
+<spanspec spanname=cusku2 namest=c76 nameend=c77></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>7</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">bravla)<subscript>7</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>any/some</entry>
+<entry>big word(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=cusku2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">cusku</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (said thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c78 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c79 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c80 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c81 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>{<subscript>3</subscript>misno</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">sazri}<subscript>3</subscript>&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>being famous</entry>
+<entry></entry>
+<entry>operat-ing</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c82 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c83 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c84 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c85 colwidth="1*"></colspec>
+<spanspec spanname=sazri2 namest=c82 nameend=c85></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>5</subscript>slabu</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">ke</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cradi}<subscript>5</subscript>)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>the</entry>
+<entry>familiar</entry>
+<entry>type-of</entry>
+<entry>broadcast-er(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=sazri2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">sazri</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (operated thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c86 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c87 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c88 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c89 colwidth="1*"></colspec>
+<spanspec spanname=bradi1 namest=c88 nameend=c89></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">ti'e</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">nanmu)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{I hear...}</entry>
+<entry>the</entry>
+<entry>man/men</entry>
+</row>
+
+<row>
+<entry spanname=bradi1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bradi</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (enemy(ies))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c90 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c91 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c92 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c93 colwidth="1*"></colspec>
+<spanspec spanname=bradi2 namest=c90 nameend=c91></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>3</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">jecta)<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>4</subscript>bradi&raquo;<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>the</entry>
+<entry>polity(ies)</entry>
+<entry>is/does</entry>
+<entry>being enemy(ies)</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=bradi2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bradi</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thing(s) with enemy)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c117 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c118 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c119 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c120 colwidth="1*"></colspec>
+<spanspec spanname=bandu2 namest=c119 nameend=c120></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">uusai</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">bandu)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{strong regret...}</entry>
+<entry>the</entry>
+<entry>defender(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=bandu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bandu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (defended thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c121 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c122 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c123 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>{<subscript>4</subscript>na'e</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">se bandu}<subscript>4</subscript>&raquo;<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>is/does</entry>
+<entry>other-than</entry>
+<entry>being defend-ed</entry>
+</row>
+
+</tbody>
+</tgroup>
 
 
-.i  za'a          [  << se jalge         >> (  le                  <  
-`.' {I observe..} [  << caus-ing outcome >> (  the                 <  
-                  [  <<                  >> (  jalge1 (outcome(s)) <  
-                  53 54                  54 55                     56 
 
-nu          [  << mrocoldandu                         >> ]  >  )  ]  
-event(s) of [  << dead-of-type??-thing(s) suspended?? >> ]  >  )  ]  
-            [  <<                                     >> ]  >  )  ]  
-            57 58                                     58 57 56 55 53 
+<tgroup cols=4>
+<colspec colnum=1 colname=c94 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c95 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c96 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c97 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">za'a</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>se 
+jalge&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>3</subscript>le</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{I observe...}</entry>
+<entry>caus-ing outcome</entry>
+<entry>the</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">jalge</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (outcome(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=2>
+<colspec colnum=1 colname=c98 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c99 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>4</subscript>nu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>mrocoldandu&raquo;<subscript>6</subscript>]<subscript>5</subscript>&gt;<subscript>4</subscript>)<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>event(s) of</entry>
+<entry>dead&ndash;of-type&ndash;thing(s) suspended</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c100 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c101 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c102 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c103 colwidth="1*"></colspec>
+<spanspec spanname=jmaji1 namest=c102 nameend=c103></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">.uo sai</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">palci)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>{strong completion...}</entry>
+<entry>the</entry>
+<entry>evil thing(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=jmaji1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">jmaji</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (thing(s) gather-ing)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c104 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c105 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c106 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c107 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>3</subscript>{<subscript>4</subscript>jmaji</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">salci}<subscript>4</subscript>&raquo;<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>is/does</entry>
+<entry>gather-ing</entry>
+<entry>of-type</entry>
+<entry>celebrat-ing</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=6>
+<colspec colnum=1 colname=c108 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c109 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c110 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c111 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c112 colwidth="1*"></colspec>
+<colspec colnum=6 colname=c113 colwidth="1*"></colspec>
+<spanspec spanname=zasti1 namest=c112 nameend=c113></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>{<subscript>3</subscript>sisti</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">zasti}<subscript>3</subscript>&raquo;<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>4</subscript>fa</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">le</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>ceas-ing</entry>
+<entry>of-type</entry>
+<entry>exist-ing</entry>
+<entry></entry>
+<entry>the</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry spanname=zasti1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zasti1</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (exist-er(s))</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c114 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c115 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c116 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>5</subscript>remna</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">co</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">kalci}<subscript>5</subscript>)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>human(s)</entry>
+<entry>of-type</entry>
+<entry>excrement</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+</informaltable>
 
 
-.i  .uo sai               [  (  le                            
-`.' {strong completion..} [  (  the                           
-                          [  (  jmaji1 (thing(s) gather-ring) 
-                          59 60                               
-
-rinju               )  cu      << |  jmaji       co      salci         | >> ]  
-restrained thing(s) )  is/does << |  gather-ring of-type celebrat-ing  | >> ]  
-                    )          <<  \                                  /  >> ]  
-                    60         61 62                                  62 61 59 
-
-
-.i  [  << |  sisti    co      zasti      | >> (  fa                   le  |  
-`.' [  << |  ceas-ing of-type exist-ing  | >> (                       the |  
-    [  <<  \                            /  >> (  zasti1 (exist-er(s))      \ 
-    63 64 65                            65 64 66                          67 
-
-remna    co      kalci      | )  ]  
-human(s) of-type excrement  | )  ]  
-                           /  )  ]  
-                           67 66 63 
-
-]]>
-</literallayout>
 </para>
 </sect1>
 </chapter>

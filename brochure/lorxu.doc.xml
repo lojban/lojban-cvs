@@ -1,281 +1,1456 @@
 <chapter id="lorxu">
-<chapterinfo><author><firstname>Nick</firstname><surname>Nicholas</surname></author>
-<printhistory><para>First published in <citetitle><foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase></citetitle> 16.</para></printhistory>
-</chapterinfo>
 
 <title><foreignphrase lang="art-lojban">lorxu</foreignphrase></title>
-<para>Translated from Aesop from the Greek</para>
 
-<sect1><title><foreignphrase lang="art-lojban">me le cipnrkorvo .e le lorxu</foreignphrase></title>
+<para>Nick Nicholas (Australia); translated from Aesop from the Greek.
+First published in <citetitle><foreignphrase lang="art-lojban">ju'i
+lobypli</foreignphrase></citetitle> 16, May 1992.</para>
+
+<sect1 id="lorxuloj"><title><foreignphrase lang="art-lojban">me le cipnrkorvo .e le lorxu</foreignphrase></title>
 
 <para>
 <literallayout>
-<foreignphrase lang="art-lojban">
-.i lo cipnrkorvo noi ba'o kavbu lo rectu cu co'a zutse lo tricu
-.i lo lorxu noi viska ra gi'e djica lenu cpacu le rectu
-cu sanli gi'e zanru skicu le cipnrkorvo. ri lo xadbraxau je melbi
-gi'eji'a bacru ledu'u ge ra nu'o turni .ei lei cipni
-gi leda'inu ra cu se voksa lo xamgu cu nibli lenu pu'i turni
-.i le cipnrkorvo noi djica lenu jarco fi le lorxu
-fe lenu pu'i se voksa lo xamgu cu renro le rectu gi'e cladu krixa
-.i le lorxu cu bajra gi'e bacru ba'o lenu kavbu le rectu kei
-	<quote>lu doi cipnrkorvo noda fau leda'inu do se menli lo xamgu
-	cu fanta lenu do turni roda li'u</quote>
-ni'o le prenu noi bebna ku'o le se cusku cu pilno se xamgu
-</foreignphrase>
+<foreignphrase lang="art-lojban">.i lo cipnrkorvo noi ba'o kavbu lo rectu cu co'a zutse lo tricu</foreignphrase>
+<foreignphrase lang="art-lojban">.i lo lorxu noi viska ra gi'e djica lenu cpacu le rectu</foreignphrase>
+<foreignphrase lang="art-lojban">cu sanli gi'e zanru skicu le cipnrkorvo. ri lo xadbraxau je melbi</foreignphrase>
+<foreignphrase lang="art-lojban">gi'eji'a bacru ledu'u ge ra nu'o turni .ei lei cipni</foreignphrase>
+<foreignphrase lang="art-lojban">gi leda'inu ra cu se voksa lo xamgu cu nibli lenu pu'i turni</foreignphrase>
+<foreignphrase lang="art-lojban">.i le cipnrkorvo noi djica lenu jarco fi le lorxu</foreignphrase>
+<foreignphrase lang="art-lojban">fe leka pu'i se voksa lo xamgu cu renro le rectu gi'e cladu krixa</foreignphrase>
+<foreignphrase lang="art-lojban">.i le lorxu cu bajra gi'e bacru ba'o lenu kavbu le rectu kei</foreignphrase>
+<foreignphrase lang="art-lojban">	<quote>lu doi cipnrkorvo noda fau leda'inu do se menli lo xamgu</quote></foreignphrase>
+<foreignphrase lang="art-lojban"><quote>	cu fanta lenu do turni roda li'u</quote></foreignphrase>
+<foreignphrase lang="art-lojban">ni'o le prenu noi bebna ku'o le se cusku cu pilno se xamgu</foreignphrase>
 </literallayout>
 </para>
 </sect1>
 
-<sect1><title>Crow and Fox</title>
-<para>A crow having snatched some meat sat on some tree. And a fox
-seeing him and wishing to obtain the meat, stood and praised it as well-proportioned
-and beautiful, also saying that he should indeed be king of
+<sect1 id="lorxueng"><title>Crow and Fox</title>
+<para>A crow, having snatched some meat, sat on a tree. And a fox
+seeing him, and wishing to obtain the meat, stood and praised him as well-proportioned
+and beautiful &mdash; also saying that he should indeed be king of
 the birds, and that this would have happened, if he had a voice. And wishing
 to show him that he also had a voice, he threw off the meat and shouted loudly.
-And having run to him and snatched the meat he said: <quote>O Crow, and if you
-had brains too, nothing would be lacking for you to be king of everything.</quote>
-The word is opportune for a foolish man.</para>
+And having run to him and snatched the meat, he said: <quote>O Crow, if you
+had brains too, nothing would be lacking for you to be king of 
+everything.</quote></para>
+<para>The word is opportune for a foolish man.</para>
 </sect1>
 
-<sect1><title>Gloss</title>
+<sect1 id="lorxugloss"><title>Gloss</title>
 <para>
-<literallayout class=monospaced>
-<![CDATA[
+<informaltable frame=none>
 
-[ << me                      /  / le  cipnrkorvo         .e  le  lorxu   \  \  
-[ << amongst those that are |  |  the test(s)-[rkorvo]?? and the fox(es)  |  | 
-[ <<                        |  |                                          |  | 
-1 2                         3  4                                         4  3  
+<tgroup cols=6>
+<colspec colnum=1 colname=c1 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c2 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c3 colwidth="2*"></colspec>
+<colspec colnum=4 colname=c4 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c5 colwidth="1*"></colspec>
+<colspec colnum=6 colname=c6 colwidth="2*"></colspec>
+<tbody>
+<row>
 
->> ] 
->> ] 
->> ] 
-2  1 
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>me</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>{<subscript>4</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">cipnkorvo</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">.e</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">lorxu}<subscript>4</subscript>}<subscript>3</subscript>&raquo;<subscript>2</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>amongst those that are</entry>
+<entry>the</entry>
+<entry>bird(s)-<foreignphrase lang="lat">Corvus</foreignphrase></entry>
+<entry>and</entry>
+<entry>the</entry>
+<entry>fox(es)</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c6 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c7 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c8 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c9 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c10 colwidth="1*"></colspec>
+<spanspec spanname=zutse1 namest=c7 nameend=c8></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>cipnkorvo}<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>4</subscript>noi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>ba'o</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>any/some</entry>
+<entry>bird(s)-<foreignphrase lang="lat">Corvus</foreignphrase></entry>
+<entry>, which...,</entry>
+<entry>finished</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=zutse1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zutse</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (sit-ter(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c11 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c12 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c13 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c14 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c15 colwidth="1*"></colspec>
+<spanspec spanname=kavbu2 namest=c12 nameend=c13></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">kavbu&gt;<subscript>6</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>7</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">rectu)<subscript>7</subscript>]<subscript>5</subscript>&gt;<subscript>4</subscript>)<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>8</subscript>co'a</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>captur-ing</entry>
+<entry>any/some</entry>
+<entry>meat</entry>
+<entry>is/does</entry>
+<entry>start to</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=kavbu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">kavbu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c16 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c17 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c18 colwidth="1*"></colspec>
+<spanspec spanname=zutse2 namest=c17 nameend=c18></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">zutse&gt;<subscript>8</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>9</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">tricu)<subscript>9</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>sit-ting</entry>
+<entry>any/some</entry>
+<entry>tree(s)</entry>
+</row>
+
+<row rowsep=1>
+<entry></entry>
+<entry spanname=zutse2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zutse</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (sitting surface(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c19 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c20 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c21 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c22 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c23 colwidth="1*"></colspec>
+<spanspec spanname=sanli1 namest=c20 nameend=c23></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>lorxu}<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>4</subscript>noi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>viska&raquo;<subscript>6</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>any/some</entry>
+<entry>fox(es)</entry>
+<entry>, which...,</entry>
+<entry>see-ing</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=sanli1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zutse</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (stand-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">skicu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (describe-r(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bacru</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (utter-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c24 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c25 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c26 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c27 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c28 colwidth="1*"></colspec>
+<spanspec spanname=djica2 namest=c27 nameend=c28></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>7</subscript>ra)<subscript>7</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">gi'e</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>8</subscript>djica&raquo;<subscript>8</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>9</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>10</subscript>nu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>the former</entry>
+<entry>and</entry>
+<entry>desir-ing</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+</row>
+
+<row>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">viska</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (seen thing(s))</emphasis></entry>
+<entry></entry>
+<entry></entry>
+<entry spanname=djica2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">zutse</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (desired thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c29 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c30 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c31 colwidth="1*"></colspec>
+<spanspec spanname=cpacu2 namest=c30 nameend=c31></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>11</subscript>&laquo;<subscript>12</subscript>cpacu&raquo;<subscript>12</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>13</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">rectu)<subscript>13</subscript>]<subscript>11</subscript>&gt;<subscript>10</subscript>)<subscript>9</subscript>]<subscript>5</subscript>&gt;<subscript>4</subscript>)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>acquir-ing</entry>
+<entry>the</entry>
+<entry>meat</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=cpacu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">cpacu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (acquired thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c32 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c33 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c34 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c35 colwidth="2*"></colspec>
+<colspec colnum=5 colname=c36 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>14</subscript>sanli&raquo;<subscript>14</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">gi'e</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>15</subscript>{<subscript>16</subscript>zanru</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">skicu}<subscript>16</subscript>&raquo;<subscript>15</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>stand-ing</entry>
+<entry>and</entry>
+<entry>approv-ing [type of]</entry>
+<entry>describ-ing</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c37 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c38 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c39 colwidth="2*"></colspec>
+<spanspec spanname=skicu2 namest=c37 nameend=c38></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>17</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cipnrkorvo)<subscript>17</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>18</subscript>ri)<subscript>18</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>the</entry>
+<entry>bird(s)-<foreignphrase lang="lat">Corvus</foreignphrase></entry>
+<entry>the latter</entry>
+</row>
+
+<row>
+<entry spanname=skicu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">skicu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (described thing(s))</emphasis></entry>
+
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">skicu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>3</subscript> (audience(s) for describing)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c40 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c41 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c42 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c43 colwidth="1*"></colspec>
+<spanspec spanname=skicu4 namest=c40 nameend=c43></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>19</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>20</subscript>xadbraxau</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">je</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">melbi}<subscript>20</subscript>)<subscript>19</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>any/some</entry>
+<entry>body-large&ndash;good thing(s)</entry>
+<entry>and</entry>
+<entry>beautiful thing(s)</entry>
+</row>
+
+<row>
+<entry spanname=skicu4><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">skicu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>4</subscript> (description(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c44 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c45 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c46 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c47 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c48 colwidth="1*"></colspec>
+<spanspec spanname=bacru2 namest=c47 nameend=c48></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">gi'e</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">ji'a</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>21</subscript>bacru&raquo;<subscript>21</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>23</subscript>du'u</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>and</entry>
+<entry>{in addition...}</entry>
+<entry>utter-ing</entry>
+<entry>the</entry>
+<entry>fact that</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry></entry>
+<entry spanname=bacru2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bacru</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c49 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c50 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c51 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c52 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c53 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>24</subscript>ge</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>25</subscript>(<subscript>26</subscript>ra)<subscript>26</subscript></foreignphrase></entry>
+
+<entry></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>27</subscript>nu'o</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">turni</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>both</entry>
+<entry>the former</entry>
+<entry>[is, does]</entry>
+<entry>can but has not</entry>
+<entry>govern</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">turni</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c54 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c55 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c56 colwidth="1*"></colspec>
+<spanspec spanname=turni2 namest=c55 nameend=c56></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">.ei&raquo;<subscript>27</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>28</subscript>lei</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cipni)<subscript>28</subscript>]<subscript>25</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>{obligation...}</entry>
+<entry>between them the</entry>
+<entry>bird(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=turni2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">turni</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (governed thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c57 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c58 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c59 colwidth="1*"></colspec>
+<spanspec spanname=nibli1 namest=c58 nameend=c59></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">gi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>29</subscript>(<subscript>30</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">da'i</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>and</entry>
+<entry>the</entry>
+<entry>{supposing...}</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=nibli1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">nibli</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (logically necessitating thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c60 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c61 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c62 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>31</subscript>nu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>32</subscript>(<subscript>33</subscript>ra)<subscript>33</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>event(s) of</entry>
+<entry>the former</entry>
+<entry>is/does</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">voksa</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thing(s) having voice)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c63 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c64 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c65 colwidth="2*"></colspec>
+<spanspec spanname=voksa1 namest=c64 nameend=c65></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>34</subscript>se voksa&raquo;<subscript>34</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>35</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">xamgu)<subscript>35</subscript>]<subscript>32</subscript>&gt;<subscript>31</subscript>)<subscript>30</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>having voice</entry>
+<entry>any/some</entry>
+<entry>good thing(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=voksa1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">voksa</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (voice sound(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c66 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c67 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c68 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c69 colwidth="1*"></colspec>
+<spanspec spanname=nibli2 namest=c68 nameend=c69></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>36</subscript>nibli&raquo;<subscript>36</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>37</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>38</subscript>nu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>logically necessitating</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=nibli2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">nibli</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (logically necessitated thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=2>
+<colspec colnum=1 colname=c70 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c71 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>39</subscript>&laquo;<subscript>40</subscript>pu'i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">turni&raquo;<subscript>40</subscript>]<subscript>39</subscript>&gt;<subscript>38</subscript>)<subscript>37</subscript>]<subscript>29</subscript>]<subscript>24</subscript>&gt;<subscript>23</subscript>)<subscript>22</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row rowsep=1>
+<entry>can and be</entry>
+<entry>govern-ing</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c72 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c73 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c74 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c75 colwidth="1*"></colspec>
+<spanspec spanname=renro1 namest=c73 nameend=c75></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>cipnrkorvo}<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>4</subscript>noi</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>the</entry>
+<entry>bird(s)-<foreignphrase lang="lat">Corvus</foreignphrase></entry>
+<entry>, which...,</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=renro1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">renro</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (throw-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">krixa</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (yell-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c76 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c77 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c78 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c79 colwidth="1*"></colspec>
+<spanspec spanname=djica2 namest=c77 nameend=c78></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>djica&raquo;<subscript>6</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>7</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>8</subscript>nu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>9</subscript>&laquo;<subscript>10</subscript>jarco&raquo;<subscript>10</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>desir-ing</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+<entry>showing/display-ing</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=djica2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">djica</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (desired thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=6>
+<colspec colnum=1 colname=c80 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c81 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c82 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c83 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c84 colwidth="1*"></colspec>
+<colspec colnum=6 colname=c85 colwidth="1*"></colspec>
+<spanspec spanname=jarco3 namest=c80 nameend=c82></spanspec>
+<spanspec spanname=jarco2 namest=c83 nameend=c85></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>11</subscript>fi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">lorxu)<subscript>11</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>12</subscript>fe</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>13</subscript>ka</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry></entry>
+<entry>the</entry>
+<entry>fox(es)</entry>
+<entry></entry>
+<entry>the</entry>
+<entry>property of</entry>
+</row>
+
+<row>
+<entry spanname=jarco3><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">jarco</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>3</subscript> (audience of display)</emphasis></entry>
+
+<entry spanname=jarco2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">jarco</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (shown property(ies))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
 
 
-.i  [ ( lo                   / cipnrkorvo         \  < noi       [ << ba'o     
-`.' [ ( any/some            |  test(s)-[rkorvo]??  | < ,which.., [ << finished 
-    [ ( zutse1 (sit-ter(s)) |                      | <           [ <<          
-    5 6                     7                     7  8           9 10          
+<tgroup cols=4>
+<colspec colnum=1 colname=c86 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c87 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c88 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c89 colwidth="2*"></colspec>
+<spanspec spanname=xamgu1 namest=c88 nameend=c89></spanspec>
+<tbody>
+<row>
 
-kavbu      >> (  lo                         rectu )  ] > ) cu      << co'a     
-captur-ing >> (  any/some                   meat  )  ] > ) is/does << start to 
-           >> (  kavbu2 (captured thing(s))       )  ] > )         <<          
-           10 11                                  11 9 8 6         12          
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>14</subscript>&laquo;<subscript>15</subscript>pu'i</foreignphrase></entry>
 
-zutse    >> (  lo                          tricu   )  ] 
-sit-ting >> (  any/some                    tree(s) )  ] 
-         >> (  zutse2 (sitting surface(s))         )  ] 
-         12 13                                     13 5 
+<entry><foreignphrase 
+lang="art-lojban">se voksa&raquo;<subscript>15</subscript></foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>16</subscript>lo</foreignphrase></entry>
 
-.i  [  (  lo                      / lorxu   \  <  noi       [  << viska   >> (  
-`.' [  (  any/some               |  fox(es)  | <  ,which.., [  << see-ing >> (  
-    [  (  sanli1 (stand-er(s))   |           | <            [  <<         >> (  
-    14 15 skicu1 (describe-r(s)) 16         16 17           18 19         19 20 
-          bacru1 (utter-rer(s))                                                 
+<entry><foreignphrase 
+lang="art-lojban">xamgu)<subscript>16</subscript>]<subscript>14</subscript>&gt;<subscript>13</subscript>)<subscript>12</subscript>]<subscript>9</subscript>&gt;<subscript>8</subscript>)<subscript>7</subscript>]<subscript>5</subscript>&gt;<subscript>4</subscript>)<subscript>2</subscript></foreignphrase></entry>
 
-ra                     )  gi'e << djica     >> (  le                        <  
-the former             )  and  << desir-ing >> (  the                       <  
-viska2 (seen thing(s)) )       <<           >> (  djica2 (desired thing(s)) <  
-                       20      21           21 22                           23 
+</row>
 
-nu          [  << cpacu      >> (  le                         rectu )  ]  >  )  
-event(s) of [  << acquir-ing >> (  the                        meat  )  ]  >  )  
-            [  <<            >> (  cpacu2 (acquired thing(s))       )  ]  >  )  
-            24 25            25 26                                  26 24 23 22 
+<row>
+<entry>can and does</entry>
+<entry>having voice</entry>
+<entry>any/some</entry>
+<entry>good thing(s)</entry>
+</row>
 
-]  >  )  
-]  >  )  
-]  >  )  
-18 17 15 
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=xamgu1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">xamgu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (voice sound(s))</emphasis></entry>
 
+</row>
+</tbody>
+</tgroup>
 
-cu      << sanli     >> gi'e << |  zanru                   skicu        | >> (  
-is/does << stand-ing >> and  << |  approver-ring [type-of] describ-ing  | >> (  
-        <<           >>      <<  \                                     /  >> (  
-        27           27      28 29                                     29 28 30 
+<tgroup cols=4>
+<colspec colnum=1 colname=c90 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c91 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c92 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c93 colwidth="1*"></colspec>
+<spanspec spanname=renro2 namest=c92 nameend=c93></spanspec>
+<tbody>
+<row>
 
-le                          cipnrkorvo         )  (  
-the                         test(s)-[rkorvo]?? )  (  
-skicu2 (described thing(s))                    )  (  
-                                               30 31 
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
 
-ri                                  )  (  lo                      |  
-the latter                          )  (  any/some                |  
-skicu3 (audience(s) for describing) )  (  skicu4 (description(s))  \ 
-                                    31 32                         33 
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>17</subscript>renro&raquo;<subscript>17</subscript></foreignphrase></entry>
 
-xadbraxau                      je  melbi               | )  
-body-ish-large-good thing(s)?? and beautiful thing(s)  | )  
-                                                      /  )  
-                                                      33 32 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>18</subscript>le</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">rectu)<subscript>18</subscript></foreignphrase></entry>
 
-gi'e ji'a           << bacru      >> (  le                        <  du'u      
-{in addition..} and << utter-ring >> (  the                       <  fact that 
-                    <<            >> (  bacru2 (uttered sound(s)) <            
-                    34            34 35                           36           
+</row>
 
-[  ge   [  (  ra                    )            << nu'o            turni      
-[  both [  (  the former            ) [is, does] << can but has not govern-ing 
-[       [  (  turni1 (govern-er(s)) )            <<                            
-37      38 39                       39           40                            
+<row>
+<entry>is/does</entry>
+<entry>throw-ing</entry>
+<entry>the</entry>
+<entry>meat</entry>
+</row>
 
-.ei            >> (  lei                        cipni   )  ]  
-{obligation..} >> (  between them the           bird(s) )  ]  
-               >> (  turni2 (governed thing(s))         )  ]  
-               40 41                                    41 38 
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=renro2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">renro</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (thrown thing(s))</emphasis></entry>
 
+</row>
+</tbody>
+</tgroup>
 
-gi  [  (  le                                        da'i          <  
-and [  (  the                                       {supposing..} <  
-    [  (  nibli1 (logically necessitating thing(s))               <  
-    42 43                                                         44 
+<tgroup cols=3>
+<colspec colnum=1 colname=c94 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c95 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c96 colwidth="1*"></colspec>
+<tbody>
+<row>
 
-nu          [  (  ra                             )  cu      << 
-event(s) of [  (  the former                     )  is/does << 
-            [  (  voksa2 (thing(s) having voice) )          << 
-            45 46                                46         47 
+<entry><foreignphrase 
+lang="art-lojban">gi'e</foreignphrase></entry>
 
-se voksa           >> (  lo                      xamgu         )  ]  >  )  
-being having voice >> (  any/some                good thing(s) )  ]  >  )  
-                   >> (  voksa1 (voice sound(s))               )  ]  >  )  
-                   47 48                                       48 45 44 43 
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>19</subscript>{<subscript>20</subscript>cladu</foreignphrase></entry>
 
-cu      << nibli                         >> (  
-is/does << being logically necessitating >> (  
-        <<                               >> (  
-        49                               49 50 
+<entry><foreignphrase 
+lang="art-lojban">krixa}<subscript>20</subscript>&raquo;<subscript>19</subscript>]<subscript>1</subscript></foreignphrase></entry>
 
-le                                       <  nu          [  << pu'i        
-the                                      <  event(s) of [  << can and has 
-nibli2 (logically necessitated thing(s)) <              [  <<             
-                                         51             52 53             
+</row>
 
-turni      >> ]  >  )  ]  ]  >  )  ]  
-govern-ing >> ]  >  )  ]  ]  >  )  ]  
-           >> ]  >  )  ]  ]  >  )  ]  
-           53 52 51 50 42 37 36 35 14 
+<row rowsep=1>
+<entry>and</entry>
+<entry>loud [type-of]</entry>
+<entry>yell-ing</entry>
+</row>
 
+</tbody>
+</tgroup>
 
-.i  [  (  le                     / cipnrkorvo         \  <  noi       [  << 
-`.' [  (  the                   |  test(s)-[rkorvo]??  | <  ,which.., [  << 
-    [  (  renro1 (throw-wer(s)) |                      | <            [  << 
-    54 55 krixa1 (yell-er(s))   56                    56 57           58 59 
+<tgroup cols=5>
+<colspec colnum=1 colname=c97 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c98 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c99 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c100 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c101 colwidth="1*"></colspec>
+<spanspec spanname=bajra1 namest=c98 nameend=c99></spanspec>
+<tbody>
+<row>
 
-djica     >> (  le                        <  nu          [  << 
-desir-ing >> (  the                       <  event(s) of [  << 
-          >> (  djica2 (desired thing(s)) <              [  << 
-          59 60                           61             62 63 
+<entry><foreignphrase 
+lang="art-lojban">.i</foreignphrase></entry>
 
-jarco                 >> (  fi                           le  lorxu   )  
-show-wing/display-ing >> (                               the fox(es) )  
-                      >> (  jarco3 (audience of display)             )  
-                      63 64                                          64 
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">lorxu)<subscript>2</subscript></foreignphrase></entry>
 
-(  fe                           le  <  nu          [  << pu'i        
-(                               the <  event(s) of [  << can and has 
-(  jarco2 (shown property(ies))     <              [  <<             
-65                                  66             67 68             
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
 
-se voksa           >> (  lo                      xamgu         )  ]  >  )  ]  
-being having voice >> (  any/some                good thing(s) )  ]  >  )  ]  
-                   >> (  voksa1 (voice sound(s))               )  ]  >  )  ]  
-                   68 69                                       69 67 66 65 62 
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>bajra&raquo;<subscript>3</subscript></foreignphrase></entry>
 
->  )  ]  >  )  cu      << renro      >> (  le                       rectu )  
->  )  ]  >  )  is/does << throw-wing >> (  the                      meat  )  
->  )  ]  >  )          <<            >> (  renro2 (thrown thing(s))       )  
-61 60 58 57 55         70            70 71                                71 
+</row>
 
-gi'e << |  cladu          krixa     | >> ]  
-and  << |  loud [type-of] yell-ing  | >> ]  
-     <<  \                         /  >> ]  
-     72 73                         73 72 54 
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>the</entry>
+<entry>fox(es)</entry>
+<entry>is/does</entry>
+<entry>run-ning</entry>
+</row>
 
+<row>
+<entry></entry>
+<entry spanname=bajra1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bajra</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (run-ner(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bacru</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (utter-er(s))</emphasis></entry>
 
-.i  [  (  le                    lorxu   )  cu      << bajra    >> gi'e << 
-`.' [  (  the                   fox(es) )  is/does << run-ning >> and  << 
-    [  (  bajra1 (run-ner(s))           )          <<          >>      << 
-    74 75 bacru1 (utter-rer(s))         75         76          76      77 
+</row>
+</tbody>
+</tgroup>
 
-bacru      >> (  ba'o  le  <  nu          [  << kavbu      >> (  
-utter-ring >> (  after the <  event(s) of [  << captur-ing >> (  
-           >> (            <              [  <<            >> (  
-           77 78           79             80 81            81 82 
+<tgroup cols=6>
+<colspec colnum=1 colname=c102 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c103 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c104 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c105 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c106 colwidth="1*"></colspec>
+<colspec colnum=6 colname=c107 colwidth="1*"></colspec>
+<tbody>
+<row>
 
-le                         rectu )  ]  kei >  )  
-the                        meat  )  ]      >  )  
-kavbu2 (captured thing(s))       )  ]      >  )  
-                                 82 80     79 78 
+<entry><foreignphrase 
+lang="art-lojban">gi'e</foreignphrase></entry>
 
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>4</subscript>bacru&raquo;<subscript>4</subscript></foreignphrase></entry>
 
-(  lu                        (   / doi cipnrkorvo         \  )  [  (  
-(  "                         (  |  O!  test(s)-[rkorvo]??  | )  [  (  
-(  bacru2 (uttered sound(s)) (  |                          | )  [  (  
-83                           84 85                        85 84 86 87 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>5</subscript>ba'o</foreignphrase></entry>
 
-no                     da )  (  fau             le  da'i          <  
-0 (of)                 X  )  (  in the event of the {supposing..} <  
-fanta1 (prevent-er(s))    )  (                                    <  
-                          87 88                                   89 
+<entry><foreignphrase 
+lang="art-lojban">le</foreignphrase></entry>
 
-nu          [  (  do               )            << se menli                  >> 
-event(s) of [  (  you              ) [is, does] << being body(ies) with mind >> 
-            [  (  menli2 (of body) )            <<                           >> 
-            90 91                  91           92                           92 
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>6</subscript>nu</foreignphrase></entry>
 
-(  lo               xamgu         )  ]  >  )  
-(  any/some         good thing(s) )  ]  >  )  
-(  menli1 (mind(s))               )  ]  >  )  
-93                                93 90 89 88 
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>7</subscript>&laquo;<subscript>8</subscript>kavbu&raquo;<subscript>8</subscript></foreignphrase></entry>
 
+</row>
 
-cu      << fanta       >> (  le                          <  nu          [  (  
-is/does << prevent-ing >> (  the                         <  event(s) of [  (  
-        <<             >> (  fanta2 (prevented event(s)) <              [  (  
-        94             94 95                             96             97 98 
+<row>
+<entry>and</entry>
+<entry>utter-ing</entry>
+<entry>after</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+<entry>capturing</entry>
+</row>
 
-do                    )            << turni      >> (   
-you                   ) [is, does] << govern-ing >> (   
-turni1 (govern-er(s)) )            <<            >> (   
-                      98           99            99 100 
+</tbody>
+</tgroup>
 
-ro                         da )   ]  >  )  ]  li'u )  ]  
-every (of)                 X  )   ]  >  )  ]  "    )  ]  
-turni2 (governed thing(s))    )   ]  >  )  ]       )  ]  
-                              100 97 96 95 86      83 74 
+<tgroup cols=3>
+<colspec colnum=1 colname=c108 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c109 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c110 colwidth="1*"></colspec>
+<spanspec spanname=kavbu2 namest=c108 nameend=c109></spanspec>
+<tbody>
+<row>
 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>9</subscript>le</foreignphrase></entry>
 
-ni'o      [   (   le                                      /  prenu     \   <   
-new topic [   (   the                                    |   person(s)  |  <   
-          [   (   xamgu2 (goodness beneficiary thing(s)) |              |  <   
-          101 102                                        103           103 104 
+<entry><foreignphrase 
+lang="art-lojban">rectu)<subscript>9</subscript>]<subscript>7</subscript></foreignphrase></entry>
 
-noi       [   <<  bebna         >>  ]   ku'o >   )   (   le                     
-,which.., [   <<  being foolish >>  ]        >   )   (   the                    
-          [   <<                >>  ]        >   )   (   xamgu1 (good thing(s)) 
-          105 106               106 105      104 102 107                        
+<entry><foreignphrase 
+lang="art-lojban">kei&gt;<subscript>6</subscript>)<subscript>5</subscript></foreignphrase></entry>
 
-se cusku      )   cu      <<  |   pilno            se xamgu                   
-said thing(s) )   is/does <<  |   us-ing [type-of] being goodness beneficiary 
-              )           <<   \                                              
-              107         108 109                                             
+</row>
 
- |  >>  ]   
- |  >>  ]   
-/   >>  ]   
-109 108 101 
+<row>
+<entry>the</entry>
+<entry>meat</entry>
+</row>
 
+<row>
+<entry spanname=kavbu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">kavbu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
 
+</row>
+</tbody>
+</tgroup>
 
-]]>
+<tgroup cols=3>
+<colspec colnum=1 colname=c111 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c112 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c113 colwidth="1*"></colspec>
+<spanspec spanname=bacru2a namest=c111 nameend=c111></spanspec>
+<tbody>
+<row>
 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>10</subscript>lu</foreignphrase></entry>
 
-</literallayout>
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>11</subscript>{<subscript>12</subscript>doi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cipnrkorvo}<subscript>12</subscript>)<subscript>11</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>&ldquo;</entry>
+<entry>O!</entry>
+<entry>bird(s)-<foreignphrase lang="lat">Corvus</foreignphrase></entry>
+</row>
+
+<row>
+<entry spanname=bacru2a><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">bacru</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c114 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c115 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c116 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c117 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c118 colwidth="1*"></colspec>
+<spanspec spanname=fanta1 namest=c114 nameend=c115></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">[<subscript>13</subscript>(<subscript>14</subscript>no</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">da)<subscript>14</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>15</subscript>fau</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">da'i</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>0 (of)</entry>
+<entry>X</entry>
+<entry>in the event of</entry>
+<entry>the</entry>
+<entry>{supposing...}</entry>
+</row>
+
+<row>
+<entry spanname=fanta1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">fanta</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (prevent-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c119 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c120 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c121 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c122 colwidth="2*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>16</subscript>nu</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">[<subscript>17</subscript>(<subscript>18</subscript>do)<subscript>18</subscript></foreignphrase></entry>
+
+<entry></entry>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>19</subscript>se menli&raquo;<subscript>19</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>event(s) of</entry>
+<entry>you</entry>
+<entry>[is, does]</entry>
+<entry>being body(ies) with mind</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">menli</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (of body)</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=2>
+<colspec colnum=1 colname=c123 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c124 colwidth="1*"></colspec>
+<spanspec spanname=menli1 namest=c123 nameend=c124></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>20</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">xamgu)<subscript>20</subscript>]<subscript>17</subscript>&gt;<subscript>16</subscript>)<subscript>15</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>any/some</entry>
+<entry>good thing(s)</entry>
+</row>
+
+<row>
+<entry spanname=menli1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">menli</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (mind(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=4>
+<colspec colnum=1 colname=c125 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c126 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c127 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c128 colwidth="1*"></colspec>
+<spanspec spanname=fanta2 namest=c127 nameend=c128></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>21</subscript>fanta&raquo;<subscript>21</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>22</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>23</subscript>nu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>prevent-ing</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=fanta2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">fanta</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (prevented event(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c129 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c130 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c131 colwidth="1*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">[<subscript>24</subscript>(<subscript>25</subscript>do)<subscript>25</subscript></foreignphrase></entry>
+
+<entry></entry>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>26</subscript>turni&raquo;<subscript>26</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>you</entry>
+<entry>[are, do]</entry>
+<entry>govern-ing</entry>
+</row>
+
+<row>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">turni</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c132 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c133 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c134 colwidth="1*"></colspec>
+<spanspec spanname=turni2 namest=c132 nameend=c133></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>27</subscript>ro</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">da)<subscript>27</subscript>]<subscript>24</subscript>&gt;<subscript>23</subscript>)<subscript>22</subscript>]<subscript>13</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">li'u)<subscript>10</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>every (of)</entry>
+<entry>X</entry>
+<entry>&rdquo;</entry>
+</row>
+
+<row rowsep=1>
+<entry spanname=turni2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">turni</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (governed thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c135 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c136 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c137 colwidth="1*"></colspec>
+<spanspec spanname=xamgu2 namest=c136 nameend=c137></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">ni'o</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">{<subscript>3</subscript>prenu}<subscript>3</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>new topic</entry>
+<entry>the</entry>
+<entry>person(s)</entry>
+</row>
+
+<row>
+<entry spanname=xamgu2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">xamgu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (goodness beneficiary(ies))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=5>
+<colspec colnum=1 colname=c138 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c139 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c140 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c141 colwidth="1*"></colspec>
+<colspec colnum=5 colname=c142 colwidth="1*"></colspec>
+<spanspec spanname=xamgu1 namest=c141 nameend=c142></spanspec>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">&lt;<subscript>4</subscript>noi</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>bebna&laquo;<subscript>6</subscript>]<subscript>5</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">ku'o&gt;<subscript>4</subscript>)<subscript>2</subscript></foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>2</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">se cusku)<subscript>2</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>, which...</entry>
+<entry>being foolish</entry>
+<entry></entry>
+<entry>the</entry>
+<entry>said thing(s)</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry></entry>
+<entry spanname=xamgu1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">xamgu</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (good thing(s))</emphasis></entry>
+
+</row>
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c143 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c144 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c145 colwidth="2*"></colspec>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>8</subscript>{<subscript>9</subscript>pilno</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">se 
+xamgu}<subscript>9</subscript>&raquo;<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>us-ing [type-of]</entry>
+<entry>being goodness beneficiary</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+</informaltable>
+
 </para>
 </sect1>
 </chapter>
