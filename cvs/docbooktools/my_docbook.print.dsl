@@ -46,6 +46,11 @@
 							1.0))
 		sosofo))
 
+;; by default, symbol text is just normal text
+(define ($symbol-text$  #!optional (sosofo (process-children)))
+	(make sequence
+		sosofo))
+		
 ;; you may have to change this to a non-unicode font if in RTF; 
 ;; cf. paperback stylesheet, *.silencoding.doc.xml entities
 (define ($unicode-text$ #!optional (sosofo (process-children)))
@@ -81,6 +86,7 @@
       ((equal? role (normalize "selbri")) ($italic-seq$))
       ((equal? role (normalize "placestruct")) ($italic-seq$))
       ((equal? role (normalize "ipa")) ($unicode-text$))
+      ((equal? role (normalize "symbol")) ($symbol-text$))
       (else ($italic-seq$)))))
 
 
@@ -197,6 +203,10 @@
     (make paragraph
       use: linespecific-style
       keep: 'page ;; Added
+;; added: NN
+		keep-with-next?: #t
+;; end added NN (will keep with next all paras within literallayout;
+;; unfortunately overcompensates, because it will also include the following para
       space-before: (if (and (string=? (gi (parent)) (normalize "entry"))
  			     (absolute-first-sibling?))
 			0pt
@@ -677,10 +687,12 @@
 	;; We've run out of nodes. We still might be the first paragraph
 	;; preceded by a title if the parent element has an implied
 	;; title.
-; added further: first para within informalexample is also considered firstpara: NN
+; added further: first para within informalexample or warning is also considered firstpara: NN
 	(if (and 
 			(equal? (element-title-string (parent para)) "")
-			(not (equal? (gi (parent para)) (normalize "informalexample"))))
+			(and (not (equal? (gi (parent para)) (normalize "informalexample")))
+			(not (equal? (gi (parent para)) (normalize "warning"))))
+			)
 	    #f  ;; nope
 	    #t) ;; yep
 	(if (or (equal? (gi nd) (normalize "title"))
@@ -695,6 +707,8 @@
         (equal? (gi nd) (normalize "orderedlist"))
         (equal? (gi nd) (normalize "variablelist"))
         (equal? (gi nd) (normalize "example"))
+        (equal? (gi nd) (normalize "formalpara"))
+        (equal? (gi nd) (normalize "simplelist"))
         (equal? (gi nd) (normalize "table"))
 ; even more: if the last child of the preceding paragraph was an informalexample etc,
 ; still call it first para: it's resumption after indentation: NN
@@ -702,6 +716,9 @@
 			(equal? (gi nd) (normalize "para"))
 			(or
             	(equal? (gi (node-list-last (children nd))) (normalize "informalexample"))
+            	(equal? (gi (node-list-last (children nd))) (normalize "example"))
+            	(equal? (gi (node-list-last (children nd))) (normalize "formalpara"))
+            	(equal? (gi (node-list-last (children nd))) (normalize "simplelist"))
                 (equal? (gi (node-list-last (children nd))) (normalize "itemizedlist"))
                 (equal? (gi (node-list-last (children nd))) (normalize "orderedlist"))
                 (equal? (gi (node-list-last (children nd))) (normalize "variablelist"))
@@ -799,6 +816,32 @@
                       (+ %block-start-indent% (inherited-start-indent)))
 	space-before: %block-sep%
     space-after:  %block-sep%))
+
+;; space-after on quanda answer is excessive; keep with next should be
+;; upstream
+;; Adam Di Carlo, adam@onshore.com
+(element question
+  (let* ((chlist   (children (current-node)))
+         (firstch  (node-list-first chlist))
+         (restch   (node-list-rest chlist))
+	 (label    (question-answer-label (current-node))))
+    (make sequence
+      (make paragraph
+	space-after: (/ %para-sep% 2)
+	keep-with-next?: #t
+	(make sequence
+	  (make sequence
+	    font-weight: 'bold
+	    (if (string=? label "")
+		(empty-sosofo)
+		(literal label " ")))
+	  (make sequence
+	  	font-weight: 'bold ;; also bolden question itself! NN
+	    (process-node-list (children firstch)))
+	  )
+      (process-node-list restch)))))
+
+
 
 
 </style-specification-body>

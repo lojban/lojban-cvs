@@ -10,7 +10,14 @@
 ;; [open]jade and Word
 (define ($unicode-text$ #!optional (sosofo (process-children)))
 	(make sequence
-		font-family-name: "SILSophiaIPA"
+		font-family-name: "SILSophiaIPA-Regular"
+		sosofo))
+
+;; ditto for Greek text: Mac rtf won't talk to Unicode Greek, and PC rtf disrupts
+;; fonts
+(define ($symbol-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Symbol"
 		sosofo))
 
 
