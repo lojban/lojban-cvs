@@ -1,12 +1,14 @@
 <bookinfo>
-   <title>What Is Lojban?</title><subtitle><foreignphrase lang="art-lojban">.i la lojban mo</foreignphrase></subtitle>
+   <title>What Is Lojban?</title><subtitle><foreignphrase lang="art-lojban">.i la lojban. mo</foreignphrase></subtitle>
    <authorgroup>
    <editor><firstname>Nick</firstname><surname>Nicholas</surname></editor>
    <editor><firstname>John</firstname><surname>Cowan</surname></editor>
    </authorgroup>
 <pubdate>2002</pubdate>
 <publisher><publishername>The Logical Language Group</publishername></publisher>
-
+<legalnotice><para>Copyright &copy; 2003 by  the Logical Language Group. This material may be distributed only subject to the terms and conditions set forth in the Open Publication License, v1.0 or later (the latest version is presently available at <ulink url="http://www.opencontent.org/openpub/"><computeroutput>http://www.opencontent.org/openpub/</computeroutput></ulink>).
+</para>
+</legalnotice>
  </bookinfo>
 
 

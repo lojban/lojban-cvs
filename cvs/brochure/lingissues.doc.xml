@@ -1,6 +1,6 @@
-<chapter id="lingissues"><title>Linguistic Issues of Lojban</title><subtitle>
+<chapter id="lingissues"><title>Linguistic Issues pertaining to Lojban</title><subtitle>
 <foreignphrase lang="art-lojban">bauske se casnu sera'a le lojbo</foreignphrase>
-</subtitle><titleabbrev>Linguistic Issues of Lojban</titleabbrev>
+</subtitle><titleabbrev>Linguistic Issues, Lojban</titleabbrev>
 
 <qandaset>
 
@@ -21,11 +21,12 @@ highly expressive and as culturally neutral as possible, then see what
 people from different cultures do with it.</para> 
 
 <para>To give an example, in most
-European languages time and gender are very important &mdash; you can say
+European languages tense and gender are very important,
+and need to be made explicit in most utterances &mdash; you can say
 <quote>She goes</quote>, <quote>It went</quote>, <quote>He'll go</quote>
 and so on; but just to say <quote>She/he/it go</quote>, with no particular
 gender or time in mind, sounds strange. In Chinese, on the other hand,
-<foreignphrase lang="zho">ta qu</foreignphrase> (<quote
+<foreignphrase lang="zho">t&a1; q&u4;</foreignphrase> (<quote
 role="gloss">he/she/it go</quote>) is perfectly normal. In Lojban there are plenty
 of words to show the time of an action, its length, how it happens and so
 on &mdash; but you don't have to use any of them. If you really wanted to,
@@ -45,7 +46,7 @@ the female-human past-long-time-distance-long-time-interval-regularly go
 
 <para>Notice that you can translate the first example into English
 (more-or-less) but the second one just won't go into English, or most
-European languages. If you're European and this strikes you as odd, you
+European languages. If you speak a European language and this strikes you as odd, you
 may have just witnessed a Sapir&ndash;Whorf effect! Understanding the potential
 for Sapir&ndash;Whorf effects may lead to better inter-cultural understanding,
 promoting communication and peace. </para>
@@ -60,7 +61,7 @@ the nature of the language, as opposed to the cultural associations.
 
 
 <para>The Sapir&ndash;Whorf hypothesis was important in linguistics in the 1950s,
-but interest fell off partially because testing it properly was so
+but interest fell off afterwards, partially because testing it properly was so
 difficult. Lojban allows a new approach to such testing. Obviously, if a
 culture-independent language could be taught to groups of people, the
 effects of language could more easily be separated from those of culture. 
@@ -299,7 +300,7 @@ grapheme for every phoneme and vice versa, and there are no supra-segmental
 phonemes (such as tones or pitch) which are not represented in the writing
 system. Lojban's phonology contains significant pauses that affect word
 boundaries, and allows pauses between any two words. The optional written
-representation for pause is a period, although pauses can be unambiguously
+representation for pause is a period, although required pauses can be unambiguously
 identified in written text from the morphological rules alone. Lojban also
 uses stress significantly, and again there is a written representation
 (capitalization of the affected vowel or syllable), which is omitted in
@@ -309,13 +310,13 @@ applies.</para>
 <para>Lojban is morphologically unambiguous in two senses: a string of
 phonemes (including explicit pause and stress information) can be broken
 up into words in only one way, and each compound word can be converted to
-and from the phrase from which it is derived in only one way.</para>
+and from its constituents in only one way.</para>
 
 <para>The syntactic unambiguity of Lojban has been established by the use
 of a LALR(1) parser generator<indexterm id="idx414">
 <primary>grammar, formal</primary>
 </indexterm> which, given a series of simple
-pre-parser operations, produces a unique parse for every Lojban text. In
+pre-parser operations, produces a unique parse for every Lojban text that follows its grammatical norms. In
 addition, the existence of a defined <quote role="socalled">phrase
 structure rule</quote> grammar underlying the language (and tested via the
 parser generator) guarantees that there are no sentences where distinct
@@ -422,7 +423,7 @@ role="term">gismu</emphasis></foreignphrase>),<indexterm id="idx418">
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase></primary>
 </indexterm> which are not necessarily to
-be taken as semantically simple. Lojban does not claim to exhibit a
+be taken as semantically simple themselves. Lojban does not claim to exhibit a
 complete and comprehensive semantic theory which hierarchically partitions
 the entire semantic space of human discourse. Furthermore, while some
 <foreignphrase lang= "art-lojban"><emphasis
@@ -436,7 +437,7 @@ that everything human beings talk about can be built up using appropriate
 role="term">tanru</emphasis></foreignphrase>. This claim is being tested in
 actual usage, and root words can still be added if necessary (after careful
 consideration), if genuine gaps are found. For the most part, the few gaps
-which are now recognized (about 20 words have been added in the past
+which have been recognized (about 20 words have been added in the past
 decade) reflect the completing of semantic sets. It is no longer permitted
 for language users to create new <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> root words (in the standard
@@ -535,10 +536,10 @@ role="term">tanru</emphasis></foreignphrase> incorporating <foreignphrase
 lang="art-lojban">nixli ckule</foreignphrase> as one of its components, or
 else a non-<foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase> construct, probably involving
-a Lojban relative clause. As a comparision, such interpretations as <quote
+a Lojban relative clause. By way of comparison, such interpretations as <quote
 role="gloss">school containing girls</quote>, <quote role="gloss">school whose
 students are girls</quote>, and <quote role="gloss">school to train persons to
-behave like girls</quote> are plausible with minimal context because these
+behave like girls</quote> are plausible with minimal context, because these
 renderings do not involve additional restriction.<indexterm id="idx423" startref="idx422" class="endofrange"/></para> </answer>
 </qandaentry>
 
@@ -564,7 +565,7 @@ language?
 vagueness. A Lojban aphorism states that the price of infinite precision
 is infinite verbosity, as indeed Wilkins'<indexterm id="idx426">
 <primary>Wilkins, John</primary>
-</indexterm> Philosophical Language
+</indexterm> Philosophical Language (1668)
 illustrates. Lojban's allowable vagueness permits useful sentences to be
 not much longer than their natural-language counterparts.</para>
 
@@ -593,8 +594,8 @@ same expressive power as natural languages. Through the appearance of
 this one highly unusual feature, the intent of the Loglan/Lojban Project has
 been to maximize one difference between Lojban and natural languages
 without compromising speakability and learnability. This difference
-could then be tested by considering whether the use of first-order
-predicate logic as a syntactic base aided fluent Lojban speakers in the
+could then be investigated by considering whether the use of first-order
+predicate logic as a syntactic base has aided fluent Lojban speakers in the
 use of this logic as a reasoning tool.</para>
 
 <para>Lojban
@@ -763,7 +764,7 @@ including Lojban, is the tendency to fill up the available space of
 structure words, making words of similar function hard to distinguish in
 noisy environments. This has happened because of the concern that Lojban allow
 the speaker to be as precise as they choose to be in using Lojban grammar,
-without privileging one language group's choices in what to express grammatically
+without privileging one language group's choices of what to express grammatically
 over another's. The phonological revisions made when Lojban split
 from Institute Loglan allowed for many more structure words, but
 once again the list has almost entirely filled.</para>
@@ -771,7 +772,8 @@ once again the list has almost entirely filled.</para>
 <para>In some cases, notably the digits 0&ndash;9, an effort has been made
 to separate them phonologically. The vocatives (including the words used
 for communication protocol, e.g. over the radio) are also maximally
-separated phonologically. Many other function words are based on shortened
+separated phonologically. Many other <foreignphrase lang="art-lojban"><emphasis
+role="term">cmavo</emphasis></foreignphrase> are based on shortened
 forms of corresponding <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> roots, however, and are not
 maximally separated.</para>
@@ -830,7 +832,8 @@ for natural languages?
 </indexterm> in the sense that there are
 several alternative surface structures that have the same semantics and
 therefore, presumably, the same deep structure. What Lojban does not have is
-identical surface structures with differing deep structures, so a
+identical surface structures with differing deep structures (leading to
+syntactic ambiguity), so a
 surface-structure&ndash;only grammar is sufficient to develop an adequate
 parsing for every text. Knowledge of transformations is required only to
 get the semantics right.
@@ -861,8 +864,8 @@ the effect) will serve, since these require that either the cause, or the
 effect, or both be asserted. Instead, the correct translation of the
 English involves <quote role="gloss">cause</quote> as a predicate, and might be paraphrased <quote>The
 event of your watering it is a cause of the event of its future 
-growing. (<foreignphrase
-lang="art-lojban">roda zo'u lenu do jacysabji da cu rinka lenu da ba banro</foreignphrase>)</quote><indexterm id="idx440" startref="idx439" class="endofrange"/>
+growing.</quote> (<foreignphrase
+lang="art-lojban">roda zo'u lenu do jacysabji da cu rinka lenu da ba banro</foreignphrase>)<indexterm id="idx440" startref="idx439" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -887,7 +890,7 @@ person pronoun logically equivalent to <foreignphrase
 lang="art-lojban">do</foreignphrase>, the normal Lojban word for <quote 
 role="gloss">you</quote>, but
 conveying an imperative sense. Thus, an imperative can be understood as
-commanding the listener to make the assertion true which results when
+commanding the listener to make true the assertion which results when
 <foreignphrase lang="art-lojban">ko</foreignphrase> is replaced by
 <foreignphrase lang="art-lojban">do</foreignphrase>.</para>
 
@@ -900,6 +903,13 @@ sisti</foreignphrase></quote> true!</quote>. This allows logical connection to b
 used in imperatives without loss of clarity or generality; the logical
 connection applies to the assertion which is in effect embedded in the
 imperative.</para>
+
+<para>So <foreignphrase lang="art-lojban">ko
+sisti .inaja mi ceclygau</foreignphrase> would seem to mean <quote>Stop or I'll
+shoot</quote>, but actually means <quote>bring about a situation whereby,
+if you don't stop, I'll shoot</quote> &mdash; not quite the same thing. The sense
+of <quote>stop or I'll shoot</quote> is properly conveyed by the phrase <foreignphrase lang="art-lojban">.i do bazi sisti .ijoinai mi ba
+ceclygau</foreignphrase>, <quote>Either you will stop immediately, or I will shoot.</quote>.</para>
 
 <para>A minor advantage of this style of imperative is that tensed
 imperatives like <foreignphrase lang="art-lojban">ko ba
@@ -936,7 +946,7 @@ generally useful results.
 
 <qandaentry>
 <question>
-<para>Since tense is optional in Lojban, how are a mixture of tensed and
+<para>Since tense is optional in Lojban, how is a mixture of tensed and
 untensed sentences to be interpreted?
 </para>
 </question>
@@ -962,8 +972,8 @@ appropriate, tense need not be respecified in each sentence. In narration,
 this assumption is modified to the extent that each sentence is assumed to
 refer to a slightly later time than the previous sentence, although with
 explicit tense markers it is possible to tell a story in reversed or
-scrambled time order. Therefore, each predication does have a tense, one
-that is implicit if not necessarily explicit.<indexterm id="idx445" startref="idx444" class="endofrange"/></para> </answer>
+scrambled time order. Therefore, each predication does have a tense, which
+is implicit if not necessarily explicit.<indexterm id="idx445" startref="idx444" class="endofrange"/></para> </answer>
 </qandaentry>
 
 
@@ -1003,14 +1013,16 @@ these five notions (whether specified in a particular sentence or not) is
 not an instance of <foreignphrase lang="art-lojban">klama</foreignphrase>.
 The predicate <foreignphrase lang="art-lojban">cliva</foreignphrase>
 (<quote role="gloss">leave</quote>) has the same places except for the
-destination; it is not necesssary to be going anywhere in particular for
+destination; it is not necessary to be going anywhere in particular for
 <foreignphrase lang="art-lojban">cliva</foreignphrase> to hold. <foreignphrase
 lang="art-lojban">litru</foreignphrase> (<quote
 role="gloss">travel</quote>) has neither origin nor destination, merely,
 the actor, the route, and the means. The predicate <foreignphrase
 lang="art-lojban">cadzu</foreignphrase> (<quote role="gloss">walk</quote>),
 involves a walker, a surface to walk on, and a means of walking (typically legs). One may
-walk without an origin or a destination (in circles, for instance).</para>
+walk without an origin or a destination (in circles, for instance); but walking in
+circles is not considered in Lojban to be <quote role="gloss">going</quote>,
+as there is nowhere one is going to.</para>
 
 <para>For describing
 the act of walking from somewhere to somewhere, the <foreignphrase
@@ -1045,7 +1057,7 @@ of a foreign name quoted as it stands with the cmavo <foreignphrase lang="art-lo
 ly.  spaghetti .ly.</foreignphrase> is a predicate with the place structure <quote>x<subscript>1</subscript> is a
 quantity of spaghetti.</quote> The foreign term is entirely unchanged.
 However, it requires five extra syllables and two pauses, and its
-pronunciation is uncertain.</para>
+pronunciation is unspecified.</para>
 
 <para>Stage 2 involves changing the foreign name to a Lojbanized name: <foreignphrase lang="art-lojban">me la
 spagetis.</foreignphrase> This saves three syllables and one pause over Stage 1, and
@@ -1054,7 +1066,9 @@ use repeatedly.</para>
 
 <para>Even so, one of these expedients is often quite sufficient when a word
 is needed quickly in conversation. This can make it easier to get by
-without a full command of the Lojban vocabulary.</para>
+without a full command of the Lojban vocabulary &mdash; especially this early
+in the history of the language, when a wide range of vocabulary is yet to be
+devised.</para>
 
 <para>Where a little more universality is desired, the word to be borrowed
 must be Lojbanized into one of several permitted forms. A <foreignphrase lang="art-lojban"><emphasis
@@ -1075,12 +1089,12 @@ rather than a phrase.</para>
 role="term">rafsi</emphasis></foreignphrase> used in a Stage 3 <foreignphrase lang="art-lojban"><emphasis
 role="term">fu'ivla</emphasis></foreignphrase> categorizes or limits its meaning;
 otherwise a word having several different jargon meanings in other
-languages would require the word-inventor to choose which meaning should
+languages would require the word-inventor to choose which single meaning should
 be assigned to the <foreignphrase lang="art-lojban"><emphasis
-role="term">fu'ivla</emphasis></foreignphrase>, since <foreignphrase lang="art-lojban"><emphasis
-role="term">fu'ivla</emphasis></foreignphrase> (like other <foreignphrase lang="art-lojban"><emphasis
-role="term">brivla</emphasis></foreignphrase>) are not
-permitted to have more than one definition. Stage 3 borrowings are at
+role="term">fu'ivla</emphasis></foreignphrase>. (<foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase>, like other <foreignphrase lang="art-lojban"><emphasis
+role="term">brivla</emphasis></foreignphrase>, are not
+permitted to have more than one definition.) Stage 3 borrowings are at
 present the most common kind of <foreignphrase lang="art-lojban"><emphasis
 role="term">fu'ivla</emphasis></foreignphrase>.<indexterm id="idx447aa" startref="idx446aa" class="endofrange"/></para>
 
@@ -1094,7 +1108,8 @@ role="term">fu'ivla</emphasis></foreignphrase> for <quote role="gloss">spaghetti
 <foreignphrase lang="art-lojban">spageti</foreignphrase>; however, most Stage 4 words require a much greater distortion
 of the original form of the word. Stage 4 <foreignphrase lang="art-lojban"><emphasis
 role="term">fu'ivla</emphasis></foreignphrase> have to pass several
-careful morphological tests and cannot easily be devised during conversation.<indexterm id="idx447a" startref="idx446a" class="endofrange"/></para>
+careful morphological tests to eliminate confusion with existing words and phrases,
+and cannot easily be devised during conversation.<indexterm id="idx447a" startref="idx446a" class="endofrange"/></para>
 
 </answer> </qandaentry>
 
@@ -1105,7 +1120,7 @@ careful morphological tests and cannot easily be devised during conversation.<in
 <para>The Lojban phonological system is hard to use for English-speakers (to say
 nothing of Japanese-speakers), due to the large numbers of
 consonant clusters. How can a language be
-appropriate as an international auxiliary language when it is difficult
+culturally neutral when it is difficult
 to pronounce?
 </para>
 </question>
@@ -1120,8 +1135,8 @@ only 4 falling and 10 rising diphthongs, and the rising diphthongs
 are used only in names and in paralinguistic grunts representing
 emotions. All 25 possible vowel combinations are used, but they are separated by
 a voiceless vocalic glide written with an apostrophe, thus preventing
-diphthongization. English-speakers think of this glide as /h/, and even
-speakers of languages like French, which has no /h/, can manage this
+diphthongization. English-speakers think of this glide as /<emphasis role="ipa">h</emphasis>/, but even
+speakers of languages like French, which has no /<emphasis role="ipa">h</emphasis>/, can manage this
 sound intervocalically.</para>
 
 <para>Consonant clusters<indexterm id="idx450">
@@ -1138,11 +1153,11 @@ role="socalled">bad</quote> medial clusters wherever the morphology rules
 would otherwise produce them.&IPAASCIIdisclaimer;</para>
 
 <para>The difficulties with the variety of permitted initial sounds are
-not as great as one might think. Lojban's morphology makes pronouncing these words easier
-than they first appear. Initial consonant clusters occur only in content
+not as great as one might think. 
+Initial consonant clusters occur only in content
 words (predicates) and names. These words seldom are spoken in
 isolation; rather, they are expressed in a speech stream with a rhythmic
-stress pattern, preceded (and followed) by words that end with a vowel.
+stress pattern, typically preceded by words that end with a vowel.
 The unambiguous morphology allows the words to be broken apart even if
 run together at a very high speech rate. Meanwhile, though, the final
 vowel of the preceding word serves to buffer the cluster, allowing it to
@@ -1151,7 +1166,7 @@ be pronounced as a much easier medial cluster.<indexterm id="idx451">
 </indexterm> Thus <foreignphrase
 lang="art-lojban">le mlatu</foreignphrase> (<quote 
 role="socalled">the
-cat</quote>), while officially pronounced /<emphasis role="ipa">le,mla,tu</emphasis>/, can be pronounced as
+cat</quote>), while officially pronounced /<emphasis role="ipa">le,mla,tu</emphasis>/, can be pronounced as the easier
 /<emphasis role="ipa">lem,la,tu</emphasis>/ with no confusion to the listener.</para>
 
 <para>In addition, the buffering sound, IPA [<emphasis role="ipa">&Ibarredipa;</emphasis>] (the
@@ -1188,22 +1203,22 @@ any meaningful correlation with learnability of the words. Informal <quote role=
 were conducted early in the Loglan Project, leading to the selection of the
 current algorithm, but these tests have never been documented or subjected
 to review. The Logical Language Group has proposed formal tests of the
-algorithm, and is instrumenting its software used for teaching vocabulary
-to allow data to be gathered that will confirm or refute this
-hypothesis. Gathering this data may incidentally provide additional
-insights into the vocabulary learning process, enabling Lojban to serve the
-additional purpose of being a test bed for research in second language
+algorithm, and has instrumented its vocabulary teaching software
+to allow data to be gathered that can confirm or refute this
+hypothesis. Gathering this data may incidentally provide
+insights into the vocabulary learning process, enabling Lojban to serve as
+a test bed for research in second language
 acquisition.</para>
 
 <para>In any event, the word-making algorithm used for Lojban has the clear
 benefit of ensuring that phonemes occur in the language in rough proportion
-to their occurence in the source natural languages, and in patterns and
-orders that are similar to those in the source languages (thus the first
+to their occurrence in the source natural languages, and in patterns and
+orders similar to those in the source languages. (Thus the first
 syllable of Lojban <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> most frequently ends in /n/,
-reflecting the high frequency of syllable ending /n/ in Chinese). The
+reflecting the high frequency of syllable-ending /n/ in Chinese.) The
 result is a language that is much more pleasant-sounding than, for example,
-randomly chosen phoneme strings, while having at least some arguable claim
+randomly chosen phoneme strings, while having at least some claim
 to being free of the European cultural bias found in the roots of most
 other constructed languages.</para> </answer> </qandaentry>
 
@@ -1216,52 +1231,64 @@ in the process: Chinese, English, Hindi, Spanish, Russian, Arabic.
 (Natural language forms below are given in this order, labeled by
 single letters.) In some cases, two different terms from one or another
 language were used, to see which would have the higher score. The terms
-were then converted to Lojban phonology, with the additional step of
-reducing affricates to their corresponding fricatives, to avoid a false match
-between the stop portion of a source-language affricate and a Lojban stop.
+were then converted to Lojban phonology, with the
+affricates reduced to their corresponding fricatives, to avoid a false match
+between the stop segment of a source-language affricate and a Lojban stop.
 Morphological affixes were removed, also to avoid false matches.</para>
 
 <para>To score a candidate <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase>, it was compared with each of the six
 source-language words to produce six raw scores. The raw score for a
 particular source word is roughly the number of letters it has in common
-(in the same order) with the candidate gismu. (If there are two or fewer
+(in the same order) with the candidate <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase>. (If there are two or fewer
 letters in common, special rules apply.) The raw score was then divided
 by the length of the source-language word, and multiplied by a weight
-that reflected the relative number of speakers of the source language at
-the time the candidate was devised.
+reflecting the relative number of speakers of the source language at
+the time the candidate <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> was devised.
 The sum of the six adjusted scores is the final score for that candidate
-gismu, typically expressed as a percentage.</para>
+<foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase>, typically expressed as a percentage.</para>
 
 <para>For example, the candidate <foreignphrase lang="art-lojban">mamta</foreignphrase> for <quote role="gloss">mother</quote> was built from the
 following six source words, in Lojbanized form: C <foreignphrase lang="zho">ma</foreignphrase>, E <foreignphrase lang="eng">mam</foreignphrase>, H <foreignphrase lang="hin">mata</foreignphrase>,
 S <foreignphrase lang="spa">mam</foreignphrase>, R <foreignphrase lang="rus">mat</foreignphrase>, A <foreignphrase lang="ara">am</foreignphrase>. (The English forms are based on American English
 pronunciation and lexis.) The raw scores are 2, 3, 4, 3, 3, and 2
-respectively, leading to a final score of 100%.  This word cannot be
+respectively, leading to a final score of 100%.  Given the metrics of Lojban design,
+this word cannot be
 improved on!</para>      
 
-<para>At the other end of the spectrum is <foreignphrase lang="art-lojban">ciblu</foreignphrase>, the Lojban gismu for
+<para>At the other end of the spectrum is <foreignphrase lang="art-lojban">ciblu</foreignphrase>, the Lojban <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> for
 <quote role="gloss">blood</quote>. The source words here were C <foreignphrase lang="zho">ciue</foreignphrase>, E <foreignphrase lang="eng">blad</foreignphrase>, H <foreignphrase lang="hin">rakt</foreignphrase>, S <foreignphrase lang="spa">sangr</foreignphrase>,
 R <foreignphrase lang="rus">krof</foreignphrase>, A <foreignphrase lang="ara">dam</foreignphrase>. The raw scores are 3, 2, 0, 0, 0, 0 respectively; the
 adjusted scores are 0.27, 0.105, 0, 0, 0, 0; and the final score is 37.5%.
 This is quite low, since it reflects only the Chinese and English sources,
-but was still superior to all other possibilities.</para>
+but was still superior to all other possibilities devised.</para>
 
-<para>The gismu <foreignphrase lang="art-lojban">cukta</foreignphrase>, meaning <quote role="gloss">book</quote>, works out considerably better.
+<para>The <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> <foreignphrase lang="art-lojban">cukta</foreignphrase>, meaning <quote role="gloss">book</quote>, works out considerably better.
 Its sources are C <foreignphrase lang="zho">cu</foreignphrase>, E <foreignphrase lang="eng">buk</foreignphrase>, H <foreignphrase lang="hin">pustak</foreignphrase>, S <foreignphrase lang="spa">libr</foreignphrase>, R <foreignphrase lang="rus">knik</foreignphrase>, A <foreignphrase lang="ara">kitab</foreignphrase>, with raw
 scores of 2, 2, 3, 0, 0, 3 and a final score of 57.2%. Several different
 language families blended nicely to form this word.</para>
 
-<para>Other gismu show similar patterns. <foreignphrase lang="art-lojban">prenu</foreignphrase>, for example, meaning
+<para>Other <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> show similar patterns. <foreignphrase lang="art-lojban">prenu</foreignphrase>, for example, meaning
 <quote role="gloss">person</quote>, is a mixture of Chinese <foreignphrase lang="zho">ren</foreignphrase> and the <quote role="gloss">person</quote> root used
 in English, Spanish, and Russian. <foreignphrase lang="art-lojban">vanju</foreignphrase>, for <quote role="gloss">wine</quote> (Lojbanized as
 <foreignphrase lang="eng">vain</foreignphrase>) matches well with every source language except Arabic, and even
 with French <foreignphrase lang="fra">vin</foreignphrase> (which would Lojbanize as <foreignphrase lang="fra">van</foreignphrase>), which is not a source
 language at all. </para>                  
 
-<para>Finally, there is <foreignphrase lang="art-lojban">jmive</foreignphrase>, the gismu for <quote role="gloss">(a)live</quote>, which owes its form
+<para>Finally, there is <foreignphrase lang="art-lojban">jmive</foreignphrase>, the <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> for <quote role="gloss">(a)live</quote>, which owes its form
 to a transcription error: the English source word was not Lojbanized to
-<foreignphrase lang="eng">laiv</foreignphrase> but left as <foreignphrase lang="eng">live</foreignphrase>.<indexterm id="idx453" startref="idx452" class="endofrange"/></para>
+<foreignphrase lang="eng">laiv</foreignphrase> but left as <foreignphrase lang="eng">live</foreignphrase>. That this form has been retained in use shows that the
+etymology of Lojban <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> is now of secondary importance:
+retaining a stable vocabulary has become more important for the success of the
+language than fine-tuning its recognizability.<indexterm id="idx453" startref="idx452" class="endofrange"/></para>
 
 
 </answer></qandaentry>
@@ -1288,10 +1315,10 @@ means fixed; the principal requirement is that at least one argument
 precede the predicate, but it is perfectly all right for all of the
 arguments to do so, leading to an SOV word order<indexterm id="idx456">
 <primary>SOV order</primary>
-</indexterm> rather than the canonical
-SVO (subject&ndash;verb&ndash;object).<indexterm id="idx455">
+</indexterm> rather than the currently canonical
+SVO (subject&ndash;verb&ndash;object)<indexterm id="idx455">
 <primary>SVO order</primary>
-</indexterm> VSO order is expressible using only one extra particle.
+</indexterm>: the two orders are equally unmarked syntactically. VSO order is expressible using only one extra particle.
 In two-argument predicates, OSV, OVS, and VOS are also possible with only
 one particle, and various even more scrambled orders (when more than
 two-place predicates are involved) can also be achieved. </para> </answer>
@@ -1322,8 +1349,7 @@ at the appropriate location to represent whatever is being elaborated by
 the clause. </para> </answer> </qandaentry>
 -->
 
-<qandaentry> <question> <para>If Lojban is to be used as an
-international auxiliary language, it must be culturally neutral. But many
+<qandaentry> <question> <para>Lojban claims to be culturally neutral. But many
 of its conceptual distinctions, for example the color set, are clearly
 biased towards particular languages. There is a word for <quote
 role="gloss">brown</quote>, which is a color not used in Chinese (although
@@ -1346,7 +1372,7 @@ role="gloss">aqua</quote> in their idiolect, whereas others lump that color with
 <quote role="gloss">blue</quote>, and still others with <quote 
 role="gloss">green</quote>. Understanding is
 still possible, perhaps with some effort. The Lojban community will have to
-work out such problems for itself; there are sufficent clarifying
+work out such problems for itself; there are sufficient clarifying
 mechanisms to resolve differences in idiolect or style between individuals.
 The unambiguous syntax and other constraints defined in the language
 prescription should make such differences much more easily resolvable than,
@@ -1381,18 +1407,18 @@ be used, and therefore will tend to constitute the backgrounded features
 of the language</quote>. By making the unmarked features those which are most
 unlike natural-language features, a new set of thought habits will be
 created (if Sapir&ndash;Whorf is true) which will be measurably different from
-those possessed by non-Lojban speakers. If Sapir&ndash;Whorf is false, which
+that of non&ndash;Lojban-speakers. If Sapir&ndash;Whorf is false, which
 is the null hypothesis for Lojban purposes, no such distinctions in
 thought habits will be detectable.</para>
 
 <para>Further elaboration of Loglan/Lojban Project thinking about Sapir&ndash;Whorf has
-led to another alternate formulation: <quote>The constraints imposed by
+led to an alternate formulation: <quote>The constraints imposed by
 structural features of language impose corresponding constraints on
 thought patterns.</quote> In attempting to achieve cultural neutrality, Lojban
 has been designed to minimize many structural constraints found in
 natural languages (such as word order, and the structural distinctions
-between noun, verb, and adjective). If Sapir&ndash;Whorf is true, there should
-be measurable broadening in thought patterns (possibly showing up as
+between noun, verb, and adjective). If Sapir&ndash;Whorf is true, this should result in
+measurable broadening in thought patterns (which may be manifested as
 increased creativity or ability to see relationships between
 superficially unrelated concepts). Again, the null hypothesis is that no
 measurable distinction will exist.<indexterm id="idx461" startref="idx460" class="endofrange"/>
@@ -1413,8 +1439,8 @@ predicate logic may not be enough to establish <quote role="socalled">ease of th
 <para>Perhaps not. However, the Sapir&ndash;Whorf hypothesis may be
 confirmed if experiments show that Lojban-speakers have a greater
 facility with predicate logic than non&ndash;Lojban-speakers. That would
-indicate that language (natural language) limits thought in ways that
-Lojban-speakers can bypass. This form of test is not free of its own
+indicate that (natural) language limits thought in ways that
+Lojban-speakers can bypass. This form of test is admittedly not free of its own
 difficulties, which have been discussed elsewhere.
 </para>
 </answer>
@@ -1423,15 +1449,18 @@ difficulties, which have been discussed elsewhere.
 <qandaentry>
 <question>
 <para>What scientific and linguistic interest can Lojban possibly have,
-since it is entirely a product of conscious design?</para>
+since it is entirely a product of conscious design? Its study will only reveal
+what its designers already put in the language &mdash; which surely tells us
+little about language as it actually occurs among humans.</para>
 </question>
 
 <answer>
 <para><indexterm id="idx460a" class="startofrange" significance="preferred">
 <primary>linguistic testing</primary>
-</indexterm>In a highly complex system (which any language, even an artificial
-one, is), the interaction of the design features displays properties that
-are more than the sum of its parts. Thus it is possible that all
+</indexterm>Any language is a highly complex system&mdash;even an artificial
+language, as long as it is non-trivial. (This certainly holds true
+for Lojban!) In such a system, the interaction of the design features displays properties that
+are more than the sum of its parts. For example it is possible that all
 language is merely a system comprised of a bunch of neurons releasing
 neurotransmitters. Biochemistry may eventually devise a complete
 explanation for the neuronic process<indexterm id="idx460b">
@@ -1449,14 +1478,16 @@ concept of <quote role="socalled">system</quote>.</para>
 you how that artificial language is used communicatively. Consider this
 question: Given multiple ways of communicating the same idea, do users
 of the language choose particular forms over others, and why? This is
-similar to a question that is commonly asked about natural languages.</para>
+similar to a question commonly asked about natural languages.</para>
  
-<para>However, a simpler system which can be more fully understood may serve
-as an excellent model for a less understood, more complex system. Thus
+<para>However, a simpler system, which can be understood more fully, may serve
+as an excellent model for a less well understood, more complex system. Thus
 the simpler system could be examined for parallels to hypotheses about
 the more complex system. Examination of the simpler system may suggest
 properties to look for in the more complex system, or it may even
-suggest hypotheses that can be tested in the more complex system.</para>
+suggest hypotheses that can be tested in the more complex system. Constructing
+simplified models is after all how much of science &mdash; including a good deal
+of linguistics &mdash; is conducted.</para>
 
 <para>A hot topic in parts of the Lojban community is whether the language
 has, or should have, an underlying semantic theory.<indexterm id="idx460d">
@@ -1464,7 +1495,7 @@ has, or should have, an underlying semantic theory.<indexterm id="idx460d">
 <secondary>semantic theory</secondary>
 </indexterm> If one exists, it
 is certainly not as developed or prescribed as the syntactic design and
-theory. Eliminating syntactic ambiguity allows a more direct
+theory of the language. Eliminating syntactic ambiguity, however, does allow a more direct
 examination of semantic ambiguities, including the properties of
 modification and restriction, resolution of anaphora, and identification
 of ellipses. Any semantic theories proposed for natural language can be
@@ -1472,22 +1503,22 @@ looked at in terms of semantic usage in the simpler Lojban system.</para>
 
 <para>As a model of a natural language, it seems likely that any theory that
 is <emphasis>not</emphasis> true of Lojban is at the very least doubtful with regard
-to natural language, thus allowing partial verification of theories. If
-the theory is true of natural language, then you have found evidence
+to natural language, which would allow partial verification of such theories. If
+the theory is demonstrably true of natural language, then you have found evidence
 that Lojban is in some way unnatural.<indexterm id="idx460ee">
 <primary>naturalness</primary>
-</indexterm> You then try to explain which of
+</indexterm> You would then need to explain which of
 the (fully-known) design features of Lojban causes this unnaturalness.
-By counterexample that design feature is not a feature of natural
-languages, demonstrating something about natural language by studying an
+Given the counterexample of Lojban, that design feature is not a feature of natural
+languages; this would demonstrate something about natural language by studying an
 artificial one.</para>
 
 <para>As another example, pragmatic effects<indexterm id="idx460e">
 <primary>pragmatics</primary>
 </indexterm> can be more easily recognized in
 the simpler Lojban system, and can be clearly identified as pragmatic.
-Thus, insights about pragmatic effects may be more visible in Lojban,
-insights that would then be tested in the natural languages.</para>
+Thus, insights about pragmatic effects may be more visible in Lojban &mdash;
+and those insights would then be tested in natural languages.</para>
 
 
 </answer>
@@ -1500,19 +1531,19 @@ are some plausible experiments that could be done using Lojban?</para>
 </question>
 
 <answer>
-<para>A simple system is easier to perform experiments on than a more
+<para>As just discussed, a simple system is easier to perform experiments on than a more
 complex system. There are fewer variables, and if the system is
-<quote role="socalled">designed</quote>, some things that are variables in complex systems are in
-effect tunable constants in the simple, carefully-designed system. You
+<quote role="socalled">designed</quote>, some things that are uncontrolled variables in complex systems are in
+effect tuneable constants in the simple, carefully-designed system. You
 can then rerun the experiment with minor changes to explore the effects
 of those variables.</para>
 
-<para>Experimental linguistics of this kind is virtually unthinkable using the
+<para>Experimental linguistics of this kind is virtually unthinkable using
 natural languages. The Sapir&ndash;Whorf hypothesis<indexterm id="idx460f">
 <primary>Sapir&ndash;Whorf hypothesis</primary>
 </indexterm> is not really testable,
-since we can't control any variables, and we don't know what features of
-a language might be determining to a culture. Sapir&ndash;Whorf may be more
+since we can't control any pertinent variables in natural language, and we don't know what features of
+a language might be decisive in a culture. Sapir&ndash;Whorf may be more
 testable when you can reduce or even control the variables with a
 language like Lojban.</para>
 
@@ -1528,10 +1559,10 @@ language susceptible to the same analysis as natural language, in terms
 of the various formal systems that have been developed by linguists
 over the past few decades?</para>
 
-<para>Computer natural language processing<indexterm id="idx460h">
+<para>Computational natural language processing<indexterm id="idx460h">
 <primary>computer applications</primary>
 </indexterm> usually involves
-converting natural language to some kind of predicate form from which
+converting natural language to some kind of predicate form, from which
 deductions can be made; so the usefulness of predicate logic as a tool for
 such analysis is already accepted. But how does one identify the logical
 deductions that a human being makes from a natural language statement?
@@ -1544,7 +1575,7 @@ linguistics research problems, it serves as a tool to bridge those two
 disciplines, leading to more rapid and effective natural language
 processing. But only if it is tried. Even if it proves less than
 ideal, the study of natural language using computational linguistic
-techniques and a Lojban-based tool will be instructive in ways not
+techniques and a Lojban-based tool can be instructive in ways not
 accessible using any natural language.</para>
 
 <para>Lojban could also be used to study language acquisition.<indexterm id="idx460i">
@@ -1555,12 +1586,13 @@ children during the critical period of language learning and teach them
 this artificial language (at the same time as they learn their
 traditional language). Do they become truly bilingual? If they are as
 fluently communicative in the artificial language as they are in their
-natural language, then the artificial language is a suitable linguistic
-model. In that case, <emphasis>any</emphasis> theory of language that cannot extend to
-cover the features of the artificial language is inadequate. You could
+natural language, then the artificial language is a suitable model of language;
+it becomes as real a language as any other. 
+In that case, <emphasis>any</emphasis> theory of language that cannot 
+encompass the features of the artificial language is inadequate. You could
 perform a series of experiments with ever more exotic artificial
 languages (obviously you would need new speakers for each test). Sooner or
-later, either the model breaks and the artificial language is no longer
+later, either the model breaks, and the artificial language is no longer
 acquirable by children or communicative as a language; or the theory
 breaks, and you've learned where to look for improvements in the theory.</para>
 
@@ -1576,10 +1608,11 @@ aren't looking for it.)</para>
 aspect of language &mdash; the direct expression of emotion.<indexterm id="idx460j">
 <primary>attitudinals</primary>
 </indexterm> Lojban allows
-expressive communication of emotions in words without suprasegmentals.
-This is presumably unlike all natural languages, but not entirely, as
+expressive communication of emotions in words without suprasegmental features
+such as intonation.
+This is presumably unlike all natural languages, though not entirely, as
 many languages have a limited set of indicators of attitude in the form
-of interjections. Can human beings manipulate the symbols of emotion in
+of interjections. Can human beings manipulate the symbols of emotion, in
 the same way they manipulate the comparable symbols of non-emotional
 expression? There is a whole range of experimental questions raised by
 this design element, probably the most <quote role="socalled">unnatural</quote> element of Lojban's
@@ -1591,16 +1624,16 @@ design.<indexterm id="idx460k">
 it is flexible; you can evolve slightly different versions of the
 language very easily by simply changing some features. Delete a
 particular construct from the prescription, and do not teach it to a
-child. Does the child develop that construct anyway by analogy to other
-languages known, or does the child successfully adapt to whatever other
-processes you've designed into the language instead of the construct? Investigating 
+child. Does the child develop that construct anyway, by analogy to other
+known languages, or does the child successfully adapt to whatever other
+processes you've designed into the language instead of the omitted construct? Investigating 
 questions like these through Lojban can help us significantly advance our
 understanding of language.<indexterm id="idx461a" startref="idx460a" class="endofrange"/></para>
 
 </answer>
 </qandaentry>
 
-<qandaentry>
+<!--<qandaentry>
 <question>
 <para>How might learning Lojban be useful in second-language learning of
 natural languages?</para>
@@ -1632,7 +1665,7 @@ in 1 year to the same degree to which you can learn French.</para></listitem>
 <listitem><para>Then you can learn the artificial language and German in
 3 years instead of 4, and all three languages in 5 years instead of
 6. This gains a year <emphasis>even if the student never again uses the
-artificial language</emphasis>.<indexterm id="idx461aa" startref="idx460aa" class="endofrange"/></para></listitem></itemizedlist></para></answer></qandaentry>
+artificial language</emphasis>.<indexterm id="idx461aa" startref="idx460aa" class="endofrange"/></para></listitem></itemizedlist></para></answer></qandaentry>-->
 
 <qandaentry>
 <question>
@@ -1641,10 +1674,10 @@ artificial language</emphasis>.<indexterm id="idx461aa" startref="idx460aa" clas
 
 <answer>
 <para>Here is an example, based on the 1991 Scientific American Library
-book <citetitle>The Science of Words</citetitle>, by George A. Miller of
-Princeton.</para>
+book <citetitle>The Science of Words</citetitle> (George A. Miller, Scientific American
+Library Series, New York: W H Freeman, 1996).</para>
 
-<para>In the book, a picture caption notes that Nootka<indexterm id="idx460l">
+<para>Miller notes that Nootka<indexterm id="idx460l">
 <primary>Nootka</primary>
 </indexterm> (a Pacific Northwest
 language) has the single word <foreignphrase lang="nai">inikwihl'minik'isit</foreignphrase> meaning the
@@ -1652,21 +1685,103 @@ equivalent of the entire English sentence <quote>Several small fires were
 burning in the house.</quote> Here is a Lojban sentence closely paralleling
 the English:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">so'i cmalu fagri puca'o    jelca   ne'i    le  zdani</foreignphrase>
+<!--<informalexample><literallayout><foreignphrase lang="art-lojban">so'i cmalu fagri puca'o    jelca   ne'i    le  zdani</foreignphrase>
 Many small fires were-then burning within the house.</literallayout>
 
-</informalexample>But here is the sentence as a single word (though not with the same
+</informalexample>-->
+
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1" colwidth="6*"/>
+<colspec colnum="2" colname="c2" colwidth="4*"/>
+<colspec colnum="3" colname="c3" colwidth="4*"/>
+<colspec colnum="4" colname="c4" colwidth="3*"/>
+<colspec colnum="5" colname="c5" colwidth="4*"/>
+<tbody>
+
+<row>
+
+<entry><foreignphrase lang="art-lojban">so'i cmalu fagri</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">puca'o</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">jelca</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">ne'i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">le zdani</foreignphrase></entry>
+
+</row>
+
+<row>
+
+<entry>Many small fires</entry>
+
+<entry>were-then</entry>
+
+<entry>burning</entry>
+
+<entry>within</entry>
+
+<entry>the house</entry>
+
+</row>
+
+</tbody>
+</tgroup>
+</informaltable>But here is the sentence as a single word (though not with the same
 structure as Nootka):
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">zdane'ikemcmafagyso'ikemprununjelca</foreignphrase>
 house-inside-type-of-small-fire-many-type-of-previous-burning</literallayout>
 
-</informalexample>In fact, according to Miller the Nootka breaks down as:
+</informalexample>In fact, according to Miller the Nootka word breaks down as:
 
-<informalexample><literallayout><foreignphrase lang="nai">inikw      -ihl               -'minih -'is              -it</foreignphrase>
+<!--<informalexample><literallayout><foreignphrase lang="nai">inikw      -ihl               -'minih -'is              -it</foreignphrase>
 fire/burn in-the-house plural  diminutive  past-tense</literallayout>
 
-</informalexample>This order is also readily expressible in Lojban:
+</informalexample>-->
+
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1" colwidth="4*"/>
+<colspec colnum="2" colname="c2" colwidth="5*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="4" colname="c4" colwidth="4*"/>
+<colspec colnum="5" colname="c5" colwidth="4*"/>
+<tbody>
+
+<row>
+
+<entry><foreignphrase lang="nai">inikw</foreignphrase></entry>
+
+<entry><foreignphrase lang="nai">-ihl</foreignphrase></entry>
+
+<entry><foreignphrase lang="nai">-'minih</foreignphrase></entry>
+
+<entry><foreignphrase lang="nai">-'is</foreignphrase></entry>
+
+<entry><foreignphrase lang="nai">-'it</foreignphrase></entry>
+
+</row>
+
+<row>
+
+<entry>fire/burn</entry>
+
+<entry>in-the-house</entry>
+
+<entry>plural</entry>
+
+<entry>diminutive</entry>
+
+<entry>past-tense</entry>
+
+</row>
+
+</tbody>
+</tgroup>
+</informaltable>This order is also readily expressible in Lojban:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">fagykemyzdanerso'icmapru</foreignphrase>
 fire-type-of-house-inside-many-small-past-event</literallayout>
@@ -1678,7 +1793,7 @@ Nootka, demonstrating the inadequacy of the English. The Nootka word as
 broken down did not require two separate semantic elements for <quote role="gloss">fire</quote>
 and <quote role="gloss">burn</quote> as did the English version, and the English translation used
 the more complicated tense <quote role="gloss">were-burning</quote> instead of the simpler, and
-presumably more accurate <quote role="gloss">burned</quote>. It seems clear that in translating
+presumably more accurate <quote role="gloss">burned</quote>. It is clear that in translating
 the word-sentence into English, considerable vagueness is introduced.</para>
 
 <para>Lojban cannot, of course, express everything in the natural form of any
@@ -1693,7 +1808,7 @@ other languages than is English, which has its own cultural, syntactic
 and semantic complexities to complicate the analysis. This is
 especially true for analysis by non-native English speaking linguists &mdash;
 if there is any place where there is a justification for an
-international, minimal-culture language, it is when linguists from
+international, culturally minimalist language, it is when linguists from
 different native language backgrounds try to perform and communicate
 their linguistic analyses.<indexterm id="idx461m" startref="idx460m" class="endofrange"/></para>
 
@@ -1726,8 +1841,8 @@ performing experiments with a model, somewhat idealized, of a natural
 language. Unlike a purely theoretical model (as all linguistic theories
 must inherently be), Lojban is a model that can be experimented with
 using live speakers. Provided that we understand the model as it
-evolves, that understanding much more approximates an understanding of
-natural language as time goes on.</para>
+evolves, that understanding approximates an understanding of
+natural language more closely as time goes on.</para>
 
 <para>Furthermore, most numerically and sociologically important languages
 have some degree, more or less, of prescription.<indexterm id="idx460p">
@@ -1735,7 +1850,7 @@ have some degree, more or less, of prescription.<indexterm id="idx460p">
 </indexterm> Indeed, some natural
 languages, such as modern Hebrew, formal Swahili, Mandarin Chinese, and
 modern standard Arabic, in certain ways resemble artificial languages,
-but are much more interesting to linguists. A predominantly
+though they are regarded with more interest by linguists. A predominantly
 prescribed language would seem an especially effective tool for studying
 the effects of prescription on language development and use.</para>
 
@@ -1755,7 +1870,7 @@ as a model will change. New applications, not really predictable as
 yet, will turn up, aided by our doubtless increased understanding of
 language. But the model of language constituted by Lojban, even if well understood, no longer is as
 simple; and new logical languages and other experimental linguistic
-tools will be developed to take the next step.<indexterm id="idx461q" startref="idx460q" class="endofrange"/><indexterm id="idx461n" startref="idx460n" class="endofrange"/></para>
+tools will need to be developed to take the next step.<indexterm id="idx461q" startref="idx460q" class="endofrange"/><indexterm id="idx461n" startref="idx460n" class="endofrange"/></para>
 
 </answer>
 </qandaentry>

@@ -32,29 +32,30 @@
 <!ENTITY tapr "&#638;">
 <!ENTITY uvr "&#640;">
 <!ENTITY ipabeta "&#946;">
+<!ENTITY ipag "&#609;">
 <!ENTITY ipatheta "&#952;">
 <!ENTITY glottal "&#660;">
 <!ENTITY IPAASCIIdisclaimer "">
-<!ENTITY a1 "&#640;">
-<!ENTITY a2 "&#640;">
-<!ENTITY a3 "&#640;">
-<!ENTITY a4 "&#640;">
-<!ENTITY e1 "&#640;">
-<!ENTITY e2 "&#640;">
-<!ENTITY e3 "&#640;">
-<!ENTITY e4 "&#640;">
-<!ENTITY i1 "&#640;">
-<!ENTITY i2 "&#640;">
-<!ENTITY i3 "&#640;">
-<!ENTITY i4 "&#640;">
-<!ENTITY o1 "&#640;">
-<!ENTITY o2 "&#640;">
-<!ENTITY o3 "&#640;">
-<!ENTITY o4 "&#640;">
-<!ENTITY u1 "&#640;">
-<!ENTITY u2 "&#640;">
-<!ENTITY u3 "&#640;">
-<!ENTITY u4 "&#640;">
+<!ENTITY a1 "&#257;">
+<!ENTITY a2 "&#225;">
+<!ENTITY a3 "&#462;">
+<!ENTITY a4 "&#224;">
+<!ENTITY e1 "&#275;">
+<!ENTITY e2 "&#233;">
+<!ENTITY e3 "&#x11b;">
+<!ENTITY e4 "&#232;">
+<!ENTITY i1 "&#299;">
+<!ENTITY i2 "&#237;">
+<!ENTITY i3 "&#464;">
+<!ENTITY i4 "&#236;">
+<!ENTITY o1 "&#333;">
+<!ENTITY o2 "&#243;">
+<!ENTITY o3 "&#466;">
+<!ENTITY o4 "&#242;">
+<!ENTITY u1 "&#363;">
+<!ENTITY u2 "&#250;">
+<!ENTITY u3 "&#468;">
+<!ENTITY u4 "&#249;">
 <!ENTITY uuml1 "&#470;">
 <!ENTITY uuml2 "&#472;">
 <!ENTITY uuml3 "&#474;">
@@ -92,6 +93,236 @@
 <!ENTITY cyju "&#1102;">
 <!ENTITY cyja "&#1103;">
 <!ENTITY cyT "&#1058;">
+<!ENTITY ma3shang " &#x99ac;&#x4e0a;">
+<!ENTITY fei1 " &#x98db;">
+<!ENTITY bing1li4 " &#x5175;&#x529b;">
+<!ENTITY duo1 " &#x591a;">
+<!ENTITY wo3 " &#x6211;">
+<!ENTITY dao4lu " &#x9053;&#x8def;">
+<!ENTITY gong1fu1 " &#x529f;&#x592b;">
+<!ENTITY gu3wu3 " &#x53e4;&#x7269;">
+<!ENTITY shen5me5 " &#x751a;&#x9ebc;">
+<!ENTITY wo3lai2le5 " &#x6211;&#x4f86;&#x4e86;">
+<!ENTITY lai2 " &#x4f86;">
+<!ENTITY bai2cai4 " &#x767d;&#x83dc;">
+<!ENTITY lao3 " &#x8001;">
+<!ENTITY zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY feizhou " &#x975e;&#x6d32;">
+<!ENTITY meiguo " &#x7f8e;&#x570b;">
+<!ENTITY beijing " &#x5317;&#x4eac;">
+<!ENTITY fa3cai4 " &#x767c;&#x8ca1;">
+<!ENTITY yazhou " &#x4e9e;&#x6d32;">
+<!ENTITY ya1zi " &#x9d28;&#x5b50;">
+<!ENTITY yang2ren2 " &#x6d0b;&#x4eba;">
+<!ENTITY lie4feng1 " &#x70c8;&#x98a8;">
+<!ENTITY mie4wang2 " &#x6ec5;&#x4ea1;">
+<!ENTITY yingguo " &#x82f1;&#x570b;">
+<!ENTITY yi1 " &#x4e00;">
+<!ENTITY yi4wen2 " &#x8b6f;&#x6587;">
+<!ENTITY peng2you3 " &#x670b;&#x53cb;">
+<!ENTITY niu2rou4 " &#x725b;&#x8089;">
+<!ENTITY yong4gong1 " &#x7528;&#x529f;">
+<!ENTITY ba1gua4 " &#x516b;&#x5366;">
+<!ENTITY wuye " &#x4e94;&#x8449;">
+<!ENTITY puyi " &#x6ea5;&#x5100;">
+<!ENTITY luoma " &#x7f85;&#x99ac;">
+<!ENTITY wu2bi3 " &#x7121;&#x6bd4;">
+<!ENTITY bu2bian4 " &#x4e0d;&#x4fbf;">
+<!ENTITY bing1bao2 " &#x51b0;&#x96f9;">
+<!ENTITY sha1wei3 " &#x644b;&#x5c3e;">
+<!ENTITY shan1shang " &#x5c71;&#x4e0a;">
+<!ENTITY datong " &#x5927;&#x540c;">
+<!ENTITY dong1fang1 " &#x6771;&#x65b9;">
+<!ENTITY da3dao3 " &#x6253;&#x5012;">
+<!ENTITY feng1shui3 " &#x98a8;&#x6c34;">
+<!ENTITY feilongwufeng " &#x98db;&#x9f8d;&#x821e;&#x9cf3;">
+<!ENTITY gao1liang2 " &#x9ad8;&#x6881;">
+<!ENTITY zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY ke4ren2 " &#x5ba2;&#x4eba;">
+<!ENTITY kai1kou3 " &#x958b;&#x53e3;">
+<!ENTITY aolong2 " &#x5967;&#x9f8d;">
+<!ENTITY lun2liu2 " &#x8f2a;&#x6d41;">
+<!ENTITY ma2fan4 " &#x9ebb;&#x7169;">
+<!ENTITY ming2mei4 " &#x660e;&#x5a9a;">
+<!ENTITY nanning " &#x5357;&#x5be7;">
+<!ENTITY neng2li4 " &#x80fd;&#x529b;">
+<!ENTITY nong2ren2 " &#x8fb2;&#x4eba;">
+<!ENTITY pinyin " &#x62fc;&#x97f3;">
+<!ENTITY he2ping1 " &#x548c;&#x5e73;">
+<!ENTITY ren2 " &#x4eba;">
+<!ENTITY rang4 " &#x8b93;">
+<!ENTITY er2tong2 " &#x5152;&#x7ae5;">
+<!ENTITY san1jiao3 " &#x4e09;&#x89d2;">
+<!ENTITY sang3menr2 " &#x55d3;&#x60b6;&#x5152;">
+<!ENTITY tang " &#x5510;">
+<!ENTITY te4bie2 " &#x7279;&#x5225;">
+<!ENTITY henhao " &#x5f88;&#x597d;">
+<!ENTITY devcandrabindu "&#x901;">
+<!ENTITY devanusvara "&#x902;">
+<!ENTITY devvisarga "&#x903;">
+<!ENTITY deva "&#x905;">
+<!ENTITY devaa "&#x906;">
+<!ENTITY devi "&#x907;">
+<!ENTITY devii "&#x908;">
+<!ENTITY devu "&#x909;">
+<!ENTITY devuu "&#x90a;">
+<!ENTITY devrv "&#x90b;">
+<!ENTITY devlv "&#x90c;">
+<!ENTITY devcandrae "&#x90d;">
+<!ENTITY devshorte "&#x90e;">
+<!ENTITY deve "&#x90f;">
+<!ENTITY devai "&#x910;">
+<!ENTITY devcandrao "&#x911;">
+<!ENTITY devshorto "&#x912;">
+<!ENTITY devo "&#x913;">
+<!ENTITY devau "&#x914;">
+<!ENTITY devka "&#x915;">
+<!ENTITY devkha "&#x916;">
+<!ENTITY devga "&#x917;">
+<!ENTITY devgha "&#x918;">
+<!ENTITY devnga "&#x919;">
+<!ENTITY devca "&#x91a;">
+<!ENTITY devcha "&#x91b;">
+<!ENTITY devja "&#x91c;">
+<!ENTITY devjha "&#x91d;">
+<!ENTITY devnya "&#x91e;">
+<!ENTITY devtta "&#x91f;">
+<!ENTITY devttha "&#x920;">
+<!ENTITY devdda "&#x921;">
+<!ENTITY devddha "&#x922;">
+<!ENTITY devnna "&#x923;">
+<!ENTITY devta "&#x924;">
+<!ENTITY devtha "&#x925;">
+<!ENTITY devda "&#x926;">
+<!ENTITY devdha "&#x927;">
+<!ENTITY devna "&#x928;">
+<!ENTITY devnnna "&#x929;">
+<!ENTITY devpa "&#x92a;">
+<!ENTITY devpha "&#x92b;">
+<!ENTITY devba "&#x92c;">
+<!ENTITY devbha "&#x92d;">
+<!ENTITY devma "&#x92e;">
+<!ENTITY devya "&#x92f;">
+<!ENTITY devra "&#x930;">
+<!ENTITY devrra "&#x931;">
+<!ENTITY devla "&#x932;">
+<!ENTITY devlla "&#x933;">
+<!ENTITY devllla "&#x934;">
+<!ENTITY devva "&#x935;">
+<!ENTITY devsha "&#x936;">
+<!ENTITY devssa "&#x937;">
+<!ENTITY devsa "&#x938;">
+<!ENTITY devha "&#x939;">
+<!ENTITY devnukta "&#x93c;">
+<!ENTITY devavagraha "&#x93d;">
+<!ENTITY devVaa "&#x93e;">
+<!ENTITY devVi "&#x93f;">
+<!ENTITY devVii "&#x940;">
+<!ENTITY devVu "&#x941;">
+<!ENTITY devVuu "&#x942;">
+<!ENTITY devVrv "&#x943;">
+<!ENTITY devVrrv "&#x944;">
+<!ENTITY devVcandrae "&#x945;">
+<!ENTITY devVshorte "&#x946;">
+<!ENTITY devVe "&#x947;">
+<!ENTITY devVai "&#x948;">
+<!ENTITY devVcandrao "&#x949;">
+<!ENTITY devVshorto "&#x94a;">
+<!ENTITY devVo "&#x94b;">
+<!ENTITY devVau "&#x94c;">
+<!ENTITY devvirama "&#x94d;">
+<!ENTITY devqa "&#x958;">
+<!ENTITY devkhha "&#x959;">
+<!ENTITY devghha "&#x95a;">
+<!ENTITY devza "&#x95b;">
+<!ENTITY devdddha "&#x95c;">
+<!ENTITY devrha "&#x95d;">
+<!ENTITY devfa "&#x95e;">
+<!ENTITY devyya "&#x95f;">
+<!ENTITY devspace " ">
+<!ENTITY hiaa "&#x101;">
+<!ENTITY hiuu "&#x16b;">
+<!ENTITY hiii "&#x12b;">
+<!ENTITY hish "&#x15b;">
+<!ENTITY hiS "&#x1e63;">
+<!ENTITY hiN "&#x1e47;">
+<!ENTITY hiR "&#x1e5b;">
+<!ENTITY hiT "&#x1e6d;">
+<!ENTITY hiD "&#x1e0d;">
+<!ENTITY hiM "&#x1e43;">
+<!ENTITY hicandrabindu "&#x1e41;">
+<!ENTITY arhamza "&#x621;">
+<!ENTITY aralefmadda "&#x622;">
+<!ENTITY aralefhamza "&#x623;">
+<!ENTITY arwawhamza "&#x624;">
+<!ENTITY aralefhamzabelow "&#x625;">
+<!ENTITY aryehhamza "&#x626;">
+<!ENTITY aralef "&#x627;">
+<!ENTITY arbeh "&#x628;">
+<!ENTITY artehmarbuta "&#x629;">
+<!ENTITY arteh "&#x62a;">
+<!ENTITY artheh "&#x62b;">
+<!ENTITY arjeem "&#x62c;">
+<!ENTITY arhah "&#x62d;">
+<!ENTITY arkhah "&#x62e;">
+<!ENTITY ardal "&#x62f;">
+<!ENTITY arthal "&#x630;">
+<!ENTITY arreh "&#x631;">
+<!ENTITY arzain "&#x632;">
+<!ENTITY arseen "&#x633;">
+<!ENTITY arsheen "&#x634;">
+<!ENTITY arsad "&#x635;">
+<!ENTITY ardad "&#x636;">
+<!ENTITY artah "&#x637;">
+<!ENTITY arzah "&#x638;">
+<!ENTITY arain "&#x639;">
+<!ENTITY arghain "&#x63a;">
+<!ENTITY arfeh "&#x641;">
+<!ENTITY arqaf "&#x642;">
+<!ENTITY arkaf "&#x643;">
+<!ENTITY arlam "&#x644;">
+<!ENTITY armeem "&#x645;">
+<!ENTITY arnoon "&#x646;">
+<!ENTITY arheh "&#x647;">
+<!ENTITY arwaw "&#x648;">
+<!ENTITY aralefmaksura "&#x649;">
+<!ENTITY aryeh "&#x64a;">
+<!ENTITY artteh "&#x679;">
+<!ENTITY arpeh "&#x67e;">
+<!ENTITY artcheh "&#x686;">
+<!ENTITY arddal "&#x688;">
+<!ENTITY ardal4dot "&#x690;">
+<!ENTITY arrreh "&#x691;">
+<!ENTITY arjeh "&#x698;">
+<!ENTITY arkeheh "&#x6a9;">
+<!ENTITY argaf "&#x6af;">
+<!ENTITY arfathatan "&#x64b;">
+<!ENTITY ardammatan "&#x64c;">
+<!ENTITY arkasratan "&#x64d;">
+<!ENTITY arfatha "&#x64e;">
+<!ENTITY ardamma "&#x64f;">
+<!ENTITY arkasra "&#x650;">
+<!ENTITY arshadda "&#x651;">
+<!ENTITY arsukun "&#x652;">
+<!ENTITY arnoonghunna "&#x6ba;">
+<!ENTITY arhehdoachashmee "&#x6be;">
+<!ENTITY arhehgoal "&#x6d2;">
+<!ENTITY aryehbarree "&#x6be;">
+<!ENTITY urspace " ">
+<!ENTITY arspace " ">
+<!ENTITY araa "&#x101;">
+<!ENTITY aruu "&#x16b;">
+<!ENTITY arii "&#x12b;">
+<!ENTITY ardh "&#x1e0f;">
+<!ENTITY arsh "&#x161;">
+<!ENTITY arth "&#x1e6f;">
+<!ENTITY arH "&#x1e25;">
+<!ENTITY arS "&#x1e63;">
+<!ENTITY arT "&#x1e6d;">
+<!ENTITY arD "&#x1e0d;">
+<!ENTITY artrhamza "&#x2be;">
+<!ENTITY artrain "&#x2bf;">
+<!ENTITY arkh "&#x1e2b;">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>

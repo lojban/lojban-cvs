@@ -1,6 +1,45 @@
 <part id="sect3"><!--&xtomathyinfo;-->
-<title>Lojban Chrestomathy</title>
-<subtitle><foreignphrase lang="art-lojban">lojbo ctuca mupli bo seltcidu</foreignphrase></subtitle>
+<title>Lojban Sample Texts</title>
+<subtitle><foreignphrase lang="art-lojban">lojbo mupli bo seltcidu</foreignphrase></subtitle>
+
+<partintro><note><para>In the glosses, the following conventions apply:
+
+<variablelist termlength="12">
+
+<varlistentry>
+<term>( )</term> 
+<listitem><para><foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>&laquo; &raquo;</term> 
+<listitem><para><foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>[ ]</term> 
+<listitem><para><foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase></para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>&lt; &gt;</term> 
+<listitem><para>abstraction/relativisation</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>{ }</term> 
+<listitem><para>grouping</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>boxed cell</term> 
+<listitem><para>semantic role of <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></para></listitem>
+</varlistentry>
+
+</variablelist>
+
+</para></note></partintro>
+
 &bradi;
 &ckape;
 &lorxu;

@@ -5,7 +5,7 @@ sidbo</foreignphrase></subtitle><titleabbrev id="overviewtitle">Overview of Lojb
 <para>This overview of Lojban will hopefully
 give you a good feel for the design and scope of the language. It serves as
 an introduction to learning the language; most of the special terminology
-used elswhere is defined here. This overview is 
+used elsewhere is defined here. This overview is 
 <emphasis>not</emphasis> complete,
 nor detailed; much is glossed over. To actually learn the language you must
 study the available reference or teaching materials.</para>
@@ -29,9 +29,9 @@ is written</para></listitem></varlistentry>
 </variablelist>
 
 <para>For many special terms, we will give a definition, and then the
-Lojban word for the concept. The Lojban words are then used, avoiding
+Lojban word for the concept. The Lojban words are then used, to avoid
 confusion due to the various meanings of the English jargon words. The
-Lojban words are also the ones used in other publications about the
+Lojban words are also what is used in other publications about the
 language. </para>
 
 <sect1 id="orthog"><title>Orthography</title>
@@ -43,7 +43,7 @@ language. </para>
 <indexterm>
 <primary>spelling</primary>
 <see>orthography</see>
-</indexterm>Lojban uses a Roman alphabet, consisting of the letters and symbols:
+</indexterm>Lojban uses the Roman alphabet, consisting of the following letters and symbols:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">' , . a b c d e f g i j k l m n o p r s t u v x y z </foreignphrase></literallayout></informalexample>omitting the letters <wordasword>h</wordasword>,
 <wordasword>q</wordasword>, and <wordasword>w</wordasword>. The three
@@ -73,7 +73,7 @@ sorting and searching.</para>
 <primary>capitalization</primary>
 </indexterm> of any word type, including
 proper names, and such capitalization is discouraged. Capital letters are
-used to indicate non-standard stress in pronunciation of Lojbanized names.
+used instead to indicate non-standard stress in pronunciation of Lojbanized names.
 Thus the English name <wordasword>Josephine</wordasword>, as normally
 pronounced, is Lojbanized as <foreignphrase
 lang="art-lojban">DJOsefin</foreignphrase>, pronounced /JO,seh,feen/. Without
@@ -81,7 +81,7 @@ the capitalization, Lojban stress rules would force the /seh/ syllable to
 be stressed.</para>
 
 
-<para>Lojban's alphabet and pronunciation rules cause what is called
+<para>Lojban's alphabet and pronunciation rules bring about what is called
 <firstterm>audio-visual isomorphism</firstterm><indexterm id="idx104">
 <primary>audio-visual isomorphism</primary>
 </indexterm>. There is not only a unique symbol to represent each sound of Lojban, but also a
@@ -128,7 +128,7 @@ lang="art-lojban">p</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">p</emphasis>urmo</foreignphrase></entry>
 
-<entry>/PUR,mo/</entry>
+<entry>/POOR,mo/</entry>
 
 </row>
 
@@ -144,7 +144,7 @@ lang="art-lojban">f</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">f</emphasis>arlu</foreignphrase></entry>
 
-<entry>/FAHR,lu/</entry>
+<entry>/FAHR,loo/</entry>
 
 </row>
 
@@ -160,7 +160,7 @@ lang="art-lojban">t</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">t</emphasis>emci</foreignphrase></entry>
 
-<entry>/TEHM,shee/</entry>
+<entry>/TEM,shee/</entry>
 
 </row>
 
@@ -176,7 +176,7 @@ lang="art-lojban">s</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">s</emphasis>onci</foreignphrase></entry>
 
-<entry>/SON,shee/</entry>
+<entry>/SONE,shee/</entry>
 
 </row>
 
@@ -221,7 +221,7 @@ lang="art-lojban">b</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">b</emphasis>otpi</foreignphrase></entry>
 
-<entry>/BOT,pee/</entry>
+<entry>/BOAT,pee/</entry>
 
 </row>
 
@@ -237,7 +237,7 @@ lang="art-lojban">v</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">v</emphasis>oksa</foreignphrase></entry>
 
-<entry>/VOK,sah/</entry>
+<entry>/VOAK,sah/</entry>
 
 </row>
 
@@ -253,7 +253,7 @@ lang="art-lojban">d</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">d</emphasis>ansu</foreignphrase></entry>
 
-<entry>/DAHN,su/</entry>
+<entry>/DAHN,soo/</entry>
 
 </row>
 
@@ -285,7 +285,7 @@ lang="art-lojban">g</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">g</emphasis>unse</foreignphrase></entry>
 
-<entry>/GUN,seh/</entry>
+<entry>/GOON,seh/</entry>
 
 </row>
 
@@ -305,7 +305,7 @@ Lojban words themselves, but are not necessary.</para>
 <para>In the above examples, the consonants in the first table
 are called <firstterm>unvoiced 
 consonants</firstterm>, because they are spoken without
-voicing them with the vocal folds. The
+voicing them using the vocal folds. The
 consonants in the second table are their <firstterm>voiced</firstterm>
 equivalents.</para>
 
@@ -341,7 +341,7 @@ lang="art-lojban">x</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">lal<emphasis role="bold">x</emphasis>u</foreignphrase></entry>
 
-<entry>/LAHL,khu/</entry>
+<entry>/LAHL,khoo/</entry>
 
 </row>
 
@@ -508,7 +508,7 @@ lang="art-lojban">dj</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 
-<entry>/KHEH,jah/</entry>
+<entry>/KHED,jah/</entry>
 
 </row>
 
@@ -531,10 +531,10 @@ lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 </informaltable>
 
 <para>The other four Lojban consonants are also pronounced as in English.
-However, there are two pronunciations to consider. The normal
+But each has two possible pronunciations. The normal
 Lojban pronunciation is shown in the first table. In names, borrowings,
-and a few other situations, however, these consonants can occur with no vowel in the
-same syllable. In this case they are called <firstterm>syllabic
+and a few other situations, however, these consonants can occur in a syllable
+of their own, with no vowel. In this case they are called <firstterm>syllabic
 consonants</firstterm>, and are pronounced as in the second table.</para>
 
 <formalpara><title>Non-syllabic</title><para><informaltable frame="none">
@@ -575,7 +575,7 @@ lang="art-lojban">m</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">m</emphasis>uvdu</foreignphrase></entry>
 
-<entry>/MUV,du/</entry>
+<entry>/MOVE,du/</entry>
 
 </row>
 
@@ -607,7 +607,7 @@ lang="art-lojban">r</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">r</emphasis>okci</foreignphrase></entry>
 
-<entry>/ROK,shee/</entry>
+<entry>/ROKE,shee/</entry>
 
 </row>
 
@@ -749,7 +749,7 @@ these clusters may appear strange to the English speaker (for example
 <foreignphrase lang="art-lojban">mlatu</foreignphrase> /MLAH,tu/), but all
 permitted clusters were chosen so as to be quite pronounceable by most
 speakers and understandable to most listeners. If you run across a cluster
-that you simply cannot pronounce due to its unfamiliarity, it is
+that you simply cannot pronounce because of its unfamiliarity, it is
 permissible to insert a very short <emphasis>non-Lojban</emphasis> vowel
 sound between them. The English /i/ as in <wordasword>b<emphasis
 role="bold">i</emphasis>t</wordasword> is recommended for English
@@ -776,9 +776,9 @@ with the purity and tension needed in Lojban pronunciation.</para>
 <tgroup cols="5">
 <colspec colnum="1" colwidth="1*" />
 <colspec colnum="2" colwidth="2*" />
-<colspec colnum="3" colwidth="3*" />
+<colspec colnum="3" colwidth="8*" />
 <colspec colnum="4" colwidth="3*" />
-<colspec colnum="5" colwidth="4*" />
+<colspec colnum="5" colwidth="5*" />
 <tbody>
 
 <row>
@@ -796,7 +796,7 @@ role="bold">o</emphasis>p</wordasword></entry>
 <entry><foreignphrase
 lang="art-lojban">p<emphasis role="bold">a</emphasis>tfu</foreignphrase></entry>
 
-<entry>/PAHT,fu/</entry>
+<entry>/PAHT,foo/</entry>
 
 </row>
 
@@ -814,7 +814,7 @@ role="bold">e</emphasis>ns</wordasword></entry>
 <entry><foreignphrase
 lang="art-lojban">l<emphasis role="bold">e</emphasis>njo</foreignphrase></entry>
 
-<entry>/LEHN,zho/</entry>
+<entry>/LENN,zho/</entry>
 
 </row>
 
@@ -868,7 +868,7 @@ role="bold">oe</emphasis></wordasword></entry>
 <entry><foreignphrase
 lang="art-lojban">c<emphasis role="bold">u</emphasis>tci</foreignphrase></entry>
 
-<entry>/SHU,chee/</entry>
+<entry>/SHOE,chee/</entry>
 
 </row>
 
@@ -886,7 +886,7 @@ role="bold">a</emphasis>bove</wordasword></entry>
 <entry><foreignphrase
 lang="art-lojban">lob<emphasis role="bold">y</emphasis>pli</foreignphrase></entry>
 
-<entry>/LOB,uh,plee/</entry>
+<entry>/LOBE,uh,plee/</entry>
 
 </row>
 
@@ -937,7 +937,7 @@ lang="art-lojban">ai</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">b<emphasis role="bold">ai</emphasis></foreignphrase></entry>
 
-<entry>/bai/</entry>
+<entry><wordasword>b<emphasis role="bold">ye</emphasis></wordasword></entry>
 
 </row>
 
@@ -954,7 +954,7 @@ lang="art-lojban">au</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">v<emphasis role="bold">au</emphasis></foreignphrase></entry>
 
-<entry>/vau/</entry>
+<entry><wordasword>v<emphasis role="bold">ow</emphasis></wordasword></entry>
 
 </row>
 
@@ -970,7 +970,7 @@ lang="art-lojban">ei</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">p<emphasis role="bold">ei</emphasis></foreignphrase></entry>
 
-<entry>/bei/</entry>
+<entry><wordasword>p<emphasis role="bold">ay</emphasis></wordasword></entry>
 
 </row>
 
@@ -986,7 +986,7 @@ lang="art-lojban">oi</foreignphrase></entry>
 <entry><foreignphrase
 lang="art-lojban">c<emphasis role="bold">oi</emphasis></foreignphrase></entry>
 
-<entry>/shoi/</entry>
+<entry><wordasword>sh<emphasis role="bold">oy</emphasis></wordasword></entry>
 
 </row>
 </tbody>
@@ -1134,8 +1134,8 @@ between the words to get an English equivalent, in this case of Lojban
 
 <para>When the vowels occur together, one at the end of a word and the
 other at the beginning of the next word, the <foreignphrase
-lang="art-lojban">'</foreignphrase> is not used to separate them (it would
-join them into a single word). Instead, a pause is mandatory between the
+lang="art-lojban">'</foreignphrase> is not used to separate them. (Were it used,
+it would join them into a single word). Instead, a pause is mandatory between the
 two vowels. The pause may be extremely short (called a <firstterm>glottal
 stop</firstterm>) as in the English <wordasword>he eats</wordasword>, or may
 be longer. The pause is mandatory and thus may be inferred without writing
@@ -1166,7 +1166,7 @@ which the vowel is <foreignphrase lang="art-lojban">y</foreignphrase> are
 not counted in determining penultimate stress, nor are syllables counted in
 which the letters <foreignphrase lang="art-lojban">l, m, n,</foreignphrase>
 or <foreignphrase lang="art-lojban">r</foreignphrase> occur in their
-syllabic forms, with no other vowel in the same syllable. In Lojbanized
+syllabic forms, with no other vowel in the same syllable. (Thus, <foreignphrase lang="art-lojban">lobypli</foreignphrase> = <foreignphrase lang="art-lojban">LO,by,pli</foreignphrase>, <foreignphrase lang="art-lojban">.uacintn.</foreignphrase> = <foreignphrase lang="art-lojban">.UA,cin,tn.</foreignphrase>, <foreignphrase lang="art-lojban">kat,rin.</foreignphrase> = <foreignphrase lang="art-lojban">KAT,r,in.</foreignphrase>) In Lojbanized
 names, a speaker may retain a semblance of native pronunciation of the name
 by stressing a non-penultimate syllable. In this case, capitalization is
 used to mark the abnormal stress, as in <foreignphrase lang="art-lojban">DJOsefin.</foreignphrase>
@@ -1210,7 +1210,8 @@ to be uniquely broken down into its component words.</para>
 </indexterm>Names, or <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>, are
 very much like their counterparts in other languages. They are labels
 applied to things or people, to stand for them in descriptions or in
-direct address. They may convey meaning in themselves, but do not
+direct address. They may convey meaning in themselves, describing concretely
+what they are refering to, but do not
 necessarily do so. Because names are often highly personal and individual,
 Lojban attempts to allow native language names to be used with a minimum of
 modification. However, most names must be Lojbanized to some
@@ -1263,17 +1264,16 @@ capitalization of the stressed syllables /NAI/ or /STEITS/, neither of
 which is penultimate in the single-word form of the <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>.</para>
 
-<note><para><foreignphrase lang="art-lojban"><emphasis 
-role="term">cmene</emphasis></foreignphrase> in Lojban do not allow a 
+<note><para>Lojban words do not allow a 
 <firstterm>voiced</firstterm> consonant (like <foreignphrase 
 lang="art-lojban">d</foreignphrase>) to be next to an 
 <firstterm>unvoiced</firstterm> consonant (like <foreignphrase 
 lang="art-lojban">s</foreignphrase>), without an intervening pause. This 
 is why the single-word version of <wordasword>United States</wordasword> 
 goes into Lojban as <foreignphrase 
-lang="art-lojban">.iunaitet,steits.</foreignphrase>, whereas the two-word 
+lang="art-lojban">.iunaite<emphasis>t</emphasis>,steits.</foreignphrase>, whereas the two-word 
 version remains as is: <foreignphrase 
-lang="art-lojban">.iunaited. steits.</foreignphrase></para></note>
+lang="art-lojban">.iunaite<emphasis>d</emphasis>.steits.</foreignphrase></para></note>
 
 <para>The final arbiter of the correct form of the <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> is the person doing the naming
@@ -1283,7 +1283,7 @@ want their own name to be spelled and pronounced. The English
 <foreignphrase lang="art-lojban">meris., maris., meiris.</foreignphrase>,
 or even <foreignphrase lang="art-lojban">marys.</foreignphrase> The latter
 is not pronounced much like its English equivalent, but may be desirable to
-someone who values spelling consistency over pronunciation consistency. The
+someone who values spelling over pronunciation consistency. The
 final letter need not be an <foreignphrase
 lang="art-lojban">s</foreignphrase>; it must, however, be a Lojban
 consonant of some variety.</para>
@@ -1331,20 +1331,18 @@ lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> may be
 
 <listitem><para>they have a consonant cluster<indexterm id="idx114">
 <primary>cluster, consonant</primary>
-</indexterm> (at least two adjacent consonants) within or between the first and second syllables &mdash;
-ignoring the letter <foreignphrase
-lang="art-lojban">y</foreignphrase><indexterm id="idx115a">
-<primary>schwa</primary>
-</indexterm><indexterm id="idx116a">
-<primary><foreignphrase lang="art-lojban">y</foreignphrase></primary><see>cluster, consonant</see>
-</indexterm></para></listitem>
+</indexterm> (at least two adjacent consonants) within or between the first and second syllables</para></listitem>
 
 <listitem><para>they end in a vowel</para></listitem>
 
 </itemizedlist></para><para>The consonant cluster rule has the qualification that the letter
-<foreignphrase lang="art-lojban">y</foreignphrase> is totally ignored, even
+<foreignphrase lang="art-lojban">y</foreignphrase><indexterm id="idx115a">
+<primary>schwa</primary>
+</indexterm><indexterm id="idx116a">
+<primary><foreignphrase lang="art-lojban">y</foreignphrase></primary><see>cluster, consonant</see>
+</indexterm> is totally ignored, even
 if it splits a consonant cluster. Thus <foreignphrase
-lang="art-lojban">lobypei</foreignphrase> /LOB,uh,pei/ is a <foreignphrase
+lang="art-lojban">lobypei</foreignphrase> /LOBE,uh,pay/ is a <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> even though the <foreignphrase
 lang="art-lojban">y</foreignphrase> separates the <foreignphrase
 lang="art-lojban">bp</foreignphrase> cluster.</para>
@@ -1382,8 +1380,8 @@ lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase></term
 languages that have been Lojbanized (in a manner similar to how <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are Lojbanized) in order to fit within the
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> requirements; e.g.
-<foreignphrase lang="art-lojban">cidjrspageti</foreignphrase> (<quote
-role="gloss">spaghetti</quote>) (it's not nearly as hard to say as it looks!)</para></listitem>
+<foreignphrase lang="art-lojban">cidjrspageti</foreignphrase> <quote
+role="gloss">spaghetti</quote> (it's not nearly as hard to say as it looks!)</para></listitem>
 
 </varlistentry>
 </variablelist>
@@ -1391,7 +1389,7 @@ role="gloss">spaghetti</quote>) (it's not nearly as hard to say as it looks!)</p
 <para><foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are defined
 so as to have only one meaning, which is expressed through a unique 
 <emphasis>place
-structure</emphasis>. This concept will be discussed further in the sections on
+structure</emphasis>. This concept is discussed further in the sections on
 semantics and grammar. </para>
 
 <sect3><title><foreignphrase
@@ -1468,17 +1466,18 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> which e
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> proves useful, or is frequently
 expressed, it is desirable to choose one of the possible meanings of the
 <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> and assign it to a
-new <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>. In the
-example, we would probably choose <quote role="gloss">user of 
-computers</quote>, and form <foreignphrase
-lang="art-lojban">sampli</foreignphrase>.
+new, single <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>. In the
+example, we would probably choose the meaning <quote role="gloss">user of 
+computers</quote>, and form the single <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> <foreignphrase
+lang="art-lojban">sampli</foreignphrase>, out of the <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> <foreignphrase
+lang="art-lojban">skami pilno</foreignphrase>.
 Such a <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, built from
 two or more component
 <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>, is called a
 <foreignphrase lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>.</para>
 
 <para>Like <foreignphrase lang="art-lojban"><emphasis
-role="term">gismu</emphasis></foreignphrase>, <foreignphrase
+role="term">gismu</emphasis></foreignphrase>, however, <foreignphrase
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>
 have only one meaning. Unlike <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase>, <foreignphrase
@@ -1488,7 +1487,13 @@ lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>
 has between two and five combining forms called <foreignphrase lang="art-lojban"><emphasis
 role="term">rafsi</emphasis></foreignphrase>, which are joined together
 in order to form a <foreignphrase lang="art-lojban"><emphasis
-role="term">lujvo</emphasis></foreignphrase>. Longer <foreignphrase
+role="term">lujvo</emphasis></foreignphrase> (e.g. <foreignphrase
+lang="art-lojban">sam</foreignphrase> and <foreignphrase
+lang="art-lojban">skam</foreignphrase> for <foreignphrase
+lang="art-lojban">skami</foreignphrase>; <foreignphrase
+lang="art-lojban">pli</foreignphrase> and <foreignphrase
+lang="art-lojban">piln</foreignphrase> for <foreignphrase
+lang="art-lojban">pilno</foreignphrase>). Longer <foreignphrase
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase><indexterm id="idx122">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase></primary>
 </indexterm>
@@ -1605,7 +1610,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></title>
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
 </indexterm><foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> are the
 <firstterm>structure words</firstterm> that hold the Lojban language together. They often have no
-semantic meaning in themselves, though they may affect the semantics of
+concrete meaning in themselves, though they may affect the semantics of
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> to which they are
 attached. <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> include
 the equivalent of English articles, conjunctions, prepositions, numbers,
@@ -1638,14 +1643,14 @@ though they often are if they have more than one syllable</para></listitem>
 one of the following letter patterns, where C stands for a consonant, and V
 stands for a vowel:
 
-<simplelist type="horiz">
+<simplelist type="horiz" columns="6">
 <member>V</member>
 <member>VV</member>    
 <member>V'V</member>    
 <member>CV</member>    
 <member>CVV</member>    
 <member>CV'V</member>
-</simplelist></para><para>The letter pattern generally does not indicate anything about the grammar.</para>
+</simplelist></para><para>The letter pattern generally does not indicate anything about the grammar of the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>.</para>
 
 <para>A sequence of <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
 can be written without intervening spaces, without any change to its meaning.
@@ -1653,7 +1658,7 @@ Such a sequence is called a <firstterm>compound</firstterm> <foreignphrase lang=
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary><secondary>compound</secondary>
 </indexterm>.
 For example, a set of digits
-comprising a longer number is written as a single word (e.g. <foreignphrase
+comprising a longer number can be written as a single word (e.g. <foreignphrase
 lang="art-lojban">pareci</foreignphrase> = <foreignphrase
 lang="art-lojban">pa</foreignphrase> + <foreignphrase
 lang="art-lojban">re</foreignphrase> + <foreignphrase
@@ -1682,9 +1687,13 @@ morphology, and grammar. Lojban semantics, however, must support the same
 breadth of human thought as natural languages. Every human being has
 different <quote role="socalled">meanings</quote> attached to the words
 they use, based on their unique personal experiences with the concepts
-involved.</para>
+involved. So it is impossible to eliminate <firstterm>semantic
+ambiguity</firstterm><indexterm id="idx144">
+<primary>unambiguous language</primary>
+</indexterm> (the ambiguity embedded in the variable meanings of
+words when taken in context) completely.</para>
 
-<para>Lojban attempts to minimize ambiguity, partly by systematizing as
+<para>Rather, Lojban attempts to minimize semantic ambiguity, partly by systematizing as
 much as possible about semantics, but mostly by removing the clutter and
 confusion caused by other forms of ambiguity.</para>
 
@@ -1727,7 +1736,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>.</para>
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are not nouns, verbs,
 adjectives, or adverbs; yet they incorporate elements of each. These
 different aspects are brought out in the way the <foreignphrase
-lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> is used in the grammar, but these
+lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> is used in the grammar, but the
 different grammatical environments do not change the meaning of the
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>.</para>
 
@@ -1766,7 +1775,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></title>
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase><indexterm id="idx132">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary><secondary>meaning</secondary>
 </indexterm>. The meaning of a <foreignphrase
-lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> is somewhat ambiguous.
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> is somewhat ambiguous: for instance,
 <foreignphrase lang="art-lojban">skami pilno</foreignphrase> could refer to
 a computer that is a user, or to a user of computers. There are a variety
 of ways that the modifier component can be related to the modified
@@ -1776,20 +1785,20 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase><indexte
 </indexterm> are used within <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> to prevent grammatical ambiguities,
 such as the various possible groupings of words in a phrase like
-<wordasword>pretty little girls school</wordasword>.</para>
+<wordasword>pretty little girls school</wordasword> (<wordasword>{pretty {little {girls school}}}</wordasword>, <wordasword>{{pretty little} {girls school}}</wordasword>, <wordasword>{{pretty {little girls}} school}</wordasword>, and so on).</para>
 
 <para>A speaker may use <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> to be arbitrarily general or
 specific<!--, to refer to a relatively large or small portion of semantic
 space-->. <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> are usually
-meant to be quite straightforward; in addition to the various grammatical
+meant to be quite straightforward;<!-- in addition to the various grammatical
 <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> to indicate
-relationships, <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> are
+relationships,--> <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> are
 always considered as a series of pairs of terms, a <firstterm>binary
 metaphor</firstterm> relationship. In such a relationship the first
 term by default modifies the second term. The terms may be <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, certain <foreignphrase
-lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> such as numbers, or they may be
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> such as numbers, or
 shorter <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>.</para>
 
 </sect2>
@@ -1821,11 +1830,11 @@ independently from the truth of the statement.</para>
 <para>Lojban's grammar is defined by a set of rules that have been tested
 to be unambiguous using computers. Grammatical unambiguity means that in a
 grammatical expression, each word has exactly one grammatical
-interpretation, and that the resulting combination of these words relate
+interpretation, and that within the expression the words relate
 grammatically to each other in exactly one way. (By comparison, in the
 English <wordasword>Time flies like an arrow</wordasword>, each of the first three words has at
 least two grammatical meanings, and each possible combination results in a different
-grammar for the sentence.)</para>
+grammatical structure for the sentence.)</para>
 
 <para>The <firstterm>machine grammar</firstterm><indexterm id="idx134">
 <primary>grammar, formal</primary>
@@ -1837,9 +1846,9 @@ rules exactly, the expression will be grammatically unambiguous<indexterm id="id
 </indexterm>. If the
 rules are not followed, ambiguity may exist. Ambiguity does not make
 communication impossible, of course. Every speaker on Earth speaks an
-ambiguous language. Lojbanists strive for accuracy in Lojban grammatical
+ambiguous language. But Lojbanists strive for accuracy in Lojban grammatical
 usage, and thereby for grammatically unambiguous communication. (Semantic
-ambuguity, as we have seen, is another matter.)</para>
+ambiguity, as we have seen, is another matter.)</para>
 
 <para>It is important to note that new Lojbanists will not be able to speak
 <quote role="socalled">perfectly</quote> when first learning Lojban. In
@@ -1907,16 +1916,16 @@ word types, namely <foreignphrase lang="art-lojban"><emphasis role="term">cmene<
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>, are generally considered to
 correspond to the <quote role="socalled">parts of speech</quote> of
 English, these hundred-odd <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> correspond to the more subtle variations in
-English grammar, such as the varieties of ways to pluralize a noun or to
-express the past tense of a verb. In this sense, English has hundreds of
+English grammar, such as the different kinds of pronouns, or the different ways of
+expressing the past tense of a verb. In this sense, English has hundreds of
 <quote role="socalled">parts of speech</quote>.</para>
 
 <para>Lojban <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>
 are named after one word within the category, often
-the one most frequently used. CU, KOhA, PU, and UI are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.
+the one most frequently used. CU, KOhA, PU, and UI are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.</para>
 
 <note><para>The <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> names are capitalized in English
-discussion of Lojban. The apostrophe is converted to <wordasword>h</wordasword> in such usage; this is for compatibility with computer grammar parsers.</para></note></para>
+discussion of Lojban. The apostrophe is converted to <wordasword>h</wordasword> in such usage; this is for compatibility with computer grammar parsers.</para></note>
 
 </sect2>
 
@@ -2006,7 +2015,8 @@ by which the result is obtained.</para></listitem>
 
 <note><para>The difference between the English verbs <wordasword>come</wordasword> and
 <wordasword>go</wordasword> depends on the relationship between
-x<subscript>2</subscript> (the destination) and the speaker. The
+x<subscript>2</subscript> (the destination), 
+x<subscript>1</subscript> (the origin), and the speaker. The
 position of the speaker is not part of the Lojban
 meaning.</para></note>
 
@@ -2108,18 +2118,15 @@ definition of <foreignphrase lang="art-lojban">klama</foreignphrase>. In
 English, there is no implication that anything is missing, and the sentence
 <wordasword>I go</wordasword> is considered complete. As a <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>, <foreignphrase lang="art-lojban">mi
-klama</foreignphrase> inherently is an incomplete sentence. The omission of
+klama</foreignphrase> is inherently an incomplete sentence. The omission of
 defined places in a <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
 is called <firstterm>ellipsis</firstterm><indexterm id="idx143">
 <primary>ellipsis</primary>
 </indexterm>; corresponding ellipsis in the
-natural languages is a major source of <firstterm>semantic
-ambiguity</firstterm><indexterm id="idx144">
-<primary>unambiguous language</primary>
-</indexterm> (the ambiguity embedded in the variable meanings of
-words when taken in context). Most Lojban expressions involve some amount
+natural languages is a major source of semantic
+ambiguity. Most Lojban expressions involve some amount
 of ellipsis. The listener, however, knowing that the omissions have occurred,
-has a means of quickly questioning any specific one of them (or all of them),
+has a means of asking directly about any specific one of them (or all of them),
 and resolving the ambiguity. So this kind of semantic ambiguity is not eliminated in
 Lojban, but it is made more recognizable and more amenable to
 resolution.</para>
@@ -2203,8 +2210,9 @@ places specified for any of the <foreignphrase lang="art-lojban"><emphasis
 role="term">selbri</emphasis></foreignphrase> embedded in the
 <foreignphrase lang="art-lojban"><emphasis
 role="term">sumti</emphasis></foreignphrase>; they are all elliptically
-omitted, except for the x<subscript>1</subscript> place that is
-superfluous. Here is a more complex example:</para>
+omitted, except for the x<subscript>1</subscript> place, which describes
+the <foreignphrase lang="art-lojban"><emphasis
+role="term">sumti</emphasis></foreignphrase> itself. Here is a more complex example:</para>
 
 <informalexample><formalpara><title>Example 2</title><para><literallayout><foreignphrase lang ="art-lojban">mi sutra klama le blanu zdani be la djan. le briju</foreignphrase>
 I quickly come to the blue house of John from the office.</literallayout></para></formalpara>
@@ -2216,7 +2224,7 @@ I quickly come to the blue house of John from the office.</literallayout></para>
 <informalexample><para>I quickly (at doing something) come to the blue house of
 John from the office (of someone, at some location), via some route, using some means of travel. </para></informalexample>
 
-<para>In this example, one of the <foreignphrase
+<para>In this example, one of the nested <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti
 selbri</emphasis></foreignphrase> has had its places specified, while two
 places of <foreignphrase lang="art-lojban">klama</foreignphrase> have been
@@ -2272,12 +2280,13 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase><indexte
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
 </indexterm> in example (2), <foreignphrase
 lang="art-lojban">sutra klama</foreignphrase> and <foreignphrase
-lang="art-lojban">blanu zdani</foreignphrase>, each <foreignphrase
-lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> in the <foreignphrase
-lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> may be a self-contained
+lang="art-lojban">blanu zdani</foreignphrase>, each of the four <foreignphrase
+lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>may be a self-contained
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> unit as well,
 having its own <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>
-attached to it (using <foreignphrase lang="art-lojban">be</foreignphrase>).
+attached to it (using the <foreignphrase
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
+<foreignphrase lang="art-lojban">be</foreignphrase>).
 The place structure of the <emphasis>final</emphasis>
 component of a <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
 (<foreignphrase lang="art-lojban">klama</foreignphrase> and <foreignphrase
@@ -2308,7 +2317,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> values.
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, which are the
 simplest form of <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>. -->A
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> must have a single
-defined place structure, with specific <foreignphrase
+defined place structure, describing the specific <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> places to be related. <!--</para>
 
 <para>-->If this were not so, example (1) might be interpreted arbitrarily;
@@ -2320,7 +2329,7 @@ nonsense. With fixed place structures, a Lojbanist will interpret example (1)
 correctly. A Lojbanist can also, incidentally, express the nonsense
 just quoted. It will still be nonsense, but it won't be the syntax that confuses the
 listener; each place will be clearly labelled, and the nonsense can be
-discussed until resolved (if one wants).</para>
+discussed until resolved<!-- (if one wants)-->.</para>
 
 <para>Thus, for a given <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, or indeed for any <foreignphrase
@@ -2329,7 +2338,7 @@ structure<indexterm id="idx147">
 <primary>place structure</primary>
 </indexterm> defined as part of the meaning. Complex <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, described below, simply have more
-elaborate place structures determined by simple rules from the
+elaborate place structures determined by simple rules from their
 components.</para>
 
 <para>The place structure of a <foreignphrase
@@ -2344,7 +2353,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> is whic
 
 <para>Lojban <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> are most
-often used with the value of the 1st
+often given in a sentence as the value of the 1st
 (x<subscript>1</subscript>) <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> place, followed by the
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, followed by the
@@ -2415,7 +2424,12 @@ SOV-ordered Lojban.-->However, it is equally correct and straightforward to plac
 the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> at the end of the
 <foreignphrase
-lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>.</para>
+lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>:</para>
+
+<informalexample><para>x<subscript>1</subscript> x<subscript>2</subscript>
+x<subscript>3</subscript> x<subscript>4</subscript>
+x<subscript>5</subscript> <foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> </para></informalexample>
 
 <para>There are a variety of <foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase><indexterm id="idx150">
@@ -2423,7 +2437,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase><indexte
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
 </indexterm> operators which modify these
 orders, or which modify one or more pieces of the <foreignphrase
-lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. These can make things extremely
+lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. These can make things quite
 complicated, yet simple rules allow the listener to take the complications
 apart, piece by piece, to get the complete and unique structure of the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. We cannot describe
@@ -2440,17 +2454,17 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> in a se
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. <foreignphrase
 lang="art-lojban">cu</foreignphrase> cannot be used if there are no
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> before the
-<foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, but is otherwise
+<foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>; but otherwise it is
 <emphasis>always permitted</emphasis> though <emphasis>not always
 required</emphasis>. Example (1) shows a <foreignphrase
 lang="art-lojban">cu</foreignphrase> used that is required; example (2)
 optionally omits the <foreignphrase lang="art-lojban">cu</foreignphrase>.
-Skill in Lojban is knowing when <foreignphrase
-lang="art-lojban">cu</foreignphrase> is required, when it is not required
-but useful, and when it is permitted, but a
+Skill in Lojban includes knowing when <foreignphrase
+lang="art-lojban">cu</foreignphrase> is required; when it is not required
+but useful; and when it is permitted, but a
 distraction.</para>
 
-<para>What happens when the place structure of a <foreignphrase
+<para>What happens when the place structure of a given <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
 does not exactly match the meaning that the speaker is trying to convey?
 <!--Lojban's design assumes that absolute meanings for words do not serve all
@@ -2506,10 +2520,12 @@ specifies <quote role="gloss">in language...</quote>; thus <quote
 role="gloss">in language which is called Lojban</quote>.</para></listitem>
 
 </itemizedlist></informalexample>
-<para>The sentence thus roughly translates as <quote>Today, I express in
+<para>The sentence thus roughly translates as <quote>Today, I express [it] in
 Lojban.</quote></para>
 
-<para>Among additional places that can be specified are comparison,
+<para>Among additional <foreignphrase
+lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
+places that can be specified are comparison,
 causality<!--. There are also a small number of <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> that can be said to be a part of
 all <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> place
@@ -2554,12 +2570,12 @@ the <emphasis>property</emphasis> of truth.</para>
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> can undergo <quote
 role="socalled">conversion</quote><indexterm id="idx158a">
 <primary>place structure</primary><secondary>conversion</secondary>
-</indexterm>, which is simply a change to the order of the
+</indexterm>, which is simply a reordering of the
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> places. Since the
 listener's attention is usually focussed on the first and/or the last
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> expressed in the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>, this has a
-significant semantic effect, somewhat like the <quote
+significant effect in relative emphasis, somewhat like the <quote
 role="socalled">passive voice</quote> of English (e.g. <wordasword>The man
 was bitten by the dog.</wordasword> vs. <wordasword>The dog bit the
 man</wordasword>.)</para>
@@ -2584,8 +2600,8 @@ semantic components, including tense. (Time and location, and combinations of th
 be incorporated as tenses in the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase><indexterm id="idx159">
 <primary>tense</primary>
-</indexterm>.) With tense unspecified, it is
-possible that examples (1) and (2) might be intended as past, present, or
+</indexterm>.) With tense unspecified, 
+examples (1) and (2) might be intended as past, present, or
 future tense; the context determines how the sentence should be
 interpreted.<indexterm id="idx158" startref="idx157" class="endofrange"/></para>
 </sect2>
@@ -2599,9 +2615,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></primar
 </indexterm><foreignphrase lang="art-lojban"><emphasis
 role="term">sumti</emphasis></foreignphrase> can be compared to the <quote
 role="socalled">subject</quote> and <quote role="socalled">object</quote>
-of English grammar; but as the discussion of <foreignphrase
-lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
-above will have indicated, this is only an analogy. The value of the
+of English grammar; the value of the
 first (x<subscript>1</subscript>) <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>
 place resembles the English <quote role="socalled">subject</quote>; the
@@ -2609,24 +2623,27 @@ other <foreignphrase lang="art-lojban"><emphasis
 role="term">sumti</emphasis></foreignphrase> are like direct or indirect <quote
 role="socalled">objects</quote>.</para>
 
-<para>There are differences, though. <foreignphrase
+<para>But as the discussion of <foreignphrase
+lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
+above will have indicated, this is only an analogy. <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>
 are not inherently singular or plural: number is one of those semantic components
 mentioned above that is not always relevant to communication, so number is
-optional. Thus, example (2) could have been translated as <wordasword>We
+optional in Lojban. Thus, example (2) could have been translated as <wordasword>We
 quickly go/come/went/came (etc.) to the blue houses of those called
 John.</wordasword> If this is plausible given the context, but is not
 the meaning intended, the speaker must add some of the optional semantic information
 like tense and number, to ensure that the listener can understand the
 intended meaning. There are several ways to specify number when this is
 important to the speaker; the numerically unambiguous equivalent of the
-English plural <wordasword>people</wordasword> would be <foreignphrase
+English plural <wordasword>people</wordasword> would be: <foreignphrase
 lang="art-lojban">le su'ore prenu</foreignphrase> (<quote role="gloss">the
 at-least-two persons</quote>).</para>
 
 <para>There are a large variety
  of constructs usable as <foreignphrase
-lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>. Only the most important will be
+lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>,
+beyond what we have already seen. Only the most important will be
 mentioned here. These include:</para>
 
 <variablelist>
@@ -2694,9 +2711,9 @@ lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
 <quote role="gloss">The word <wordasword>John</wordasword></quote>, <foreignphrase lang="art-lojban">lu mi klama 
 li'u</foreignphrase> <quote role="gloss">The Lojban text <foreignphrase lang="art-lojban">mi 
 klama</foreignphrase></quote>, <foreignphrase lang="art-lojban">zoi
-by.</foreignphrase> I come <foreignphrase
+by.</foreignphrase> I go <foreignphrase
 lang="art-lojban">.by.</foreignphrase> <quote role="gloss">The non-Lojban text <wordasword>I 
-come</wordasword></quote>);</para></listitem>
+go</wordasword></quote>);</para></listitem>
 </varlistentry>
 
 <varlistentry>
@@ -2741,7 +2758,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></primar
 </indexterm>reference to something by describing it (e.g.
 <foreignphrase lang="art-lojban">le prenu</foreignphrase> <quote role="gloss">the person</quote>, 
 <foreignphrase lang="art-lojban">le pu crino</foreignphrase> 
-<quote role="gloss">the thing green in the past</quote>, <foreignphrase lang="art-lojban">le nu
+<quote role="gloss">the thing that was green in the past</quote>, <foreignphrase lang="art-lojban">le nu
 klama</foreignphrase> <quote role="gloss">the event of going</quote>).</para></listitem>
 </varlistentry>
 
@@ -2803,11 +2820,13 @@ role="gloss">the go-er/come-r (to some place from some place via some place, usi
 <foreignphrase lang="art-lojban">le nu klama</foreignphrase> is the <quote
 role="gloss">event of (someone) going/coming (to some place from some place via some place, using some means of travel)</quote>.
 The abstraction treats the <foreignphrase
-lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> as a whole rather than from the
-aspect of the x<subscript>1</subscript> place.</para>
+lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> as a whole rather than 
+isolating the x<subscript>1</subscript> place.</para>
 
 <para>Descriptions can also
 incorporate sentences based on abstracts; this is needed to elaborate
+<foreignphrase
+lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> like 
 <foreignphrase lang="art-lojban">le nu klama</foreignphrase>. For example,
 <foreignphrase lang="art-lojban">le nu mi klama ti</foreignphrase> is
 <quote role="gloss">the event that: I come here (from some place via some place,
@@ -2866,8 +2885,8 @@ English possessive. <indexterm startref="idx161" id="idx162" class="endofrange"/
 <para><indexterm id="idx176" class="startofrange">
 <primary>free modifiers</primary>
 </indexterm><firstterm>Free modifiers</firstterm> are grammatical constructs that
-can be inserted in a <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
-as a sentence, without changing the meaning, or the truth value, of the
+can be inserted in a <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>, 
+without changing the meaning, or the truth value, of the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. Free modifiers
 include the following types of structures:
 
@@ -2892,7 +2911,7 @@ expressions used for <quote role="socalled">protocol</quote>, allowing for
 smooth, organized communications in disruptive environments (e.g.
 <foreignphrase lang="art-lojban">ta'a</foreignphrase> <quote role="gloss">excuse me</quote>,
 <foreignphrase lang="art-lojban">be'e</foreignphrase> <quote role="gloss">are you listening?</quote>), as well as
-some expressions that are part of courtesy in most
+some expressions that are associated with courtesy in most
 languages.</para></listitem>
 
 </varlistentry>
@@ -2917,9 +2936,9 @@ lang="art-lojban"><emphasis role="term"><firstterm>bridi</firstterm></emphasis><
 <listitem><para><indexterm id="idx183">
 <primary>discursive <foreignphrase
 lang="art-lojban"><emphasis role="term"><firstterm>bridi</firstterm></emphasis></foreignphrase></primary>
-</indexterm>These are halfway between discursives and parenthesis, and
+</indexterm>These are halfway between discursives and parentheses, and
 allow the speaker to make metalinguistic statements about a sentence
-without modifying the sentence. Thus, the discursive <foreignphrase
+without modifying that sentence. Thus, the discursive <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> equivalent of <wordasword>This sentence is
 false</wordasword> does not result in a paradox, since it would be expressed as a
 discursive <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> inside of
@@ -2937,11 +2956,13 @@ sentence, being expressed discursively. They are similar to the English
 exclamations like <wordasword>Oh!</wordasword> and
 <wordasword>Ahhhh!</wordasword>, but they include a much broader range of
 possibilities, covering a range comparable to that expressed by English
-intonation, as well as indicators of intensity. Also included in this
+intonation; they can also serve as indicators of intensity. Also included in this
 category are indicators of the relationship between the speaker and the
 expression (<firstterm>evidentials</firstterm>)<indexterm id="idx184a">
 <primary>evidentials</primary>
-</indexterm>. Found in native American languages among others, these may indicate that the
+</indexterm>. Found in native American languages among others, these allow
+the hearer to judge how seriously to take an assertion, by making explicit the basis
+for the speaker making the assertion: that the
 speaker directly observed what is being reported, heard about it from
 another, deduced it, etc.<indexterm id="idx177" startref="idx176" class="endofrange"/></para></listitem>
 
@@ -2980,8 +3001,8 @@ that are similar to the classic English questions
 <para><!--Lojban also provides for questions about indicators and their
 intensities, <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>-place
 case tags, tenses and modalities, and logical connectives. -->Yes/no questions
-can either be asked as a question of emotional attitude, such as belief,
-certitude, supposition, decision, approval, or intention, or as a question
+can either be asked as a question of emotional attitude &mdash; such as belief,
+certitude, supposition, decision, approval, or intention &mdash; or as a question
 of truth and falsity. In the first case, the answer is an attitudinal.
 In the second case, the answer is an assertion or denial of the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
@@ -2995,8 +3016,8 @@ functions.<indexterm id="idx186" startref="idx185" class="endofrange"/></para> <
 </indexterm>The tense system of Lojban expresses not only the time at which
 something happens, but also the place.  It can express very
 complex combinations of both temporal and spatial distances and directions (the time
-directions are <quote role="socalled">past</quote> and <quote role="socalled">future</quote>, of course), interval
-sizes and ranges, and the parts of events such as <quote role="socalled">beginning</quote>, <quote role="socalled">middle</quote>,
+directions being <quote role="socalled">past</quote> and <quote role="socalled">future</quote>, of course), interval
+sizes and ranges, and parts of events such as <quote role="socalled">beginning</quote>, <quote role="socalled">middle</quote>,
 and <quote role="socalled">end</quote>. Fortunately, this entire system is optional:
 it is perfectly correct to express <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> with no specific
 tense at all, in which case the place and time is up to
@@ -3038,15 +3059,16 @@ variety of different ways (e.g. <wordasword>...closed it</wordasword>,
 desk</wordasword>); in these, the <wordasword>and</wordasword> is joining a
 variety of different constructs. You must hear and analyze the whole
 sentence to interpret the <wordasword>and</wordasword>, and you still may
-not be certain of having a correct understanding.</para>
+not be certain of having a correct understanding. Lojban would make clear the
+structures being joined from the outset.</para>
 
 <para>Another way Lojban supports logical connectives is by distinguishing them
 from non-logical connectives<indexterm id="idx189">
 <primary>connectives</primary><secondary>non-logical</secondary>
-</indexterm>. These latter include:
+</indexterm>. The latter include:
 <itemizedlist>
 <listitem><para>the
-<wordasword>and</wordasword> of mixing (as in coffee with milk &mdash; which is neither
+<wordasword>and</wordasword> of mixing (as in <quote>coffee with milk</quote> &mdash; which is neither
 just coffee nor just milk, but both at once);</para></listitem>
 <listitem><para>expressions of
 causality (Lojban supports expression of four different kinds of causality:
@@ -3062,28 +3084,29 @@ in English imply <quote role="gloss">and</quote> without stating it.</para></lis
 </indexterm>Lojban has incorporated a detailed grammar for mathematical
 expressions<!-- (abbreviated <firstterm>MEX</firstterm> in English, <foreignphrase
 lang="art-lojban">mekso</foreignphrase> in Lojban)-->. This grammar parallels
-the predicate grammar of the non-mathematical language. Numbers, of course,
+the predicate grammar of the non-mathematical language. Numbers
 may be clearly expressed, including exponential and scientific notation.
 Digits are provided for decimal and hexadecimal arithmetic, and letters may be used for additional digits
 if desired. There is a distinction made between mathematical operations and
 mathematical relations. The set of operations is not limited to <quote
 role="socalled">standard arithmetic</quote>. Operations therefore assume a
-left-grouping precedence which can be overridden with parenthesis, or
-optionally included precedence labels that override this grouping when
-you evaluate the expression.</para>
+left-grouping precedence which can be overridden with parentheses, or
+optionally included precedence labels that override this grouping on
+evaluating the expression.</para>
 
 <para>Included in Lojban are means to express non-mathematical concepts and
 quantities as numbers, and mathematical relationships as ordinary
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. In Lojban, it is
 easy to talk about a <quote role="socalled">brace</quote> of oxen or a
 <quote role="socalled">herd</quote> of cattle, as well as to discuss the
-<quote role="socalled">5 fingers of your hand</quote>, or <quote
-role="socalled">&int;
+<quote>5 fingers of your hand</quote>, or <quote>&int;
 &minus;2x<superscript>3</superscript>+x<superscript>2</superscript>&minus;3x+5
 dx evaluated over the interval of &minus;5 to +5 bottles of
-water</quote>.<indexterm id="idx191" startref="idx190" class="endofrange" significance="preferred"/>
+water</quote>.<indexterm id="idx191" startref="idx190" class="endofrange" significance="preferred"/></para>
 
-<note><para>In case you're curious: <foreignphrase lang="art-lojban">li ri'o ni'u re xy. te'a ci su'i xy. te'a re su'i mu ku'e xy. ku'e mo'e ni'u mu djacu botpi te'u ga'o bi'o ga'o mo'e mu djacu botpi</foreignphrase></para></note></para> </sect2>
+<note><para>In case you're curious: <foreignphrase lang="art-lojban">li ri'o ni'u re
+pi'i xy. bi'e te'a ci su'i xy. bi'e te'a re vu'u ci bi'e pi'i xy. su'i muboi ge'a xy.boi
+ge'a mo'e vei ni'u mu bi'o ma'u mu ve'o djacu botpi</foreignphrase></para></note> </sect2>
 
 <sect2><title><foreignphrase lang="art-lojban">selsku</foreignphrase></title>
 
