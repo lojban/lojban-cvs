@@ -13,14 +13,14 @@
 
 <book lang="de">
 <bookinfo>
-   <title>Was ist Lojban? <foreignphrase lang="loj">velclicfa fi la 
-   lojban.</foreignphrase></title>
+   <title>Was ist Lojban? <foreignphrase lang="loj">velclicfa fi la lojban.</foreignphrase></title>
    <editor><firstname>Nick</firstname><surname>Nicholas</surname></editor>
    <othercredit><firstname>Bj&ouml;rn</firstname><surname>Gohla</surname>
-<contrib>deutsche &Uuml;bersezung</contrib></othercredit>
-<pubdate>2001</pubdate>
-<publisher><publishername>The Logical Language Group</publishername></publisher>
- </bookinfo>
+        <contrib>deutsche &Uuml;bersezung</contrib>
+   </othercredit>
+   <pubdate>2001</pubdate>
+   <publisher><publishername>The Logical Language Group</publishername></publisher>
+</bookinfo>
 <!--vielleicht ein vorwort?-->
 <!--kapitel-->
 &einf;

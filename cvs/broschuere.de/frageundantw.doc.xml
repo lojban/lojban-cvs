@@ -6,7 +6,7 @@
 <qandaentry>
 
 <question><para>Was ist
-Lojban? &mdash; <foreignphrase lang="loj">la lojban
+Lojban? &mdash; <foreignphrase lang="art-lojban">la lojban
 mo</foreignphrase></para></question>
 
 <answer>
@@ -149,7 +149,7 @@ Eigenschaft.</para>
 ist meisst die beste</quote>) gezeigt:
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
+<foreignphrase lang="art-lojban">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
 ['roda poi 'vel&#643;ki 'kuho so'heroi ke 'ganai 'saprai gi 'xagrai]
 <wordasword>f&uuml;r alle Dinge die-sind(Erkl&auml;rung) gilt-meistens(wenn besonders-einfach dann besonders-gut)</wordasword>
 </literallayout>
@@ -169,8 +169,8 @@ um zwei aufeinander folgende Vokale h&ouml;rbar zu trennen ohne eine Pause zu ma
 <quote role="gloss">Grammatik</quote> weckt bei vielen Leuten unangenehme Erinnerungen.
 Auch wenn die Lojban Grammatik auf den ersten Blick recht kompliziert erscheint, so ist sie doch 
  einfach. Sie basiert auf der sogenannten Pr&auml;dikatenlogik. Diese  Pr&auml;dikatenlogik 
-dr&uuml;ckt in jedem Satz eine Beziehung (<foreignphrase lang="loj">selbri</foreignphrase> in Lojban)
-zwischen ein oder mehreren Argumenten (<foreignphrase lang="loj">sumti</foreignphrase>) aus. Diese Argumente
+dr&uuml;ckt in jedem Satz eine Beziehung (<foreignphrase lang="art-lojban">selbri</foreignphrase> in Lojban)
+zwischen ein oder mehreren Argumenten (<foreignphrase lang="art-lojban">sumti</foreignphrase>) aus. Diese Argumente
 k&ouml;nnen Dinge, Ereignisse, Qualit&auml;ten und noch vieles andere sein. Der Satz
 
 <informalexample>
@@ -185,24 +185,24 @@ zwischen den Argumenten, <wordasword>Hans</wordasword> und <wordasword>Maria</wo
 In Lojban ist das 
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la xans. prami la marias.</foreignphrase></literallayout>
+<literallayout><foreignphrase lang="art-lojban">la xans. prami la marias.</foreignphrase></literallayout>
 </informalexample>
 
 oder je nach Belieben auch
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la xans. la marias. prami</foreignphrase></literallayout>
+<literallayout><foreignphrase lang="art-lojban">la xans. la marias. prami</foreignphrase></literallayout>
 </informalexample>
 </para>
 
 <para>
 Sie denken wahrscheinlich: <quote>Naja, die Relation ist eben ein Verb und das Argument einfach ein Nomen,
 warum soll man also extra neue W&ouml;rter wie
-<foreignphrase lang="loj">selbri</foreignphrase> und so weiter einf&uuml;hren?</quote>
+<foreignphrase lang="art-lojban">selbri</foreignphrase> und so weiter einf&uuml;hren?</quote>
 In Lojban kann man Hans' Gef&uuml;hle f&uuml;r Maria so beschreiben:
 
 <informalexample>
-<literallayout><foreignphrase lang="loj">la marias. melbi</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la marias. melbi</foreignphrase>
 Maria ist sch&ouml;n.</literallayout>
 </informalexample>
 </para>
@@ -220,7 +220,7 @@ Im Chinesischen w&uuml;rde man  <wordasword>meili</wordasword> benutzen, ein
 
 
 <para>Wenn es also in Lojban keine Verben, Nomen und Adjektive gibt, wie
-weiss man dann, dass <foreignphrase lang="loj">la xans. la marias. prami</foreignphrase> 
+weiss man dann, dass <foreignphrase lang="art-lojban">la xans. la marias. prami</foreignphrase> 
 <quote>Hans liebt Maria.</quote> bedeutet und nicht <quote>Maria liebt Hans.</quote> ? 
 Nun, verschiedene Sprachen l&ouml;sen dieses Problem unterschiedlich, im Deutschen entscheiden die
 Wortstellung, die Beugung, oder Deklination, und, wenn das nicht ausreicht, Pr&auml;positionen &uuml;ber 
@@ -231,7 +231,7 @@ die Bedeutung eines Nomens. Im Lateinischen hingegen ist die Wortstellung weitge
 
 
 <para>In Lojban ist diese Funktionsbestimmung quasi in die W&ouml;rter <quote>eingebaut</quote>.
-Das Wort <foreignphrase lang="loj">dunda</foreignphrase> zum Beispiel bedeutet
+Das Wort <foreignphrase lang="art-lojban">dunda</foreignphrase> zum Beispiel bedeutet
 <wordasword>geben</wordasword>, die vollst&auml;ndige Definition hingegen lautet:
 
 <informalexample>
@@ -240,7 +240,7 @@ Das Wort <foreignphrase lang="loj">dunda</foreignphrase> zum Beispiel bedeutet
 </para>
 
 
-<para>Also bedeutet <foreignphrase lang="loj">mi pu dunda le
+<para>Also bedeutet <foreignphrase lang="art-lojban">mi pu dunda le
 cukta le ninmu</foreignphrase> <quote>Ich habe der Frau das Buch gegeben</quote>,
  nicht etwa <quote>Ich habe die Frau dem Buch gegeben</quote>. 
 </para>
@@ -248,7 +248,7 @@ cukta le ninmu</foreignphrase> <quote>Ich habe der Frau das Buch gegeben</quote>
 
 <para>Der entscheidende Punkt ist, dass es in Lojban viel von dem gibt, was wir
 <quote role="gloss">Grammatik</quote>nennen w&uuml;rden, aber 
-das meiste davon ist in den <foreignphrase lang="loj">cmavo</foreignphrase>, 
+das meiste davon ist in den <foreignphrase lang="art-lojban">cmavo</foreignphrase>, 
 <quote>Strukturw&ouml;rtern</quote> enthalten, und man kann davon beinahe soviele oder sowenige verwenden, 
 wie man m&ouml;chte.</para>
 
@@ -267,14 +267,14 @@ wie man m&ouml;chte.</para>
 man ebenso einfach von Vorg&auml;ngen wie von Zust&auml;nden sprechen.
 Diese Unterscheidung kann man vernachl&auml;ssigen oder ausdr&uuml;chklich durch das Zusammenbringen
 verschiedener Konzepte in
- <foreignphrase lang="loj">tanru</foreignphrase>&nbsp;&mdash;&nbsp;<quote>Metaphern</quote> 
+ <foreignphrase lang="art-lojban">tanru</foreignphrase>&nbsp;&mdash;&nbsp;<quote>Metaphern</quote> 
 betonen. Dies sind Kombinationen
-von<foreignphrase lang="loj">selbri</foreignphrase> mit W&ouml;rtern wie
-<foreignphrase lang="loj">gasnu</foreignphrase>&nbsp;&mdash;&nbsp;<quote
-role="gloss">tun</quote>, <foreignphrase lang="loj">zasti</foreignphrase>&nbsp;&mdash;&nbsp;
+von<foreignphrase lang="art-lojban">selbri</foreignphrase> mit W&ouml;rtern wie
+<foreignphrase lang="art-lojban">gasnu</foreignphrase>&nbsp;&mdash;&nbsp;<quote
+role="gloss">tun</quote>, <foreignphrase lang="art-lojban">zasti</foreignphrase>&nbsp;&mdash;&nbsp;
 <quote role="gloss">existieren</quote>, <foreignphrase
-lang="loj">zukte</foreignphrase>&nbsp;&mdash;&nbsp;<quote role="gloss">planvoll handeln</quote>.
-Dazu kommt noch eine ganze Reihe von <foreignphrase lang="loj">cmavo</foreignphrase>&nbsp;&mdash;&nbsp;
+lang="art-lojban">zukte</foreignphrase>&nbsp;&mdash;&nbsp;<quote role="gloss">planvoll handeln</quote>.
+Dazu kommt noch eine ganze Reihe von <foreignphrase lang="art-lojban">cmavo</foreignphrase>&nbsp;&mdash;&nbsp;
 <quote role="gloss">Operatoren</quote>, die verschiedene Abstraktionen ausdr&uuml;cken k&ouml;nnen, wie
 Ereignisse, Zust&auml;nde, Eigenschaften, Mengen, Ideen, Erfahrungen oder Wahrheitswerte, zus&auml;tzlich gibt
 es auch noch vier vordefinierte Kausalausdr&uuml;cke, weitere k&ouml;nnen durch Metaphern definiert werden.
@@ -330,7 +330,7 @@ der nicht-mathematischen Teil der Sprache zusammenpasst.</para>
 
 
 <para>Lojban<quote role="gloss">Wortklassen</quote> sind durch den Gebrauch von <foreignphrase
-lang="loj">cmavo</foreignphrase> ineinander umwandelbar.
+lang="art-lojban">cmavo</foreignphrase> ineinander umwandelbar.
 Man kann Zahlen als Nomen oder Verben einsetzen, man kann sich auch neue 
 Zahlen und Pr&auml;positionen ausdenken. Lojban beseitigt viele Beschr&auml;nkungen des menschlichen
 Denkens w&auml;hrend es die strukturelle Syntax genau vorgibt.
@@ -429,7 +429,7 @@ soll eine &Uuml;bertragung dieser Assoziationen vermieden werden.
 <para>Mit Hilfe der sehr ausdrucksstarken Metapher&ndash; und Wortbildungsmechanismen
 ist es m&ouml;glich einzelne Konzepte fein zu differenzieren, was der Tendenz vorbeugt, 
 dass einzelne W&ouml;rter mit einer ganzen Gruppe von Bedeutungen belegt wird. Lojban Metaphern,
-<foreignphrase lang="loj">tanru</foreignphrase> genannt,
+<foreignphrase lang="art-lojban">tanru</foreignphrase> genannt,
 sind mehrdeutig, sie beschreiben eine Beziehung zwischen mehreren Konzepten, aber sie
 dr&uuml;cken nicht aus, worin diese Beziehung besteht. Diese Beziehung kann durch eindeutige 
 logische Konstrukte ausdr&uuml;cklich beschrieben
@@ -485,7 +485,6 @@ Sprache allerdings noch jung ist, sind Aphorismen noch selten.</para>
 
 </answer>
 </qandaentry>
-<!--bgohla bookmark-->
 <qandaentry>
 <question>
 
@@ -535,49 +534,49 @@ voneinander zu lernen, was sehr intensiv geschieht.</para>
 </question>
 <answer>
 
-
-<para>Englisch wird f&uuml;r gew&ouml;hnlich als  <quote role="gloss">internationale Sprache</quote> 
+<para>Englisch wird f&uuml;r gew&ouml;hnlich als <quote role="gloss">internationale Sprache</quote> 
 von Wissenschaft unf Technik gebraucht, und ist wahrscheinlich die am meisten gesprochene Sprache der Welt.
 Die amerikanische Dominanz im Bereich der Hochtechnologie in diesem Jahrundert hat dazu gef&uuml;hrt, dass 
 viele Sprachen, die f&uuml;r die neuen Ideen keine W&ouml;rter hatten, diese aus dem Englischen entlehnt haben.
 Diese Dominanz und das Erbe des Kolonialismus, das eine Ablehnung des europ&auml;ischen und amerikanischen
-Einflusses auf andere Kulturen hervorgerufen hat, haben in letzter Zeit in vielen L&auml;ndern zu einer Abwendung von der
+Einflusses auf andere Kulturen hervorgerufen hat, haben in letzter Zeit in vielen L&auml;ndern 
+<!--bgohla added-->, in erster Linie ausserhalb Europas , <!--end added-->
+ zu einer Abwendung von der
 englischen Sprache gef&uuml;hrt. Der wachsende Einfluss Japans und anderer Nationen in der Weltwirtschaft, 
 der Wissenschaft und der Technologie machen einen weiteren Abstieg der universalit&auml;t der
-englischen Sprache wahrscheinlich.
- </para>
+englischen Sprache wahrscheinlich. 
+</para>
+
+<para>Die meisten, die Englisch als zweite Sprache benutzen, beherrsche sie nur
+wenig, auch wenn sie in der Lage sind viele Worte zu lesen und zu verstehen. Englisch ist
+sogar eine der Sprachen die fliessend zu sprechen am schwersten zu lernen ist. In den L&auml;ndern
+wo Englisch neben anderen Sprachen gesprochen wird, hat es sich den anderen &ouml;rtlichen Sprachen
+angepasst und viele W&ouml;rter aus den anderen Spachen &uuml;bernommen. 
+<!--bohla added-->Als prominentes
+Beispiel gilt Indien, wo bei 1500 Sprachen und Dialekten, Englisch als einzige Sprache
+im ganzen Land mehr oder weniger verstanden wird. Die meisten Nichtinder h&auml;tten aber 
+wohl grosse Probleme dies &uuml;berhaupt als Englisch zu erkennen.
+<!--end added-->
+Es gibt also keine einheitliche Englische Sprache, die einzelnen Dialekte des Englischen 
+sind bis zu 70% f&uuml;r Amerikaner und Briten unverst&auml;ndlich und wohl auch untereinander.
+Man kann also die Englische Sprache nicht wirklich <quote role="gloss">international</quote> nennen.
+</para>
+
+<para>Lojban ist eine einheitliche Sprache, die so ausgelegt ist, dass 
+eine Aufspaltung in verschiedene Dialekte vermieden wird. Obwohl sie mehrheitlich
+in Amerika entwickelt worden ist und die ganze Breite an Ausdrucksm&ouml;glichkeiten
+umfasst, die im Englischen m&ouml;glich sind, werden gem&aumlss der kulturell
+neutralen Zielsetzung Strukturen und Konzepte anderer Sprachen ebenso ber&uuml;cksichtigt.
+Diese kulturelle Neutralit&auml;t wird dazu beitragen Lojban als internationale Sprache 
+akzeptabel zu machen. Da es m&ouml;glich ist nach Bedarf W&ouml;rter zu konstruieren
+oder zu entlehnen, die im technischen und wissenschaftlichen Bereich
+ben&ouml;tigt werden, w&auml;re es m&ouml;glich in diesen Bereichen Lojban statt Englisch
+zu benutzen. Im Gegensatz zu Englisch ist es f&uuml;r viele Menschen mit verschiedener
+kultureller Herkunft leichter zu lernen. 
+</para>
 
 <!--bgohla bookmark-->
-<para>In addition, most who know English as a second language speak it only
-minimally, though they may be able to read or understand many words.  In
-fact, English is one of the most difficult languages to learn fluently.  In
-countries where English is spoken along with other languages, it has been
-adapted into dialects which match the local culture and borrow words from
-the other local languages.  Some of these dialects are as much as 70%
-unintelligible to American or British speakers, or to each other.  As such,
-there is no single English language to call an <quote role="gloss">international</quote> one.</para>
-
-<para>In addition, most who know English as a second language speak it only
-minimally, though they may be able to read or understand many words.  In
-fact, English is one of the most difficult languages to learn fluently.  In
-countries where English is spoken along with other languages, it has been
-adapted into dialects which match the local culture and borrow words from
-the other local languages.  Some of these dialects are as much as 70%
-unintelligible to American or British speakers, or to each other.  As such,
-there is no single English language to call an <quote role="gloss">international</quote> one.</para>
-
-
-<para>Lojban is a single language, with design features to discourage
-dialectization.  While it was developed primarily by Americans and supports
-the full range of expression of English, Lojban's cultural neutrality gives
-equal priority to the structures and concepts of other languages and
-cultures.  This cultural neutrality enhances Lojban's acceptability as an
-international language.  Since it is as capable of generating or borrowing
-any words needed to support the concepts of science and technology as
-English, and has advantages for computer applications, Lojban is likely to
-spread worldwide through the technological community.  Far more so than
-English, Lojban is simple and easy to learn for people of all
-cultures.</para> </answer>
+</answer>
 </qandaentry>
 
 <qandaentry>
@@ -604,7 +603,7 @@ abstract fields as philosophy, physics, metaphysics, and religion.</para>
 poetry that seem especially well suited to the rhythm, sound, and flow of
 the language.  Not since the Middle Ages have poets had such an opportunity
 to affect the development of a new language, as they now can with Lojban. 
-Lojban's rich and powerful <foreignphrase lang="loj">tanru</foreignphrase>
+Lojban's rich and powerful <foreignphrase lang="art-lojban">tanru</foreignphrase>
 have been used to create colorful images and to convey moving emotions. 
 Unhindered by grammatical ambiguity that can obscure desired meanings,
 Lojban unleashes the full potential of poetic expression to communicate
@@ -803,7 +802,7 @@ computer software is available, including a parser and a glosser.</para>
 
 <para>You can learn the Lojban grammar in several ways, including study of
 examples in our on-line text archives and mailing lists, reading past
-issues of the Logical Language Group journal <foreignphrase lang="loj">ju'i 
+issues of the Logical Language Group journal <foreignphrase lang="art-lojban">ju'i 
 lobypli</foreignphrase>, or by
 inspection and analysis of the formal grammar description (available in
 higher-level teaching materials; see below for contact details.)  The
@@ -859,7 +858,7 @@ James Cooke Brown.</para>
 
 
 <para>The Logical Language Group is also called <foreignphrase
-lang="loj">la lojbangirz.</foreignphrase> (<wordasword>/lah
+lang="art-lojban">la lojbangirz.</foreignphrase> (<wordasword>/lah
 lozh-BAHN-geerz./</wordasword>), its Lojban name.  It was founded
 informally in 1987, and incorporated in 1988.  The U. S. Internal Revenue
 Service approved our status as a non-profit educational/scientific charity
@@ -904,10 +903,10 @@ payments subject to our financial condition, coupled with your commitment
 to actively maintain contact and involvement with the community through us. 
 Obviously, the level of your prior and current activity and any commitments
 you make in learning the language or in volunteer work for <foreignphrase
-lang="loj">la lojbangirz.</foreignphrase>
+lang="art-lojban">la lojbangirz.</foreignphrase>
 will be factored into our decision.</para> 
 
-<para><foreignphrase lang="loj">la lojbangirz.</foreignphrase> has a
+<para><foreignphrase lang="art-lojban">la lojbangirz.</foreignphrase> has a
 special commitment to support non-U. S. Lojbanists, because so many of the
 language goals are dependent on building an international community of
 speakers, and because we recognize the difficulties caused by the
@@ -956,12 +955,12 @@ publishes materials enabling people to learn the language, and facilitates
 their forming a community of speakers.  Most people involved with Lojban
 stay informed by checking our web page or participating in the Lojban
 mailing lists (see contact details below).  A printed newsletter
-(<foreignphrase lang="loj">le lojbo karni</foreignphrase>) and a journal
-(<foreignphrase lang="loj">ju'i lobypli</foreignphrase>) have been
+(<foreignphrase lang="art-lojban">le lojbo karni</foreignphrase>) and a journal
+(<foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase>) have been
 published intermittently, and may or may not be in active publication when
-you read this.  <foreignphrase lang="loj">le lojbo karni</foreignphrase>
+you read this.  <foreignphrase lang="art-lojban">le lojbo karni</foreignphrase>
 contains general news aimed at those not actively involved in the language
-community.  <foreignphrase lang="loj">ju'i lobypli</foreignphrase> contains
+community.  <foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase> contains
 discussions of features of the language, debates on research issues and
 applications, letters from the community and responses, and Lojban writings
 and translations.</para>
@@ -1161,7 +1160,7 @@ you, and can order some of our materials.</para>
 <important><title></title>
 <para>
 <literallayout>
-<foreignphrase lang="loj">e'osai ko sarji la lojban.</foreignphrase>
+<foreignphrase lang="art-lojban">e'osai ko sarji la lojban.</foreignphrase>
 <wordasword>/eh-ho-sai, ko-SAHR-zhee, lah LOZH-bahn./</wordasword>
 Please support Lojban!
 </literallayout>
