@@ -15,8 +15,9 @@
 <!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
-<!ENTITY schwa "«">
-<!ENTITY Ibarredipa "&#246;">
+<!ENTITY schwa "&#171;">
+<!ENTITY Ibarredipa "&ouml;">
+<!ENTITY IPAASCIIdisclaimer "">
 ]>
 <book>
 &bookinfo;

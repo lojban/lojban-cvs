@@ -21,12 +21,15 @@ allow you to get a feel for how the language works. </para>
 lang="art-lojban">la lojban. mo</foreignphrase> brochure) was originally
 written by Athelstan and Bob LeChevalier in 1988, and updated in 1991 and
 2001. The <citetitle>Overview</citetitle> was originally written by Bob
-LeChevalier and John Cowan in 1989, and updated in 1990 and 2001. The
+LeChevalier in 1989, and updated in 1990 (incorporating content by John Cowan)
+and 2001. The
 <citetitle>Diagrammed Summary</citetitle> was originally written by Nora
 Tansky LeChevalier and Bob LeChevalier in 1990, and updated in 1992 and
 2001. <citetitle>Linguistic Issues</citetitle> is based on material originally
 contained in the <foreignphrase
-lang="art-lojban">la lojban. mo</foreignphrase> brochure (first two questions),
+lang="art-lojban">la lojban. mo</foreignphrase> brochure,
+<citetitle>Is Lojban Scientifically Interesting?</citetitle> originally written by
+Bob LeChevalier in 1992, and 
 and the paper <citetitle>Loglan and Lojban: A Linguist's Questions And An Amateur's 
 Answers</citetitle> originally written by
 John Cowan in 1991, in response to Arnold M. Zwicky's<indexterm id="idx408">
@@ -77,7 +80,8 @@ ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan. .i le xracartu
 torvelski cu krasi se finti la noras. tanskis. lecevalier. joi la lojbab.
 ca la 1990nan. gi'e se ningau ca la 1992nan. .e la
 2001nan. .i la bauske se casnu cu se jicmu loi seltcidu poi krasi se vasru
-le lu la lojban. mo li'u seltcidu to sa'e le pamoi ja remoi preti ce'o danfu cu no'a toi
+le lu la lojban. mo li'u seltcidu ku'o .e la'o lu xu tu'a la lojban. saske cinri li'u
+noi krasi se finti la lojbab. ca la 1992nan.
 ku'o .e la me la loglan .e la lojban. .i la me la loglan .e la lojban. cu
 krasi se finti la djan. 
 kau,n. ca la 1991nan. mu'i lenu spuda le pajni prosa befi la .arnold. zuikis.
@@ -87,7 +91,7 @@ beife la pamoi pe la loglan. ge'u nefi'e la djeimyz.kuk.braun. zi'epede'i la 196
 po'u la'o gy. Language gy. be'o nede'i la 1969nan.
 .i le valsi xe fanva pe le 3moi pagbu cu se cupra sepi'o le mutmi'i
 po'u la <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html">jbofi'e</ulink>
-zi'e nefi'e la ritcyd.kernous.</foreignphrase></para>
+zi'e nefi'e la ritcrd.kernous.</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e la djez. KOminek. 
 lenu vo'e cu stidi sidju</foreignphrase></para>

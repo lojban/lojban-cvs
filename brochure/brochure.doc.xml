@@ -3,7 +3,7 @@ lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojba
 
 <chapter id="lojbanmo"><title>What is Lojban? &mdash; <foreignphrase
 lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojban?</titleabbrev>
-<qandaset defaultlabel="qanda">
+<qandaset>
 
 <qandaentry>
 
@@ -171,8 +171,8 @@ Polynesian, and other Oriental languages, though without the tones that make
 those languages difficult for others to learn.</para>
 
 
-<para>Because there are no idioms to shorten expressions, Lojban often
-appears longer than its corresponding colloquial English text. The
+<para>Because there are no idioms to shorten expressions, a Lojban text is often
+longer than the corresponding colloquial English text. The
 unambiguous linguistic structures that result are a major benefit that makes this
 worthwhile.</para>
 
@@ -180,8 +180,8 @@ worthwhile.</para>
 <para>As an example of Lojban, Occam's Razor (<quote>The simplest
 explanation is usually the best</quote>) may be translated:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
-/roh-dah poi VEHL-shkee KOO-hoh, soh-heh-ROI keh, GAH-nai SAHP-rai, ghee, KHAH-grai/
+<informalexample><literallayout><foreignphrase lang="art-lojban">roda poi velcki cu so'eroi ganai saprai gi xagrai</foreignphrase>
+/roh-dah poi VEHL-shkee shoo soh-heh-ROI GAH-nai SAHP-rai, ghee KHAH-grai/
 <wordasword>All somethings which-are explanations mostly-are (if superlatively-simple then superlatively-good).</wordasword></literallayout></informalexample>
 The apostrophe is pronounced like a short, breathy <quote
 role="gloss">h</quote>, and is used to clearly separate the two adjacent
@@ -263,7 +263,7 @@ other languages, like Latin or Turkish, it's done by changing the form of
 the words, e.g. <wordasword>Pat'i Chris sever</wordasword> in Turkish means
 <quote>Chris loves Pat</quote>, not <quote>Pat loves Chris.</quote> </para>
 
-<para>In Lojban this is built into the meaning of the word. For example,
+<para>In Lojban, the order in which arguments appear is built in to the meaning of the word. For example,
 the word <foreignphrase lang="art-lojban">dunda</foreignphrase> means
 <wordasword>give</wordasword>, but its full meaning is:
 
@@ -322,7 +322,7 @@ experience, and truth; or with four pre-defined varieties of causality<indexterm
 <para>A major benefit of using a predicate grammar is that Lojban doesn't
 have inflections and declensions on nouns, verbs, and adjectives.
 Most natural languages have evolved such variations to reduce ambiguity as
-to how words are related in a sentence. Evolutionary development has made
+to how words are related in a sentence. Language change has made
 these inflections and declensions highly irregular and thus difficult to
 learn. Lojban uses the simple but flexible predicate relationship to erase
 both the irregularity and the declensions.</para>
@@ -336,7 +336,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primar
 <primary>tense</primary>
 </indexterm> New preposition-like forms can be
 built at will from predicates; these allow the user to expand upon a
-sentence by attaching and relating clauses not normally implied in the
+sentence by attaching and relating arguments not normally included in the
 meaning of a word.</para>
 
 
@@ -357,12 +357,11 @@ useful in ordinary speech, too.</para>
 
 
 <para>Predicate logic can express a wide variety of human thought; Lojban
-adds in non-logical constructs that do not affect or obscure the logical
+also has non-logical constructs that do not affect or obscure the logical
 structure, allowing communications that are not amenable to logical
 analysis. For example, Lojban has a full set of emotional indicators<indexterm id="idx31a">
 <primary>attitudinals</primary>
-</indexterm> which
-allow expression of intensity and denial. These are similar to such
+</indexterm>, are similar to such
 ejaculations in English as <wordasword>Oh!</wordasword>,
 <wordasword>Aha!</wordasword>, and <wordasword>Wheee!</wordasword>, but
 each has a specific meaning. Similarly, Lojban has indicators of the
@@ -498,7 +497,7 @@ individual words to acquire families of meanings. Lojban metaphors (called
 </indexterm>) are themselves
 ambiguous; they specify a relationship between concepts, but not what the
 relationship is. That relationship can be made explicit using unambiguous
-logical constructs if necessary, or can be left vague as the speaker
+logical constructs if necessary, or can be left as vague as the speaker
 (usually) desires. Similarly, portions of the logical structure of a Lojban
 expression can be omitted, greatly simplifying the expression while causing
 some ambiguity. Unlike in the natural languages, though, this ambiguity is
@@ -617,8 +616,8 @@ dominance, and a heritage of colonialism and imperialism that built
 resentment towards American and European impositions on native culture, has
 caused recent movements in other countries <emphasis>away</emphasis> from
 English. The rising influence of other non&ndash;English-speaking countries on world
-economics, science, and technology makes further declines in English's
-universality likely.</para>
+economics, science, and technology makes further declines in the
+universality of English likely.</para>
 
 
 <para>In addition, most who know English as a second language speak it only
@@ -713,7 +712,7 @@ called <quote role="gloss">Lojban</quote> (from the roots
 <para>This version is the first version with a stable vocabulary, and the
 first to have a stable and completely defined grammar. The stabilization of
 the language in this version has followed a painstaking and extensive
-period of research and analysis, ranging from 1988 to 1998. Thus, in an
+period of research and analysis, between 1988 and 1998. Thus, in an
 important sense, Lojban is a very new language. To ensure Lojban remains
 stable while people learn it, the language definition is being closely
 controlled; the grammar and vocabulary has already been baselined<indexterm id="idx58">
@@ -788,7 +787,7 @@ language. You may be interested in the Sapir&ndash;Whorf hypothesis<indexterm id
 the scientific tests to be planned and conducted, or in other
 language-related research. You may be interested in Lojban's potential as
 an international language, and in the attempts to use the language to reach
-across cultural bounds.</para>
+across cultural boundaries.</para>
 
 
 <para>Regardless of your background, you will find learning Lojban to be a
@@ -829,27 +828,24 @@ gaining skill with greater experience.</para> </answer> </qandaentry>
 <qandaentry> <question> <para>How do I learn Lojban?</para> </question>
 <answer>
 
-<para>If you received this booklet by mail, you will also find enclosed a 
-description of the language's grammar, and you probably also received other
-materials such as an introductory lesson. If you obtained this booklet via
-computer transmission, these added materials are probably available via the
-same source. If you have not received these materials, you may write to The
-Logical Language Group<indexterm id="idx62">
+<para>This booklet includes a description of the grammar of Lojban and some
+introductory learning materials.  If you are reading this text in a
+separately printed brochure, you may write to the Logical Language
+Group<indexterm id="idx62">
 <primary>Logical Language Group</primary>
-</indexterm>, Inc. at the address found at the end of this
-brochure, and we will be happy to provide them. We request a contribution
-of $5 to cover the costs of these materials (listed on the Registration
-form as <quote>Package 0</quote>).</para>
+</indexterm> at the address found at the end of this brochure, and we
+will be happy to provide the complete booklet.  We request a
+contribution of $5 to cover its cost.</para>
 
 
 <para>If you are reading this brochure on-line, or have access to the
-Internet, the materials in Package 0 are also available on the World Wide
+Internet, the complete booklet is also available on the World Wide
 Web for free at the address:
 
 <informalexample>
 <literallayout><computeroutput>http://www.lojban.org/brochures/package0.html</computeroutput></literallayout></informalexample></para>
 
-<para>Once you have read these initial materials, there are several
+<para>Once you have read this booklet, there are several
 directions you may proceed, depending on your time, location, and other
 circumstances, and your goals for use of the language.</para>
 
@@ -880,19 +876,14 @@ vocabulary. Other computer software is available, including a parser and a
 glosser.</para>
 
 
-<para>You can learn the Lojban grammar in several ways, including study of
-examples in our on-line text archives and mailing lists, reading past
-issues of the Logical Language Group journal <foreignphrase
-lang="art-lojban">ju'i lobypli</foreignphrase><indexterm id="idx64">
-<primary><foreignphrase
-lang="art-lojban">ju'i lobypli</foreignphrase></primary>
-</indexterm>, or by inspection and
-analysis of the formal grammar description (available in higher-level
-teaching materials; see below for contact details.) The formal grammars<indexterm id="idx65">
+<para>You can learn the Lojban grammar in several ways, including by
+studying the examples in our on-line text archives and mailing
+lists, and by going through the formal grammar<indexterm id="idx65">
 <primary>grammar, formal</primary>
-</indexterm> are
-specified in compliance with the computer parser generator <citetitle>YACC</citetitle>, or
-in a simplified version in <citetitle>E-BNF</citetitle> notation.</para>
+</indexterm>
+description. (The formal grammars are available in two
+formats, <citetitle>YACC</citetitle> and simplified <citetitle>E-BNF</citetitle>.  If you don't understand
+these formats, don't worry.)</para>
 
 
 <para>An introduction to the grammar of Lojban will be found in <xref
@@ -905,15 +896,14 @@ description of Lojban, <citetitle>The Complete Lojban Language</citetitle><index
 <primary><citetitle>The Complete Lojban Language</citetitle></primary>
 </indexterm>
 by John W. Cowan, was published by the Logical Language Group in 1997. This
-is an authoritative reference, and is being used as an aid to learning the advanced
+is an authoritative reference, and can be used as an aid to learning the advanced
 features of the language.</para>
 
 
-<para>A formal <quote role="socalled">Lojban dictionary</quote> is being
+<para>A formal Lojban dictionary is being
 compiled, and will encompass the word lists already available from the
 Logical Language Group as of this writing. Draft versions of the dictionary
-are available on the Lojban web site (see contact details below), and
-encompass several megabytes.</para>
+are available on the Lojban web site (see contact details below).</para>
 
 
 <para>Of course the only way to really learn a language is to
@@ -961,69 +951,71 @@ devote a lot of time and effort to seeing their dreams become reality.
 Thus, our only income has been money derived from sales of our
 publications, and donations from interested supporters.</para>
 
-<!-- BALANCE/CREDIT SYSTEM INOPERATIVE: THIS NEEDS TO BE REWRITTEN BY LLG -->
-
-<para>The Logical Language Group publishes and sells materials on a
-balance/credit system. We distribute materials to people and ask that they
-contribute to cover the costs of those materials. All language definition
+<para>The Logical Language Group publishes and sells printed materials on Lojban. 
+<!--We distribute materials to people and ask that they
+contribute to cover the costs of those materials. -->All language definition
 information is considered in the public domain, and most Logical Language
 Group publications are distributed under a policy which allows
 not-for-charge copying and redistribution. Computer versions of many of our
 publications are available on-line at no charge. We ask people who receive
-our materials under any of these alternate means to register your interest
-in Lojban with us so we may better serve that community, and donate
+our materials by any of these means to let us know,
+so that we may better serve you, and donate
 liberally so that we may continue to serve you.</para>
 
 
-<para>We ask that you keep a positive account balance of up to a year or
+<!--<para>We ask that you keep a positive account balance of up to a year or
 more of expected expenditures for orders, as indicated on our registration
 and order forms. Such balance money serves as our day-to-day operating
 funds. We will refund positive balance contributions within 6 weeks of your
 request. If you move without notifying us and we therefore cannot contact
 you, we will maintain your positive balance for a year before treating it
-as a donation.</para>
+as a donation.</para>-->
 
 
 <para>Most materials that we sell require either prior payment, an informal
 commitment to pay on your part, or your statement that you cannot afford to
 pay for materials (in which case our supplying these materials is at our
-discretion). We attempt to flexibly support Lojbanists with financial
+discretion). We attempt to flexibly support Lojbanists who have financial
 constraints, and will accept reasonable offers of reduced or delayed
 payments subject to our financial condition, coupled with your commitment
-to actively maintain contact and involvement with the community through us.
+to actively maintain contact and involvement with the community.
 Obviously, the level of your prior and current activity and any commitments
-you make in learning the language or in volunteer work for <foreignphrase
+you make to learning the language or to volunteer work for <foreignphrase
 lang="art-lojban">la lojbangirz.</foreignphrase> will be factored into our
 decision.</para>
 
 <para><foreignphrase lang="art-lojban">la lojbangirz.</foreignphrase> has a
-special commitment to support non-U. S. Lojbanists, because so many of the
+special commitment to support Lojbanists outside the U.S., because so many of the
 language goals are dependent on building an international community of
 speakers, and because we recognize the difficulties caused by the
 international currency market and the relative wealth of nations. We can
 accept bank cheques in most currencies and international payment via Master
-Card and Visa. We also encourage groups to form and receive a single copy
-of our materials, copying or passing them to others so that the per-person
-costs remain low. We require a lower standard of contact and contribution
+Card and Visa. We also encourage groups to form so that they can receive a single copy
+of our materials, copying or passing them to others to keep the per-person
+costs low. We expect a lower standard of contact and contribution
 from overseas Lojbanists when deciding on whether to continue sending our
 materials at reduced or no charge.</para>
 
 
-<para>We ask that all recipients of our materials voluntarily contribute
+<!--<para>We ask that all recipients of our materials voluntarily contribute
 what you can, and to maintain sufficient funds in your balance to cover our
 suggested prices. These will be deducted automatically when we send you
 materials. We will notify you requesting more money when your balance
 becomes negative. We reserve the right to refuse orders when your balance
 is not fully paid, but again will make every effort to support those who
-support Lojban through their time, commitment, and money.</para>
+support Lojban through their time, commitment, and money.</para>-->
 
-<para><emphasis role="bold">You have no legal obligation to pay for
+<!--<para><emphasis role="bold">You have no legal obligation to pay for
 materials sent to you without your request, but such materials will be
 charged against your balance in the absence of any agreement
 otherwise</emphasis>, with adjustments made to that balance per agreement.
 If we accept an offer of reduced payment from you, we will charge that
-amount to your balance.</para>
+amount to your balance.</para>-->
 
+<para><emphasis role="bold">You have no legal obligation to pay for
+materials sent to you without your request, but we reserve the right
+to refuse to fill orders until any materials we have already sent you
+are paid for (unless we agree to waive payment).</emphasis></para>
 
 <para>We ask all recipients of our materials to help us financially in any
 way you can. The Logical Language Group needs your gifts for support of the
@@ -1050,13 +1042,13 @@ journal (<foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase>)
 </indexterm>have been published intermittently, and may or may not be in active
 publication when you read this. <foreignphrase lang="art-lojban">le lojbo
 karni</foreignphrase> contains general news aimed at those not actively
-involved in the language community. <foreignphrase lang="art-lojban">ju'i
+involved in the learning and using the language. <foreignphrase lang="art-lojban">ju'i
 lobypli</foreignphrase> contains discussions of features of the language,
 debates on research issues and applications, letters from the community and
 responses, and Lojban writings and translations.</para>
 
 
-<para>Our publications are free of advertisements (other than our own
+<para>Our printed publications are free of advertisements (other than our own
 ordering information, and occasional mention of individuals and
 organizations who have contributed particular service to our efforts), and
 we do not sell our mailing list. Our publications are distributed as
@@ -1065,10 +1057,10 @@ of attracting the widest audience possible, we are committed to
 distributing as much material as possible using the <quote
 role="socalled">open source</quote> concept for computer software and a
 similar policy for printed publications. This policy retains our copyrights
-but allows you, with relatively little restriction, to copy our materials
-for your friends, as long as you don't charge for the copies. We also ask
+but allows you, with relatively few restrictions, to copy our materials
+for your friends<!--, as long as you don't charge for the copies. We also ask
 that recipients of copies register with us, so that we know who has our
-materials. Such registration does not require contribution.</para>
+materials. Such registration does not require contribution-->.</para>
 
 
 <para>Certain materials that we publish contain information that we place
@@ -1076,11 +1068,11 @@ in the public domain. All language definition information is considered to
 be public.</para>
 
 
-<para>You can participate in the Lojban community at several levels of
+<!--<para>You can participate in the Lojban community at several levels of
 activity, listed on the detachable registration form that accompanies this
 brochure. It is entirely possible for you to participate in the community
 without any expense, but we welcome contributions and donations to offset
-our costs.</para>
+our costs.</para>-->
 
 
 <para>If you are attempting to learn the language, we provide as much help
@@ -1093,7 +1085,7 @@ language. We aid such people in organizing, leading, and teaching formal
 classes and study groups, and will sponsor affiliated groups in local areas
 where non-profit sponsorship brings useful benefits. We also conduct an
 annual (northern summer) celebration of the language and community, called
-<quote role="socalled">LogFest</quote><indexterm id="idx70">
+<quote role="socalled">Logfest</quote><indexterm id="idx70">
 <primary>Logfest</primary>
 </indexterm>, in conjunction with our annual
 business meeting in the Washington DC area. We also expect to support other
@@ -1101,7 +1093,7 @@ local meetings and gatherings as the community grows.</para>
 
 
 <para>Of course, we also try to publicize the language. Our representatives
-attend meetings and give presentations on the language. We distribute these
+can attend meetings to give presentations on the language. We distribute these
 brochures. Through our efforts, and with your help, the community of
 Lojbanists is rapidly growing.<indexterm id="idx68" class="endofrange" startref="idx67" significance="preferred"/>
 </para> </answer> </qandaentry>
@@ -1144,7 +1136,7 @@ conversation with other Lojbanists.</para></listitem></itemizedlist>
 
 <para>For many of these activities, you need to learn the language first.
 However, even those who haven't time to learn the language at this point,
-or who live apart from other Lojbanists, can assist in recruiting and
+can assist in recruiting and
 contributing ideas to the effort.</para>
 
 
@@ -1186,19 +1178,7 @@ succeed.</para> </important> </answer> </qandaentry>
 
 <para>Who do I contact?</para> </question>
 
-<answer> <para>Write or call: 
-
-<blockquote>
-<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
-<affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
-<street>2904 Beau Lane</street>
-<city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
-<country>U.S.A.</country> 
-<phone>(+1 703) 385-0273</phone> </address>
-</blockquote>
-E-mail can be sent to us at: <ulink
-url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink>
-</para>
+<answer> 
 
 <para>We have several volunteers who serve to coordinate Lojban activities
 in specific regions of the world. There is also a limited amount of Lojban
@@ -1244,7 +1224,19 @@ url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe
 
 <para>If you have received a registration form and an order form with this
 booklet, you can provide us with useful information to aid us in serving
-you, and can order some of our materials.</para>
+you, and can order some of our materials. Write or call: 
+
+<blockquote>
+<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
+<affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
+<street>2904 Beau Lane</street>
+<city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
+<country>U.S.A.</country> 
+<phone>(+1 703) 385-0273</phone> </address>
+</blockquote>
+E-mail can be sent to us at: <ulink
+url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink>
+</para>
 
 <blockquote><para><literallayout><foreignphrase lang="art-lojban">e'osai ko sarji la lojban.</foreignphrase>
 <wordasword>/eh-ho-sai, ko-SAHR-zhee, lah LOZH-bahn./</wordasword>

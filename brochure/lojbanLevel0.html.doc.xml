@@ -29,9 +29,10 @@
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
 <!ENTITY schwa "@">
-<!ENTITY Ibarredipa "I">
+<!ENTITY Ibarredipa "i&quot;">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
+<!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)">
 ]>
 <book>
 &bookinfo;

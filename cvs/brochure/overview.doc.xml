@@ -313,8 +313,8 @@ the tongue and the roof of the mouth, it is called a
 z</foreignphrase>). For example, <foreignphrase lang="art-lojban">k</foreignphrase> is
 an unvoiced stop in the back of the mouth. Its unvoiced fricative
 equivalent is <foreignphrase lang="art-lojban">x</foreignphrase>, which is
-rarely found in English (The Scottish <wordasword>loch</wordasword>, as in
-<wordasword>Loch Ness monster</wordasword>, is an example.)
+rarely found in English (the Scottish <wordasword>loch</wordasword>, as in
+<wordasword>Loch Ness monster</wordasword>, is an example).
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -526,7 +526,7 @@ lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 </informaltable></para>
 
 <para>The other four Lojban consonants are also pronounced as in English.
-However, there are two English pronunciations to consider. The normal
+However, there are two pronunciations to consider. The normal
 Lojban pronunciation is shown in the first table. In names, borrowings,
 and a few other situations, however, these consonants can occur with no vowel in the
 same syllable. In this case they are called <firstterm>syllabic
@@ -1155,8 +1155,8 @@ used to mark the abnormal stress, as in <foreignphrase lang="art-lojban">DJOsefi
 <quote role="gloss">Josephine</quote> in the example above.</para>
 
 <para>Stress and pause are not mandatory in Lojban, except for word
-separation according to the rules above. There is no mandatory intonation, like for
-example the rising tone that always accompanies an English question. Lojban
+separation according to the rules above. There is no mandatory intonation, like
+the rising tone that always accompanies an English question. Lojban
 equivalents of English intonations are expressed as spoken (and written)
 words, and may be adequately communicated even in a monotone voice. Such
 intonation, and pauses for phrasing, are then totally at the speaker's
@@ -1662,13 +1662,12 @@ confusion caused by other forms of ambiguity.</para>
 <sect2 id="brivla"><title><foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase></title>
 
-<para>Thus, unlike words in most other languages, a <foreignphrase
+<para>Unlike words in most other languages, a <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> has a single meaning, 
 which however may encompass a narrow or broad range of closely related submeanings. <foreignphrase
 lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase><indexterm id="idx128b">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase></primary><secondary>meaning</secondary>
-</indexterm> tend to have more broad and
-abstract meanings, while <foreignphrase
+</indexterm> tend to have more general meanings, while <foreignphrase
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase><indexterm id="idx129">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase></primary><secondary>meaning</secondary>
 </indexterm> tend to have specific
@@ -1782,7 +1781,7 @@ the nature of the assertion in a statement, and whether it is
 true or false, are especially significant. Certain constructs in the language are described as making
 assertions, and having <firstterm>truth values</firstterm><indexterm id="idx133">
 <primary>truth values</primary>
-</indexterm>. Other constructs
+</indexterm> (that is, being true or being false). Other constructs
 may modify those truth values, and still others constructs are interpreted
 independently from the truth of the statement.</para>
 </sect2>
@@ -1796,7 +1795,7 @@ grammatical expression, each word has exactly one grammatical
 interpretation, and that the resulting combination of these words relate
 grammatically to each other in exactly one way. (By comparison, in the
 English <wordasword>Time flies like an arrow</wordasword>, each of the first three words has at
-least two grammatical meanings. Each possible combination results in a different
+least two grammatical meanings, and each possible combination results in a different
 grammar for the sentence.)</para>
 
 <para>The <firstterm>machine grammar</firstterm><indexterm id="idx134">
@@ -1875,7 +1874,7 @@ of Lojban into about a hundred of these categories
 of grammar units, called <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase><indexterm id="idx136">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase></primary>
 </indexterm>. Whereas the three
-word types: <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>,
+word types, namely <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>,
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>, and <foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>, are generally considered to
 correspond to the <quote role="socalled">parts of speech</quote> of
@@ -1975,10 +1974,9 @@ by which the result is obtained.</para></listitem>
 
 </itemizedlist></informalexample></para>
 
-<note><para>The English verbs <wordasword>come</wordasword> and
-<wordasword>go</wordasword> describe the action taken by
-x<subscript>1</subscript>, depending on the relationship between
-x<subscript>2</subscript>, x<subscript>3</subscript>, and the speaker. The
+<note><para>The difference between the English verbs <wordasword>come</wordasword> and
+<wordasword>go</wordasword> depends on the relationship between
+x<subscript>2</subscript> (the destination) and the speaker. The
 position of the speaker is not part of the Lojban
 meaning.</para></note>
 
@@ -1991,7 +1989,7 @@ dictionary.</para>-->
 
 <para>When actually using a <foreignphrase lang="art-lojban"><emphasis
 role="term">brivla</emphasis></foreignphrase> within a <foreignphrase lang="art-lojban"><emphasis
-role="term">bridi</emphasis></foreignphrase>, it is necessary to fill the
+role="term">bridi</emphasis></foreignphrase>, it is possible to fill the
 places (five in the case of <foreignphrase lang="art-lojban">klama</foreignphrase>)
 with five specific <foreignphrase lang="art-lojban"><emphasis
 role="term">sumti</emphasis></foreignphrase>. Consider the following example:
@@ -2401,7 +2399,7 @@ between a <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> and its preceding <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> in a sentence-<foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. <foreignphrase
-lang="art-lojban">cu</foreignphrase> is not used if there are no
+lang="art-lojban">cu</foreignphrase> cannot be used if there are no
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> before the
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, and is otherwise
 <emphasis>always permitted</emphasis> though <emphasis>not always

@@ -67,7 +67,7 @@ effects of language could more easily be separated from those of culture.
 
 <para>Unique features of Lojban remove constraints on language in the areas
 of logic, ambiguity, and expressive power, opening up areas of thought that
-have not been easily accessible by human language before. Meanwhile, the
+have not been easily accessible to human language before. Meanwhile, the
 formal rigidity of the language definition allows speakers to carefully
 control their expressions (and perhaps therefore their thought processes). 
 This gives some measure of predictive power that can be used in designing
@@ -90,10 +90,12 @@ of analytical and creative thought.<indexterm id="idx401" startref="idx400" sign
 </qandaentry>
 
 <!--</sect1>-->
-<qandaentry>
-<!--<sect1 id="use"><title>--><question><para>How can Lojban be used by scientists studying language? 
+<!--<qandaentry>-->
+<!--<sect1 id="use"><title>-->
+<!--<question><para>How can Lojban be used by scientists studying language? -->
 </para></question><!--</title>-->
 
+<!--
 <answer>
 <para><indexterm id="idx402" significance="preferred" class="startofrange">
 <primary>linguistic testing</primary>
@@ -129,16 +131,16 @@ several people encompassing expertise in a variety of disciplines,
 including linguistics. The language prescription is similarly the most
 complete of any language. As such, it serves as a unique basis for the
 study of language usage and language change. </para>
+-->
 
-
-<para><!--A new language like Lojban, with no native speakers, is termed a
+<!--<para>--><!--A new language like Lojban, with no native speakers, is termed a
 <quote role="socalled">pidgin</quote><indexterm id="idx405">
 <primary>pidgin</primary>
 </indexterm>. As the language evolves, native speakers of other languages will
 learn it, and will bring into their Lojban usage the perspective and
 patterns of their native language. This interaction process, called
 <quote role="socalled">creolization</quote>, affects all languages, and may be the principle cause of
-language change. -->As Lojban is learned by speakers of a variety of natural
+language change. --><!--As Lojban is learned by speakers of a variety of natural
 languages, this process can be studied directly in a way never before
 possible, with the language prescription serving as a standard by which
 deviations associated with speaker origin, and evolution of usage, can be
@@ -220,7 +222,7 @@ structure, and usage, is unlimited. The invention of Lojban is the
 invention of the science of experimental linguistics.<indexterm id="idx403" startref="idx402" significance="preferred" class="endofrange"/></para>
 
 </answer>
-</qandaentry>
+</qandaentry>-->
 <!--</sect1>-->
 
 <!--
@@ -315,10 +317,10 @@ pre-parser operations, produces a unique parse for every Lojban text. In
 addition, the existence of a defined <quote role="socalled">phrase
 structure rule</quote> grammar underlying the language (and tested via the
 parser generator) guarantees that there are no sentences where distinct
-deep structures generate isomorphic surface structures. On the other hand,
+deep structures generate isomorphic surface structures.<!-- On the other hand,
 Lojban does have transformations, although they are not explicit in the
 machine grammar: there are distinct surface structures which have the same
-semantics, and therefore reflect the same underlying deep structure.</para>
+semantics, and therefore reflect the same underlying deep structure.--></para>
 
 <para>The claim for semantic unambiguity is a limited one only. Lojban
 contains several constructs which are explicitly ambiguous semantically.
@@ -471,9 +473,68 @@ with no claim that the additions were <quote
 role="socalled">primitive</quote> in the same sense). </para>--></answer>
 </qandaentry>
 
-<qandaentry> <question> <para>Some <foreignphrase
+<qandaentry><question><para>What is the process by which the <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase> were devised?
+What are some examples of the process and its results?</para></question>
+
+<answer><para>An appropriate term was chosen from each of the six languages used
+in the process: Chinese, English, Hindi, Spanish, Russian, Arabic.
+(Natural language forms below are given in this order, labeled by
+single letters.) In some cases, two different terms from one or another
+language was used, to see which would have the highest score. The terms
+were then converted to Lojban phonology, with the additional step of
+reducing affricates to their corresponding fricatives, to avoid a false match
+between the stop portion of a source-language affricate and a Lojban stop.
+Morphological affixes were removed, also to avoid false matches.</para>
+
+<para>To score a candidate <foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase>, it was compared with each of the six
+source-language words to produce six raw scores. The raw score for a
+particular source word is roughly the number of letters it has in common
+(in the same order) with the candidate gismu. (If there are two or fewer
+letters in common, special rules apply.) The raw score was then divided
+by the length of the source-language word, and multiplied by a weight
+that reflected the relative number of speakers of the source language at
+the time the candidate was devised.
+The sum of the six adjusted scores is the final score for that candidate
+gismu, typically expressed as a percentage.</para>
+
+<para>For example, the candidate <foreignphrase lang="art-lojban">mamta</foreignphrase> for <quote role="gloss">mother</quote> was built from the
+following six source words, in Lojbanized form: C <foreignphrase lang="zho">ma</foreignphrase>, E <foreignphrase lang="eng">mam</foreignphrase>, H <foreignphrase lang="hin">mata</foreignphrase>,
+S <foreignphrase lang="spa">mam</foreignphrase>, R <foreignphrase lang="rus">mat</foreignphrase>, A <foreignphrase lang="ara">am</foreignphrase>. (The English forms are based on American English
+pronunciation and lexis.) The raw scores are 2, 3, 4, 3, 3, and 2
+respectively, leading to a final score of 100%.  This word cannot be
+improved on!</para>      
+
+<para>At the other end of the spectrum is <foreignphrase lang="art-lojban">ciblu</foreignphrase>, the Lojban gismu for
+<quote role="gloss">blood</quote>. The source words here were C <foreignphrase lang="zho">ciue</foreignphrase>, E <foreignphrase lang="eng">blad</foreignphrase>, H <foreignphrase lang="hin">rakt</foreignphrase>, S <foreignphrase lang="spa">sangr</foreignphrase>,
+R <foreignphrase lang="rus">krof</foreignphrase>, A <foreignphrase lang="ara">dam</foreignphrase>. The raw scores are 3, 2, 0, 0, 0, 0 respectively; the
+adjusted scores are 0.27, 0.105, 0, 0, 0, 0; and the final score is 37.5%.
+This is quite low, since it reflects only the Chinese and English sources,
+but was still superior to all other possibilities.</para>
+
+<para>The gismu <foreignphrase lang="art-lojban">cukta</foreignphrase>, meaning <quote role="gloss">book</quote>, works out considerably better.
+Its sources are C <foreignphrase lang="zho">cu</foreignphrase>, E <foreignphrase lang="eng">buk</foreignphrase>, H <foreignphrase lang="hin">pustak</foreignphrase>, S <foreignphrase lang="spa">libr</foreignphrase>, R <foreignphrase lang="rus">knik</foreignphrase>, A <foreignphrase lang="ara">kitab</foreignphrase>, with raw
+scores of 2, 2, 3, 0, 0, 3 and a final score of 57.2%. Several different
+language families blended nicely to form this word.</para>
+
+<para>Other gismu show similar patterns. <foreignphrase lang="art-lojban">prenu</foreignphrase>, for example, meaning
+<quote role="gloss">person</quote>, is a mixture of Chinese <foreignphrase lang="zho">ren</foreignphrase> and the <quote role="gloss">person</quote> root used
+in English, Spanish, and Russian. <foreignphrase lang="art-lojban">vanju</foreignphrase>, for <quote role="gloss">wine</quote> (Lojbanized as
+<foreignphrase lang="art-lojban">vain</foreignphrase>) matches well with every source language except Arabic, and even
+with French <foreignphrase lang="fra">vin</foreignphrase> (which would Lojbanize as <foreignphrase lang="art-lojban">van</foreignphrase>), which is not a source
+language at all. </para>                  
+
+<para>Finally, there is <foreignphrase lang="art-lojban">jmive</foreignphrase>, the gismu for <quote role="gloss">(a)live</quote>, which owes its form
+to a transcription error: the English source word was not Lojbanized to
+<foreignphrase lang="eng">laiv</foreignphrase> but left as <foreignphrase lang="eng">live</foreignphrase>.</para>
+
+
+</answer></qandaentry>
+
+<qandaentry> <question> <para><!--Some <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
-seem poorly designed and not in keeping with expressed standards. Also,
+seem poorly designed and not in keeping with expressed standards. -->Also,
 <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase> like <foreignphrase
 lang="art-lojban">nixli ckule</foreignphrase>, analogous to English
@@ -605,7 +666,7 @@ role="term">gismu</emphasis></foreignphrase> (or any other Lojban word) is
 a problem of teaching and lexicography. The concepts are defined as
 predicate relationships among various arguments, and various experimental
 approaches have been explored to determine
-the best means to convey these meanings.<indexterm id="idx425" startref="idx424" class="endofrange"/></para> </answer> </qandaentry>
+the best methods of conveying these meanings.<indexterm id="idx425" startref="idx424" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>Why are Lojban
 <foreignphrase lang="art-lojban"><emphasis
@@ -956,8 +1017,7 @@ that is implicit if not necessarily explicit.<indexterm id="idx445" startref="id
 
 <qandaentry>
 <question>
-<para>What theory underlies the
-choice of place structures?
+<para>What theory underlies the choice of place structures?
 </para>
 </question>
 
@@ -1012,6 +1072,81 @@ lang="art-lojban">cadzu litru</foreignphrase> may be similarly analyzed.<indexte
 
 <qandaentry>
 <question>
+<para>How do borrowed words (<foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase>) enter Lojban without compromising its
+stability and unambiguity?
+</para>
+</question>
+
+<answer>
+<para></para>
+
+<para><indexterm id="idx446a" class="startofrange">
+<primary><foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase></primary>
+</indexterm>There are four stages of borrowing in Lojban, as words become more
+and more modified (but shorter and easier to use). Stage 1 is the use
+of a foreign name quoted with the cmavo <foreignphrase lang="art-lojban">la'o</foreignphrase>. For example, <foreignphrase lang="art-lojban">me la'o
+ly.  spaghetti .ly.</foreignphrase> is a predicate with the place structure <quote>x<subscript>1</subscript> is a
+quantity of spaghetti.</quote> The foreign term is entirely unchanged.
+However, it requires five extra syllables and two pauses, and its
+pronunciation is uncertain.</para>
+
+<para>Stage 2 involves changing the foreign name to a Lojbanized name: <foreignphrase lang="art-lojban">me la
+spagetis.</foreignphrase> This saves three syllables and one pause over Stage 1, and
+has a definite Lojban pronunciation. However, it is still awkward to
+use repeatedly.</para>
+
+<para>Even so, one of these expedients is often quite sufficient when a word
+is needed quickly in conversation. This can make it easier to get by
+without a full command of the Lojban vocabulary.</para>
+
+<para>Where a little more universality is desired, the word to be borrowed
+must be Lojbanized into one of several permitted forms. A <foreignphrase lang="art-lojban"><emphasis
+role="term">rafsi</emphasis></foreignphrase><indexterm id="idx446aa" class="startofrange">
+<primary><foreignphrase lang="art-lojban"><emphasis
+role="term">rafsi</emphasis></foreignphrase></primary>
+<secondary>in <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase></secondary>
+</indexterm> is then
+attached to the beginning of the Lojbanized form, using a <foreignphrase lang="art-lojban">r</foreignphrase> or <foreignphrase lang="art-lojban">l</foreignphrase> to
+ensure that the resulting word doesn't fall apart. The result is a
+Stage 3 <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> such as <foreignphrase lang="art-lojban">cidjrspageti</foreignphrase>, a true <foreignphrase lang="art-lojban"><emphasis
+role="term">brivla</emphasis></foreignphrase> (predicate word)
+rather than a phrase.</para>
+
+<para>The <foreignphrase lang="art-lojban"><emphasis
+role="term">rafsi</emphasis></foreignphrase> used in a Stage 3 <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> categorizes or limits its meaning;
+otherwise a word having several different jargon meanings in other
+languages would require the word-inventor to choose which meaning should
+be assigned to the <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase>, since <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> (like other <foreignphrase lang="art-lojban"><emphasis
+role="term">brivla</emphasis></foreignphrase>) are not
+permitted to have more than one definition. Stage 3 borrowings are at
+present the most common kind of <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase>.<indexterm id="idx447aa" startref="idx446aa" class="endofrange"/></para>
+
+<para>Finally, Stage 4 <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> do not have any <foreignphrase lang="art-lojban"><emphasis
+role="term">rafsi</emphasis></foreignphrase> classifier, and are used
+where a <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> has become so common or so important that it must be
+made as short as possible. The Stage 4 <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> for <quote role="gloss">spaghetti</quote> is
+<foreignphrase lang="art-lojban">spageti</foreignphrase>; however, most Stage 4 words require a much greater distortion
+of the original form of the word. Stage 4 <foreignphrase lang="art-lojban"><emphasis
+role="term">fu'ivla</emphasis></foreignphrase> have to pass several
+careful tests and cannot easily be devised during conversation.<indexterm id="idx447a" startref="idx446a" class="endofrange"/></para>
+
+</answer> </qandaentry>
+
+
+
+<qandaentry>
+<question>
 <para>The Lojban phonological system is hard for English-speakers (to say
 nothing of Japanese-speakers) to use, due to the large numbers of
 consonant clusters and non-English diphthongs. How can a language be
@@ -1045,7 +1180,7 @@ consonant clusters are also restricted, to prevent mixed voiced&ndash;unvoiced
 clusters, consecutive stops, and other hard-to-handle combinations. The
 Lojban sound /y/, IPA [<emphasis role="ipa">&schwa;</emphasis>], is used to separate <quote
 role="socalled">bad</quote> medial clusters wherever the morphology rules
-would otherwise produce them.</para>
+would otherwise produce them.&IPAASCIIdisclaimer;</para>
 
 <para>Difficulties with the variety of permitted initial sounds are
 overestimated. Lojban's morphology makes pronouncing these words easier
@@ -1140,7 +1275,7 @@ arguments to do so, leading to an SOV word order<indexterm id="idx456">
 </indexterm> rather than the canonical
 SVO (subject&ndash;verb&ndash;object).<indexterm id="idx455">
 <primary>SVO order</primary>
-</indexterm> VSO order is expressible using only 1 particle.
+</indexterm> VSO order is expressible using only one extra particle.
 In two-argument predicates, OSV, OVS, and VOS are also possible with only
 one particle, and various even more scrambled orders (when more than
 two-place predicates are involved) can also be achieved. </para> </answer>
@@ -1188,7 +1323,7 @@ points? </para> </question>
 <para></para>
 
 <para><indexterm id="idx458">
-<primary>cutural neutrality</primary>
+<primary>cultural neutrality</primary>
 </indexterm>To some extent, such splitting is inevitable and already exists in
 natural languages. Some English-speakers may use the color term <quote
 role="gloss">aqua</quote> in their idiolect, whereas others lump that color with
@@ -1241,10 +1376,10 @@ thought patterns.</quote> In attempting to achieve cultural neutrality, Lojban
 has been designed to minimize many structural constraints found in
 natural languages (such as word order, and the structural distinctions
 between noun, verb, and adjective). If Sapir&ndash;Whorf is true, there should
-be measureable broadening in thought patterns (possibly showing up as
+be measurable broadening in thought patterns (possibly showing up as
 increased creativity or ability to see relationships between
-superficially unlike concepts). Again, the null hypothesis is that no
-measureable distinction will exist.<indexterm id="idx461" startref="idx460" class="endofrange"/>
+superficially unrelated concepts). Again, the null hypothesis is that no
+measurable distinction will exist.<indexterm id="idx461" startref="idx460" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -1258,7 +1393,6 @@ predicate logic may not be enough to establish <quote role="socalled">ease of th
 </question>
 
 <answer>
-<para></para>
 
 <para>Perhaps not. However, the Sapir&ndash;Whorf hypothesis tends to be
 confirmed if experiments show that Lojban-speakers have a greater
@@ -1270,7 +1404,352 @@ difficulties, which have been discussed elsewhere.
 </answer>
 </qandaentry>
 
+<qandaentry>
+<question>
+<para>What scientific and linguistic interest can Lojban possibly have,
+since it is entirely a product of conscious design?</para>
+</question>
+
+<answer>
+<para><indexterm id="idx460a" class="startofrange" significance="preferred">
+<primary>linguistic testing</primary>
+</indexterm>In a highly complex system (which any language, even an artificial
+one, is), the interaction of the design features displays properties that
+are more than the sum of the parts. Thus it is possible that all
+language is merely a system comprised of a bunch of neurons releasing
+neurotransmitters. Biochemistry may eventually devise a complete
+explanation for the neuronic process<indexterm id="idx460b">
+<primary>neuronic process</primary>
+</indexterm> (including its genetic components),
+and we may then say we <quote>know the design principles of the system.</quote> But
+we won't know the system, because the complexity of those neuronic
+interactions is so great that knowing the pieces does not give a total
+understanding of the system. This indeed may be what defines the
+concept of <quote role="socalled">system</quote>.</para>
+
+<para>Knowing all the prescribed rules<indexterm id="idx460c">
+<primary>prescription</primary>
+</indexterm> of an artificial language does not tell
+you how that artificial language is used communicatively. Consider this
+question: Given multiple ways of communicating the same idea, do users
+of the language choose particular forms over others, and why? This is
+similar to a question that is commonly asked about natural languages.</para>
+ 
+<para>However, a simpler system which can be more fully understood may serve
+as an excellent model for a less understood, more complex system. Thus
+the simpler system could be examined for parallels to hypotheses about
+the more complex system. Examination of the simpler system may suggest
+properties to look for in the more complex system, or it may even
+suggest hypotheses that can be tested in the more complex system.</para>
+
+<para>A hot topic in parts of the Lojban community is whether the language
+has, or should have, an underlying semantic theory.<indexterm id="idx460d">
+<primary>semantics</primary>
+<secondary>semantic theory</secondary>
+</indexterm> If one exists, it
+is certainly not as developed or prescribed as the syntactic design and
+theory. Eliminating syntactic ambiguity allows a more direct
+examination of semantic ambiguities, including the properties of
+modification and restriction, resolution of anaphora, and identification
+of ellipses. Any semantic theories proposed for natural language can be
+looked at in terms of semantic usage in the simpler Lojban system.</para>
+
+<para>As a model of a natural language, it seems likely that any theory that
+is <emphasis>not</emphasis> true of Lojban is at the very least doubtful with regard
+to natural language, thus allowing partial verification of theories. If
+the theory is true of natural language, then you have found evidence
+that Lojban is in some way unnatural.<indexterm id="idx460ee">
+<primary>naturalness</primary>
+</indexterm> You then try to explain which of
+the (fully-known) design features of Lojban causes this unnaturalness.
+By counterexample that design feature is not a feature of natural
+languages, demonstrating something about natural language by studying an
+artificial one.</para>
+
+<para>As another example, pragmatic effects<indexterm id="idx460e">
+<primary>pragmatics</primary>
+</indexterm> can be more easily recognized in
+the simpler Lojban system, and can be clearly identified as pragmatic.
+Thus, insights about pragmatic effects may be more visible in Lojban,
+insights that would then be tested in the natural languages.</para>
+
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>Why is Lojban a useful testbed for experimental linguistics?  What
+are some plausible experiments that could be done using Lojban?</para>
+</question>
+
+<answer>
+<para>A simple system is easier to perform experiments on than a more
+complex system. There are fewer variables, and if the system is
+<quote role="socalled">designed</quote>, some things that are variables in complex systems are in
+effect tunable constants in the simple, carefully-designed system. You
+can then rerun the experiment with minor changes to explore the effects
+of those variables.</para>
+
+<para>Experimental linguistics of this kind is virtually unthinkable using the
+natural languages. The Sapir&ndash;Whorf Hypothesis<indexterm id="idx460f">
+<primary>Sapir&ndash;Whorf hypothesis</primary>
+</indexterm> is not really testable,
+since we can't control any variables, and we don't know what features of
+a language might be determining to a culture. Sapir&ndash;Whorf may be more
+testable when you can reduce or even control the variables with a
+language like Lojban.</para>
+
+<para>Lojban is a predicate language, with no distinct nouns, verbs, or
+adjectives. What are the linguistic (communicative) properties of such
+a system? The answer has been partially explored through symbolic
+logic.<indexterm id="idx460g">
+<primary>logic</primary>
+</indexterm> But do people, when thinking linguistically, mimic in any way
+the processes of formal logic? What effects would a formal-logic&ndash;based
+language have on those linguistic thinking processes? Is the resulting
+language susceptible to the same analysis as natural language, in terms
+of the various formal systems that have been developed by linguists
+over the past few decades?</para>
+
+<para>Given that computer natural language processing<indexterm id="idx460h">
+<primary>computer applications</primary>
+</indexterm> usually involves
+converting natural language to some kind of predicate form from which
+deductions can be made, the usefulness of predicate logic as a tool for
+such analysis is already accepted. But how does one identify the logical
+deductions that a human being makes from a natural language statement?
+By thinking in Lojban, one is already thinking using predicate logic
+structures, so that the deduction process is much plainer.</para>
+
+<para>If Lojban is shown by experiment to have the systemic properties of a
+natural language, and is easier to implement in computational
+linguistics research problems, it serves as a tool to bridge those two
+disciplines, leading to more rapid and effective natural language
+processing. But only if it is tried. Even if it proves less than
+ideal, the study of natural language using computational linguistic
+techniques and a Lojban-based tool will be instructive in ways not
+accessible using any natural language.</para>
+
+<para>Lojban could also be used to study language acquisition.<indexterm id="idx460i">
+<primary>language acquisition</primary>
+<secondary>testing</secondary>
+</indexterm> Take even a few
+children during the critical period of language learning and teach them
+this artificial language (at the same time as they learn their
+traditional language). Do they become truly bilingual? If they are as
+fluently communicative in the artificial language as they are in their
+natural language, then the artificial language is a suitable linguistic
+model. Then, <emphasis>any</emphasis> theory of language that cannot extend to
+cover the features of the artificial language is inadequate. You could
+perform a series of experiments with ever more exotic artificial
+languages (obviously you would need new speakers for each test). Sooner or
+later, either the model breaks and the artificial language is no longer
+acquirable by children or communicative as a language; or the theory
+breaks, and you've learned where to look for improvements in the theory.</para>
+
+<para>With only natural languages, you have to devise theories based on the
+available data, and then look in other natural languages for
+confirmation or refutation. But this isn't the optimal kind of
+experimentation, because you really cannot plan the experiment or control
+the variables. (The other language may have the same apparent feature
+through a totally different process that you won't recognize because you
+aren't looking for it.)</para>
+
+<para>Lojban has a feature that is designed to explore a less-understood
+aspect of language &mdash; the direct expression of emotion.<indexterm id="idx460j">
+<primary>attitudinals</primary>
+</indexterm> Lojban allows
+expressive communication of emotions in words without suprasegmentals.
+This is presumably unlike all natural languages, but not entirely, as
+many languages have a limited set of indicators of attitude in the form
+of interjections. Can human beings manipulate the symbols of emotion in
+the same way they manipulate the comparable symbols of non-emotional
+expression? There is a whole range of experimental questions raised by
+this design element, probably the most <quote role="socalled">unnatural</quote> element of Lojban's
+design.<indexterm id="idx460k">
+<primary>naturalness</primary>
+</indexterm></para>
+
+<para>A language like Lojban is an ideal test bed for experimentation, because
+it is flexible; you can evolve slightly different versions of the
+language very easily by simply changing some features. Delete a
+particular construct from the prescription, and do not teach it to a
+child. Does the child develop that construct anyway by analogy to other
+languages known, or does the child successfully adapt to whatever other
+processes you've designed into the language instead of the construct.<indexterm id="idx461a" startref="idx460a" class="endofrange"/></para>
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How might learning Lojban be useful in second-language learning of
+natural languages?</para>
+</question>
+
+<answer>
+<para><indexterm id="idx460aa" class="startofrange" significance="preferred">
+<primary>language acquisition</primary>
+</indexterm>For one thing, it is much easier to test a method or theory of
+vocabulary teaching/learning with an artificial language than with a
+natural language; It is well-known (there have been experiments
+verifying it in the literature for decades) that artificial languages
+are more quickly, if not necessarily more easily learned than natural
+languages.</para>
+
+<para>Indeed, artificial languages may provide the solution as well as the
+means of testing. It seems to also be well accepted that in learning a
+second language and then learning a third, you learn the third <emphasis>much</emphasis> more
+quickly than the second. For example:
+
+<itemizedlist>
+
+<listitem><para>Assume that it takes 4 years to learn French and then 2
+to learn German thereafter; and vice versa.</para></listitem>
+
+<listitem><para>Let us assume that you can learn an artificial language
+in 1 year to the same degree to which you can learn French.</para></listitem>
+
+<listitem><para>Then you can learn the artificial language and German in
+3 years instead of 4, and all three languages in 5 years instead of
+6. This gains a year <emphasis>even if the student never again uses the
+artificial language</emphasis>.</para></listitem></itemizedlist><indexterm id="idx461aa" startref="idx460aa" class="endofrange"/></para>
+
+</answer>
+</qandaentry>
+
+<qandaentry>
+<question>
+<para>How is Lojban useful as a tool of linguistic analysis?</para>
+</question>
+
+<answer>
+<para>Here is an example, based on the 1991 Scientific American Library
+book <citetitle>The Science of Words</citetitle>, by George A. Miller of
+Princeton.</para>
+
+<para>In the book, a picture caption notes that Nootka<indexterm id="idx460l">
+<primary>Nootka</primary>
+</indexterm> (a Pacific Northwest
+language) has the single word <foreignphrase lang="nai">inikwihl'minik'isit</foreignphrase> meaning the
+equivalent of the entire English sentence <quote>Several small fires were
+burning in the house.</quote> Here is a Lojban sentence closely paralleling
+the English:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">so'i cmalu fagri puca'o    jelca   vine'i    le  zdani</foreignphrase>
+Many small fires were-then burning at-within the house.</literallayout>
+
+</informalexample>But here is the sentence as a single word (though not with the same
+structure as Nootka)
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">zdane'ikemcmafagyso'ikemprununje'a</foreignphrase>
+house-inside-type-of-small-fire-many-type-of-previous-burning</literallayout>
+
+</informalexample>In fact, according to Miller the Nootka breaks down as:
+
+<informalexample><literallayout><foreignphrase lang="nai">inikw     -ihl         -'minih -'is        -it</foreignphrase>
+fire/burn in-the-house plural  diminutive  past-tense</literallayout>
+
+</informalexample>This order is also readily expressible in Lojban:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">fagykemzdanerso'icmapru</foreignphrase>
+fire-type-of-house-inside-many-small-past-event</literallayout>
+
+</informalexample></para>
+
+<para><indexterm id="idx460m" class="startofrange" significance="preferred">
+<primary>linguistic glossing</primary>
+</indexterm>In either case, the Lojban more accurately tracks the semantics of the
+Nootka, demonstrating the inadequacy of the English. The Nootka word as
+broken down did not require two separate semantic elements for <quote role="gloss">fire</quote>
+and <quote role="gloss">burn</quote> as did the English version, and the English translation used
+the more complicated tense <quote role="gloss">were-burning</quote> instead of the simpler, and
+presumably more accurate <quote role="gloss">burned</quote>. It seems clear that in translating
+the word-sentence into English, considerable vagueness is introduced.</para>
+
+<para>Lojban cannot, of course, express everything in the natural form of any
+language whatever. Lojban has a less-marked syntactic word order, and
+expressing other orders requires marking particles that would not be
+found in the source language. Thus there is a tradeoff between precise
+semantic and syntactic representations.</para>
+
+<para>Still, this example suggests that, as a predicate language, Lojban is a
+much more effective tool at studying both the forms and semantics of
+other languages than is English, which has its own cultural, syntactic
+and semantic complexities to complicate the analysis. This is
+especially true for analysis by non-native English speaking linguists &mdash;
+if there is any place where there is a justification for an
+international, minimal-culture language, it is when linguists from
+different native language backgrounds try to perform and communicate
+their linguistic analyses.<indexterm id="idx461m" startref="idx460m" class="endofrange"/></para>
+
+</answer>
+</qandaentry>
+
+
+<qandaentry>
+<question>
+<para>What sociolinguistic applications would Lojban have?</para>
+</question>
+
+<answer>
+<para><indexterm id="idx460n" class="startofrange">
+<primary>sociolinguistics</primary>
+</indexterm>A language that begins with a highly detailed prescription and then
+is allowed to drift naturally is an ideal test bed for examining the
+processes of language change. In the case of an artificial language
+like Lojban, as the speaking community in each culture grows, you can
+observe how the language changes in contact with those other languages.
+Because of the speed of learning, artificial languages should tend to
+show effects more quickly (by being mastered to a communicative level
+more quickly). Anecdotal evidence about Esperanto<indexterm id="idx460o">
+<primary>Esperanto</primary>
+</indexterm> supports this idea.</para>
+
+<para>Does this mean that the conclusions are completely replicable to natural
+language evolutionary processes? Obviously not. But again, we are
+performing experiments with a model, somewhat idealized, of a natural
+language. Unlike a purely theoretical model (as all linguistic theories
+must inherently be), Lojban is a model that can be experimented with
+using live speakers. Provided that we understand the model as it
+evolves, that understanding much more approximates an understanding of
+natural language as time goes on.</para>
+
+<para>Furthermore, most numerically and sociologically important languages
+have some degree, more or less, of prescription.<indexterm id="idx460p">
+<primary>prescription</primary>
+</indexterm> Indeed, some natural
+languages, such as modern Hebrew, formal Swahili, Mandarin Chinese, and
+modern standard Arabic, in certain ways resemble artificial languages,
+but are much more interesting to linguists. A predominantly
+prescribed language would seem an especially effective tool for studying
+the effects of prescription on language development and use.</para>
+
+<para><indexterm id="idx460q" class="startofrange">
+<primary>linguistic testing</primary>
+</indexterm>Such studies may aid in first-language education as well as
+second-language acquisition. They may also aid in analyzing the
+development of different registers (usages based on social class and
+situation) of a single language: such registers often arise partly as
+reactions to prescriptive environments that constrain language use.</para>
+
+<para>None of these scientific applications of Lojban inherently requires a
+large fluent body of speakers, or any solely-native
+speaker of that tongue. If any of the less scientific applications of
+Lojban provide it with speaker base, the nature of Lojban's usefulness
+as a model will change. New applications, not really predictable as
+yet, will turn up, aided by our doubtless increased understanding of
+language. But the model, even if well understood, no longer is as
+simple, and new logical languages and other experimental linguistic
+tools will be developed to take the next step.<indexterm id="idx461q" startref="idx460q" class="endofrange"/><indexterm id="idx461n" startref="idx460n" class="endofrange"/></para>
+
+</answer>
+</qandaentry>
+
+
 </qandaset>
+
 
 <!--
 <simplesect><title>Summary</title>

@@ -17,6 +17,7 @@
 <!ENTITY selbriemph "be italicized">
 <!ENTITY schwa "&#601;">
 <!ENTITY Ibarredipa "&#616;">
+<!ENTITY IPAASCIIdisclaimer "">
 ]>
 <book>
 &bookinfo;
