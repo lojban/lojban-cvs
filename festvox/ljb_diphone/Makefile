@@ -4,9 +4,9 @@ wav_files=$(wildcard wav/*.wav)
 
 pm_files=$(shell echo $(wav_files)|sed 's/wav/pm/g')
 
-all: ljb_diphone.index $(pm_files)
+all: ljb_diphone.index pm $(pm_files)
 
-$(pm_files): pm pm/%.pm: wav/%.wav
+$(pm_files): pm/%.pm: wav/%.wav
 	$(make_pm_wav) $<;
 
 pm: 
