@@ -5,4 +5,8 @@ some of *-ii and ii-*
 s-iu
 x-au
 h-au
+h-ue
+d-iy
+g-iy
+d-uy
 
