@@ -55,12 +55,10 @@ is dark. I'm going to watch a movie.
 <sect1 id="ckapegloss"><title>Gloss</title>
 <para>
 <informaltable frame=none>
-<tgroup cols=5>
+<tgroup cols=3>
 <colspec colnum=1 colname=c1 colwidth="1*"></colspec>
 <colspec colnum=2 colname=c2 colwidth="1*"></colspec>
 <colspec colnum=3 colname=c3 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c4 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c5 colwidth="1*"></colspec>
 <tbody>
 <row>
 
@@ -70,43 +68,61 @@ is dark. I'm going to watch a movie.
 
 <entry></entry>
 
-<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>lisri&raquo;<subscript>3</subscript></foreignphrase></entry>
-
-<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>le</foreignphrase></entry>
-
 </row>
 
 <row>
 <entry><quote role="gloss">.</quote></entry>
 <entry>this utterance</entry>
 <entry>[is, does]</entry>
-<entry>being story(ies)</entry>
-<entry>the</entry>
 </row>
 
 <row>
 <entry></entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (story(ies))</emphasis></entry>
-<entry></entry>
-<entry></entry>
-<entry><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (plot)</emphasis></entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=4>
-<colspec colnum=1 colname=c6 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c7 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c8 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c9 colwidth="2*"></colspec>
-<spanspec spanname=cpare2 namest=c8 nameend=c9></spanspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c4 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c5 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c6 colwidth="1*"></colspec>
+<spanspec spanname=lisri2 namest=c5 nameend=c6></spanspec>
 <tbody>
 <row>
 
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>lisri&raquo;<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>le</foreignphrase></entry>
+
 <entry><foreignphrase lang="art-lojban">&lt;<subscript>5</subscript>nu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>being story(ies)</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+</row>
+
+<row>
+<entry></entry>
+<entry spanname=lisri2><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (plot)</emphasis></entry>
+</row>
+</tbody>
+</tgroup>
+
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c7 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c8 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c9 colwidth="2*"></colspec>
+<spanspec spanname=cpare2 namest=c8 nameend=c9></spanspec>
+<tbody>
+<row>
 
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>6</subscript>&laquo;<subscript>7</subscript>cpare&raquo;<subscript>7</subscript></foreignphrase></entry>
@@ -119,7 +135,6 @@ lang="art-lojban">cmana)<subscript>8</subscript>]<subscript>6</subscript>&gt;<su
 </row>
 
 <row>
-<entry>event(s) of</entry>
 <entry>climb-ing</entry>
 <entry>any/some</entry>
 <entry>mountain(s)</entry>
@@ -136,12 +151,12 @@ lang="art-lojban"><emphasis role="placestruct">cpare</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=5>
+
+<tgroup cols=4>
 <colspec colnum=1 colname=c10 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c11 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c12 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c13 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c14 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c11 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c12 colwidth="2*"></colspec>
+<colspec colnum=4 colname=c13 colwidth="2*"></colspec>
 <tbody>
 <row>
 
@@ -155,9 +170,6 @@ lang="art-lojban">(<subscript>3</subscript>le</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">&lt;<subscript>4</subscript>nu</foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>sisku&raquo;<subscript>6</subscript></foreignphrase></entry>
-
 </row>
 
 <row>
@@ -165,7 +177,6 @@ lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>sisku&
 <entry>last <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase></entry>
 <entry>the</entry>
 <entry>event(s) of</entry>
-<entry>searching</entry>
 </row>
 
 <row>
@@ -178,13 +189,17 @@ lang="art-lojban"><emphasis role="placestruct">go'i</emphasis></foreignphrase><e
 </tbody>
 </tgroup>
 
-<tgroup cols=3>
-<colspec colnum=1 colname=c15 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c16 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c17 colwidth="1*"></colspec>
-<spanspec spanname=sisku2 namest=c15 nameend=c16></spanspec>
+<tgroup cols=4>
+<colspec colnum=1 colname=c14 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c15 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c16 colwidth="2*"></colspec>
+<colspec colnum=4 colname=c17 colwidth="2*"></colspec>
+<spanspec spanname=sisku2 namest=c15 nameend=c17></spanspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>sisku&raquo;<subscript>6</subscript></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">(<subscript>7</subscript>le</foreignphrase></entry>
 
@@ -197,6 +212,7 @@ lang="art-lojban">[<subscript>9</subscript>&laquo;<subscript>10</subscript>manci
 </row>
 
 <row>
+<entry>searching</entry>
 <entry>the</entry>
 <entry>property of</entry>
 <entry>feel-ing awe</entry>
@@ -248,8 +264,9 @@ lang="art-lojban"><emphasis role="placestruct">manci</emphasis></foreignphrase><
 </tgroup>
 
 <tgroup cols=2>
-<colspec colnum=1 colname=c22 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c23 colwidth="1*"></colspec>
+<colspec colnum=1 colname=c22 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c23 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c24 colwidth="1*"></colspec>
 <tbody>
 <row>
 
@@ -260,26 +277,25 @@ lang="art-lojban">[<subscript>16</subscript>&laquo;<subscript>17</subscript>{<su
 lang="art-lojban">se 
 panci}<subscript>18</subscript>&raquo;<subscript>17</subscript>]<subscript>16</subscript>&gt;<subscript>15</subscript></foreignphrase></entry>
 
+<entry><foreignphrase lang="art-lojban">zi'e</foreignphrase></entry>
+
 </row>
 
 <row>
 <entry>sweet [type-of]</entry>
 <entry>emit-ting smell</entry>
+<entry>and</entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=5>
-<colspec colnum=1 colname=c24 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c25 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c26 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c27 colwidth="2*"></colspec>
-<colspec colnum=5 colname=c28 colwidth="2*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c25 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c26 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c27 colwidth="2*"></colspec>
 <tbody>
 <row>
-
-<entry><foreignphrase lang="art-lojban">zi'e</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&lt;<subscript>19</subscript>poi</foreignphrase></entry>
@@ -290,38 +306,48 @@ lang="art-lojban">.ia</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>20</subscript>&laquo;<subscript>21</subscript>xabju&raquo;<subscript>21</subscript></foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">(<subscript>22</subscript>le</foreignphrase></entry>
-
 </row>
 
 <row>
-<entry>and</entry>
 <entry>which</entry>
 <entry>{belief...}</entry>
 <entry>dwell-ing</entry>
-<entry>the</entry>
-</row>
-
-<row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">xabju</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (dwelling(s))</emphasis></entry>
 </row>
 
 </tbody>
 </tgroup>
 
 <tgroup cols=2>
-<colspec colnum=1 colname=c29 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c30 colwidth="1*"></colspec>
+<colspec colnum=1 colname=c28 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c29 colwidth="2*"></colspec>
+<spanspec spanname=xabju2 namest=c28 nameend=c29></spanspec>
 <tbody>
 <row>
 
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>22</subscript>le</foreignphrase></entry>
+
 <entry><foreignphrase lang="art-lojban">{<subscript>23</subscript>traji</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>the</entry>
+<entry>superlative [type-of]</entry>
+</row>
+
+<row>
+<entry spanname=xabju2><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">xabju</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (dwelling(s))</emphasis></entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=1>
+<colspec colnum=1 colname=c30 colwidth="2*"></colspec>
+<tbody>
+<row>
 
 <entry><foreignphrase
 lang="art-lojban">cpana}<subscript>23</subscript>)<subscript>22</subscript>]<subscript>20</subscript>&gt;<subscript>19</subscript>)<subscript>14</subscript>)<subscript>11</subscript>]<subscript>9</subscript>&gt;<subscript>8</subscript>)<subscript>7</subscript>]<subscript>5</subscript>&gt;<subscript>4</subscript>)<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
@@ -329,20 +355,18 @@ lang="art-lojban">cpana}<subscript>23</subscript>)<subscript>22</subscript>]<sub
 </row>
 
 <row rowsep=1>
-<entry>superlative [type-of]</entry>
 <entry>on top of thing(s)</entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=6>
+<tgroup cols=5>
 <colspec colnum=1 colname=c31 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c32 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c32 colwidth="2*"></colspec>
 <colspec colnum=3 colname=c33 colwidth="1*"></colspec>
 <colspec colnum=4 colname=c34 colwidth="2*"></colspec>
 <colspec colnum=5 colname=c35 colwidth="2*"></colspec>
-<colspec colnum=6 colname=c36 colwidth="2*"></colspec>
 <tbody>
 <row>
 
@@ -360,9 +384,6 @@ lang="art-lojban">&lt;<subscript>3</subscript>nu</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>4</subscript>&laquo;<subscript>5</subscript>finti&raquo;<subscript>5</subscript></foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">(<subscript>6</subscript>dei)<subscript>6</subscript></foreignphrase>]<subscript>4</subscript></entry>
-
 </row>
 
 <row>
@@ -371,50 +392,37 @@ lang="art-lojban">(<subscript>6</subscript>dei)<subscript>6</subscript></foreign
 <entry>the</entry>
 <entry>event(s) of</entry>
 <entry>creat-ing</entry>
-<entry>this utterance</entry>
-</row>
-
-<row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">finti</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (creation(s))</emphasis></entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=4>
-<colspec colnum=1 colname=c37 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c38 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c39 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c40 colwidth="1*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c36 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c37 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c38 colwidth="2*"></colspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">(<subscript>6</subscript>dei)<subscript>6</subscript></foreignphrase>]<subscript>4</subscript></entry>
 
 <entry><foreignphrase lang="art-lojban">kei&gt;<subscript>3</subscript>)<subscript>2</subscript></foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">(<subscript>7</subscript>mi)<subscript>7</subscript></foreignphrase></entry>
 
-<entry></entry>
-
-<entry><foreignphrase 
-lang="art-lojban">&laquo;<subscript>8</subscript>zgana&raquo;<subscript>8</subscript></foreignphrase></entry>
-
 </row>
 
 <row>
+<entry>this utterance</entry>
 <entry></entry>
 <entry>I</entry>
-<entry>[am, do]</entry>
-<entry>observ-ing</entry>
 </row>
 
 <row>
+<entry><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">finti</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (creation(s))</emphasis></entry>
 <entry></entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">zgana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (observe-r(s))</emphasis></entry>
@@ -423,47 +431,52 @@ lang="art-lojban"><emphasis role="placestruct">zgana</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=3>
-<colspec colnum=1 colname=c41 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c42 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c43 colwidth="1*"></colspec>
+<tgroup cols=4>
+<colspec colnum=1 colname=c39 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c40 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c41 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c42 colwidth="1*"></colspec>
 <spanspec spanname=zgana2 namest=c41 nameend=c42></spanspec>
 <tbody>
 <row>
+
+<entry></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>8</subscript>zgana&raquo;<subscript>8</subscript></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">(<subscript>9</subscript>le</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&lt;<subscript>10</subscript>nu</foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">[<subscript>11</subscript>(<subscript>12</subscript>le</foreignphrase></entry>
-
 </row>
 
 <row>
+<entry>[am, do]</entry>
+<entry>observ-ing</entry>
 <entry>the</entry>
 <entry>event(s) of</entry>
-<entry>the</entry>
 </row>
 
 <row>
 <entry spanname=zgana2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">zgana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (observed thing(s))</emphasis></entry>
-<entry><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">canci</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (vanish-er(s))</emphasis></entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=4>
-<colspec colnum=1 colname=c44 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c45 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c46 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c47 colwidth="1*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c43 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c44 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c45 colwidth="1*"></colspec>
+<spanspec spanname=canci1 namest=c43 nameend=c45></spanspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>11</subscript>(<subscript>12</subscript>le</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">{<subscript>13</subscript>{<subscript>14</subscript>ro 
@@ -472,6 +485,30 @@ moi</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">gusni}<subscript>14</subscript>}<subscript>13</subscript></foreignphrase></entry>
 
+</row>
+
+<row>
+<entry>the</entry>
+<entry>is last among [type-of]</entry>
+<entry>light</entry>
+</row>
+
+<row>
+<entry spanname=canci1><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">canci</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (vanish-er(s))</emphasis></entry>
+
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c46 colwidth="3*"></colspec>
+<colspec colnum=2 colname=c47 colwidth="4*"></colspec>
+<colspec colnum=3 colname=c48 colwidth="3*"></colspec>
+<tbody>
+<row>
+
 <entry><foreignphrase 
 lang="art-lojban">&lt;<subscript>15</subscript>pe</foreignphrase></entry>
 
@@ -479,28 +516,25 @@ lang="art-lojban">&lt;<subscript>15</subscript>pe</foreignphrase></entry>
 lang="art-lojban">(<subscript>16</subscript>le 
 vanci)<subscript>16</subscript>&gt;<subscript>15</subscript>)<subscript>12</subscript></foreignphrase></entry>
 
+<entry><foreignphrase lang="art-lojban">(<subscript>17</subscript>se kai</foreignphrase></entry>
+
 </row>
 
 <row>
-<entry>is last among [type-of]</entry>
-<entry>light</entry>
 <entry>associated with</entry>
 <entry>the evening(s)</entry>
+<entry>with property</entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=5>
-<colspec colnum=1 colname=c48 colwidth="2*"></colspec>
-<colspec colnum=2 colname=c49 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c50 colwidth="2*"></colspec>
-<colspec colnum=4 colname=c51 colwidth="3*"></colspec>
-<colspec colnum=5 colname=c52 colwidth="1*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c49 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c50 colwidth="4*"></colspec>
+<colspec colnum=3 colname=c51 colwidth="7*"></colspec>
 <tbody>
 <row>
-
-<entry><foreignphrase lang="art-lojban">(<subscript>17</subscript>se kai</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">le</foreignphrase></entry>
@@ -511,27 +545,26 @@ lang="art-lojban">&lt;<subscript>18</subscript>ka</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>19</subscript>&laquo;<subscript>20</subscript>lazni&raquo;<subscript>20</subscript>]<subscript>19</subscript>&gt;<subscript>18</subscript>)<subscript>17</subscript></foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">cu</foreignphrase></entry>
-
 </row>
 
 <row>
-<entry>with property</entry>
 <entry>the</entry>
 <entry>property of</entry>
 <entry>being lazy</entry>
-<entry>is/does</entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=2>
-<colspec colnum=1 colname=c53 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c54 colwidth="1*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c52 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c53 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c54 colwidth="2*"></colspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&laquo;<subscript>21</subscript>{<subscript>22</subscript>masno</foreignphrase></entry>
@@ -542,6 +575,7 @@ lang="art-lojban">canci}<subscript>22</subscript>&raquo;<subscript>21</subscript
 </row>
 
 <row rowsep=1>
+<entry>is/does</entry>
 <entry>slow [type-of]</entry>
 <entry>vanish-ing</entry>
 </row>
@@ -551,9 +585,9 @@ lang="art-lojban">canci}<subscript>22</subscript>&raquo;<subscript>21</subscript
 
 <tgroup cols=4>
 <colspec colnum=1 colname=c55 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c56 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c57 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c58 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c56 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c57 colwidth="2*"></colspec>
+<colspec colnum=4 colname=c58 colwidth="4*"></colspec>
 <spanspec spanname=ckana2 namest=c56 nameend=c57></spanspec>
 <tbody>
 <row>
@@ -589,11 +623,10 @@ lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=4>
+<tgroup cols=3>
 <colspec colnum=1 colname=c59 colwidth="1*"></colspec>
 <colspec colnum=2 colname=c60 colwidth="1*"></colspec>
 <colspec colnum=3 colname=c61 colwidth="2*"></colspec>
-<colspec colnum=4 colname=c62 colwidth="1*"></colspec>
 <tbody>
 <row>
 
@@ -605,16 +638,12 @@ lang="art-lojban">&laquo;<subscript>6</subscript>ciska&raquo;<subscript>6</subsc
 <entry><foreignphrase 
 lang="art-lojban">(<subscript>7</subscript>dei)<subscript>7</subscript>]<subscript>4</subscript>&gt;<subscript>3</subscript>)<subscript>2</subscript></foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">cu</foreignphrase></entry>
-
 </row>
 
 <row>
 <entry>[am, do]</entry>
 <entry>writ-ing</entry>
 <entry>this utterance</entry>
-<entry>is/does</entry>
 </row>
 
 <row>
@@ -627,10 +656,14 @@ lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=1>
-<colspec colnum=1 colname=c63 colwidth="1*"></colspec>
+<tgroup cols=2>
+<colspec colnum=1 colname=c62 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c63 colwidth="4*"></colspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">se 
 ckana&raquo;<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></entry>
@@ -638,6 +671,7 @@ ckana&raquo;<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></e
 </row>
 
 <row rowsep=1>
+<entry>is/does</entry>
 <entry>being bed material</entry>
 </row>
 
@@ -646,10 +680,10 @@ ckana&raquo;<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></e
 
 <tgroup cols=5>
 <colspec colnum=1 colname=c64 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c65 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c66 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c67 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c68 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c65 colwidth="3*"></colspec>
+<colspec colnum=3 colname=c66 colwidth="3*"></colspec>
+<colspec colnum=4 colname=c67 colwidth="2*"></colspec>
+<colspec colnum=5 colname=c68 colwidth="3*"></colspec>
 <spanspec spanname=frili namest=c67 nameend=c68></spanspec>
 <tbody>
 <row>
@@ -689,10 +723,10 @@ lang="art-lojban"><emphasis role="placestruct">frili</emphasis></foreignphrase><
 </tgroup>
 
 <tgroup cols=4>
-<colspec colnum=1 colname=c69 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c70 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c71 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c72 colwidth="1*"></colspec>
+<colspec colnum=1 colname=c69 colwidth="3*"></colspec>
+<colspec colnum=2 colname=c70 colwidth="4*"></colspec>
+<colspec colnum=3 colname=c71 colwidth="2*"></colspec>
+<colspec colnum=4 colname=c72 colwidth="3*"></colspec>
 <spanspec spanname=cliva2 namest=c71 nameend=c72></spanspec>
 <tbody>
 <row>
@@ -729,13 +763,10 @@ lang="art-lojban"><emphasis role="placestruct">cliva</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=6>
+<tgroup cols=3>
 <colspec colnum=1 colname=c73 colwidth="1*"></colspec>
 <colspec colnum=2 colname=c74 colwidth="2*"></colspec>
 <colspec colnum=3 colname=c75 colwidth="2*"></colspec>
-<colspec colnum=4 colname=c76 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c77 colwidth="2*"></colspec>
-<colspec colnum=6 colname=c78 colwidth="3*"></colspec>
 <tbody>
 <row>
 
@@ -747,6 +778,24 @@ lang="art-lojban">&laquo;<subscript>8</subscript>cliva&raquo;<subscript>8</subsc
 
 <entry><foreignphrase 
 lang="art-lojban">(<subscript>9</subscript>bai</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>is/does</entry>
+<entry>leav-ing</entry>
+<entry>compelled by</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols=3>
+<colspec colnum=1 colname=c76 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c77 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c78 colwidth="3*"></colspec>
+<tbody>
+<row>
 
 <entry><foreignphrase 
 lang="art-lojban">le</foreignphrase></entry>
@@ -760,9 +809,6 @@ lang="art-lojban">mukti}<subscript>10</subscript>)<subscript>9</subscript>]<subs
 </row>
 
 <row rowsep=1>
-<entry>is/does</entry>
-<entry>leav-ing</entry>
-<entry>compelled by</entry>
 <entry>the</entry>
 <entry>great [type-of]</entry>
 <entry>motive(s)</entry>
@@ -771,13 +817,12 @@ lang="art-lojban">mukti}<subscript>10</subscript>)<subscript>9</subscript>]<subs
 </tbody>
 </tgroup>
 
-<tgroup cols=6>
+<tgroup cols=5>
 <colspec colnum=1 colname=c79 colwidth="1*"></colspec>
 <colspec colnum=2 colname=c80 colwidth="2*"></colspec>
 <colspec colnum=3 colname=c81 colwidth="2*"></colspec>
 <colspec colnum=4 colname=c82 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c83 colwidth="2*"></colspec>
-<colspec colnum=6 colname=c84 colwidth="4*"></colspec>
+<colspec colnum=5 colname=c83 colwidth="3*"></colspec>
 <tbody>
 <row>
 
@@ -796,9 +841,6 @@ lang="art-lojban">.i</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">ju</foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
-
 </row>
 
 <row>
@@ -808,28 +850,22 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignp
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase></entry>
 <entry><quote role="gloss">.</quote></entry>
 <entry>[whether or not]</entry>
-<entry>the</entry>
-</row>
-
-<row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry></entry>
-<entry><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">trina</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (attractive thing(s))</emphasis></entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=3>
-<colspec colnum=1 colname=c85 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c86 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c87 colwidth="1*"></colspec>
+<tgroup cols=4>
+<colspec colnum=1 colname=c84 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c85 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c86 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c87 colwidth="2*"></colspec>
+<spanspec spanname=trina1 namest=c84 nameend=c85></spanspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">te zukte)<subscript>2</subscript></foreignphrase></entry>
@@ -842,21 +878,25 @@ lang="art-lojban">&laquo;<subscript>3</subscript>trina&raquo;<subscript>3</subsc
 
 </row>
 
-<row rowsep=1>
+<row>
+<entry>the</entry>
 <entry>purpose(s) of action</entry>
 <entry>is/does</entry>
 <entry>being attractive</entry>
 </row>
 
+<row rowsep=1>
+<entry spanname=trina1><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">trina</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (attractive thing(s))</emphasis></entry>
+</row>
+
 </tbody>
 </tgroup>
 
-<tgroup cols=5>
-<colspec colnum=1 colname=c88 colwidth="2*"></colspec>
-<colspec colnum=2 colname=c89 colwidth="3*"></colspec>
-<colspec colnum=3 colname=c90 colwidth="3*"></colspec>
-<colspec colnum=4 colname=c91 colwidth="2*"></colspec>
-<colspec colnum=5 colname=c92 colwidth="2*"></colspec>
+<tgroup cols=3>
+<colspec colnum=1 colname=c88 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c89 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c90 colwidth="4*"></colspec>
 <spanspec spanname=nandu1 namest=c89 nameend=c90></spanspec>
 <tbody>
 <row>
@@ -870,20 +910,12 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignp
 <entry><foreignphrase 
 lang="art-lojban">pluta)<subscript>2</subscript></foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">cu</foreignphrase></entry>
-
-<entry><foreignphrase 
-lang="art-lojban">&laquo;<subscript>3</subscript>nandu&raquo;<subscript>3</subscript></foreignphrase></entry>
-
 </row>
 
 <row>
 <entry><quote role="gloss">.</quote></entry>
 <entry>the</entry>
 <entry>route(s)</entry>
-<entry>is/does</entry>
-<entry>being difficulty</entry>
 </row>
 
 <row>
@@ -897,11 +929,19 @@ lang="art-lojban"><emphasis role="placestruct">clani</emphasis></foreignphrase><
 </tbody>
 </tgroup>
 
-<tgroup cols=2>
-<colspec colnum=1 colname=c93 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c94 colwidth="1*"></colspec>
+<tgroup cols=4>
+<colspec colnum=1 colname=c91 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c92 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c93 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c94 colwidth="2*"></colspec>
 <tbody>
 <row>
+
+<entry><foreignphrase 
+lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>3</subscript>nandu&raquo;<subscript>3</subscript></foreignphrase></entry>
 
 <entry><foreignphrase 
 lang="art-lojban">gi'e</foreignphrase></entry>
@@ -912,6 +952,8 @@ lang="art-lojban">&laquo;<subscript>4</subscript>clani&raquo;<subscript>4</subsc
 </row>
 
 <row rowsep=1>
+<entry>is/does</entry>
+<entry>being difficulty</entry>
 <entry>and</entry>
 <entry>being long</entry>
 </row>
@@ -921,10 +963,10 @@ lang="art-lojban">&laquo;<subscript>4</subscript>clani&raquo;<subscript>4</subsc
 
 <tgroup cols=5>
 <colspec colnum=1 colname=c95 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c96 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c97 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c98 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c99 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c96 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c97 colwidth="3*"></colspec>
+<colspec colnum=4 colname=c98 colwidth="2*"></colspec>
+<colspec colnum=5 colname=c99 colwidth="5*"></colspec>
 <spanspec spanname=binxo2 namest=c98 nameend=c99></spanspec>
 <tbody>
 <row>
@@ -967,10 +1009,10 @@ lang="art-lojban"><emphasis role="placestruct">binxo</emphasis></foreignphrase><
 
 <tgroup cols=5>
 <colspec colnum=1 colname=c100 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c101 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c102 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c103 colwidth="1*"></colspec>
-<colspec colnum=5 colname=c104 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c101 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c102 colwidth="3*"></colspec>
+<colspec colnum=4 colname=c103 colwidth="2*"></colspec>
+<colspec colnum=5 colname=c104 colwidth="3*"></colspec>
 <spanspec spanname=manku1 namest=c101 nameend=c102></spanspec>
 <tbody>
 <row>
@@ -1011,8 +1053,8 @@ lang="art-lojban"><emphasis role="placestruct">manku</emphasis></foreignphrase><
 
 <tgroup cols=3>
 <colspec colnum=1 colname=c105 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c106 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c107 colwidth="1*"></colspec>
+<colspec colnum=2 colname=c106 colwidth="2*"></colspec>
+<colspec colnum=3 colname=c107 colwidth="4*"></colspec>
 <tbody>
 <row>
 

@@ -98,7 +98,7 @@ gives English and Lojban examples for these:
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -299,7 +299,7 @@ rarely found in English (The Scottish <wordasword>loch</wordasword>, as in
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -352,7 +352,7 @@ equivalent; rarely occurring alone in English (but see below).
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -437,7 +437,7 @@ written <foreignphrase lang="art-lojban">dj</foreignphrase>.
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -520,7 +520,7 @@ consonants</firstterm>, and are pronounced as in the second table.
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -598,7 +598,7 @@ lang="art-lojban"><emphasis role="bold">r</emphasis>okci</foreignphrase></entry>
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -745,7 +745,7 @@ with the purity and tension needed in Lojban pronunciation.
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
@@ -881,7 +881,7 @@ the two vowels that combine to form them:
 <informaltable frame=none>
 <tgroup cols=5>
 <colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="1*" ></colspec>
+<colspec colnum=2 colwidth="2*" ></colspec>
 <colspec colnum=3 colwidth="3*" ></colspec>
 <colspec colnum=4 colwidth="3*" ></colspec>
 <colspec colnum=5 colwidth="4*" ></colspec>
