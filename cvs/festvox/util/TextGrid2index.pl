@@ -4,15 +4,44 @@ use strict;
 use Getopt::Std;
 
 
-getopts("h");
-our($opt_h);
+getopts("l:hs:");
+our($opt_l, $opt_h, $opt_s);
 
 usage() if $opt_h;
 usage() unless @ARGV;
 
 my @files = @ARGV;
+my $sort_mtd = "sample";
+$sort_mtd = $opt_s if $opt_s;
+
+my $prev_list = $opt_l;
 
 my $t = " " x 4;
+
+my %out_diphones;
+
+my $header = "";
+
+if($prev_list){
+    open LIST, $prev_list or die "cannot open list: $prev_list: $!";
+
+    my $in_header = 0;
+
+    while( my $line = <LIST> ){
+	if( $line =~ /EST_Header_End/i ){
+	    $header .= $line;
+	    $in_header = 0;
+	}elsif( $line =~ /EST_File/i || $in_header ){
+	    $header .= $line;
+	    $in_header = 1;
+
+	}elsif( $line =~ /^\s*(.+?\-.+?)\s+(\w+)\s+([0-9\.]+)\s+([0-9\.]+)\s+([0-9\.]+)\s+/ ){
+	    $out_diphones{$1} = [$3, $4, $5, $2];
+	}
+    }
+
+    close LIST;
+}
 
 foreach my $file (@files){
 
@@ -134,20 +163,45 @@ found but were in $level\n";
 
     if( $obj_data{'Object class'} eq "TextGrid"){
 	my ($name) = $file =~ /(?:^.+\/)?(.+?).TextGrid/i; 
-	print_timings( $name, \%obj_data );
+	gen_timings( $name, \%obj_data , \%out_diphones );
+
     }elsif($obj_data{'Object class'} eq "Collection"){
 	foreach my $item (@{$obj_data{'item'}}){
 
-	    print_timings( $item->{'name'},  $item);
+	    gen_timings( $item->{'name'},  $item, \%out_diphones );
 	}
     }
 }
 
+my @sorted_diphones;
 
-sub print_timings($$){
-    my ($name, $textgrid) = @_;
+if( $sort_mtd eq "diphone" ){
+    @sorted_diphones = sort keys %out_diphones;
 
-    my @diphones;
+}elsif( $sort_mtd eq "sample" ){
+    @sorted_diphones = sort {$out_diphones{$a}[3] cmp $out_diphones{$b}[3]} keys %out_diphones;
+
+
+}else{
+    die "unknown sort method $sort_mtd. try $0 -h for valid methods\n";
+}
+
+print $header;
+
+foreach my $diphone (@sorted_diphones){
+	printf ("%s\t%s\t%0.3f\t%0.3f\t%0.3f\n", $diphone ,
+		$out_diphones{$diphone}[3], 
+		$out_diphones{$diphone}[0], 
+		$out_diphones{$diphone}[1], 
+		$out_diphones{$diphone}[2] );
+}
+
+###########################################################
+
+# takes in the name of the sample file, the info from praat, and the diphone
+# hash
+sub gen_timings($$$){
+    my ($name, $textgrid, $diphones) = @_;
 
     # each item should be a tier
     foreach my $item (@{$textgrid->{item}}){
@@ -156,8 +210,10 @@ sub print_timings($$){
 	    # look for the region that comes first
 	    foreach my $int (@{$item->{'intervals'}}){
 		if( $int->{'text'} =~ /.-./ ){
-		    push @diphones, [$int->{'text'}, $int->{'xmin'}, 
-				     undef, $int->{'xmax'}];
+		    $diphones->{ $int->{'text'} } = [$int->{'xmin'}, 
+						     undef, 
+						     $int->{'xmax'}, 
+						     $name];
 		}
 	    }
 
@@ -169,18 +225,18 @@ sub print_timings($$){
 		# time to fill in the midpoints
 		if( $int->{'text'} =~ /./ ){
 
-		    for( my $i = 0; $i <= $#diphones; $i++){
+		    foreach my $diphone (keys %$diphones ){
 
 			# we still need to fill it in
-			if( ! $diphones[$i][2] 
-			    && $diphones[$i][3] > $int->{'xmax'}
-			    && $diphones[$i][1] < $int->{'xmax'} ){
-			    $diphones[$i][2] = $int->{'xmax'};
+			if( ! $diphones->{$diphone}[1] 
+			    && $diphones->{$diphone}[2] > $int->{'xmax'}
+			    && $diphones->{$diphone}[0] < $int->{'xmax'} ){
+			    $diphones->{$diphone}[1] = $int->{'xmax'};
 
-			}elsif( ! $diphones[$i][2] 
-			    && $diphones[$i][3] > $int->{'xmin'}
-			    && $diphones[$i][1] < $int->{'xmin'} ){
-			    $diphones[$i][2] = $int->{'xmin'};
+			}elsif( ! $diphones->{$diphone}[1] 
+			    && $diphones->{$diphone}[2] > $int->{'xmin'}
+			    && $diphones->{$diphone}[0] < $int->{'xmin'} ){
+			    $diphones->{$diphone}[1] = $int->{'xmin'};
 			} 
 
 		    }
@@ -191,17 +247,12 @@ sub print_timings($$){
 	    warn "ignoring unknown tier $item->{'name'}\n";
 	}
     }
-
-    foreach my $diphone (@diphones){
-	printf ("%s\t%s\t%0.3f\t%0.3f\t%0.3f\t\n", @$diphone[0] ,$name, 
-		@$diphone[1], @$diphone[2], @$diphone[3]);
-    }
 }
 
 
 sub usage(){
     die<<USAGE;
-usage: $0 filenames.TextGrid
+usage: $0 [-s SORT_METHOD] [-l EXISTING.LIST] filenames.TextGrid
 
 reads in praat TextGrid files and outputs festival diphone index files. This 
 requires having two tiers labeled "diphone" and "midpoint" with text labels
@@ -209,6 +260,16 @@ for each of the boundaries.
 
 The input file can be gotten by selecting one or more TextGrids in Praat
 and going to Write->Write to text file...
+
+options:
+-s SORT_METHOD       SORT_METHOD is either "dihpone" or "sample" to sort the
+                     output
+-l EXISTING.LIST     reads in EXISTING.LIST and merges it with the extracted 
+                     diphones. Any diphones in EXISTING.LIST will be 
+                     overwritten by extracted ones. The header from 
+		     EXISTING.LIST is also output.
+-h                   this help
+
 
 (if you're selecting only one TextGrid, leave its filename with the 
 diphone name still intact)
