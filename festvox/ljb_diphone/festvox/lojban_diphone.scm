@@ -327,13 +327,23 @@ a lojban pronunciation of WORD."
 
 
 
-(set! lojban_phrase_cart_tree
+; (set! lojban_phrase_cart_tree
+; '
+; ((lisp_token_end_punc in ("?" "i" ".i" ".ije" "ni'o" ">" ")" "}" ":"))
+;   ((BB))
+;   ((lisp_token_end_punc in ("\"" ";"))
+;    ((B))
+;    ((n.name is 0)  ;; end of utterance
+;     ((BB))
+;     ((NB))))))
+
+(set! simple_phrase_cart_tree
 '
-((lisp_token_end_punc in ("?" "i" ">" ")" "}" ":"))
+((R:Token.parent.name in ("i" ".i" "ije" ".ije"))
   ((BB))
-  ((lisp_token_end_punc in ("\"" ";"))
+  ((R:Token.parent.name in ("noi" "poi" "goi" "je" "ja" "jo" "ju" "la" "le" "lo" "li" "lu"))
    ((B))
-   ((n.name is 0)  ;; end of utterance
+   ((n.name is 0)
     ((BB))
     ((NB))))))
 
@@ -382,7 +392,7 @@ Set up synthesis for a male Lojban speaker"
   (set! pos_supported nil) ;; well not real pos anyhow
   ;; Phrasing
   (Parameter.set 'Phrase_Method 'cart_tree)
-  (set! phrase_cart_tree lojban_phrase_cart_tree)
+  (set! phrase_cart_tree simple_phrase_cart_tree)
   ;; Lexicon selection
   (lex.select "lojban")
 
@@ -406,7 +416,7 @@ Set up synthesis for a male Lojban speaker"
   
 ;; If this is above 1.0, it will slow down the synthesizer
 ;; (may help with the intelligibility)
-  (Parameter.set 'Duration_Stretch 0.8)
+  (Parameter.set 'Duration_Stretch 1.0)
 
 
   (Parameter.set 'Synth_Method 'UniSyn)
