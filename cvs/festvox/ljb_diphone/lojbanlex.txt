@@ -1,0 +1,3 @@
+( "gismu" content ( ((g i s) 1) ((m u) 0)) )
+( "le" nil ( ((l e) 0)  ) )
+( "napoleon" content ( ((n a) 0) ((p o) 0) ((l e) 1) ((o n) 0) ) )

@@ -6,13 +6,13 @@
 ;;; Hand-timing done by Arnt Richard Johansen <arj@nvg.org>
 ;;;    and Steve Pomeroy <steve@staticfree.info>
 
-;;; this file was brutally hacked into existance from the sample voice 
+;;; this file was brutally hacked into existence from the sample voice 
 ;;; definitions and the el_diphone.scm file by Steve Pomeroy
 
 ;; $Revision$
 
 ;;; load up the ljb diphone files
-(defvar ljb_diphone_dir "/home/lusers/a/arj/festvox/ljb_diphone/" 
+(defvar ljb_diphone_dir "/home/arj/festvox/ljb_diphone/" 
 
   "ljb_diphone_dir
   The default directory for the lojban diphone database.")
@@ -27,7 +27,12 @@
 (set! token.punctuation "\",:;!?<>(){}[]")
 (set! token.prepunctuation "\"({[<")
 
+;; Lexicon for testing purposes.
+;; We need to have this until we can predict stress automatically.
+;; In the production version, we will do only letter-to-sound.
 (lex.create "lojban")
+(lex.compile "/home/arj/festvox/ljb_diphone/lojbanlex.txt" "/home/arj/festvox/ljb_diphone/lojbanlex.out")
+(lex.set.compile.file "/home/arj/festvox/ljb_diphone/lojbanlex.out")
 
 ;; non-standard things
 (lex.add.entry '("." punc (((#) 0))))
@@ -104,7 +109,7 @@
 
 (set! lojban_phone_data
 '(
-   (# 0.0 0.250) ;; the sound of silence
+   (# 0.0 0.050) ;; the sound of silence
 
    (e 0.0 0.080)
    (a 0.0 0.080)
@@ -148,8 +153,7 @@
    (v 0.0 0.100)
 
    (h 0.0 0.030)
-   (x 0.0 0.130)
-   (m 0.0 0.070)
+   (x 0.0 0.130)   (m 0.0 0.070)
    (n 0.0 0.040)
    (l 0.0 0.080)
    (r 0.0 0.030)
@@ -203,16 +207,16 @@ a lojban pronunciation of WORD."
  '
    ((R:SylStructure.parent.R:Syllable.p.syl_break > 1 ) ;; clause initial
     ((R:SylStructure.parent.stress is 1)
-     ((1.5))
-     ((1.2)))
+     ((2.5))
+     ((1.0)))
     ((R:SylStructure.parent.syl_break > 1)   ;; clause final
      ((R:SylStructure.parent.stress is 1)
-      ((1.5))
-      ((1.2)))
+      ((2.5))
+      ((1.0)))
      ((R:SylStructure.parent.stress is 1)
       ((ph_vc is +)
-       ((1.2))
-       ((1.0)))
+       ((1.0))
+       ((2.0)))
       ((1.0))))))
 
 
@@ -228,7 +232,7 @@ a lojban pronunciation of WORD."
     ((NB))))))
 
 (set! lojban_int_simple_params
-    '((f0_mean 120) (f0_std 30)))
+    '((f0_mean 140) (f0_std 50)))
 
 
 (define (lojban_token_to_words token name)
@@ -294,7 +298,9 @@ Set up synthesis for a male Lojban speaker"
   (set! us_rel_offset 0.0)
   (set! us_gain 1.0)
   
-  (Parameter.set 'Duration_Stretch 1.8)
+;; If this is above 1.0, it will slow down the synthesizer
+;; (may help with the intelligibility)
+  (Parameter.set 'Duration_Stretch 1.0)
 
 
   (Parameter.set 'Synth_Method 'UniSyn)
