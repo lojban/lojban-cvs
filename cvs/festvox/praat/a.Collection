@@ -1,61 +1,9 @@
 File type = "ooTextFile"
 Object class = "Collection"
 
-size = 21 
+size = 18 
 item []: 
     item [1]:
-        class = "TextGrid" 
-        name = "ak_0052" 
-        xmin = 0 
-        xmax = 0.89993749999999995 
-        tiers? <exists> 
-        size = 2 
-        item []: 
-            item [1]:
-                class = "IntervalTier" 
-                name = "Diphone" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 5 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.55263859215017064 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.55263859215017064 
-                    xmax = 0.61607686860068256 
-                    text = "" 
-                intervals [3]:
-                    xmin = 0.61607686860068256 
-                    xmax = 0.63360586604095559 
-                    text = "" 
-                intervals [4]:
-                    xmin = 0.63360586604095559 
-                    xmax = 0.70706071245733781 
-                    text = "" 
-                intervals [5]:
-                    xmin = 0.70706071245733781 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-            item [2]:
-                class = "IntervalTier" 
-                name = "midpoint" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 3 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.5743411604095563 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.5743411604095563 
-                    xmax = 0.6703332892491467 
-                    text = "" 
-                intervals [3]:
-                    xmin = 0.6703332892491467 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-    item [2]:
         class = "TextGrid" 
         name = "ak_0049" 
         xmin = 0 
@@ -103,7 +51,7 @@ item []:
                     xmin = 0.63470237054903045 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [3]:
+    item [2]:
         class = "TextGrid" 
         name = "ak_0044" 
         xmin = 0 
@@ -151,7 +99,7 @@ item []:
                     xmin = 0.46487390764821024 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [4]:
+    item [3]:
         class = "TextGrid" 
         name = "ak_0046" 
         xmin = 0 
@@ -199,103 +147,7 @@ item []:
                     xmin = 0.6193455414569351 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [5]:
-        class = "TextGrid" 
-        name = "ak_0035" 
-        xmin = 0 
-        xmax = 0.89993749999999995 
-        tiers? <exists> 
-        size = 2 
-        item []: 
-            item [1]:
-                class = "IntervalTier" 
-                name = "Diphone" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 4 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.25800838634880685 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.25800838634880685 
-                    xmax = 0.34563264646252795 
-                    text = "r-e" 
-                intervals [3]:
-                    xmin = 0.34563264646252795 
-                    xmax = 0.46035719320935864 
-                    text = "e-r" 
-                intervals [4]:
-                    xmin = 0.46035719320935864 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-            item [2]:
-                class = "IntervalTier" 
-                name = "midpoint" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 3 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.29143207319630871 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.29143207319630871 
-                    xmax = 0.41970676325969419 
-                    text = "e" 
-                intervals [3]:
-                    xmin = 0.41970676325969419 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-    item [6]:
-        class = "TextGrid" 
-        name = "ak_0036" 
-        xmin = 0 
-        xmax = 0.89993749999999995 
-        tiers? <exists> 
-        size = 2 
-        item []: 
-            item [1]:
-                class = "IntervalTier" 
-                name = "Diphone" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 4 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.32575910293158089 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.32575910293158089 
-                    xmax = 0.410673334381991 
-                    text = "h-e" 
-                intervals [3]:
-                    xmin = 0.410673334381991 
-                    xmax = 0.51546110936334821 
-                    text = "e-h" 
-                intervals [4]:
-                    xmin = 0.51546110936334821 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-            item [2]:
-                class = "IntervalTier" 
-                name = "midpoint" 
-                xmin = 0 
-                xmax = 0.89993749999999995 
-                intervals: size = 3 
-                intervals [1]:
-                    xmin = 0 
-                    xmax = 0.36369950421793434 
-                    text = "" 
-                intervals [2]:
-                    xmin = 0.36369950421793434 
-                    xmax = 0.4621638789848993 
-                    text = "e" 
-                intervals [3]:
-                    xmin = 0.4621638789848993 
-                    xmax = 0.89993749999999995 
-                    text = "" 
-    item [7]:
+    item [4]:
         class = "TextGrid" 
         name = "ak_0040" 
         xmin = 0 
@@ -343,7 +195,7 @@ item []:
                     xmin = 0.52088116668997009 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [8]:
+    item [5]:
         class = "TextGrid" 
         name = "ak_0045" 
         xmin = 0 
@@ -391,7 +243,7 @@ item []:
                     xmin = 0.54888479621085007 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [9]:
+    item [6]:
         class = "TextGrid" 
         name = "ak_0047" 
         xmin = 0 
@@ -439,7 +291,7 @@ item []:
                     xmin = 0.62295891300801631 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [10]:
+    item [7]:
         class = "TextGrid" 
         name = "ak_0048" 
         xmin = 0 
@@ -487,7 +339,7 @@ item []:
                     xmin = 0.67083608605984335 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [11]:
+    item [8]:
         class = "TextGrid" 
         name = "ak_0053" 
         xmin = 0 
@@ -535,7 +387,7 @@ item []:
                     xmin = 0.58411516883389258 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [12]:
+    item [9]:
         class = "TextGrid" 
         name = "ak_0054" 
         xmin = 0 
@@ -583,7 +435,7 @@ item []:
                     xmin = 0.6328956847734899 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [13]:
+    item [10]:
         class = "TextGrid" 
         name = "ak_0037" 
         xmin = 0 
@@ -631,7 +483,7 @@ item []:
                     xmin = 0.54978813909862034 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [14]:
+    item [11]:
         class = "TextGrid" 
         name = "ak_0038" 
         xmin = 0 
@@ -679,7 +531,7 @@ item []:
                     xmin = 0.5786951115072706 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [15]:
+    item [12]:
         class = "TextGrid" 
         name = "ak_0039" 
         xmin = 0 
@@ -727,7 +579,7 @@ item []:
                     xmin = 0.56333828241517514 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [16]:
+    item [13]:
         class = "TextGrid" 
         name = "ak_0042" 
         xmin = 0 
@@ -775,7 +627,7 @@ item []:
                     xmin = 0.551594824874161 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [17]:
+    item [14]:
         class = "TextGrid" 
         name = "ak_0043" 
         xmin = 0 
@@ -823,7 +675,7 @@ item []:
                     xmin = 0.40976999149422066 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [18]:
+    item [15]:
         class = "TextGrid" 
         name = "ak_0050" 
         xmin = 0 
@@ -871,7 +723,7 @@ item []:
                     xmin = 0.64734917097781497 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [19]:
+    item [16]:
         class = "TextGrid" 
         name = "ak_0041" 
         xmin = 0 
@@ -919,7 +771,7 @@ item []:
                     xmin = 0.59043856904828484 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [20]:
+    item [17]:
         class = "TextGrid" 
         name = "ak_0051" 
         xmin = 0 
@@ -967,7 +819,7 @@ item []:
                     xmin = 0.57508173995618939 
                     xmax = 0.89993749999999995 
                     text = "" 
-    item [21]:
+    item [18]:
         class = "TextGrid" 
         name = "ak_0052" 
         xmin = 0 
