@@ -218,7 +218,7 @@
 	  (process-node-list feet)
 	  (make-table-endnotes)
 ;; added NN: add extra row at end of each group, for spacing
-    (if lastsib (empty-sosofo) (make empty-element gi: "TR"))
+;;    (if lastsib (empty-sosofo) (make empty-element gi: "TR"))
 ;; end NN
 
 )))
@@ -228,6 +228,9 @@
 
 (define ($process-row$ row overhang)
   (let* ((tgroup (find-tgroup row))
+;; added: NN
+            (lastsib (if (last-sibling? row) #t #f))
+;; end added
 	 (rowcells (node-list-filter-out-pis (children row)))
 	 (maxcol (string->number (attribute-string (normalize "cols") tgroup)))
 	 (lastentry (node-list-last rowcells))
@@ -270,6 +273,15 @@
 			(make entity-ref name: "nbsp"))
 		  (loop (overhang-skip overhang (+ colnum 1)))))))
 ;; added: NN
+		(if (and lastsib (not (attribute-string (normalize "rowsep") row)))
+;; insert dashed row at end of each tgroup
+	(make element gi: "TR"
+		(make element gi: "TD"
+			(literal "--"))) 
+
+
+		(empty-sosofo))
+
        (if (attribute-string (normalize "rowsep") row)
 		(make sequence
 		 (make element gi: "TR"
