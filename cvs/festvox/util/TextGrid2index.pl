@@ -4,8 +4,8 @@ use strict;
 use Getopt::Std;
 
 
-getopts("l:hs:");
-our($opt_l, $opt_h, $opt_s);
+getopts("l:hs:d");
+our($opt_l, $opt_h, $opt_s, $opt_d);
 
 usage() if $opt_h;
 usage() unless @ARGV;
@@ -14,11 +14,14 @@ my @files = @ARGV;
 my $sort_mtd = "sample";
 $sort_mtd = $opt_s if $opt_s;
 
+my $show_diff = $opt_d;
 my $prev_list = $opt_l;
+my $output_diphs = 1;
 
 my $t = " " x 4;
 
 my %out_diphones;
+my %diph_source;
 
 my $header = "";
 
@@ -37,6 +40,7 @@ if($prev_list){
 
 	}elsif( $line =~ /^\s*(.+?\-.+?)\s+(\w+)\s+([0-9\.]+)\s+([0-9\.]+)\s+([0-9\.]+)\s+/ ){
 	    $out_diphones{$1} = [$3, $4, $5, $2];
+	    $diph_source{$1} = "list" if $show_diff;
 	}
     }
 
@@ -186,14 +190,19 @@ if( $sort_mtd eq "diphone" ){
     die "unknown sort method $sort_mtd. try $0 -h for valid methods\n";
 }
 
-print $header;
+if($output_diphs){
+    print $header;
 
-foreach my $diphone (@sorted_diphones){
-	printf ("%s\t%s\t%0.3f\t%0.3f\t%0.3f\n", $diphone ,
+    foreach my $diphone (@sorted_diphones){
+	printf ("%s\t%s\t%0.3f\t%0.3f\t%0.3f", $diphone ,
 		$out_diphones{$diphone}[3], 
 		$out_diphones{$diphone}[0], 
 		$out_diphones{$diphone}[1], 
 		$out_diphones{$diphone}[2] );
+
+	print "\t" . $diph_source{$diphone} if $show_diff;
+	print "\n";
+    }
 }
 
 ###########################################################
@@ -210,6 +219,14 @@ sub gen_timings($$$){
 	    # look for the region that comes first
 	    foreach my $int (@{$item->{'intervals'}}){
 		if( $int->{'text'} =~ /.-./ ){
+		    if( $diph_source{$int->{'text'}} eq "list"){
+			$diph_source{$int->{'text'}} = "both";
+		    }elsif( $diph_source{$int->{'text'}} =~ /both(?:\s*(\d+))?/){
+			$diph_source{$int->{'text'}} = "both *".( $1 + 1 )." dupe";
+		    }else{
+#			print STDERR $diph_source{$int->{'text'}}, "\t", $int->{'text'};
+			$diph_source{$int->{'text'}} = "textgrid";
+		    }
 		    $diphones->{ $int->{'text'} } = [$int->{'xmin'}, 
 						     undef, 
 						     $int->{'xmax'}, 
@@ -244,7 +261,7 @@ sub gen_timings($$$){
 	    }
 	    
 	}else{
-	    warn "ignoring unknown tier $item->{'name'}\n";
+	    warn "ignoring unknown tier \"$item->{'name'}\"\n";
 	}
     }
 }
@@ -268,11 +285,13 @@ options:
                      diphones. Any diphones in EXISTING.LIST will be 
                      overwritten by extracted ones. The header from 
 		     EXISTING.LIST is also output.
+-d                   shows where the diphone came from, the EXISTING.LIST or
+                     the TextGrid and if there are any dupes in the TextGrids
 -h                   this help
 
 
 (if you're selecting only one TextGrid, leave its filename with the 
-diphone name still intact)
+diphone name still intact, as Praat doesn't put it in the file)
 
 USAGE
 }
