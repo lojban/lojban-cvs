@@ -260,87 +260,89 @@ wie man m&ouml;chte.</para>
 </answer>
 </qandaentry>
 
+
 <qandaentry>
 <question>
-<para>What else is distinctive about Lojban grammar?</para>
+<para>Was sonst ist einzigartig an der Lojban Grammatik?</para>
 </question>
 
-<answer> <para>In Lojban, it is equally easy to speak of something as being
-action as it is as being a case of existence.  The distinction between the
-two can be ignored, or can be explicitly expressed by associating concepts
-in <foreignphrase lang="loj">tanru</foreignphrase> metaphors (combinations
-of <foreignphrase lang="loj">selbri</foreignphrase>) involving words like
-<foreignphrase lang="loj">gasnu</foreignphrase> (<quote
-role="gloss">do</quote>), <foreignphrase lang="loj">zasti</foreignphrase>
-(<quote role="gloss">exist</quote>), <foreignphrase
-lang="loj">zukte</foreignphrase> (<quote role="gloss">act with
-purpose</quote>); with a variety of <quote role="gloss">operators</quote>
-(<foreignphrase lang="loj">cmavo</foreignphrase>)
-dealing with abstractions such as events, states, properties, amounts,
-ideas, experience, and truth; or with four pre-defined varieties of
-causality (others can be developed through metaphor).</para>
+<answer> 
+
+<para> In Lojban kann
+man ebenso einfach von Vorg&auml;ngen wie von Zust&auml;nden sprechen.
+Diese Unterscheidung kann man vernachl&auml;ssigen oder ausdr&uuml;chklich durch das Zusammenbringen
+verschiedener Konzepte in
+ <foreignphrase lang="loj">tanru</foreignphrase>&nbsp;&mdash;&nbsp;<quote>Metaphern</quote> 
+betonen. Dies sind Kombinationen
+von<foreignphrase lang="loj">selbri</foreignphrase> mit W&ouml;rtern wie
+<foreignphrase lang="loj">gasnu</foreignphrase>&nbsp;&mdash;&nbsp;<quote
+role="gloss">tun</quote>, <foreignphrase lang="loj">zasti</foreignphrase>&nbsp;&mdash;&nbsp;
+<quote role="gloss">existieren</quote>, <foreignphrase
+lang="loj">zukte</foreignphrase>&nbsp;&mdash;&nbsp;<quote role="gloss">planvoll handeln</quote>.
+Dazu kommt noch eine ganze Reihe von <foreignphrase lang="loj">cmavo</foreignphrase>&nbsp;&mdash;&nbsp;
+<quote role="gloss">Operatoren</quote>, die verschiedene Abstraktionen ausdr&uuml;cken k&ouml;nnen, wie
+Ereignisse, Zust&auml;nde, Eigenschaften, Mengen, Ideen, Erfahrungen oder Wahrheitswerte, zus&auml;tzlich gibt
+es auch noch vier vordefinierte Kausalausdr&uuml;cke, weitere k&ouml;nnen durch Metaphern definiert werden.
+</para>
+
+<para>Ein wesentlicher Vorteil der Pr&auml;dikatenlogik ist, dass man so 
+in Lojban keine Deklinationen und Konjugationen von Nomina, Verba, und Adjektiva 
+ben&ouml;tigt. In den meisten nat&uuml;rlichen Sprachen haben sich solche Variationen
+entwickelt, um Unsicherheiten im Bedeutungszusammenhang der W&ouml;rter eines Satzes zu vermindern.
+Die Entwicklungen der einzelnen Sprachen haben dazu gef&uuml;hrt, dass die Flektionen mehr oder
+weniger unregelm&auml;ssig geworden sind und damit schwer zu lernen. Lojban benutzt die sehr einfachen
+aber vielseitigen Pr&auml;dikatbeziehungen und ist damit frei von Flektionen und Unregelm&auml;ssigkeiten.
+</para>
+
+<para>Die Funktionen der Tempuszeichen der Konjugationen, der Adverbien und der Pr&auml;positionen
+werden in Lojban durch eine Wortklasse ausgedr&uuml;ckt. Neue p&auml;positionsartige W&ouml;rter k&ouml;nnen
+jederzeit aus Pr&auml;dikaten gebildet werden, dies erlaubt es dem Sprecher S&auml;tze auch 
+um Aussagen zu erweitern, die im Pr&auml;dikat nicht mit <quote>eingebaut</quote> sind.
+</para>
+
+<para>Zahlen und Quantifikatoren in Lojban sind von nat&uuml;rlichen Sprachen abgeguckt, aber in erweiterter
+Form. <wordasword>viele</wordasword>, <wordasword>genug</wordasword>,
+<wordasword>zu viele</wordasword>, <wordasword>wenige</wordasword>, und <wordasword>mindestens</wordasword> 
+sind in Lojban Zahlen. 
+Also sind etwa <quote>Das kostet 3.95&euro;.</quote> und <quote>Das kostet zu viel.</quote>
+  grammatikalisch gleich. Man kann sagen man sei
+<quote>der gen&uuml;gendste</quote> in der Schlange an der Theaterkasse, um noch in die
+fast ausverkaufte Vorstellung zu kommen. Das Basisvokabular enth&auml;lt einige Grundideen
+aus der Logik, der Mathematik und anderen Wissenschaften, was bei der Diskussion dieser Felder
+hilfreich ist, aber auch im Alltagsgebrauch &uuml;berraschend n&uuml;tzlich ist.</para>
+
+<para>Die Pr&auml;dikatenlogik kann eine grosse Vielfalt menschlichen
+Denkens ausdr&uuml;cken. In Lojban gibt es auch eine Anzahl nichtlogischer Konstrukte, die 
+die logische Struktur der Sprache selbst nicht st&ouml;ren, was auch einen Austausch &uuml;ber
+Angelegenheiten erm&ouml;glicht, die nicht logisch zerlegbar sind. Um auch Emotionen 
+ausdr&uuml;cken zu k&ouml;nnen, gibt es ein reichhaltiges Vokabular an W&ouml;rtern, die 
+man als <quote>Attitudinalia</quote> bezeichnen k&ouml;nnte. Diese entsprechen grob im Deutschen
+&uuml;blichen Interjektionen, wie
+<wordasword>Oh!</wordasword> oder <wordasword>Aha!</wordasword> in den verschiedenen Stimmlagen, jedes davon
+hat jedoch eine spezielle Bedeutung. Ebenso gibt es Indikatoren, die das Verh&auml;ltnis des Sprechers
+zu seiner &Auml;usserung wiedergeben, ob es ich zum Beispiel um eine Vermutung, ein Ger&uuml;cht oder 
+eine logische Schlussfolgerung handelt.</para>
 
 
-<para>A major benefit of using a predicate grammar is that Lojban doesn't
-have mandatory inflections and declensions on nouns, verbs, and adjectives. 
-Most natural languages have evolved such variations to reduce ambiguity as
-to how words are related in a sentence.  Evolutionary development has made
-these inflections and declensions highly irregular and thus difficult to
-learn.  Lojban uses the simple but flexible predicate relationship to erase
-both the irregularity and the declensions.</para>
+<para>Lojban erm&ouml;glicht es verschiedene Sprachebenen eindeutig zu trennen.
+ <quote>Dieser Satz ist falsch.</quote> kann in Lojban so formuliert werden, dass
+er kein Paradoxon ist. Lojban erm&ouml;glicht auch durch ein ausgefeiltes Tempussystem extrem 
+detaillierte Aussagen &uuml;ber zeitliche und r&auml;umlich, sogar raum-zeitliche Abl&auml;ufe zu machen.
+Auch &uuml;ber Situationen, die bei Zeitreisen auftreten k&ouml;nnten. 
+Ein betr&auml;chtlicher Teil der Grammatik befasst mit der eindeutigen Formulierung
+mathematischer Ausdr&uuml;cke in einer Weise, die dem international &uuml;blichen Gebrauch entspricht und mit
+der nicht-mathematischen Teil der Sprache zusammenpasst.</para>
 
 
-<para>Tense and location markers (inflections), adverbs, and prepositions
-are combined into one part of speech.  New preposition-like forms can be
-built at will from predicates; these allow the user to expand upon a
-sentence by attaching and relating clauses not normally implied in the
-meaning of a word.</para>
-
-
-<para>Numbers and quantifiers are conceptually expanded from natural
-languages.  <wordasword>Many</wordasword>, <wordasword>enough</wordasword>,
-<wordasword>too much</wordasword>, <wordasword>a few</wordasword>, and <wordasword>at
-least</wordasword> are among concepts that are expressed as numbers in Lojban. 
-Thus <quote>it costs $3.95</quote> and <quote>it costs too
-much</quote> are grammatically identical, and one can talk of being
-<quote>enoughth in line</quote> for tickets to a sellout movie.  Core
-concepts of logic, mathematics, and science are built into the root
-vocabulary.  They enhance discussion of those topics, and are surprisingly
-useful in ordinary speech, too.</para>
-
-
-<para>Predicate logic can express a wide variety of human thought; Lojban
-adds in non-logical constructs that do not affect or obscure the logical
-structure, allowing communications that are not amenable to logical
-analysis.  For example, Lojban has a full set of emotional indicators which
-allow expression of intensity and denial.  These are similar to such
-ejaculations in English as <wordasword>Oh!</wordasword>, <wordasword>Aha!</wordasword>,
-and <wordasword>Wheee!</wordasword>, but each has a specific meaning.  Similarly,
-Lojban has indicators of the speaker's relationship to what is said (Is it
-hearsay, direct observation, logical deduction, etc.?)  similar to those
-found in some American Indian languages.</para>
-
-
-<para>Lojban supports metalinguistic discussion about the sentences being
-spoken while remaining unambiguous.  (<quote>This sentence is not
-true</quote> need not be a paradox in Lojban.)  Lojban also supports a
-variety of <quote role="gloss">tense</quote> logic that allows extreme specificity of time and space
-(and space-time) relationships, even those implied by the concept of time
-travel.  A substantial portion of Lojban's grammar is designed to support
-unambiguous statement of mathematical expressions and relations in a manner
-compatible both with international usage and Lojban's non-mathematical
-grammar.</para>
-
-
-<para>Lojban <quote role="gloss">parts of speech</quote> are convertible
-from one to another by using short structure words (called <foreignphrase
-lang="loj">cmavo</foreignphrase>).  One can make numbers serve as nouns or
-verbs, or can invent new numbers and prepositions.  Lojban removes many of
-the constraints on human thought while preserving tight control on
-structural syntax.</para>
+<para>Lojban<quote role="gloss">Wortklassen</quote> sind durch den Gebrauch von <foreignphrase
+lang="loj">cmavo</foreignphrase> ineinander umwandelbar.
+Man kann Zahlen als Nomen oder Verben einsetzen, man kann sich auch neue 
+Zahlen und Pr&auml;positionen ausdenken. Lojban beseitigt viele Beschr&auml;nkungen des menschlichen
+Denkens w&auml;hrend es die strukturelle Syntax genau vorgibt.
+</para>
 </answer>
 </qandaentry>
-
+<!--bookmark-->
 <qandaentry>
 <question>
 <para>Lojban seems complex.  How hard is it to learn?</para>
