@@ -28,6 +28,7 @@
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
 <!ENTITY lessvocab SYSTEM "lessvocab.doc.xml">
+<!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>
 <title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
