@@ -1,9 +1,9 @@
 <appendix id="phonapp"><title>Complete Pronunciation Guide</title>
 <subtitle><foreignphrase lang="art-lojban">mulno ke bacru tadji velciski</foreignphrase></subtitle><titleabbrev id="phonapptitle">Pronunciation Guide</titleabbrev>
 
-<para>The pronunciation guide that appeared in the <ulink url="overview">Overview</ulink> is intended for speakers of North American English. This more complete pronunciation guide uses the International Phonetic Alphabet, and comparison with the other five source languages of Lojban, in order to be useful outside North America.</para>
+<para>The pronunciation guide that appeared in the <ulink url="overview.html">Overview</ulink> is intended for speakers of North American English. This more complete pronunciation guide uses the International Phonetic Alphabet, and comparison with the other five source languages of Lojban, in order to be useful outside North America.</para>
 
-<para>Rather than concentrate on precise phonetic targets, Lojban phonemes have a range of allowed pronunciations, although there are preferred variants (given first in the IPA chart below.) The intent is to allow speakers to be understood unambiguously, rather than to devise a specific Lojban <quote role="socalled">accent</quote>. &IPAASCIIdisclaimer;</para>
+<para>Rather than concentrate on precise phonetic targets, Lojban phonemes have a range of allowed pronunciations, although there are preferred variants (given first in the IPA chart below.) The intent is to allow speakers to be understood unambiguously, rather than to devise a specific Lojban <quote role="socalled">accent</quote>. Where no word has been given to illustrate the pronunciation of a Lojban phoneme in a language, no phoneme in that language is close enough to serve as an equivalent. &IPAASCIIdisclaimer;</para>
 
 <sect1 id="ipa"><title>International Phonetic Alphabet</title><subtitle><foreignphrase lang="art-lojban">munje sancyci'e lerfu</foreignphrase></subtitle>
 

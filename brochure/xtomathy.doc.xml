@@ -36,8 +36,137 @@
 <listitem><para>semantic role of <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></para></listitem>
 </varlistentry>
 
-</variablelist>
+</variablelist></para>
 
+<para>For instance:</para></note>
+
+<informaltable frame="none">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>dei)<subscript>2</subscript></foreignphrase></entry>
+
+<entry>&nbsp;</entry>
+
+</row>
+
+<row>
+<entry><quote role="gloss">.</quote></entry>
+<entry>this utterance</entry>
+<entry>[is, does]</entry>
+</row>
+
+<row>
+<entry>&nbsp;</entry>
+<entry role="placedef"><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (story(ies))</emphasis></entry>
+</row>
+
+</tbody>
+</tgroup>
+
+<tgroup cols="3">
+<colspec colnum="1" colname="c4" colwidth="1*"/>
+<colspec colnum="2" colname="c5" colwidth="1*"/>
+<colspec colnum="3" colname="c6" colwidth="1*"/>
+<spanspec spanname="lisri2" namest="c5" nameend="c6"/>
+<tbody>
+<row>
+
+<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>lisri&raquo;<subscript>3</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>le</foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">&lt;<subscript>5</subscript>nu</foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>being story(ies)</entry>
+<entry>the</entry>
+<entry>event(s) of</entry>
+</row>
+
+<row>
+<entry>&nbsp;</entry>
+<entry spanname="lisri2" role="placedef"><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (plot)</emphasis></entry>
+</row>
+</tbody>
+</tgroup>
+
+
+<tgroup cols="3">
+<colspec colnum="1" colname="c7" colwidth="1*"/>
+<colspec colnum="2" colname="c8" colwidth="1*"/>
+<colspec colnum="3" colname="c9" colwidth="2*"/>
+<spanspec spanname="cpare2" namest="c8" nameend="c9"/>
+<tbody>
+<row>
+
+<entry><foreignphrase 
+lang="art-lojban">[<subscript>6</subscript>&laquo;<subscript>7</subscript>cpare&raquo;<subscript>7</subscript></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban">(<subscript>8</subscript>lo</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">cmana)<subscript>8</subscript>]<subscript>6</subscript>&gt;<subscript>5</subscript>)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+
+</row>
+
+<row>
+<entry>climb-ing</entry>
+<entry>any/some</entry>
+<entry>mountain(s)</entry>
+</row>
+
+<row rowsep="1">
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry spanname="cpare2" role="placedef"><foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">cpare</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (climbing surface(s))</emphasis></entry>
+</row>
+
+</tbody>
+</tgroup>
+</informaltable>
+
+<note><para>This indicates that <foreignphrase 
+lang="art-lojban">dei</foreignphrase> is the first <emphasis role="term"><foreignphrase 
+lang="art-lojban">sumti</foreignphrase></emphasis> of the <emphasis role="term"><foreignphrase 
+lang="art-lojban">selbri</foreignphrase></emphasis> <foreignphrase 
+lang="art-lojban">lisri</foreignphrase> (<foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript></emphasis>);
+<foreignphrase 
+lang="art-lojban">lenu cpare...</foreignphrase> is the second <emphasis role="term"><foreignphrase 
+lang="art-lojban">sumti</foreignphrase></emphasis> of <foreignphrase 
+lang="art-lojban">lisri</foreignphrase> (<foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript></emphasis>); and
+<foreignphrase 
+lang="art-lojban">cmana</foreignphrase> is the second <emphasis role="term"><foreignphrase 
+lang="art-lojban">sumti</foreignphrase></emphasis> of the <emphasis role="term"><foreignphrase 
+lang="art-lojban">selbri</foreignphrase></emphasis> <foreignphrase 
+lang="art-lojban">cpare</foreignphrase> (<foreignphrase 
+lang="art-lojban"><emphasis role="placestruct">cpare</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript></emphasis>). Furthermore: <foreignphrase 
+lang="art-lojban">dei</foreignphrase>, <foreignphrase 
+lang="art-lojban">le nu cpare lo cmana</foreignphrase>, and <foreignphrase 
+lang="art-lojban">cmana</foreignphrase> are <emphasis role="term"><foreignphrase 
+lang="art-lojban">sumti</foreignphrase></emphasis>; 
+<foreignphrase 
+lang="art-lojban">lisri</foreignphrase> and <foreignphrase 
+lang="art-lojban">cpare</foreignphrase> are <emphasis role="term"><foreignphrase 
+lang="art-lojban">selbri</foreignphrase></emphasis>; 
+<foreignphrase 
+lang="art-lojban">nu cpare lo cmana</foreignphrase>is an abstraction; 
+and the sentence contains two clauses: <foreignphrase 
+lang="art-lojban">cpare lo cmana</foreignphrase>, and <foreignphrase 
+lang="art-lojban">dei lisri le nu cpare lo cmana</foreignphrase>.
 </para></note></partintro>
 
 &bradi;
