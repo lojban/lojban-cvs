@@ -610,6 +610,29 @@
       (with-mode hf-mode 
 	(process-node-list title)))))
 
+;; force keep with next for formalpara title followed by example or table
+
+(element (formalpara title) 
+    (let* (
+		(informalexample (node-list-first (select-elements (descendants (parent (current-node))) 
+			(normalize "informalexample"))))
+        (example (node-list-first (select-elements (descendants (parent (current-node))) 
+			(normalize "example"))))
+        (informaltable (node-list-first (select-elements (descendants (parent (current-node))) 
+			(normalize "informaltable"))))
+        (table (node-list-first (select-elements (descendants (parent (current-node))) 
+			(normalize "table"))))
+	)
+	(if (and (node-list-empty? informalexample)
+            (node-list-empty? example)
+            (node-list-empty? informaltable)
+            (node-list-empty? table)
+	     ) 
+
+	($runinhead$) ($lowtitle$ 2 4))
+
+))
+
 
 </style-specification-body>
 </style-specification>

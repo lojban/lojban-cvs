@@ -25,6 +25,8 @@
 (define %ss-size-factor% 0.7)
 (define %ss-shift-factor% 0.3)
 (define %line-spacing-factor% 1.15)
+(define %two-side% #t)
+(define %header-margin% 3pi)
 
 (declare-initial-value page-width %page-width%)
 (declare-initial-value page-height %page-height%)
