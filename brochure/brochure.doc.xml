@@ -20,9 +20,9 @@ in 1955, the goals for the language were first described in the article
 <citetitle>Loglan</citetitle> in <citetitle>Scientific
 American</citetitle>, June 1960. Made well-known by that article and by
 occasional references in science fiction and computer publications,
-Loglan/Lojban has been built over three decades by dozens of workers and
-hundreds of supporters, led since 1987 by The Logical Language
-Group.<indexterm id="idx4">
+Loglan/Lojban has been built over four decades by dozens of workers and
+hundreds of supporters, led since 1987 by <link linkend="llg">The Logical Language
+Group.</link><indexterm id="idx4">
 <primary>Logical Language Group</primary>
 </indexterm></para>
 
@@ -85,7 +85,7 @@ from other languages in major ways. This allows its use as a test vehicle<indext
 <primary>linguistic testing</primary>
 </indexterm>
 for scientists studying the relationships between language, thought, and
-culture. Further discussion of these issues can be found in <xref
+culture. If you are reading this as part of the introductory booklet, further discussion of these issues can be found in the chapter <xref
 linkend="sect2" endterm="sect2title"/>.</para>
 
 </answer> </qandaentry>
@@ -168,7 +168,7 @@ pronounce and spell Lojban is trivial.</para>
 its consonants create a fullness and power found in Slavic languages like
 Russian, and the large number of vowel pairs impart a hint of Chinese,
 Polynesian, and other Oriental languages, though without the tones that make
-those languages difficult for others to learn.</para>
+many of those languages difficult for others to learn.</para>
 
 
 <para>Because there are no idioms to shorten expressions, a Lojban text is often
@@ -272,15 +272,15 @@ the word <foreignphrase lang="art-lojban">dunda</foreignphrase> means
 
 <para>So <foreignphrase lang="art-lojban">mi pu dunda le cuska le
 ninmu</foreignphrase> means <quote>I gave the book to the woman</quote>,
-not <quote>I gave the woman to the book</quote> (of course). </para>
+not <quote>I gave the woman to the book</quote>). </para>
 
 
 <para>The important point is that Lojban has a lot of what we would call
 <quote role="gloss">grammar</quote>, but nearly all of this is contained in
-the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>)<indexterm id="idx22">
+the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase><indexterm id="idx22">
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
-</indexterm>)<indexterm id="idx23"><primary>structure word</primary>
+</indexterm><indexterm id="idx23"><primary>structure word</primary>
 <see><foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></see>
 </indexterm> (structure
@@ -292,9 +292,9 @@ words), and you can use as many or as few of them as you want. </para>
 grammar?</para> </question>
 
 <answer> <para>In Lojban, it is equally easy to speak of something as being an
-action as it is as being a state of existence. The distinction between the
+action as it is for it being a state of existence. The distinction between the
 two can be ignored, or can be explicitly expressed by associating concepts
-in <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphors)<indexterm id="idx24">
+in <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphors<indexterm id="idx24">
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
 </indexterm><indexterm id="idx25"><primary>metaphor</primary>
@@ -384,7 +384,7 @@ mathematical expressions<indexterm id="idx33">
 </indexterm><indexterm id="idx34">
 <primary>MEX</primary><see>mathematical expressions</see>
 </indexterm> and relations in a manner compatible both with
-international usage and Lojban's non-mathematical grammar.</para>
+international usage and the rest of Lojban's grammar.</para>
 
 
 <para>Lojban <quote role="gloss">parts of speech</quote> are convertible
@@ -394,7 +394,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>)<indext
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
 </indexterm>. One can make numbers serve as
 nouns or verbs, or can invent new numbers and prepositions. Lojban removes
-many of the constraints on human thought while preserving tight control on
+many of the constraints on human thought, while preserving tight control on
 structural syntax.</para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>Lojban seems complex. How hard is it to
@@ -534,7 +534,7 @@ language, bilingual puns and word play abound, often based on the relative
 ambiguity of the other languages involved. Humor based on internal
 grammatical ambiguity is of course impossible in Lojban, but humor based on
 nonsensical statements, or on logical structures that would be difficult to
-clearly express in another language, become easier.</para>
+clearly express in another language, becomes easier.</para>
 
 
 <para>As speakers become fluent, and conventional phrases come into use,
@@ -612,7 +612,7 @@ language</quote> in the fields of science and technology, and is probably
 the most widely spoken language in the world. American dominance of
 technology in the twentieth century has caused massive borrowing from English into
 other languages that do not have words for all these new concepts. This
-dominance, and a heritage of colonialism and imperialism that built
+dominance, and a heritage of colonialism and imperialism that has built
 resentment towards American and European impositions on native culture, has
 caused recent movements in other countries <emphasis>away</emphasis> from
 English. The rising influence of other non&ndash;English-speaking countries on world
@@ -639,9 +639,9 @@ breaking up into separate languages. While it was developed primarily by America
 was designed to be at least as expressive as English is, Lojban's cultural neutrality gives
 equal priority to the structures and concepts of other languages and
 cultures. This cultural neutrality enhances Lojban's acceptability as an
-international language. Since it is as capable of generating or borrowing
-any words needed to support the concepts of science and technology as
-English is, and has its special advantages for computer applications<indexterm id="idx43a">
+international language. Since it is as capable as English is of generating or borrowing
+any words needed to support the concepts of science and technology, 
+and has its special advantages for computer applications<indexterm id="idx43a">
 <primary>computer applications</primary>
 </indexterm>, Lojban is likely to
 spread worldwide through the technological community. Far more so than
@@ -696,7 +696,7 @@ first described in the 1950s, by Dr. James Cooke Brown<indexterm id="idx57a">
 American article <citetitle>Loglan</citetitle> was his call for assistance
 in developing the language. A revolution in linguistics was simultaneously
 taking place, resulting in a rapidly increasing knowledge of the nature of
-human language, thus changing the requirements for the developing language.
+human language; this changed the requirements for the developing language.
 The first widely distributed Loglan dictionary and language description did
 not appear until 1975; the incompleteness of this description and continued
 development work discouraged people from learning the language.
@@ -704,7 +704,7 @@ Furthermore, computers caught up with Loglan just then, making it possible
 to refine the grammar, eliminate ambiguity and mathematically prove its
 absence. For over forty years, this work has been performed by volunteers, and
 without financial support. Now, after several versions of the language,
-people are learning and using the current version, which is the first to be
+people have been learning and using the current version, which is the first to be
 called <quote role="gloss">Lojban</quote> (from the roots
 <quote>logical-language</quote> in Lojban).</para>
 
@@ -773,7 +773,7 @@ the language, you are welcome to join in that leadership.</para>
 the leaders in developing the earliest practical computer applications<indexterm id="idx54">
 <primary>computer applications</primary>
 </indexterm> for
-the language. Expertise in the language will no doubt be valuable as Lojban
+the language. Expertise in the language will no doubt be valuable if Lojban
 becomes recognized as a useful tool for computer applications by the
 computer industry. Meanwhile, computer-oriented Lojbanists can also aid in
 developing computer-aided instruction tools or converting existing software
@@ -795,13 +795,14 @@ mind-expanding experience. Learning any language other than your native
 tongue broadens your perspectives and allows you to transcend the necessarily limited
 viewpoints of your native language culture. Lojban, being much simpler to
 learn than natural languages, provides this benefit much more quickly than
-does the study of other languages.</para>
+does the study of other languages. And being quite different to natural languages,
+Lojban provides this benefit more directly.</para>
 
 
 <para>Having learned Lojban, you will find it easier to learn other
 languages and to communicate with people from other backgrounds, regardless
 of the language studied; the linguistic principles you learn while learning
-Lojban are applicable to these languages and communication problems. The
+Lojban are applicable to these languages and the communication problems they entail. The
 logical organization embedded in Lojban will aid you in organizing and
 clarifying your thoughts. Your new perspective on language,
 ambiguity, and communication will allow you to express those thoughts more
@@ -813,8 +814,7 @@ not most, of those who are learning Lojban are doing so because it is fun.
 Learning Lojban is intellectually stimulating, providing human interaction
 (a way to meet other people and get to know them) and mental challenge.
 Lojban has all the benefits of games designed for entertainment, with the
-added prospect of that entertainment developing into a useful skill as a
-side benefit.</para>
+side benefit of that entertainment developing into a useful skill.</para>
 
 
 <para>Learning Lojban as an intellectual toy
@@ -843,11 +843,10 @@ Internet, the complete booklet is also available on the World Wide
 Web for free at the address:
 
 <informalexample>
-<literallayout><computeroutput>http://www.lojban.org/brochures/package0.html</computeroutput></literallayout></informalexample></para>
+<literallayout><computeroutput>&level0addr;</computeroutput></literallayout></informalexample></para>
 
 <para>Once you have read this booklet, there are several
-directions you may proceed, depending on your time, location, and other
-circumstances, and your goals for use of the language.</para>
+directions you may proceed, depending on your goals for use of the language.</para>
 
 
 <para>Most people learning the language will work for some time on their
@@ -856,7 +855,7 @@ identify at least one other person to study and interact with, either in
 person or by mail. The Logical Language Group maintains lists of Lojban
 students of various degrees of skill and activity levels. There are also
 both a general and an in-Lojban discussion group available on the Internet.
-Information will be found at the end of this brochure.</para>
+Information will be found below.</para>
 
 
 <para>Almost any use you wish to make of Lojban requires some degree of
@@ -909,7 +908,7 @@ are available on the Lojban web site (see contact details below).</para>
 <para>Of course the only way to really learn a language is to
 <emphasis>use</emphasis> it. The Logical Language Group will assist you in
 finding other Lojban students of comparable skill level and interests,
-either in your local area or reachable by post or computer mail. The
+either in your local area or reachable by post or electronic mail. The
 on-line Lojban discussion groups regularly contains Lojban text, some with
 detailed translations and some without translation, as well as discussions
 of language points by various members of the Lojban community. Of course
@@ -920,7 +919,7 @@ role="socalled">hobbyist</quote> aspect of the language will provide
 interesting and stimulating entertainment for all concerned.</para>
 </answer> </qandaentry>
 
-<qandaentry> <question><para>What is The Logical Language Group?</para>
+<qandaentry id="llg"> <question><para>What is The Logical Language Group?</para>
 </question> <answer>
 
 <para><indexterm id="idx67" class="startofrange" significance="preferred">
@@ -939,9 +938,9 @@ Brown.</para>
 <para>The Logical Language Group is also called <foreignphrase
 lang="art-lojban">la lojbangirz.</foreignphrase> (<wordasword>/lah
 lozh-BAHN-geerz./</wordasword>), its Lojban name. It was founded informally
-in 1987, and incorporated in 1988. The U. S. Internal Revenue Service
+in 1987, and incorporated in 1988. The U.S. Internal Revenue Service
 approved our status as a non-profit educational/scientific charity in 1989,
-making donations and grants to the organization deductible under U. S. tax
+making donations and grants to the organization deductible under U.S. tax
 law.</para>
 
 
@@ -960,7 +959,7 @@ not-for-charge copying and redistribution. Computer versions of many of our
 publications are available on-line at no charge. We ask people who receive
 our materials by any of these means to let us know,
 so that we may better serve you, and donate
-liberally so that we may continue to serve you.</para>
+liberally, so that we may continue to serve you.</para>
 
 
 <!--<para>We ask that you keep a positive account balance of up to a year or
@@ -1050,7 +1049,7 @@ responses, and Lojban writings and translations.</para>
 
 <para>Our printed publications are free of advertisements (other than our own
 ordering information, and occasional mention of individuals and
-organizations who have contributed particular service to our efforts), and
+organizations who have contributed particular service to our efforts); and
 we do not sell our mailing list. Our publications are distributed as
 cheaply as possible to encourage new people to participate. In the interest
 of attracting the widest audience possible, we are committed to
@@ -1064,8 +1063,8 @@ materials. Such registration does not require contribution-->.</para>
 
 
 <para>Certain materials that we publish contain information that we place
-in the public domain. All language definition information is considered to
-be public.</para>
+in the public domain. <emphasis role="bold">All language definition information is considered to
+be public.</emphasis></para>
 
 
 <!--<para>You can participate in the Lojban community at several levels of
@@ -1076,14 +1075,14 @@ our costs.</para>-->
 
 
 <para>If you are attempting to learn the language, we provide as much help
-as we can to assist in this process. We will put you in touch with
+as we can to assist you. We will put you in touch with
 Lojbanists who might be interested in studying or communicating with you in
 the language. You can also send your writings to us for review, or for
 indirect exchange with others. We try to foster research and social
 interaction among those who are learning, or who have already learned the
 language. We aid such people in organizing, leading, and teaching formal
 classes and study groups, and will sponsor affiliated groups in local areas
-where non-profit sponsorship brings useful benefits. We also conduct an
+where non-profit sponsorship can be of benefit. We conduct an
 annual (northern summer) celebration of the language and community, called
 <quote role="socalled">Logfest</quote><indexterm id="idx70">
 <primary>Logfest</primary>
@@ -1093,7 +1092,8 @@ local meetings and gatherings as the community grows.</para>
 
 
 <para>Of course, we also try to publicize the language. Our representatives
-can attend meetings to give presentations on the language. We distribute these
+can attend meetings to give presentations on the language. We distribute 
+informational material, including these
 brochures. Through our efforts, and with your help, the community of
 Lojbanists is rapidly growing.<indexterm id="idx68" class="endofrange" startref="idx67" significance="preferred"/>
 </para> </answer> </qandaentry>
@@ -1107,7 +1107,7 @@ time:</para>
 <itemizedlist>
 
 <listitem><para>you can participate in completing the language
-development;</para></listitem>
+documentation;</para></listitem>
 
 <listitem><para>you can devise applications for Lojban<indexterm id="idx55">
 <primary>computer applications</primary>
@@ -1122,7 +1122,7 @@ while learning yourself);</para></listitem>
 
 <listitem><para>you can assist in spreading Lojban to
 non&ndash;English-speaking cultures by helping translate materials into
-other languages and by identifying, recruiting, and communicating with
+other languages, and by identifying, recruiting, and communicating with
 contacts in other countries (international involvement is vital to ensuring
 that Lojban remains culturally neutral);</para></listitem>
 
@@ -1135,16 +1135,16 @@ conversation with other Lojbanists.</para></listitem></itemizedlist>
 
 
 <para>For many of these activities, you need to learn the language first.
-However, even those who haven't time to learn the language at this point,
+However, even those who haven't yet had time to learn the language,
 can assist in recruiting and
 contributing ideas to the effort.</para>
 
 
 <para>Helping to publicize the language, of course, does not take a lot of
 time, or necessarily even knowing the language. Talk to friends, relatives
-and colleagues. We will gladly provide copies of this brochure upon your
-request. Lojban tends to sell itself; people who become informed tend to be
-interested to at least some degree.</para>
+and colleagues. We will gladly provide copies of this brochure on
+request. Lojban tends to sell itself; people who become informed are more often than not
+intrigued by it.</para>
 
 
 <para>Keep in touch with us. We want to know your ideas and opinions on the

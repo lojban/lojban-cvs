@@ -11,21 +11,31 @@ divided into three parts.  </para>
 presentation of what the language is, why it exists, and why it should be
 of interest to you. <link linkend="sect2">Part II</link> contains a more
 formal exposition of the language, consisting of an overview of the
-language's grammar, and a diagrammed summary of its grammar basics. It may
+language's grammar, and a diagrammed summary of its grammar basics, and a discussion
+of linguistic issues relevant to Lojban. It may
 be used in conjunction with, or instead of, the introductory lessons
 available separately. <link linkend="sect3">Part III</link>, finally,
 contains a few texts in Lojban, with parallel translation and glosses, to
 allow you to get a feel for how the language works. </para>
 
-<para>The <citetitle>Introduction</citetitle> (formerly the <foreignphrase
+<para>
+<itemizedlist>
+
+<listitem><para>The <citetitle>Introduction</citetitle> (formerly the <foreignphrase
 lang="art-lojban">la lojban. mo</foreignphrase> brochure) was originally
 written by Athelstan and Bob LeChevalier in 1988, and updated in 1991 and
-2001. The <citetitle>Overview</citetitle> was originally written by Bob
+2001, including material by Robin Turner.</para></listitem>
+
+<listitem><para>The <citetitle>Overview</citetitle> was originally written by Bob
 LeChevalier in 1989, and updated in 1990 (incorporating content by John Cowan)
-and 2001. The
+and 2001.</para></listitem> 
+
+<listitem><para>The
 <citetitle>Diagrammed Summary</citetitle> was originally written by Nora
 Tansky LeChevalier and Bob LeChevalier in 1990, and updated in 1992 and
-2001. <citetitle>Linguistic Issues</citetitle> is based on material originally
+2001.</para></listitem> 
+
+<listitem><para><citetitle>Linguistic Issues</citetitle> is based on material originally
 contained in the <foreignphrase
 lang="art-lojban">la lojban. mo</foreignphrase> brochure,
 <citetitle>Is Lojban Scientifically Interesting?</citetitle> originally written by
@@ -38,9 +48,11 @@ John Cowan in 1991, in response to Arnold M. Zwicky's<indexterm id="idx408">
 <primary>Brown, James Cooke</primary>
 </indexterm> 1966 edition of <citetitle>Loglan
 1</citetitle>. (Zwicky's review was published in <citetitle>Language</citetitle> 45:2
-(1969), pp. 444&ndash;457.) The glosses in Part III were made using the program
+(1969), pp. 444&ndash;457.)</para></listitem> 
+
+<listitem><para>The glosses in Part III were made using the program
 <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html"><citetitle>jbofihe</citetitle></ulink>
-by Richard Curnow.</para>
+by Richard Curnow.</para></listitem></itemizedlist></para>
 
 <para>Thanks to Pierre Abbat and Jay Kominek for their 
 suggestions.</para>
@@ -65,21 +77,31 @@ pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei .e ledu'u ly. zasti
 mu'i ma kau kei .e ledu'u tu'a ly. cinri do ki'u ma kau .i le <link 
 linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o
 no'u lo naltcila velski be le gerna sidbo
-kujoi lo xracartu torvelski be le jubme gerna .i ka'e pilno le go'i .a le 
+kujoi lo xracartu torvelski be le jubme gerna be'o .e lo prosa poi casnu le bauske
+cuntu noi srana la lojban. .i ka'e pilno le go'i .a le 
 cfari ve ctuca be la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
 linkend="sect3">3 mu'amai moi pagbu</link> cu vasru so'u seltcidu pebau la 
 lojban. ge'u .e lo kansa xe fanva .e lo kansa xe vlafanva mu'i lenu do co'a 
 jimpe ledu'u le bangu cu se sazri ta'i ma kau</foreignphrase></para>
 
-<para><foreignphrase lang="art-lojban">ni'o le lidne pagbu po'u le lu la lojban.
+<para><foreignphrase lang="art-lojban">ni'o</foreignphrase> 
+<itemizedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">le lidne pagbu po'u le lu la lojban.
 mo li'u seltcidu pepuku cu krasi se
 finti la .AT,lstan. joi la lojbab. ca la 1988nan. gi'e se ningau ca la
-1991nan. .e la 2001nan. .i le naltcila velski cu krasi se finti la lojbab. joi la
+1991nan. .e la 2001nan. .i ji'a co'a vasru loi seltcidu pefi'e la robin.terner.</foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i le naltcila velski cu krasi se finti la lojbab. joi la
 djan. kau,n.
-ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan. .i le xracartu
+ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le xracartu
 torvelski cu krasi se finti la noras. tanskis. lecevalier. joi la lojbab.
 ca la 1990nan. gi'e se ningau ca la 1992nan. .e la
-2001nan. .i la bauske se casnu cu se jicmu loi seltcidu poi krasi se vasru
+2001nan.</foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i la bauske se casnu cu se jicmu loi seltcidu poi krasi se vasru
 le lu la lojban. mo li'u seltcidu ku'o .e la'o lu xu tu'a la lojban. saske cinri li'u
 noi krasi se finti la lojbab. ca la 1992nan.
 ku'o .e la me la loglan .e la lojban. .i la me la loglan .e la lojban. cu
@@ -88,10 +110,11 @@ kau,n. ca la 1991nan. mu'i lenu spuda le pajni prosa befi la .arnold. zuikis.
 beife la pamoi pe la loglan. ge'u nefi'e la djeimyz.kuk.braun. zi'epede'i la 1966nan.
 .i le la zuikis. pajni prosa cu se gubgau vecu'u le 444 bi'o 457moi papri be le
 45 pi'e 2moi krefu be le karni
-po'u la'o gy. Language gy. be'o nede'i la 1969nan.
-.i le valsi xe fanva pe le 3moi pagbu cu se cupra sepi'o le mutmi'i
+po'u la'o gy. Language gy. be'o nede'i la 1969nan.</foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i le valsi xe fanva pe le 3moi pagbu cu se cupra sepi'o le mutmi'i
 po'u la <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html">jbofi'e</ulink>
-zi'e nefi'e la ritcrd.kernous.</foreignphrase></para>
+zi'e nefi'e la ritcrd.kernous.</foreignphrase></para></listitem></itemizedlist></para>
 
 <para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e la djez. KOminek. 
 lenu vo'e cu stidi sidju</foreignphrase></para>

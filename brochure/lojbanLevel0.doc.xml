@@ -18,6 +18,7 @@
 <!ENTITY schwa "&#601;">
 <!ENTITY Ibarredipa "&#616;">
 <!ENTITY IPAASCIIdisclaimer "">
+<!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>
 &bookinfo;

@@ -33,6 +33,7 @@
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 <!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)">
+<!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>
 &bookinfo;
