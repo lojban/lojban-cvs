@@ -398,7 +398,7 @@ die Sprache zu benutzen w&auml;hrend man lernt.
 wurde, eine eindeutige Aussprache und Morphologie, Wortformen. In der Praxis heisst das,
 dass jemand der einen Satz in Lojban h&ouml;rt oder liest niemals im Zweifel ist, welche W&ouml;rter
 benutzt wurden und welche Rolle sie in dem Satz spielen. Das funktioniert sogar, wenn die W&ouml;rter 
-selbst unbekannt sind, man aber Orthographie und Grammatik kennt. In Lojban gibt es keine 
+selbst unbekannt sind, man aber Orthographie und Grammatik kennt. In Lojban gibt es keine
 Homophone, das sind W&ouml;rter die sich gleich anh&ouml;hren, aber eine verschiedene Bedeutung haben.
 Zum Beispiel <quote role="gloss">Sie!</quote> und <quote role="gloss">Sieh!</quote>, das eine ein Vokativ,
 das andere ein Imperativ, oder die  <quote role="gloss">Bank</quote>, auf die man sich setzt und
@@ -518,7 +518,7 @@ skeptisch gegen&uuml;berstehen.
 
 <para>Lojban ist also keine direkte Konkurrenz zu Esperanto, da Lojbans
 m&ouml;glicher Erfolg nicht von der unmittelbaren N&uuml;tzlichkeit als internationale Sprache 
-abh&auml;ngt. Lojban hat sich f&uuml;r Esperantisten als attraktiv herausgestellt, 
+abh&auml;ngt. Lojban hat sich f&uuml;r Esperantisten als attraktiv herausgestellt,
 um eine neue Sicht zu gewinnen auf die eigene Sprache. Es ist davon auszugehen, dass 
 es noch mehrere Jahrzehnte dauern wird bis Lojban die Zahl und Vielfalt an Benutzern
 gefunden haben wird und eine Sprachtradition haben wird die heute f&uuml;r 
@@ -565,14 +565,14 @@ Man kann also die Englische Sprache nicht wirklich <quote role="gloss">internati
 <para>Lojban ist eine einheitliche Sprache, die so ausgelegt ist, dass 
 eine Aufspaltung in verschiedene Dialekte vermieden wird. Obwohl sie mehrheitlich
 in Amerika entwickelt worden ist und die ganze Breite an Ausdrucksm&ouml;glichkeiten
-umfasst, die im Englischen m&ouml;glich sind, werden gem&aumlss der kulturell
+umfasst, die im Englischen m&ouml;glich sind, werden gem&auml;ss der kulturell
 neutralen Zielsetzung Strukturen und Konzepte anderer Sprachen ebenso ber&uuml;cksichtigt.
-Diese kulturelle Neutralit&auml;t wird dazu beitragen Lojban als internationale Sprache 
+Diese kulturelle Neutralit&auml;t wird dazu beitragen Lojban als internationale Sprache
 akzeptabel zu machen. Da es m&ouml;glich ist nach Bedarf W&ouml;rter zu konstruieren
 oder zu entlehnen, die im technischen und wissenschaftlichen Bereich
 ben&ouml;tigt werden, w&auml;re es m&ouml;glich in diesen Bereichen Lojban statt Englisch
 zu benutzen. Im Gegensatz zu Englisch ist es f&uuml;r viele Menschen mit verschiedener
-kultureller Herkunft leichter zu lernen. 
+kultureller Herkunft leichter zu lernen.
 </para>
 
 <!--bgohla bookmark-->
@@ -582,7 +582,7 @@ kultureller Herkunft leichter zu lernen.
 <qandaentry>
 <question>
 
-<para>Can poetry be written in a <quote role="socalled">logical</quote> language 
+<para>Can poetry be written in a <quote role="socalled">logical</quote> language
 or an <quote role="socalled">unambiguous</quote>
 one?</para> </question>
 <answer>
@@ -602,9 +602,9 @@ abstract fields as philosophy, physics, metaphysics, and religion.</para>
 <para>Lojban poets are already experimenting with new (and old) forms of
 poetry that seem especially well suited to the rhythm, sound, and flow of
 the language.  Not since the Middle Ages have poets had such an opportunity
-to affect the development of a new language, as they now can with Lojban. 
+to affect the development of a new language, as they now can with Lojban.
 Lojban's rich and powerful <foreignphrase lang="art-lojban">tanru</foreignphrase>
-have been used to create colorful images and to convey moving emotions. 
+have been used to create colorful images and to convey moving emotions.
 Unhindered by grammatical ambiguity that can obscure desired meanings,
 Lojban unleashes the full potential of poetic expression to communicate
 both concrete and abstract ideas.</para> </answer>
@@ -623,7 +623,7 @@ resulting in a rapidly increasing knowledge of the nature of human
 language, thus changing the requirements for the developing language.  The
 first widely distributed Loglan dictionary and language description did not
 appear until 1975; the incompleteness of this description and continued
-development work discouraged people from learning the language. 
+development work discouraged people from learning the language.
 Furthermore, computers caught up with Loglan just then, making it possible
 to refine the grammar, eliminate ambiguity and mathematically prove its
 absence.  For over 35 years, this work has been performed by volunteers,

@@ -1,5 +1,5 @@
 <?xml version="1.0"?> <!-- -*- DocBook -*- -->
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "/usr/local/docbook/docbookdtd/docbookx.dtd"
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "../docbookdtd/docbookx.dtd"
 [
 <!ENTITY einf SYSTEM "einfuehrung.doc.xml">
 <!ENTITY frageundantw SYSTEM "frageundantw.doc.xml">
