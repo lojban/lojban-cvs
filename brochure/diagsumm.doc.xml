@@ -2,7 +2,7 @@
 <foreignphrase lang="art-lojban">xracartu torvelski be le lojbo 
 gerna</foreignphrase></title><titleabbrev>Diagrammed Summary</titleabbrev>
 
-<para>This section gives diagrammed examples of basic Lojban sentence structures.  The
+<para>This chapter gives diagrammed examples of basic Lojban sentence structures.  The
 most general pattern is covered first, followed by successive variations on
 the basic components of the Lojban sentence.  There are many more capabilities
 not covered in these examples.  A Lojban
@@ -1037,7 +1037,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <entry>&nbsp;</entry>
 
-<entry>talker</entry>
+<entry>talk</entry>
 
 <entry spanname="fita">x<subscript>3</subscript>=topic</entry>
 
@@ -4537,7 +4537,7 @@ without internal <foreignphrase lang="art-lojban"><emphasis role="term">sumti</e
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
-<colspec colnum="5" colname="c5" colwidth="5*"/>
+<colspec colnum="5" colname="c5" colwidth="6*"/>
 <spanspec spanname="whole" namest="c1" nameend="c5" align="left" />
 <tbody>
 <row>
@@ -4554,7 +4554,7 @@ role="selbri">tavla</emphasis></foreignphrase></entry>
 role="sumti">do</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le melbi vecnu [ku]</emphasis></foreignphrase></entry>
+role="sumti">le melbi vecnu [ku] [vau]</emphasis></foreignphrase></entry>
 
 </row>
 
@@ -4703,7 +4703,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> <emphas
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> still are associated with the
 final term of the modified-<foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, because that is the most
-essential relation that is being claimed by the sentence. So in this case
+essential relation that is being claimed by the sentence. So, in this case
 <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> belong
 to the <foreignphrase
@@ -6625,7 +6625,7 @@ role="sumti">la mark.</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="selbri">rifcu</emphasis></foreignphrase></entry>
+role="selbri">ricfu</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="sumti">le ka melbi [vau] [kei] [ku]</emphasis></foreignphrase></entry>
@@ -7069,7 +7069,7 @@ lang="art-lojban">la'e di'u</foreignphrase></primary>
 beautiful</wordasword>, and you might reply <wordasword>This pleases
 me.</wordasword> How do you know what <wordasword>this</wordasword> refers
 to? Lojban uses different expressions to convey the possible meanings of
-the English <wordasword>that</wordasword>. So given the sentence:
+English <wordasword>this</wordasword>. So, given the sentence:
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -8682,7 +8682,7 @@ role="selbri">klama</emphasis> [vau]</foreignphrase></entry>
 
 <row>
 
-<entry>Strong Obligation! I go.</entry>
+<entry>Strong obligation! I go.</entry>
 
 </row>
 

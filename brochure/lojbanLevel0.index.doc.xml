@@ -1,0 +1,1372 @@
+<index>
+
+<!-- This file was produced by collateindex.pl.         -->
+<!-- Remove this comment if you edit this file by hand! -->
+<!-- ULINK is abused here.
+
+      The URL attribute holds the URL that points from the index entry
+      back to the appropriate place in the output produced by the HTML
+      stylesheet. (It's much easier to calculate this URL in the first
+      pass.)
+
+      The Role attribute holds the ID (either real or manufactured) of
+      the corresponding INDEXTERM.  This is used by the print backends
+      to produce page numbers.
+
+      The entries below are sorted and collated into the correct order.
+      Duplicates may be removed in the HTML backend, but in the print
+      backends, it is impossible to suppress duplicate pages or coalesce
+      sequences of pages into a range.
+-->
+
+<indexentry>
+  <primaryie>abstraction,
+    <ulink url="lojbanmo.html#idx26" role="idx26">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx173" role="idx173">sumti</ulink>,
+    <ulink url="comp.html#idx298" role="idx298">Abstraction selbri</ulink>
+  </primaryie>
+  <secondaryie>clauses,
+    <ulink url="complex.html#idx322" role="idx322">Abstraction sumti  clauses</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>adverbial phrase,
+    <ulink url="grammar.html#idx155" role="idx155">Place structures</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Alice in Wonderland,
+    <ulink url="lojbanmo.html#idx40" role="idx40">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>also,
+    <ulink url="attach.html#idx386" role="idx386">Discursives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>anaphora,
+    <ulink url="grammar.html#idx164a" role="idx164a">sumti</ulink>,
+    <ulink url="comp.html#idx231a" role="idx231a"> pronoun sumti</ulink>
+  </primaryie>
+  <secondaryie>clausal,
+    <ulink url="complex.html#idx335" role="idx335">di'u and la'e di'u</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>apostrophe,
+    <ulink url="overview.html#idx100" role="idx100">Orthography</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>argument
+  </primaryie>
+    <seeie>selbri</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>article
+  </primaryie>
+    <seeie>descriptor</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>artificial intelligence (AI),
+    <ulink url="lojbanmo.html#idx9" role="idx9">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>attitudinals,
+    <ulink url="lojbanmo.html#idx31a" role="idx31a">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx184" role="idx184">Free Modifiers</ulink>,
+    <ulink url="attach.html#idx378" role="idx378">Attitudinals</ulink>,
+    <ulink url="lingissues.html#idx460j" role="idx460j">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>audio-visual isomorphism,
+    <ulink url="overview.html#idx104" role="idx104">Orthography</ulink>,
+    <ulink url="lingissues.html#idx413" role="idx413">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>baseline,
+    <ulink url="lojbanmo.html#idx58" role="idx58">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Basic English,
+    <ulink url="lingissues.html#idx419" role="idx419">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>be
+  </primaryie>
+    <seeie>sumti: internal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>be'o
+  </primaryie>
+    <seeie>sumti: internal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>bei
+  </primaryie>
+    <seeie>sumti: internal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>bridi,
+    <ulink url="grammar.html#idx138" role="idx138">bridi</ulink>,
+    <ulink url="diagsumm.html#idx201" role="idx201">The Lojban sentence structure</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>brivla,
+    <ulink url="morphol.html#idx111" role="idx111">brivla</ulink>,
+    <ulink url="comp.html#idx241" role="idx241">brivla</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Brown, James Cooke,
+    <ulink url="pref.html#idx409" role="idx409">Organization of this booklet &amp;#8212; stura le dei cmacku</ulink>,
+    <ulink url="lojbanmo.html#idx3" role="idx3">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx57a" role="idx57a">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>buffer,
+    <ulink url="lingissues.html#idx451" role="idx451">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>but,
+    <ulink url="attach.html#idx385" role="idx385">Discursives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>capitalization,
+    <ulink url="lojbanmo.html#idx15" role="idx15">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="overview.html#idx103" role="idx103">Orthography</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>causality,
+    <ulink url="lojbanmo.html#idx27" role="idx27">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>cluster, consonant,
+    <ulink url="phonol.html#idx115" role="idx115">Phonology</ulink>,
+    <ulink url="morphol.html#idx114" role="idx114">brivla</ulink>,
+    <ulink url="morphol.html#idx128a" role="idx128a">cmavo</ulink>,
+    <ulink url="lingissues.html#idx450" role="idx450">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>cmavo,
+    <ulink url="lojbanmo.html#idx22" role="idx22">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx28" role="idx28">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx35" role="idx35">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="morphol.html#idx126" role="idx126">cmavo</ulink>,
+    <ulink url="semx.html#idx121" role="idx121">tanru</ulink>,
+    <ulink url="grammar.html#idx150" role="idx150">Place structures</ulink>,
+    <ulink url="comp.html#idx304" role="idx304">Abstraction selbri</ulink>,
+    <ulink url="lingissues.html#idx434" role="idx434">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>compound,
+    <ulink url="morphol.html#idx128" role="idx128">cmavo</ulink>
+  </secondaryie>
+  <secondaryie>compounds,
+    <ulink url="complex.html#idx324" role="idx324">Abstraction sumti  clauses</ulink>
+  </secondaryie>
+  <secondaryie>terminators
+  </secondaryie>
+    <seeie>terminators</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>cmene,
+    <ulink url="morphol.html#idx109" role="idx109">cmene</ulink>,
+    <ulink url="grammar.html#idx165" role="idx165">sumti</ulink>,
+    <ulink url="comp.html#idx236" role="idx236">Names (la  name)</ulink>,
+    <ulink url="lingissues.html#idx417" role="idx417">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>co
+  </primaryie>
+    <seeie>tanru: inversion</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>colors,
+    <ulink url="lingissues.html#idx459" role="idx459">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>comma,
+    <ulink url="overview.html#idx102" role="idx102">Orthography</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>commands
+  </primaryie>
+    <seeie>ko</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>computer applications,
+    <ulink url="lojbanmo.html#idx44" role="idx44">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx45" role="idx45">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx46" role="idx46">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx53" role="idx53">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx43a" role="idx43a">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx54" role="idx54">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx55" role="idx55">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lingissues.html#idx460h" role="idx460h">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>computer&amp;#8211;human interaction,
+    <ulink url="lojbanmo.html#idx8" role="idx8">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>computer-aided translation,
+    <ulink url="lojbanmo.html#idx10" role="idx10">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>connectives
+  </primaryie>
+  <secondaryie>afterthought,
+    <ulink url="logcon.html#idx390" role="idx390">Logical connectives</ulink>
+  </secondaryie>
+  <secondaryie>forethought,
+    <ulink url="logcon.html#idx389" role="idx389">Logical connectives</ulink>
+  </secondaryie>
+  <secondaryie>logical,
+    <ulink url="grammar.html#idx188" role="idx188">Logic and Lojban</ulink>,
+    <ulink url="logcon.html#idx387" role="idx387">Logical connectives</ulink>,
+    <ulink url="lingissues.html#idx439" role="idx439">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+  <secondaryie>non-logical,
+    <ulink url="grammar.html#idx189" role="idx189">Logic and Lojban</ulink>,
+    <ulink url="logcon.html#idx391a" role="idx391a">Logical connectives</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>cu,
+    <ulink url="grammar.html#idx151" role="idx151">Place structures</ulink>,
+    <ulink url="diagsumm.html#idx206" role="idx206">Basic structure of a Lojban sentence</ulink>,
+    <ulink url="diagsumm.html#idx211" role="idx211">Observatives</ulink>,
+    <ulink url="complex.html#idx308" role="idx308">More le selbri [ku] descriptions</ulink>,
+    <ulink url="complex.html#idx310" role="idx310">sumti descriptions with internal sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>cultural neutrality,
+    <ulink url="lojbanmo.html#idx12" role="idx12">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lingissues.html#idx458" role="idx458">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>descriptor,
+    <ulink url="grammar.html#idx170" role="idx170">sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>di'u
+  </primaryie>
+    <seeie>anaphora: clausal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>diphthongs,
+    <ulink url="phonol.html#idx192" role="idx192">Phonology</ulink>,
+    <ulink url="phonol.html#idx193" role="idx193">Phonology</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>discursive bridi,
+    <ulink url="grammar.html#idx183" role="idx183">Free Modifiers</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>discursives,
+    <ulink url="grammar.html#idx182" role="idx182">Free Modifiers</ulink>,
+    <ulink url="attach.html#idx380" role="idx380">Discursives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ellipsis,
+    <ulink url="grammar.html#idx143" role="idx143">bridi</ulink>,
+    <ulink url="comp.html#idx288" role="idx288">tanru with internal sumti</ulink>,
+    <ulink url="comp.html#idx297" role="idx297">selbri grouping in tanru</ulink>,
+    <ulink url="complex.html#idx309a" role="idx309a">More le selbri [ku] descriptions</ulink>,
+    <ulink url="complex.html#idx309" role="idx309">sumti descriptions with internal sumti</ulink>,
+    <ulink url="complex.html#idx326" role="idx326">Abstraction sumti  clauses</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Esperanto,
+    <ulink url="lojbanmo.html#idx43" role="idx43">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lingissues.html#idx460o" role="idx460o">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>event contours,
+    <ulink url="comp.html#idx301" role="idx301">Abstraction selbri</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>events
+  </primaryie>
+    <seeie>abstraction</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>evidentials,
+    <ulink url="grammar.html#idx184a" role="idx184a">Free Modifiers</ulink>,
+    <ulink url="attach.html#idx382" role="idx382">Evidentials</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>FA
+  </primaryie>
+    <seeie>place structure: varying (FA)</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>formal grammar
+  </primaryie>
+    <seeie>grammar, formal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>free modifiers,
+    <ulink url="grammar.html#idx176" role="idx176">Free Modifiers</ulink>,
+    <ulink url="attach.html#idx376" role="idx376">Attachments to sentences</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>fu'ivla,
+    <ulink url="morphol.html#idx124" role="idx124">fu'ivla</ulink>,
+    <ulink url="comp.html#idx244" role="idx244">brivla</ulink>,
+    <ulink url="lingissues.html#idx446a" role="idx446a">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>meaning,
+    <ulink url="semx.html#idx130" role="idx130">brivla</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>gadri
+  </primaryie>
+    <seeie>descriptor</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>gismu,
+    <ulink url="morphol.html#idx116" role="idx116">gismu</ulink>,
+    <ulink url="comp.html#idx242a" role="idx242a">brivla</ulink>,
+    <ulink url="lingissues.html#idx418" role="idx418">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx428a" role="idx428a">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>etymology,
+    <ulink url="lingissues.html#idx452" role="idx452">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+  <secondaryie>meaning,
+    <ulink url="semx.html#idx128b" role="idx128b">brivla</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>go'i,
+    <ulink url="comp.html#idx245" role="idx245">brivla</ulink>,
+    <ulink url="comp.html#idx250" role="idx250">Contradictory negation (na selbri)</ulink>,
+    <ulink url="complex.html#idx307a" role="idx307a">More le selbri [ku] descriptions</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>goi
+  </primaryie>
+    <seeie>relative phrases: identity</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>grammar, formal,
+    <ulink url="lojbanmo.html#idx47" role="idx47">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx65" role="idx65">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx134" role="idx134">Grammar</ulink>,
+    <ulink url="lingissues.html#idx414" role="idx414">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>humor,
+    <ulink url="lojbanmo.html#idx39" role="idx39">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>i
+  </primaryie>
+    <seeie>sentences</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>imperatives
+  </primaryie>
+    <seeie>ko</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>international language,
+    <ulink url="lojbanmo.html#idx13" role="idx13">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx41" role="idx41">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ja'a,
+    <ulink url="comp.html#idx252" role="idx252">Contradictory negation (na selbri)</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>je'a
+  </primaryie>
+    <seeie>negation: scalar</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ju'i lobypli,
+    <ulink url="lojbanmo.html#idx69" role="idx69">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ke,
+    <ulink url="comp.html#idx295" role="idx295">selbri grouping in tanru</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ke'a
+  </primaryie>
+  <secondaryie>restrictive,
+    <ulink url="attach.html#idx364a" role="idx364a">sumti relative clauses (sumti poi sentence ku'o)</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ke'e,
+    <ulink url="comp.html#idx296" role="idx296">selbri grouping in tanru</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ko,
+    <ulink url="comp.html#idx232" role="idx232"> pronoun sumti</ulink>,
+    <ulink url="lingissues.html#idx441" role="idx441">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ku,
+    <ulink url="comp.html#idx311" role="idx311">Description sumti (le selbri [ku])</ulink>,
+    <ulink url="comp.html#idx313" role="idx313">tanru with internal sumti</ulink>,
+    <ulink url="comp.html#idx315" role="idx315">tanru with internal sumti</ulink>,
+    <ulink url="complex.html#idx317" role="idx317">More le selbri [ku] descriptions</ulink>,
+    <ulink url="complex.html#idx318" role="idx318">sumti descriptions with internal sumti</ulink>,
+    <ulink url="logcon.html#idx320" role="idx320">Logical connectives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ku'o,
+    <ulink url="attach.html#idx365" role="idx365">sumti relative clauses (sumti poi sentence ku'o)</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>la'e di'u
+  </primaryie>
+    <seeie>anaphora: clausal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>language acquisition,
+    <ulink url="lingissues.html#idx460aa" role="idx460aa">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>testing,
+    <ulink url="lingissues.html#idx460i" role="idx460i">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>linguistic glossing,
+    <ulink url="lingissues.html#idx460m" role="idx460m">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>linguistic testing,
+    <ulink url="lojbanmo.html#idx6" role="idx6">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lingissues.html#idx460a" role="idx460a">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460q" role="idx460q">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>lo
+  </primaryie>
+    <seeie>sumti: description, indefinite</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Logfest,
+    <ulink url="lojbanmo.html#idx70" role="idx70">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>LogFlash,
+    <ulink url="lojbanmo.html#idx63" role="idx63">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>logic,
+    <ulink url="grammar.html#idx187" role="idx187">Logic and Lojban</ulink>,
+    <ulink url="lingissues.html#idx427" role="idx427">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460g" role="idx460g">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Logical Language Group,
+    <ulink url="pref.html#idx1" role="idx1">Organization of this booklet &amp;#8212; stura le dei cmacku</ulink>,
+    <ulink url="lojbanmo.html#idx4" role="idx4">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx62" role="idx62">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx67" role="idx67">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Loglan,
+    <ulink url="lojbanmo.html#idx2" role="idx2">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx57" role="idx57">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Lojban
+  </primaryie>
+  <secondaryie>number of speakers of,
+    <ulink url="lojbanmo.html#idx59" role="idx59">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Lojban mailing list,
+    <ulink url="lojbanmo.html#idx60" role="idx60">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx71" role="idx71">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>lujvo,
+    <ulink url="morphol.html#idx118" role="idx118">lujvo</ulink>,
+    <ulink url="comp.html#idx243" role="idx243">brivla</ulink>,
+    <ulink url="comp.html#idx303" role="idx303">Abstraction selbri</ulink>
+  </primaryie>
+  <secondaryie>meaning,
+    <ulink url="semx.html#idx129" role="idx129">brivla</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>machine grammar
+  </primaryie>
+    <seeie>grammar, formal</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>mathematical expressions,
+    <ulink url="lojbanmo.html#idx33" role="idx33">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx137" role="idx137">Grammar</ulink>,
+    <ulink url="grammar.html#idx190" role="idx190">Mathematics</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>metalinguistic language,
+    <ulink url="lojbanmo.html#idx32" role="idx32">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="attach.html#idx384" role="idx384">Discursives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>metaphor
+  </primaryie>
+    <seeie>tanru</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>MEX
+  </primaryie>
+    <seeie>mathematical expressions</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>modal tag,
+    <ulink url="grammar.html#idx152" role="idx152">Place structures</ulink>,
+    <ulink url="attach.html#idx372" role="idx372">Tensed or adverbial bridi relationships</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>modal tags,
+    <ulink url="attach.html#idx339" role="idx339">Adding a new sumti place to a bridi relationship (modal + sumti)</ulink>,
+    <ulink url="attach.html#idx359" role="idx359">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>morphology,
+    <ulink url="lojbanmo.html#idx52" role="idx52">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="morphol.html#idx107" role="idx107">Morphology</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>na
+  </primaryie>
+    <seeie>negation: contradictory</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>na'e
+  </primaryie>
+    <seeie>negation: scalar</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>names
+  </primaryie>
+    <seeie>cmene</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>naturalness,
+    <ulink url="lingissues.html#idx460ee" role="idx460ee">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460k" role="idx460k">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>negation
+  </primaryie>
+  <secondaryie>contradictory,
+    <ulink url="comp.html#idx247" role="idx247">Contradictory negation (na selbri)</ulink>
+  </secondaryie>
+  <secondaryie>in tanru,
+    <ulink url="comp.html#idx273" role="idx273">tanru (modifier-selbri modified-selbri)</ulink>
+  </secondaryie>
+  <secondaryie>scalar,
+    <ulink url="comp.html#idx253" role="idx253">Scalar negation (na'e-word brivla)</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>neuronic process,
+    <ulink url="lingissues.html#idx460b" role="idx460b">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ni'o
+  </primaryie>
+    <seeie>paragraphs</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>no'e
+  </primaryie>
+    <seeie>negation: scalar</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Nootka,
+    <ulink url="lingissues.html#idx460l" role="idx460l">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>numbers
+  </primaryie>
+    <seeie>quantifiers</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>observatives,
+    <ulink url="grammar.html#idx145" role="idx145">bridi</ulink>,
+    <ulink url="diagsumm.html#idx209" role="idx209">Observatives</ulink>,
+    <ulink url="diagsumm.html#idx218" role="idx218">Varying sumti order</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>orthography,
+    <ulink url="lojbanmo.html#idx14" role="idx14">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="overview.html#idxorthography" role="idxorthography">Orthography</ulink>,
+    <ulink url="complex.html#idx325" role="idx325">Abstraction sumti  clauses</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>paragraphs,
+    <ulink url="diagsumm.html#idx220" role="idx220">Basic structure of an utterance</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>parentheses,
+    <ulink url="grammar.html#idx180" role="idx180">Free Modifiers</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>parsing,
+    <ulink url="lojbanmo.html#id7" role="id7">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>pause,
+    <ulink url="phonol.html#idx105" role="idx105">Phonology</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>pe
+  </primaryie>
+    <seeie>relative phrases: restrictive</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>period,
+    <ulink url="overview.html#idx101" role="idx101">Orthography</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>phonology,
+    <ulink url="lojbanmo.html#idx50" role="idx50">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="phonol.html#idxphonology" role="idxphonology">Phonology</ulink>,
+    <ulink url="lingissues.html#idx448" role="idx448">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>place structure,
+    <ulink url="grammar.html#idx131" role="idx131">bridi</ulink>,
+    <ulink url="grammar.html#idx147" role="idx147">Place structures</ulink>,
+    <ulink url="diagsumm.html#idx205" role="idx205">Basic structure of a Lojban sentence</ulink>,
+    <ulink url="comp.html#idx302" role="idx302">Abstraction selbri</ulink>,
+    <ulink url="lingissues.html#idx446" role="idx446">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>conversion,
+    <ulink url="grammar.html#idx158a" role="idx158a">selbri</ulink>,
+    <ulink url="comp.html#idx262" role="idx262">Conversion (se-word brivla)</ulink>,
+    <ulink url="comp.html#idx271" role="idx271">tanru (modifier-selbri modified-selbri)</ulink>,
+    <ulink url="complex.html#idx327a" role="idx327a">Abstraction sumti  clauses</ulink>
+  </secondaryie>
+  <secondaryie>tanru,
+    <ulink url="comp.html#idx270" role="idx270">tanru (modifier-selbri modified-selbri)</ulink>
+  </secondaryie>
+  <secondaryie>varying (FA),
+    <ulink url="diagsumm.html#idx214" role="idx214">Varying sumti order</ulink>,
+    <ulink url="comp.html#idx289" role="idx289">tanru with internal sumti</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>po
+  </primaryie>
+    <seeie>possessives: relative phrases</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>po'e
+  </primaryie>
+    <seeie>possessives: relative phrases</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>po'u
+  </primaryie>
+    <seeie>relative phrases: identity</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>poetry,
+    <ulink url="lojbanmo.html#idx55a" role="idx55a">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>poi
+  </primaryie>
+    <seeie>relative clauses: restrictive</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>possessive
+  </primaryie>
+  <secondaryie>short form,
+    <ulink url="attach.html#idx369" role="idx369">Short possessive sumti (le possessor-sumti selbri [ku])</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>possessives
+  </primaryie>
+  <secondaryie>relative phrases,
+    <ulink url="attach.html#idx350" role="idx350">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>pragmatics,
+    <ulink url="lingissues.html#idx460e" role="idx460e">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>predicate
+  </primaryie>
+    <seeie>selbri</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>predication
+  </primaryie>
+    <seeie>bridi</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>prepositional phrase,
+    <ulink url="grammar.html#idx154" role="idx154">Place structures</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>prescription,
+    <ulink url="lingissues.html#idx460c" role="idx460c">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460p" role="idx460p">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>pro-sumti,
+    <ulink url="grammar.html#idx163" role="idx163">sumti</ulink>,
+    <ulink url="comp.html#idx228a" role="idx228a"> pronoun sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>pronunciation
+  </primaryie>
+    <seeie>phonology</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>punctuation,
+    <ulink url="lojbanmo.html#idx16" role="idx16">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="diagsumm.html#idx225" role="idx225">Punctuation</ulink>
+  </primaryie>
+  <secondaryie>optional conventions,
+    <ulink url="diagsumm.html#idx227" role="idx227">Punctuation</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>quantifiers,
+    <ulink url="lojbanmo.html#idx30" role="idx30">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="comp.html#idx274" role="idx274">Quantified selbri  (number moi)</ulink>
+  </primaryie>
+  <secondaryie>applied to sumti
+  </secondaryie>
+    <seeie>sumti: quantified</seeie>
+  <secondaryie>cardinal,
+    <ulink url="comp.html#idx277" role="idx277">Quantified selbri  (number moi)</ulink>
+  </secondaryie>
+  <secondaryie>ordinal,
+    <ulink url="comp.html#idx276" role="idx276">Quantified selbri  (number moi)</ulink>
+  </secondaryie>
+  <secondaryie>portional,
+    <ulink url="comp.html#idx278" role="idx278">Quantified selbri  (number moi)</ulink>
+  </secondaryie>
+  <secondaryie>probability,
+    <ulink url="comp.html#idx279" role="idx279">Quantified selbri  (number moi)</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>questions,
+    <ulink url="grammar.html#idx185" role="idx185">Questions</ulink>
+  </primaryie>
+  <secondaryie>modal tags,
+    <ulink url="attach.html#idx341" role="idx341">Modal questions (modal + ma)</ulink>
+  </secondaryie>
+  <secondaryie>selbri,
+    <ulink url="comp.html#idx259" role="idx259">Question selbri  (mo)</ulink>,
+    <ulink url="comp.html#idx272" role="idx272">tanru (modifier-selbri modified-selbri)</ulink>
+  </secondaryie>
+  <secondaryie>sumti,
+    <ulink url="comp.html#idx237" role="idx237">Question sumti  (ma)</ulink>
+  </secondaryie>
+  <secondaryie>tense,
+    <ulink url="attach.html#idx343" role="idx343">Modal questions (modal + ma)</ulink>
+  </secondaryie>
+  <secondaryie>true/false (xu),
+    <ulink url="diagsumm.html#idx212" role="idx212">True/false (yes/no) questions (the word xu)</ulink>,
+    <ulink url="diagsumm.html#idx224" role="idx224">Basic structure of an utterance</ulink>,
+    <ulink url="comp.html#idx246" role="idx246">brivla</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>quotations,
+    <ulink url="grammar.html#idx164" role="idx164">sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>rafsi,
+    <ulink url="morphol.html#idx122" role="idx122">lujvo</ulink>,
+    <ulink url="comp.html#idx305a" role="idx305a">Abstraction selbri</ulink>
+  </primaryie>
+  <secondaryie>in fu'ivla,
+    <ulink url="lingissues.html#idx446aa" role="idx446aa">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>relationship
+  </primaryie>
+    <seeie>selbri</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>relative clauses,
+    <ulink url="attach.html#idx360" role="idx360">sumti relative clauses (sumti poi sentence ku'o)</ulink>
+  </primaryie>
+  <secondaryie>non-restrictive,
+    <ulink url="attach.html#idx364" role="idx364">sumti relative clauses (sumti poi sentence ku'o)</ulink>
+  </secondaryie>
+  <secondaryie>restrictive,
+    <ulink url="attach.html#idx362" role="idx362">sumti relative clauses (sumti poi sentence ku'o)</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>relative phrases,
+    <ulink url="attach.html#idx345" role="idx345">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </primaryie>
+  <secondaryie>identity,
+    <ulink url="attach.html#idx354" role="idx354">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>,
+    <ulink url="attach.html#idx356" role="idx356">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </secondaryie>
+  <secondaryie>non-restrictive,
+    <ulink url="attach.html#idx358" role="idx358">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </secondaryie>
+  <secondaryie>possessive
+  </secondaryie>
+    <seeie>possessives: relative phrases</seeie>
+  <secondaryie>restrictive,
+    <ulink url="attach.html#idx347" role="idx347">sumti relative phrases (sumti pe modifier-sumti [ge'u])</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ri,
+    <ulink url="comp.html#idx231" role="idx231"> pronoun sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Sapir&amp;#8211;Whorf hypothesis,
+    <ulink url="lojbanmo.html#idx5" role="idx5">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx61" role="idx61">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lingissues.html#idx400" role="idx400">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460" role="idx460">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx460f" role="idx460f">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>schwa,
+    <ulink url="phonol.html#idx105a" role="idx105a">Phonology</ulink>,
+    <ulink url="morphol.html#idx115a" role="idx115a">brivla</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>se
+  </primaryie>
+    <seeie>place structure: conversion</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>selbri,
+    <ulink url="lojbanmo.html#idx17" role="idx17">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx142" role="idx142">bridi</ulink>,
+    <ulink url="grammar.html#idx157" role="idx157">selbri</ulink>,
+    <ulink url="diagsumm.html#idx202" role="idx202">The Lojban sentence structure</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>selma'o,
+    <ulink url="grammar.html#idx136" role="idx136">cmavo</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>semantics
+  </primaryie>
+  <secondaryie>semantic theory,
+    <ulink url="lingissues.html#idx460d" role="idx460d">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>sentences,
+    <ulink url="diagsumm.html#idx222" role="idx222">Basic structure of an utterance</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>sociolinguistics,
+    <ulink url="lingissues.html#idx460n" role="idx460n">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>SOV order,
+    <ulink url="lingissues.html#idx456" role="idx456">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>spelling
+  </primaryie>
+    <seeie>orthography</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>stress,
+    <ulink url="phonol.html#idx106" role="idx106">Phonology</ulink>,
+    <ulink url="morphol.html#idx113" role="idx113">brivla</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>structure word
+  </primaryie>
+    <seeie>sumti</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>sumti,
+    <ulink url="lojbanmo.html#idx20" role="idx20">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx140" role="idx140">bridi</ulink>,
+    <ulink url="grammar.html#idx161" role="idx161">sumti</ulink>,
+    <ulink url="diagsumm.html#idx200" role="idx200">The Lojban sentence structure</ulink>,
+    <ulink url="comp.html#idx228" role="idx228">Simple sumti</ulink>
+  </primaryie>
+  <secondaryie>abstraction
+  </secondaryie>
+    <seeie>abstraction</seeie>
+  <secondaryie>anaphora
+  </secondaryie>
+    <seeie>anaphora</seeie>
+  <secondaryie>cmene
+  </secondaryie>
+    <seeie>cmene</seeie>
+  <secondaryie>descriptions,
+    <ulink url="grammar.html#idx166" role="idx166">sumti</ulink>,
+    <ulink url="comp.html#idx239" role="idx239">Description sumti (le selbri [ku])</ulink>,
+    <ulink url="complex.html#idx305" role="idx305">More le selbri [ku] descriptions</ulink>,
+    <ulink url="attach.html#idx371" role="idx371">Short possessive sumti (le possessor-sumti selbri [ku])</ulink>
+  </secondaryie>
+  <secondaryie>descriptions, indefinite,
+    <ulink url="complex.html#idx332" role="idx332">Indefinite description sumti (lo selbri [ku])</ulink>
+  </secondaryie>
+  <secondaryie>internal,
+    <ulink url="comp.html#idx281" role="idx281">Attaching internal sumti to a selbri</ulink>,
+    <ulink url="comp.html#idx292" role="idx292">tanru inversion (modified-selbri co modifier-selbri)</ulink>,
+    <ulink url="complex.html#idx307" role="idx307">sumti descriptions with internal sumti</ulink>
+  </secondaryie>
+  <secondaryie>mass,
+    <ulink url="grammar.html#idx174" role="idx174">sumti</ulink>
+  </secondaryie>
+  <secondaryie>pro-sumti
+  </secondaryie>
+    <seeie>pro-sumti</seeie>
+  <secondaryie>quantified,
+    <ulink url="complex.html#idx327" role="idx327">Quantified sumti (le number [boi] selbri  [ku])</ulink>
+  </secondaryie>
+  <secondaryie>quantified with selection,
+    <ulink url="complex.html#idx330" role="idx330">Quantified selection from sumti (number [boi] le [number] [boi] selbri [ku])</ulink>
+  </secondaryie>
+  <secondaryie>quotations
+  </secondaryie>
+    <seeie>quotations</seeie>
+  <secondaryie>set,
+    <ulink url="grammar.html#idx175" role="idx175">sumti</ulink>
+  </secondaryie>
+  <secondaryie>tensed,
+    <ulink url="grammar.html#idx178" role="idx178">sumti</ulink>,
+    <ulink url="attach.html#idx367" role="idx367">Tensed sumti (le time/location/modal-tag + selbri [ku])</ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>sumti tcita
+  </primaryie>
+    <seeie>modal tag</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>SVO order,
+    <ulink url="grammar.html#idx148" role="idx148">Place structures</ulink>,
+    <ulink url="lingissues.html#idx455" role="idx455">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>tanru,
+    <ulink url="lojbanmo.html#idx24" role="idx24">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx38" role="idx38">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="lojbanmo.html#idx56" role="idx56">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="morphol.html#idx120" role="idx120">lujvo</ulink>,
+    <ulink url="grammar.html#idx146" role="idx146">bridi within bridi</ulink>,
+    <ulink url="grammar.html#idx160" role="idx160">selbri</ulink>,
+    <ulink url="comp.html#idx251" role="idx251">Contradictory negation (na selbri)</ulink>,
+    <ulink url="comp.html#idx261" role="idx261">Question selbri  (mo)</ulink>,
+    <ulink url="comp.html#idx268" role="idx268">tanru (modifier-selbri modified-selbri)</ulink>,
+    <ulink url="comp.html#idx280" role="idx280">Quantified selbri  (number moi)</ulink>,
+    <ulink url="comp.html#idx303a" role="idx303a">Abstraction selbri</ulink>,
+    <ulink url="attach.html#idx375a" role="idx375a">Tensed or adverbial bridi relationships</ulink>,
+    <ulink url="lingissues.html#idx415" role="idx415">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx422" role="idx422">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>internal sumti of,
+    <ulink url="comp.html#idx286" role="idx286">tanru with internal sumti</ulink>
+  </secondaryie>
+  <secondaryie>inversion,
+    <ulink url="comp.html#idx290" role="idx290">tanru inversion (modified-selbri co modifier-selbri)</ulink>,
+    <ulink url="comp.html#idx295a" role="idx295a">selbri grouping in tanru</ulink>
+  </secondaryie>
+  <secondaryie>meaning,
+    <ulink url="semx.html#idx132" role="idx132">tanru</ulink>
+  </secondaryie>
+  <secondaryie>selbri grouping within,
+    <ulink url="comp.html#idx293" role="idx293">selbri grouping in tanru</ulink>,
+    <ulink url="lingissues.html#idx428" role="idx428">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </secondaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>te
+  </primaryie>
+    <seeie>place structure: conversion</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>tense,
+    <ulink url="lojbanmo.html#idx29" role="idx29">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx159" role="idx159">selbri</ulink>,
+    <ulink url="grammar.html#idx185a" role="idx185a">Tenses</ulink>,
+    <ulink url="attach.html#idx374" role="idx374">Tensed or adverbial bridi relationships</ulink>,
+    <ulink url="lingissues.html#idx444" role="idx444">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+  <secondaryie>sumti
+  </secondaryie>
+    <seeie>sumti</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>terminators,
+    <ulink url="diagsumm.html#idx203" role="idx203">Conventions</ulink>,
+    <ulink url="comp.html#idx312" role="idx312">Description sumti (le selbri [ku])</ulink>,
+    <ulink url="comp.html#idx314" role="idx314">tanru with internal sumti</ulink>,
+    <ulink url="comp.html#idx289a" role="idx289a">tanru with internal sumti</ulink>,
+    <ulink url="comp.html#idx316" role="idx316">tanru with internal sumti</ulink>,
+    <ulink url="complex.html#idx319" role="idx319">sumti descriptions with internal sumti</ulink>,
+    <ulink url="attach.html#idx366" role="idx366">sumti relative clauses (sumti poi sentence ku'o)</ulink>,
+    <ulink url="logcon.html#idx321" role="idx321">Logical connectives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>The Complete Lojban Language,
+    <ulink url="lojbanmo.html#idx66" role="idx66">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>to'e
+  </primaryie>
+    <seeie>negation: scalar</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>transformations,
+    <ulink url="lingissues.html#idx438" role="idx438">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>translation, computer-aided
+  </primaryie>
+    <seeie>computer-aided translation</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>truth tables,
+    <ulink url="logcon.html#idx391" role="idx391">Logical connectives</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>truth values,
+    <ulink url="semx.html#idx133" role="idx133">Connotation and Assertion</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>unambiguous language,
+    <ulink url="lojbanmo.html#idx36" role="idx36">Questions and Answers on Lojban &amp;#8212; preti ce'o danfu sera'a la lojban.</ulink>,
+    <ulink url="grammar.html#idx135" role="idx135">Grammar</ulink>,
+    <ulink url="grammar.html#idx144" role="idx144">bridi</ulink>,
+    <ulink url="lingissues.html#idx411" role="idx411">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>,
+    <ulink url="lingissues.html#idx424" role="idx424">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>utterances,
+    <ulink url="diagsumm.html#idx219" role="idx219">Basic structure of an utterance</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>vau,
+    <ulink url="diagsumm.html#idx207" role="idx207">Basic structure of a Lojban sentence</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>ve
+  </primaryie>
+    <seeie>place structure: conversion</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>vocatives,
+    <ulink url="grammar.html#idx181" role="idx181">Free Modifiers</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Wilkins, John,
+    <ulink url="lingissues.html#idx426" role="idx426">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>word order,
+    <ulink url="lingissues.html#idx454" role="idx454">Linguistic Issues of Lojban &amp;#8212; bauske se casnu sera'a le lojbo </ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>xe
+  </primaryie>
+    <seeie>place structure: conversion</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>xu
+  </primaryie>
+    <seeie>questions</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>y
+  </primaryie>
+    <seeie>cluster, consonant</seeie>
+</indexentry>
+
+<indexentry>
+  <primaryie>zo'e,
+    <ulink url="diagsumm.html#idx208" role="idx208">Sentence examples</ulink>,
+    <ulink url="diagsumm.html#idx217" role="idx217">Varying sumti order</ulink>,
+    <ulink url="comp.html#idx230" role="idx230"> pronoun sumti</ulink>
+  </primaryie>
+</indexentry>
+
+<indexentry>
+  <primaryie>Zwicky, Arnold M.,
+    <ulink url="pref.html#idx408" role="idx408">Organization of this booklet &amp;#8212; stura le dei cmacku</ulink>
+  </primaryie>
+</indexentry>
+
+</index>
