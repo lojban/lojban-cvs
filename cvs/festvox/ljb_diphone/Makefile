@@ -1,13 +1,14 @@
-ESTDIR=/usr
-
 make_pm_wav=festvox/make_pm_wave
 
-all: ljb_diphone.index pm
+wav_files=$(wildcard wav/*.wav)
 
-pm: wav/*.wav
-	mkdir -p pm;
-	$(make_pm_wav) wav/*.wav;
-	touch pm;
+pm_files=$(shell echo $(wav_files)|sed 's/wav/pm/g')
+
+all: ljb_diphone.index $(pm_files)
+
+$(pm_files): pm/%.pm: wav/%.wav
+	$(make_pm_wav) $<;
+
 
 ljb_diphone.index: ../praat/*.Collection ljb_diphone_hand_timed.index ../util/TextGrid2index.pl
 	../util/TextGrid2index.pl -l ljb_diphone_hand_timed.index \
