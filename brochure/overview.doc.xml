@@ -5,8 +5,7 @@ sidbo</foreignphrase></title><titleabbrev>Overview of Lojban Grammar</titleabbre
 <important><para>Add paragraph or two on:
 Tense
 Place structures: gismu --- there but not rigorous; 
-lujvo --- conventions non-binding
-</para></important>
+lujvo --- conventions non-binding</para></important>
 
 <para>This overview of Lojban will hopefully
 give you a good feel for the design and scope of the language. It serves as
@@ -42,14 +41,16 @@ language. </para>
 
 <sect1 id="orthog"><title>Orthography</title>
 
-<para>Lojban uses a Roman alphabet, consisting of the letters and symbols:
+<!-- In this and the following, indexing is done by milestone (startofrange, endofrange), because openjade is too braindamaged to do zone-based indexing -->
+<para><indexterm class="startofrange" id="idxorthography">
+<primary>Orthography</primary>
+</indexterm>
+<indexterm>
+<primary>Spelling</primary>
+<see>Orthography</see>
+</indexterm>Lojban uses a Roman alphabet, consisting of the letters and symbols:
 
-<informalexample>
-<literallayout><foreignphrase lang="art-lojban">' , . a b c d e f g i j k l m n o p r s t u v x y z</foreignphrase>
-</literallayout>
-</informalexample>
-
-omitting the letters <wordasword>h</wordasword>,
+<informalexample><literallayout><foreignphrase lang="art-lojban">' , . a b c d e f g i j k l m n o p r s t u v x y z </foreignphrase></literallayout></informalexample>omitting the letters <wordasword>h</wordasword>,
 <wordasword>q</wordasword>, and <wordasword>w</wordasword>. The three
 special characters are <emphasis>not</emphasis> punctuation. The apostrophe
 represents a specific sound, similar to the English /h/. The period is a
@@ -80,27 +81,29 @@ speech is uttered, there is a unique symbol to represent each sound, and a
 single correct way to separate the sounds into words. Similarly, a given
 string of Lojban text may be read off sound by sound using pronunciation
 and stress rules forming a unique uttered expression. Spelling in Lojban is
-thus trivial to learn.</para>
+thus trivial to learn.<indexterm class="endofrange" startref="idxorthography"/></para>
 </sect1>
 
 
 
 <sect1 id="phonol"><title>Phonology</title>
 
-<para>Each Lojban sound is uniquely assigned to a single letter, or
+<para><indexterm class="startofrange" id="idxphonology">
+<primary>Phonology</primary>
+</indexterm>Each Lojban sound is uniquely assigned to a single letter, or
 combination of letters. Each letter is defined to have a particular
 pronunciation, such that there is no overlap between letter sounds.</para>
 
 <para>Most of the consonants are pronounced exactly as they are most commonly pronounced in English. The following
 gives English and Lojban examples for these:
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 <row>
 
@@ -267,9 +270,7 @@ lang="art-lojban"><emphasis role="bold">g</emphasis>unse</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable>
-
-</para>
+</informaltable></para>
 
 <para>Incidentally, for these examples, the Lojban example is a close
 equivalent of the English example used, showing that some words in Lojban
@@ -295,13 +296,13 @@ equivalent is <foreignphrase lang="art-lojban">x</foreignphrase>, which is
 rarely found in English (The Scottish <wordasword>loch</wordasword>, as in
 <wordasword>Loch Ness monster</wordasword>, is an example.)
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 <row>
@@ -337,8 +338,7 @@ lang="art-lojban"><emphasis role="bold">x</emphasis>riso</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable>
-</para>
+</informaltable></para>
 
 <para>Two other fricatives are <foreignphrase
 lang="art-lojban">c</foreignphrase> and <foreignphrase
@@ -348,13 +348,13 @@ is usually represented by two letters in English. <foreignphrase
 lang="art-lojban">j</foreignphrase> is its voiced
 equivalent; rarely occurring alone in English (but see below).
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 <row>
@@ -423,23 +423,20 @@ lang="art-lojban">lo<emphasis role="bold">j</emphasis>ban</foreignphrase></entry
 
 </tbody>
 </tgroup>
-</informaltable>
-
-
-</para>
+</informaltable></para>
 
 <para>These two fricatives occur frequently in English combined with a
 stop. Lojban phonology recognizes this, and the /ch/ sound is written
 <foreignphrase lang="art-lojban">tc</foreignphrase>, while the /j/ sound is
 written <foreignphrase lang="art-lojban">dj</foreignphrase>.
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 <row>
@@ -506,8 +503,7 @@ lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable>
-</para>
+</informaltable></para>
 
 <para>The other four Lojban consonants are also pronounced as in English.
 However, there are two English pronunciations to consider. The normal
@@ -516,13 +512,13 @@ and a few other situations, these consonants can occur with no vowel in the
 same syllable. In this case they are called <firstterm>vocalic
 consonants</firstterm>, and are pronounced as in the second table.
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 
@@ -593,14 +589,13 @@ lang="art-lojban"><emphasis role="bold">r</emphasis>okci</foreignphrase></entry>
 </tbody>
 </tgroup>
 </informaltable>
-
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 <row>
 
@@ -708,10 +703,7 @@ lang="art-lojban">b<emphasis role="bold">r</emphasis>t</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable>
-
-
-</para>
+</informaltable></para>
 
 <para>Consonants may be found in pairs, or even in triples, in many Lojban
 words; even longer clusters of consonants, often including at least one
@@ -740,14 +732,14 @@ lang="art-lojban">y</foreignphrase>). English words that are close in
 pronunciation are given, but few English speakers pronounce these words
 with the purity and tension needed in Lojban pronunciation.
 
-</para>
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 <row>
@@ -860,7 +852,7 @@ lang="art-lojban">lob<emphasis role="bold">y</emphasis>pli</foreignphrase></entr
 
 </tbody>
 </tgroup>
-</informaltable>
+</informaltable></para>
 
 <para>The sound represented by <foreignphrase
 lang="art-lojban">y</foreignphrase>, called <quote
@@ -877,13 +869,13 @@ lang="art-lojban">sfofa</foreignphrase>
 <para>Lojban has diphthongs as well, but these are always represented by
 the two vowels that combine to form them:
 
-<informaltable frame=none>
-<tgroup cols=5>
-<colspec colnum=1 colwidth="1*" ></colspec>
-<colspec colnum=2 colwidth="2*" ></colspec>
-<colspec colnum=3 colwidth="3*" ></colspec>
-<colspec colnum=4 colwidth="3*" ></colspec>
-<colspec colnum=5 colwidth="4*" ></colspec>
+<informaltable frame="none">
+<tgroup cols="5">
+<colspec colnum="1" colwidth="1*" />
+<colspec colnum="2" colwidth="2*" />
+<colspec colnum="3" colwidth="3*" />
+<colspec colnum="4" colwidth="3*" />
+<colspec colnum="5" colwidth="4*" />
 <tbody>
 
 <row>
@@ -1064,8 +1056,7 @@ lang="art-lojban">uu</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable>
-</para>
+</informaltable></para>
 
 <para>The diphthongs in the second table are found in Lojban only in
 stand-alone words, and in Lojbanized names. Those in the first table may be
@@ -1122,7 +1113,7 @@ equivalents of English intonations are expressed as spoken (and written)
 words, and may be adequately communicated even in a monotone voice. Such
 intonation, and pauses for phrasing, are then totally at the speaker's
 discretion for ease in speaking or being understood, and carry no meaning.
-</para>
+<indexterm class="endofrange" startref="idxphonology"/></para>
 </sect1>
 
 <sect1 id="morphol"><title>Morphology</title>
@@ -1132,7 +1123,7 @@ to be uniquely broken down into its component words.</para>
 
 <para>Lojban uses three kinds of words:
 
-<variablelist >
+<variablelist>
 
 <varlistentry><term><foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase></term>
 <listitem><para>names</para></listitem></varlistentry>
@@ -1143,10 +1134,7 @@ to be uniquely broken down into its component words.</para>
 <varlistentry><term><foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></term>
 <listitem><para><quote role="socalled">structure</quote> words</para></listitem></varlistentry>
 
-</variablelist>
-
-</para>
-
+</variablelist></para>
 <sect2><title><foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase></title>
 
 <para>Names, or <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>, are
@@ -1160,7 +1148,7 @@ recognition, however, do require that most names be Lojbanized to some
 extent. Examples of Lojbanized <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> include:
 
-<variablelist termlength=15>
+<variablelist termlength="15">
 
 <varlistentry><term><foreignphrase lang="art-lojban">djim.</foreignphrase></term>
 <listitem><para>Jim</para></listitem></varlistentry>
@@ -1186,9 +1174,7 @@ lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> include
 <varlistentry><term><foreignphrase lang="art-lojban">keit.</foreignphrase></term>
 <listitem><para>Kate</para></listitem></varlistentry>
 
-</variablelist>
-</para>
-
+</variablelist></para>
 <para><foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> may have
 almost any form, but always end in a consonant, and are followed by a
 pause. <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are
@@ -1276,9 +1262,7 @@ lang="art-lojban">y</foreignphrase></para></listitem>
 
 <listitem><para>they end in a vowel</para></listitem>
 
-</itemizedlist>
-</para>
-<para>The consonant cluster rule has the qualification that the letter
+</itemizedlist></para><para>The consonant cluster rule has the qualification that the letter
 <foreignphrase lang="art-lojban">y</foreignphrase> is totally ignored, even
 if it splits a consonant cluster. Thus <foreignphrase
 lang="art-lojban">lobypei</foreignphrase> /LOB,uh,pei/ is a <foreignphrase
@@ -1322,9 +1306,7 @@ lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are Loj
 role="gloss">spaghetti</quote>)</para></listitem>
 
 </varlistentry>
-</variablelist>
-</para>
-<para><foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are defined
+</variablelist></para><para><foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are defined
 so as to have only one meaning, which is expressed through a unique 
 <emphasis>place
 structure</emphasis>. This concept will be discussed further in the sections on
@@ -1349,9 +1331,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>, and <f
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>, are included as uniquely Lojbanic
 concepts that are basic to this language.</para></listitem>
 
-</itemizedlist>
-</para>
-
+</itemizedlist></para>
 <para>Each <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase> is
 exactly five letters long, and has one of two consonant-vowel patterns:
 CVCCV or CCVCV (e.g. <foreignphrase
@@ -1376,9 +1356,7 @@ lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> use onl
 letters from the <foreignphrase lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>,
 and are of the forms CCV, CVC, and CVV or CV'V. The use of these
 <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> is discussed below
-under <foreignphrase lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>.
-</para>
-</sect3>
+under <foreignphrase lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>.</para></sect3>
 
 <sect3><title><foreignphrase
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase></title>
@@ -1570,9 +1548,7 @@ not y is counted</para></listitem>
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> need not be penultimately stressed,
 though they often are</para></listitem>
 
-</itemizedlist>
-</para>
-<para>All <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> display
+</itemizedlist></para><para>All <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> display
 one of the following letter patterns, where C stands for a consonant, and V
 stands for a vowel:
 
@@ -1583,11 +1559,7 @@ stands for a vowel:
 <member>CV</member>    
 <member>CVV</member>    
 <member>CV'V</member>
-</simplelist>
-
-</para>
-
-<para>The letter pattern generally does not indicate anything about the grammar.</para>
+</simplelist></para><para>The letter pattern generally does not indicate anything about the grammar.</para>
 
 <para>Compound <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>
 (single words consisting of strings of <foreignphrase
@@ -1607,9 +1579,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> have be
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> so that they may aid in converting those <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
 into <foreignphrase
-lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>.
-</para>
-</sect2>
+lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase>.</para></sect2>
 </sect1>
 
 <sect1 id="semx"><title>Semantics</title>
@@ -1710,13 +1680,10 @@ position of the speaker is not part of the Lojban
 meaning.</para></listitem>
 
 
-</itemizedlist>
-</para></listitem>
+</itemizedlist></para></listitem>
 
 </orderedlist>
-</informalexample>
-</para>
-
+</informalexample></para>
 <para>These definitions are of increasing accuracy and length; the last is
 so complex as to only be practical in a formal Lojban&ndash;English
 dictionary.</para>
@@ -1865,33 +1832,17 @@ lang="art-lojban">klama</foreignphrase> above as necessary:
 
 <listitem>
 <para>
-<literallayout>
-<foreignphrase lang ="art-lojban">le prenu cu klama le zdani le briju le zarci le karce</foreignphrase>
-The person comes/goes to the house (nest) from the office via the market using the car.
-</literallayout>
-</para>
-</listitem> 
+<literallayout><foreignphrase lang ="art-lojban">le prenu cu klama le zdani le briju le zarci le karce</foreignphrase>
+The person comes/goes to the house (nest) from the office via the market using the car.</literallayout></para></listitem> 
    
 <listitem>
 <para>
-<literallayout>
-<foreignphrase lang ="art-lojban">mi sutra klama le blanu zdani be la djan. le briju</foreignphrase>
-I quickly come to the blue house (nest) of John from the office.
-</literallayout>
-</para>
-</listitem> 
-
-</orderedlist>
-</para>
-
+<literallayout><foreignphrase lang ="art-lojban">mi sutra klama le blanu zdani be la djan. le briju</foreignphrase>
+I quickly come to the blue house (nest) of John from the office.</literallayout></para></listitem></orderedlist></para>
 <para>More completely, the latter translates as:
 
 <informalexample><para>I quickly (at doing...) come to the blue nest of
-John from the office (of...at...) via...using... </para></informalexample>
-
-</para>
-
-<sect2><title><foreignphrase
+John from the office (of...at...) via...using... </para></informalexample></para><sect2><title><foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase></title>
 
 <para>The <foreignphrase lang="art-lojban"><emphasis
@@ -1948,9 +1899,7 @@ lang="art-lojban">le zarci</foreignphrase> (the market)</para></listitem>
 <listitem><para>a<subscript>5</subscript> = <foreignphrase
 lang="art-lojban">le karce</foreignphrase> (the car)</para></listitem>
 
-</itemizedlist>
-</para>
-
+</itemizedlist></para>
 <para>The <foreignphrase lang="art-lojban"><emphasis
 role="term">brivla</emphasis></foreignphrase> and its associated
 <foreignphrase lang="art-lojban"><emphasis
@@ -2105,9 +2054,7 @@ of... at...)</para></listitem>
 <listitem><para>a<subscript>4</subscript>, a<subscript>5</subscript> are
 elliptically omitted.</para></listitem>
 
-</itemizedlist>
-</para>
-
+</itemizedlist></para>
 <para>Two of the places of the <foreignphrase lang="art-lojban"><emphasis
 role="term">selbri</emphasis></foreignphrase> in a<subscript>3</subscript>,
 <foreignphrase lang="art-lojban">briju</foreignphrase>, have also been
@@ -2202,11 +2149,7 @@ or abbreviated as:
 <informalexample><para>x<subscript>1</subscript> <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> x<subscript>2</subscript>
 x<subscript>3</subscript> x<subscript>4</subscript>
-x<subscript>5</subscript></para></informalexample>
-
-</para>
-
-<para>This order is the one used for the <foreignphrase
+x<subscript>5</subscript></para></informalexample></para><para>This order is the one used for the <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> sentences in examples (1) and
 (2).</para>
 
@@ -2237,18 +2180,10 @@ lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>]</para
 or abbreviated as:
                                                               
 <informalexample><para>x<subscript>1</subscript> x<subscript>2</subscript> x<subscript>3</subscript> x<subscript>4</subscript> x<subscript>5</subscript> <foreignphrase
-lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>
-</para></informalexample>
-
-</para>
-
-<para>Example (1), rewritten in this form becomes:
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></para></informalexample></para><para>Example (1), rewritten in this form becomes:
 
 <informalexample><para><foreignphrase
-lang="art-lojban">le prenu le zdani le briju le zarci le karce cu klama</foreignphrase>
-</para></informalexample>
-</para>
-
+lang="art-lojban">le prenu le zdani le briju le zarci le karce cu klama</foreignphrase></para></informalexample></para>
 <para>Since most European languages use SVO order than SOV order, a
 Lojbanist communicating internationally is often likely to see SVO Lojban
 sentences. On the other hand, SOV order is found in more non-European
@@ -2300,11 +2235,8 @@ adverbial phrase, each of which modify a simple English sentence in the
 same way. Thus I can say:
 
 <informalexample><para><foreignphrase
-lang="art-lojban">ca le cabdei mi cusku bau la lojban.</foreignphrase>
-</para></informalexample>
-
+lang="art-lojban">ca le cabdei mi cusku bau la lojban.</foreignphrase></para>
 <itemizedlist>
-
 <listitem><para><foreignphrase
 lang="art-lojban">ca le cabdei</foreignphrase> = an added <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>; modal operator <foreignphrase
@@ -2331,10 +2263,7 @@ lang="art-lojban">bau</foreignphrase> indicates that the added place
 specifies <quote role="gloss">in language...</quote>; thus <quote
 role="gloss">in language which is called Lojban</quote>.</para></listitem>
 
-</itemizedlist>
-
-</para>
-
+</itemizedlist></informalexample></para>
 <para>The sentence thus roughly translates as <quote>Today, I express in
 Lojban.</quote></para>
 
@@ -2350,9 +2279,7 @@ ellipses, and can thus be either specified by a speaker, or questioned by a
 listener. In Lojban, wherever possible, semantic components that apply to
 everything but are not always needed for communication, are left optional.
 They need not be specified, but they are available when necessary for clear
-communication. 
-</para>
-</sect2>
+communication. </para></sect2>
 
 <sect2><title><foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></title>
@@ -2475,9 +2402,7 @@ suitably marked to separate the quote from the rest of the <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
 (e.g. <foreignphrase lang="art-lojban">zo djan, lu mi klama li'u, zoi
 by.</foreignphrase> I come <foreignphrase
-lang="art-lojban">.by.</foreignphrase>);
-
-</para></listitem>
+lang="art-lojban">.by.</foreignphrase>);</para></listitem>
 </varlistentry>
 
 <varlistentry>
@@ -2488,16 +2413,13 @@ things, this allows one to talk about another sentence (<quote>That isn't
 true.</quote>), or the state referred to by a sentence (<quote>That didn't
 happen</quote>), unambiguously (e.g. <foreignphrase lang="art-lojban">la'e
 di'u na fasnu</foreignphrase> = <quote>The referent of the last sentence
-does not occur</quote>, or <quote>That didn't happen.</quote>);
-
-</para></listitem>
+does not occur</quote>, or <quote>That didn't happen.</quote>);</para></listitem>
 </varlistentry>
 
 <varlistentry><term>named references</term>
 
 <listitem><para>reference to something named by using the name (e.g.
-<foreignphrase lang="art-lojban">la djan, lai ford.</foreignphrase>);
-</para></listitem>
+<foreignphrase lang="art-lojban">la djan, lai ford.</foreignphrase>);</para></listitem>
 
 </varlistentry>
 
@@ -2505,14 +2427,10 @@ does not occur</quote>, or <quote>That didn't happen.</quote>);
 
 <listitem><para>reference to something by describing it (e.g.
 <foreignphrase lang="art-lojban">le prenu, le pu crino, le nu
-klama</foreignphrase>).
-
-</para></listitem>
+klama</foreignphrase>).</para></listitem>
 </varlistentry>
 
-</variablelist>
-</para>
-
+</variablelist></para>
 <para>Pro-<foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>,
 anaphora/cataphora, and indirect references are all equivalent to various
 uses of pronouns of English, and we won't be going into any further detail.
@@ -2612,8 +2530,7 @@ include the following types of structures:
 <term><firstterm>parenthesis</firstterm></term>
 
 <listitem><para>parenthetical notes, which can be of any length, as long as
-they are grammatical.
-</para></listitem>
+they are grammatical.</para></listitem>
 </varlistentry>
 <varlistentry>
 
@@ -2667,9 +2584,7 @@ speaker directly observed what is being reported, heard about it from
 another, deduced it, etc. </para></listitem>
 
 </varlistentry>
-</variablelist>
-</para>
-</sect2>
+</variablelist></para></sect2>
 
 <sect2><title>Questions</title>
 

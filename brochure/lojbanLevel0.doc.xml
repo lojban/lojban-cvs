@@ -12,10 +12,11 @@
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
+<!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
-<!ENTITY schwa "&#x0259;">
-<!ENTITY Iipa "&#x026A;">
+<!ENTITY schwa "&#601;">
+<!ENTITY Iipa "&#618;">
 ]>
 <book>
 &bookinfo;
@@ -23,4 +24,5 @@
 &brochure;
 &tech;
 &xtomathy;
+&index;
 </book>

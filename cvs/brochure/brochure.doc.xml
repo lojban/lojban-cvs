@@ -1,5 +1,6 @@
 <part id="sect1"><title>What is Lojban? &mdash; <foreignphrase
 lang="art-lojban">la lojban mo</foreignphrase></title>
+
 <chapter id="lojbanmo"><title>What is Lojban? &mdash; <foreignphrase
 lang="art-lojban">la lojban mo</foreignphrase></title>
 <qandaset defaultlabel="qanda">
@@ -143,13 +144,9 @@ worthwhile.</para>
 <para>As an example of Lojban, Occam's Razor (<quote>The simplest
 explanation is usually the best</quote>) may be translated:
 
-<informalexample> 
-<literallayout>
-<foreignphrase lang="art-lojban">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">roda poi velcki ku'o so'eroi ke ganai saprai gi xagrai</foreignphrase>
 /roh-dah poi VEHL-shkee KOO-hoh, soh-heh-ROI keh, GAH-nai SAHP-rai, ghee, KHAH-grai/
-<wordasword>All somethings which-are explanations mostly-are (if superlatively-simple then superlatively-good).</wordasword>
-</literallayout></informalexample>
-
+<wordasword>All somethings which-are explanations mostly-are (if superlatively-simple then superlatively-good).</wordasword></literallayout></informalexample>
 The apostrophe is pronounced like a short, breathy <quote
 role="gloss">h</quote>, and is used to clearly separate the two adjacent
 vowels for a listener, without requiring a pause between them.</para>
@@ -170,21 +167,17 @@ event, quality or just about anything (quite how you can have a
 relationship of one argument is one of the mysteries of predicate logic!).
 To give an example, the English sentence
 
-<informalexample> <literallayout>
-Chris adores Pat </literallayout>
-</informalexample>
+<informalexample><literallayout>Chris adores Pat </literallayout></informalexample>
 
 has a relation <wordasword>adore</wordasword>, between two arguments,
 <wordasword>Chris</wordasword> and <wordasword>Pat</wordasword>. In Lojban
 this would be
 
-<informalexample> <literallayout>
-<foreignphrase lang="art-lojban">la kris. prami la pat.</foreignphrase></literallayout></informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. prami la pat.</foreignphrase></literallayout></informalexample>
 
 or, if you prefer,
 
-<informalexample> <literallayout>
-<foreignphrase lang="art-lojban">la kris. la pat. prami</foreignphrase></literallayout></informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. la pat. prami</foreignphrase></literallayout></informalexample>
 
 (The full stops mean that you have to pause slightly to separate the
 words &mdash;
@@ -197,9 +190,7 @@ and an argument is a noun, so why bother with special terminology like
 whatnot?</quote> However, in Lojban Chris's feelings about Pat might be
 described like this:
 
-<informalexample> <literallayout><foreignphrase lang="art-lojban">la pat. melbi</foreignphrase></literallayout> </informalexample>
-
-</para>
+<informalexample> <literallayout><foreignphrase lang="art-lojban">la pat. melbi</foreignphrase></literallayout> </informalexample></para>
 
 <para>In English you have a verb (<quote role="gloss">doing word</quote>),
 <wordasword>is</wordasword>, and an adjective (<quote
@@ -1045,7 +1036,6 @@ succeed.</para> </important> </answer> </qandaentry>
 <city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
 <country>USA</country> <phone>(+1 703) 385-0273</phone> </address>
 </blockquote>
-
 E-mail can be sent to us at: <ulink
 url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink>
 </para>
@@ -1065,7 +1055,6 @@ url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutpu
 Internet. The mailing lists may be accessed at:
 <informalexample><para><ulink
 url="http://groups.yahoo.com"><computeroutput>http://groups.yahoo.com</computeroutput></ulink></para></informalexample>
-
 Search for the keyword <quote role="gloss">lojban</quote>; the general
 Lojban list is called <computeroutput>lojban</computeroutput>, while the
 list for discussions in Lojban only is
@@ -1095,8 +1084,7 @@ url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe
 booklet, you can provide us with useful information to aid us in serving
 you, and can order some of our materials.</para>
 
-<blockquote><para> 
-<literallayout><foreignphrase lang="art-lojban">e'osai ko sarji la lojban.</foreignphrase>
+<blockquote><para><literallayout><foreignphrase lang="art-lojban">e'osai ko sarji la lojban.</foreignphrase>
 <wordasword>/eh-ho-sai, ko-SAHR-zhee, lah LOZH-bahn./</wordasword>
 Please support Lojban! </literallayout></para></blockquote>
 
