@@ -196,6 +196,12 @@
 				     (normalize "footnote")))
 ;; added: NN
             (lastsib (if (last-sibling? (current-node)) #t #f))
+          (role (if (attribute-string (normalize "role"))
+        		   (attribute-string (normalize "role"))
+        		   (normalize "element")))
+          (parentrole (if (attribute-string (normalize "role") wrapper)
+        		   (attribute-string (normalize "role") wrapper)
+        		   (normalize "element")))
 ;; end added
 	 (border (if (equal? frameattr (normalize "none"))
 		     '(("BORDER" "0"))
@@ -210,9 +216,18 @@
 	  attributes: (append
 		       border
 		       width
-		       (if %cals-table-class%
-			   (list (list "CLASS" %cals-table-class%))
-			   '()))
+;; added: NN
+                (if (equal? role (normalize "phrasediag"))
+                '(("CLASS" "phrasediag"))
+                     (if (equal? parentrole (normalize "phrasediag"))
+                    '(("CLASS" "phrasediag"))
+                    '()
+;; end added
+;;		       (if %cals-table-class%
+;;			   (list (list "CLASS" %cals-table-class%))
+;;			   '()))
+;;                )
+            )))
 	  (process-node-list head)
 	  (process-node-list body)
 	  (process-node-list feet)
@@ -365,6 +380,12 @@
 ;; added NN
             (if (equal? role (normalize "placedef")) 
                 (list (list "BGCOLOR" "yellow")) '())
+            (if (equal? role (normalize "structspan")) 
+                (list (list "BGCOLOR" "yellow")) '())
+            (if (equal? role (normalize "structspan2")) 
+                (list (list "BGCOLOR" "red")) '())
+            (if (equal? role (normalize "structspan3")) 
+                (list (list "BGCOLOR" "blue")) '())
 ;; end added
 			     (if (> (hspan entry) 1)
 				 (list (list "COLSPAN" (number->string (hspan entry))))
@@ -383,8 +404,8 @@
 			(process-node-list entry)
 			(process-node-list (children entry))))
 ;; added: NN
-       (if (attribute-string (normalize "rowsep") entry)
-		 (make empty-element gi: "HR") (empty-sosofo))
+;;       (if (attribute-string (normalize "rowsep") entry)
+;;		 (make empty-element gi: "HR") (empty-sosofo))
 ;; end added: NN
 ))))
 
