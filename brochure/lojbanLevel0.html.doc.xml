@@ -13,6 +13,7 @@
 <!ENTITY rdquo "&quot;">
 <!ENTITY nbsp " ">
 <!ENTITY iquest "?">
+<!ENTITY int "the integral of">
 <!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
 <!ENTITY brochure SYSTEM "brochure.doc.xml">
 <!ENTITY intro SYSTEM "intro.doc.xml">

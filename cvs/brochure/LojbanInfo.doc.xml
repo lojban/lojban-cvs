@@ -1,7 +1,9 @@
 <bookinfo>
    <title>What Is Lojban? <foreignphrase lang="art-lojban">.i la lojban mo</foreignphrase></title>
+   <authorgroup>
    <editor><firstname>Nick</firstname><surname>Nicholas</surname></editor>
    <editor><firstname>John</firstname><surname>Cowan</surname></editor>
+   </authorgroup>
 <pubdate>2001</pubdate>
 <publisher><publishername>The Logical Language Group</publishername></publisher>
 
