@@ -278,8 +278,8 @@
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
   (require 'lts)
-(print word) ;; DEBUG
-(print feats)
+;(print word) ;; DEBUG
+;(print feats)
   (list word
         nil
 	(if feats
