@@ -34,7 +34,7 @@ Pam said, <quote>Please, Alice, am I going to be invited to the wedding?</quote>
 
 <foreignphrase lang="art-lojban">.i sei la mark. cusku se'u
     coi baza speni
-    a'o le re do lifri le ka xamgu</foreignphrase>
+    a'o le re do lifri le ka gleki</foreignphrase>
 <computeroutput>[Comment] Mark says, [end-comment]
     [Greetings] [future] [medium] spouse(s),
     [Hope] the two of-you experience the-property-of being-happy</computeroutput>
@@ -90,7 +90,7 @@ The waiter replied, <quote>May I help you?</quote>
 
 <foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
     e'o ko selfu le traji xamgu ckafi le baza speni
-    fi'o selpleji mi </foreignphrase>
+    fi'o pleji mi </foreignphrase>
 <computeroutput>[Comment] Pam says, [end-comment]
     [Petition] [You-imperative] serve the (superlatively good) coffee to-the [future] [medium] spouse
     with-payment me.</computeroutput>

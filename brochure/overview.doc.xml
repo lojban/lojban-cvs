@@ -56,7 +56,7 @@ represents a specific sound, similar to the English /h/.</para></listitem>
 
 <listitem><para>The period<indexterm id="idx101">
 <primary>period</primary>
-</indexterm> is a
+</indexterm> is an
 optional reminder to the reader representing a mandatory pause dictated by
 the rules of the language. Such pauses can be of any duration, and are part
 of the <firstterm>morphology</firstterm>, or word formation rules, and not
@@ -743,7 +743,7 @@ lang="art-lojban">miri,ym</foreignphrase>.</para></note>
 words; even longer clusters of consonants,<indexterm id="idx115">
 <primary>cluster, consonant</primary>
 </indexterm> often including at least one
-vocalic consonant, may be found in Lojbanized names or borrowings. Some of
+syllabic consonant, may be found in Lojbanized names or borrowings. Some of
 these clusters may appear strange to the English speaker (for example
 <foreignphrase lang="art-lojban">mlatu</foreignphrase> /MLAH,tu/), but all
 permitted clusters were chosen so as to be quite pronounceable by most
@@ -1578,7 +1578,7 @@ lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase>. The 
 one of several permitted <foreignphrase
 lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase> forms. A <foreignphrase
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> is then attached to the beginning
-of the Lojbanized form, usually using a vocalic consonant as <quote
+of the Lojbanized form, usually using a syllabic consonant as <quote
 role="socalled">glue</quote> to ensure that the resulting word doesn't fall
 apart. The <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase>
 categorizes or limits the meaning of the <foreignphrase
@@ -1807,7 +1807,7 @@ true or false, are especially significant. Certain constructs in the language ar
 assertions, and having <firstterm>truth values</firstterm><indexterm id="idx133">
 <primary>truth values</primary>
 </indexterm> (that is, being true or being false). Other constructs
-may modify those truth values, and still others constructs are interpreted
+may modify those truth values, and still other constructs are interpreted
 independently from the truth of the statement.</para>
 </sect2>
 </sect1>
@@ -2944,7 +2944,7 @@ another, deduced it, etc.<indexterm id="idx177" startref="idx176" class="endofra
 <primary>questions</primary>
 </indexterm>The manner of asking questions in Lojban is quite different from English.
 In Lojban, most questions are asked by placing a question word in place of
-something to be filled in by however answers. The question word <foreignphrase
+something to be filled in by whoever answers. The question word <foreignphrase
 lang="art-lojban">mo</foreignphrase> can be used in the grammatical place
 of any <foreignphrase lang="art-lojban"><emphasis
 role="term">bridi</emphasis></foreignphrase>, including those within

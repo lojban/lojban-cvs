@@ -292,7 +292,7 @@ words), and you can use as many or as few of them as you want. </para>
 grammar?</para> </question>
 
 <answer> <para>In Lojban, it is equally easy to speak of something as being an
-action as it is for it being a state of existence. The distinction between the
+action as it is to speak of it as being a state of existence. The distinction between the
 two can be ignored, or can be explicitly expressed by associating concepts
 in <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphors<indexterm id="idx24">
 <primary><foreignphrase
@@ -361,7 +361,7 @@ also has non-logical constructs that do not affect or obscure the logical
 structure, allowing communications that are not amenable to logical
 analysis. For example, Lojban has a full set of emotional indicators<indexterm id="idx31a">
 <primary>attitudinals</primary>
-</indexterm>, are similar to such
+</indexterm>, which are similar to such
 ejaculations in English as <wordasword>Oh!</wordasword>,
 <wordasword>Aha!</wordasword>, and <wordasword>Wheee!</wordasword>, but
 each has a specific meaning. Similarly, Lojban has indicators of the
@@ -376,8 +376,8 @@ languages.</para>
 spoken while remaining unambiguous. <!--(<quote>This sentence is not
 true</quote> need not be a paradox in Lojban.) -->Lojban also supports a
 variety of <quote role="gloss">tense</quote> logic that allows one to be extremely
-specific about time and space (and space&ndash;time) relationships, even
-those implied by the concept of time travel. A substantial portion of
+specific about time and space (and space&ndash;time) relationships<!--, even
+those implied by the concept of time travel-->. A substantial portion of
 Lojban's grammar is designed to support unambiguous statement of
 mathematical expressions<indexterm id="idx33">
 <primary>mathematical expressions</primary>
@@ -599,7 +599,7 @@ language, who feel less threatened because Lojban has different goals.
 Lojban's supporters recognize that it will take decades for Lojban to
 acquire both the number and variety of speakers and the extensive history
 of usage that marks Esperanto culture. Meanwhile, each language community
-has much to learn from each other; this process has started and is
+has much to learn from the other; this process has started and is
 well underway.</para> </answer> </qandaentry>
 
 <qandaentry> <question>
@@ -624,7 +624,7 @@ universality of English likely.</para>
 minimally, though they may be able to read or understand many words. India
 is a prominent example of a country where English is the only language more
 or less understood throughout the country, which has about 1500 languages
-and dialects; but the English spoken in India is often unintelligible by
+and dialects; but the English spoken in India is often unintelligible to
 Americans or Britons. In fact, English is one of the most
 difficult languages to learn to use well. In countries where English is spoken
 along with other languages, it has been adapted into dialects which match
