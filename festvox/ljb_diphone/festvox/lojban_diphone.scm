@@ -31,8 +31,8 @@
 ;; We need to have this until we can predict stress automatically.
 ;; In the production version, we will do only letter-to-sound.
 (lex.create "lojban")
-(lex.compile "/home/arj/festvox/ljb_diphone/lojbanlex.txt" "/home/arj/festvox/ljb_diphone/lojbanlex.out")
-(lex.set.compile.file "/home/arj/festvox/ljb_diphone/lojbanlex.out")
+;(lex.compile "/home/arj/festvox/ljb_diphone/lojbanlex.txt" "/home/arj/festvox/ljb_diphone/lojbanlex.out")
+;(lex.set.compile.file "/home/arj/festvox/ljb_diphone/lojbanlex.out")
 
 ;; non-standard things
 (lex.add.entry '("." punc (((#) 0))))
@@ -186,12 +186,43 @@
 ;; -- syllables in which the vowel is upper-case should get the stress instead
 ;;    off the syllable that would otherwise get it; override the default stress
 ;;    handling.
-(define (has_consonant_cluster sylstruc)
-  t ;; FIXME, Stubroutine
+
+;; Helper functions for string handling
+(define (string-car str)
+  (substring str 0 1)
 )
 
-(define (has_final_consonant sylstruc)
-  nil ;; FIXME, Stubroutine
+(define (string-cdr str)
+  (substring str 1 (length str))
+)
+
+(define (is_consonant letter)
+  (member letter '("b" "c" "d" "f" "g" "j" "k" "l" "m" "n" "p" "r" "s" "t" "v" "x" "z"))
+)
+
+(define (is_vowel letter)
+  (member letter '("a", "e", "i", "o", "u", "y"))
+)
+
+(define (has_consonant_cluster word)
+  (if (> (length word) 2 )
+      ;; Go on recursing
+      (or
+       (has_consonant_cluster (substring word 0 2 ))
+       (has_consonant_cluster (string-cdr word))
+       )
+      ;; Degenerate case
+      (and (is_consonant (substring word 0 1)) (is_consonant (substring word 1 1)) )
+  )
+)
+
+
+(define (has_initial_vowel word)
+  (is_vowel (substring word 0 1))
+)
+
+(define (has_final_consonant word)
+  (is_consonant (substring word (- (length word) 1) 1))
 )
 
 (define (is_content_word sylstruc)
@@ -211,24 +242,57 @@
 )
 
 (define (lojban_assign_stress sylstruc)
-;; For the moment, we assume that ALL words get penultimate stress.
-;; We have to do something so that this does not include cmavo
-(if (is_content_word sylstruc)
+;; Since we are here, we are not dealing with a cmavo.
+;; We should add handling of upper-case indication of stress eventually.
     (lojban_penultimate sylstruc)
-    ;;else assign no stress
-    sylstruc)
 )
 
+(define (lojban_pos_predict word feats)
+  (cons
+   word
+   (if
+    (or (has_final_consonant word) (has_consonant_cluster word))
+    (cons 'content)
+    '(nil)
+    )
+   )
+)
+
+(define (lojban_apply_period word feats)
+  (cons
+    (if (has_final_consonant word)
+	(string-append word "." ) ; Add period at end
+	(if (has_initial_vowel word)
+	    (string-append "." word ) ; Add period at beginning
+	    word)
+	 nil)
+   (cons feats)
+  )
+)
+
+;(define (lojban_apply_period word feats)
+;  (cons word (cons feats))
+;)
 
 (define (lojban_lts word feats)
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
   (require 'lts)
-;(print word) ;; DEBUG
+(print word) ;; DEBUG
+(print feats)
   (list word
         nil
-        (lojban_assign_stress (lex.syllabify.phstress (lts.apply (downcase word) 'lojban)))))
+	(if feats
+	    ;; If it is a content word
+          (lojban_assign_stress
+	    (lex.syllabify.phstress (lts.apply (downcase word) 'lojban)))
+	    ;; Else leave the stress alone
+	  (lex.syllabify.phstress (lts.apply (downcase word) 'lojban))
+	)
+  )
+)
 
+(lex.set.pre_hooks lojban_pos_predict lojban_apply_period)
 (lex.set.lts.method 'lojban_lts)
 
 ;;; Intonation
@@ -258,7 +322,7 @@ a lojban pronunciation of WORD."
      ((R:SylStructure.parent.stress is 1)
       ((ph_vc is +)
        ((1.0))
-       ((2.0)))
+       ((2.5)))
       ((1.0))))))
 
 
@@ -342,7 +406,7 @@ Set up synthesis for a male Lojban speaker"
   
 ;; If this is above 1.0, it will slow down the synthesizer
 ;; (may help with the intelligibility)
-  (Parameter.set 'Duration_Stretch 1.0)
+  (Parameter.set 'Duration_Stretch 0.8)
 
 
   (Parameter.set 'Synth_Method 'UniSyn)
