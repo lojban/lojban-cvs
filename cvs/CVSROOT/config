@@ -1,5 +1,6 @@
 # Set this to "no" if pserver shouldn't check system users/passwords
 SystemAuth=no
+PamAuth=no
 
 # Put CVS lock files in this directory rather than directly in the repository.
 #LockDir=/var/lock/cvs
