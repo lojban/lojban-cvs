@@ -1,0 +1,87 @@
+\input texinfo   @c -*-texinfo-*-
+@c %**start of header
+@setfilename alice.info
+@settitle la alis. cizra je cinri zukte vi le selmacygu'e
+@setchapternewpage odd
+@c %**end of header
+
+@c Thanks to the Gutenberg project for the original text.
+@c http://www.gutenberg.net/.  Feel free to send them donations!
+
+
+
+
+@c #########################################
+@c **********NOTE For Translators***********
+@c #########################################
+
+@c Lines that start with '@c ' or '@comment ' are comments, that will
+@c show up in none of the compiled versions.  The original text has been
+@c placed in lines of this type, with break for paragraphs.
+
+@c To help with the translation, simply pick a paragraph and enter the
+@c lojban text, straight up, _without_ '@c ' or any other markup,
+@c _after_ the original paragraph.  Almost all the markup this file
+@c needs has already been done for you.
+
+@c Note that there should be a blank line before and after each
+@c paragraph.
+
+@c To deal with places where the exact layout of the text is important
+@c (the address of Alice's foot, just about any of the poetry), place
+@c the command '@format' before the text and '@end format' at the end.
+
+
+
+
+@ifinfo
+[This is the text of the lojban translation of Lewis Carrol's ]
+["Alice's Adventures In Wonderland".  A work in progress.]
+@end ifinfo
+
+@titlepage
+@title la alis. cizra je cinri zukte vi le selmacygu'e
+@author la lojbangirz. .e la'o gy. Lewis Carroll gy.
+
+@page
+@vskip 0pt plus 1filll
+
+This work, in all forms, is explicitely placed in the public domain.
+
+@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
+
+@end titlepage
+
+@contents
+
+@node 	  Top,     le fukpi,    ,          (dir)
+@comment  node-name, next,      previous,  up
+
+@ifinfo
+[This is the text of the lojban translation of Lewis Carrol's]
+["Alice's Adventures In Wonderland".  A work in progress.]
+@end ifinfo
+
+@menu
+* le fukpi::	le nu fukpi gau do cu se curmi fi da
+* pamo'o::	pamo'o mo'ini'a le ractu kevna
+* remo'o::	[The Pool of Tears]
+* cimo'o::	[A Caucus-Race and a Long Tale]
+* vomo'o::	[The Rabbit Sends in a Little Bill]
+* mumo'o::	[Advice from a Caterpillar]
+* xamo'o::	[Pig And Pepper]
+* zemo'o::	[A Mad Tea-Party]
+* bimo'o::	[The Queen's Croquet-Ground]
+* somo'o::	[The Mock Turtle's Story]
+* panomo'o::	[The Lobster Quadrille]
+* papamo'o::	[Who Stole the Tarts?]
+* paremo'o::	[Alice's Evidence]
+@end menu
+
+@node le fukpi, pamo'o, Top, Top
+@chapter le fukpi
+
+@c Not done yet.
+
+@c ************
+@c The rest of the text is now is files named alice-??.texinfo.
