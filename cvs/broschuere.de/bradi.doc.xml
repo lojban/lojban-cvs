@@ -1,0 +1,282 @@
+<sect1 id="bradi">
+
+<sect1info><author><firstname>Arnt</firstname><othername>Richard</othername><surname>Johansen</surname></author>
+<printhistory><para>Published at Arnt Richard Johansen's <ulink url="http://people.fix.no/arj/lojban/bradi-je-bandu.html">homepage</ulink>.</para></printhistory>
+</sect1info>
+
+<title><foreignphrase lang="loj">bradi je 
+bandu</foreignphrase></title>
+
+<sect2><title></title>
+<para>
+<literallayout>
+<foreignphrase lang="loj">
+bi'u pa finti co jmive je prami
+cu zutse co fengu gi'e pilno le skami
+i darlu co darsi sai ne'i le dinju
+i za'a le lisri cu ckape lei rinju
+</foreignphrase>
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+<foreignphrase lang="loj">
+i pa jdara'u co prami je krici
+cu dunku bo catlu se farna le vrici
+i malsi co krasi lo panpi bo stura
+i turni co terpa lo nu se malxlura
+</foreignphrase>
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+<foreignphrase lang="loj">
+i bi'u pa nanmu co krici je tavla
+cu ca ve'u jgira bo cusku lo bravla
+i misno bo sazri le slabu ke cradi
+i ti'e le nanmu le jecta cu bradi
+</foreignphrase>
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+<foreignphrase lang="loj">
+i uusai le bandu cu na'e se bandu
+i za'a se jalge le nu mrocoldandu
+i uosai le rinju cu jmaji co salci
+i sisti co zasti fa le remna co kalci
+</foreignphrase>
+</literallayout>
+</para>
+</sect2>
+
+<sect2><title>Enemies and defenders</title>
+<para>
+<literallayout>
+There's an author, living and loving,
+sitting angrily down in front of his computer.
+So daringly he argues inside the house.
+I see that the stories are dangerous to the captors.
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+A priest, loving and believing,
+is looking with anguish in various directions.
+Temple which is a source for the peace structure.
+Government which is afraid of being fooled.
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+There's a man, believing and talking,
+widely, proudly saying big words.
+He is the famous operator of the familiar radio.
+I hear that the man is an enemy of the state.
+</literallayout>
+</para>
+
+<para>
+<literallayout>
+Unfortunately, the defenders were not defended.
+I see that it results in death by hanging.
+At last, the captors can gather and celebrate.
+The human waste is no longer here. 
+</literallayout>
+</para>
+</sect2>
+
+<sect2><title>Gloss</title>
+<para>
+<literallayout class="monospaced">
+<![CDATA[
+
+bi'u                [ ( pa                  |  finti       co      |  jmive     
+{new information..} [ ( 1                   |  create-r(s) of-type |  live-r(s) 
+                    [ ( zutse1 (sit-ter(s))  \                      \           
+                    1 2 pilno1 (use-r(s))   3                      4            
+
+je  prami      |  | ) 
+and love-r(s)  |  | ) 
+              /  /  ) 
+              4  3  2 
+
+
+cu      << |  zutse    co      fengu        | >> gi'e << pilno  >> ( 
+is/does << |  sit-ting of-type being angry  | >> and  << us-ing >> ( 
+        <<  \                              /  >>      <<        >> ( 
+        5  6                               6  5       7         7  8 
+
+le               skami       ) ] 
+the              computer(s) ) ] 
+pilno2 (tool(s))             ) ] 
+                             8 1 
+
+
+.i  [ << |  darlu                   co      darsi              sai         | >> 
+`.' [ << |  present-ing an argument of-type show-wing audacity {strong..}  | >> 
+    [ <<  \                                                               /  >> 
+    9 10 11                                                               11 10 
+
+(  ne'i   le  dinju       )  ] 
+(  within the building(s) )  ] 
+(                         )  ] 
+12                        12 9 
+
+
+.i  za'a          [  (  le                          lisri      )  cu      << 
+`.' {I observe..} [  (  the                         story(ies) )  is/does << 
+                  [  (  ckape1 (dangerous thing(s))            )          << 
+                  13 14                                        14         15 
+
+ckape           >> (  lei                 rinju               )  ]  
+being dangerous >> (  between them the    restrained thing(s) )  ]  
+                >> (  ckape2 (harmful to)                     )  ]  
+                15 16                                         16 13 
+
+
+.i  [  (  pa                                   |  jdara'u                      
+`.' [  (  1                                    |  religion-ish-disturb-er(s)?? 
+    [  (  farna2 (thing(s) found in direction)  \                              
+    17 18                                      19                              
+
+co      |  prami     je  krici         |  | )  
+of-type |  love-r(s) and believe-r(s)  |  | )  
+         \                            /  /  )  
+        20                            20 19 18 
+
+
+cu      << |  |  dunku      bo catlu        |           
+is/does << |  |  distressed    look-ing at  | [type-of] 
+        <<  \  \                           /            
+        21 22 23                           23           
+
+se farna                  | >> (  le                    vrici                  
+being found in direction  | >> (  the                   miscellaneous thing(s) 
+                         /  >> (  farna1 (direction(s))                        
+                         22 21 24                                              
+
+)  ]  
+)  ]  
+)  ]  
+24 17 
+
+
+.i  [  << |  malsi            co      krasi            | >> (  
+`.' [  << |  being church(es) of-type being origin(s)  | >> (  
+    [  <<  \                                          /  >> (  
+    25 26 27                                          27 26 28 
+
+lo                                         |  panpi             bo stura        
+any/some                                   |  thing(s) at peace    structure(s) 
+krasi2 (object(s)/process(es) with origin)  \                                   
+                                           29                                   
+
+ | )  ]  
+ | )  ]  
+/  )  ]  
+29 28 25 
+
+
+.i  [  << |  turni      co      terpa          | >> (  
+`.' [  << |  govern-ing of-type being fearful  | >> (  
+    [  <<  \                                  /  >> (  
+    30 31 32                                  32 31 33 
+
+lo                             <  nu          [  << 
+any/some                       <  event(s) of [  << 
+terpa2 (thing(s) causing fear) <              [  << 
+                               34             35 36 
+
+se malxlura                            >> ]  >  )  ]  
+derogative form-ish-tempted thing(s)?? >> ]  >  )  ]  
+                                       >> ]  >  )  ]  
+                                       36 35 34 33 30 
+
+
+.i  bi'u                [  (  pa                 |  nanmu   co      |  
+`.' {new information..} [  (  1                  |  man/men of-type |  
+                        [  (  cusku1 (say-er(s))  \                  \ 
+                        37 38                    39                 40 
+
+krici        je  tavla       |  | )  
+believe-r(s) and talk-er(s)  |  | )  
+                            /  /  )  
+                            40 39 38 
+
+
+cu      << ca      ve'u               |  jgira       bo cusku    | >> (  
+is/does << is/does big space interval |  being proud    say-ing  | >> (  
+        <<                             \                        /  >> (  
+        41                            42                        42 41 43 
+
+lo                     bravla         )  ]  
+any/some               big word(s)(s) )  ]  
+cusku2 (said thing(s))                )  ]  
+                                      43 37 
+
+
+.i  [  << |  misno        bo sazri       | >> (  le                         |  
+`.' [  << |  being famous    operat-ing  | >> (  the                        |  
+    [  <<  \                            /  >> (  sazri2 (operated thing(s))  \ 
+    44 45 46                            46 45 47                            48 
+
+slabu              ke cradi            | )  ]  
+familiar [type-of]    broadcast-er(s)  | )  ]  
+                                      /  )  ]  
+                                      48 47 44 
+
+
+.i  ti'e       [  (  le                  nanmu   )  (  
+`.' {I hear..} [  (  the                 man/men )  (  
+               [  (  bradi1 (enemy(ies))         )  (  
+               49 50                             50 51 
+
+le                           jecta       )  cu      << bradi            >> ]  
+the                          polity(ies) )  is/does << being enemy(ies) >> ]  
+bradi2 (thing(s) with enemy)             )          <<                  >> ]  
+                                         51         52                  52 49 
+
+
+.i  za'a          [  << se jalge         >> (  le                  <  
+`.' {I observe..} [  << caus-ing outcome >> (  the                 <  
+                  [  <<                  >> (  jalge1 (outcome(s)) <  
+                  53 54                  54 55                     56 
+
+nu          [  << mrocoldandu                         >> ]  >  )  ]  
+event(s) of [  << dead-of-type??-thing(s) suspended?? >> ]  >  )  ]  
+            [  <<                                     >> ]  >  )  ]  
+            57 58                                     58 57 56 55 53 
+
+
+.i  .uo sai               [  (  le                            
+`.' {strong completion..} [  (  the                           
+                          [  (  jmaji1 (thing(s) gather-ring) 
+                          59 60                               
+
+rinju               )  cu      << |  jmaji       co      salci         | >> ]  
+restrained thing(s) )  is/does << |  gather-ring of-type celebrat-ing  | >> ]  
+                    )          <<  \                                  /  >> ]  
+                    60         61 62                                  62 61 59 
+
+
+.i  [  << |  sisti    co      zasti      | >> (  fa                   le  |  
+`.' [  << |  ceas-ing of-type exist-ing  | >> (                       the |  
+    [  <<  \                            /  >> (  zasti1 (exist-er(s))      \ 
+    63 64 65                            65 64 66                          67 
+
+remna    co      kalci      | )  ]  
+human(s) of-type excrement  | )  ]  
+                           /  )  ]  
+                           67 66 63 
+
+]]>
+</literallayout>
+</para>
+</sect2>
+</sect1>

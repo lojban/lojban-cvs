@@ -1,0 +1,12 @@
+<?xml version="1.0"?> <!-- -*- DocBook -*- -->
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "/usr/local/docbook/docbookdtd/docbookx.dtd"
+[
+<!ENTITY einf SYSTEM "einfuehrung.doc.xml">
+<!ENTITY ling SYSTEM "linguistik.doc.xml">
+<!ENTITY lorxu SYSTEM "lorxu.doc.xml">
+]>
+<book lang="de">
+&einf;
+&ling;
+&lorxu;
+</book>

@@ -1,0 +1,2082 @@
+<sect1 id="diagsumm"><title>Diagrammed Summary of Lojban Grammar &mdash; 
+<foreignphrase lang="loj">xracartu torvelski be le lojbo 
+gerna</foreignphrase></title>
+
+<para>Not yet tagged
+<literallayout>
+<![CDATA[
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+These pages give diagrammed examples of basic Lojban sentence structures.  The
+most general pattern is covered first, followed by successive variations on
+the basic components of the Lojban sentence.  There are many more capabilities
+not covered in these examples.  A brief pronunciation guide and Lojban
+glossary will be found at the end of this paper.
+
+
+                       I. THE LOJBAN SENTENCE STRUCTURE
+
+A Lojban sentence expresses a relationship (bridi), normally claiming that the
+relationship holds (that it is 'true').  A bridi relationship consists of sev-
+eral ideas or objects called arguments (sumti), which are related by a
+predicate relation (selbri).  The following uses the Lojban terms bridi,
+sumti, and selbri, because it is best to come to understand them independent
+of the English associations of the corresponding words.
+
+Some words used as sumti:
+
+   mi     I/me/my, we/us/our
+   do     you/your
+   ti     this/this-here/this one's, these/these here/these ones'
+   ta     that/that-there/that one's, those/those ones'
+   tu     that yonder, those yonder
+   zo'e   unspecified value (used when a sumti is unimportant or obvious)
+
+   sumti are not specific as to number (singular or plural), nor gender
+   (masculine/feminine/neutral).  Such distinctions can be optionally added.
+
+   Names may be expressed as sumti, labelled with "la":
+
+   la meris.   the one/ones named Mary
+   la djan.    the one/ones named John
+
+   (Other Lojban spelling versions are possible for names from other lan-
+   guages.)
+
+Some words used to indicate selbri relations:
+
+   vecnu   x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)
+   tavla   x1 (talker) talks to x2 (audience) about x3 (topic) in language x4
+   blari'o x1 (object/light source) is blue-green
+   melbi   x1 (object/idea) is beautiful to x2 (observer) by standard x3
+
+   We will describe these and other possible sumti and selbri in more detail
+   below.
+
+
+
+
+
+
+
+Conventions:
+
+   The following conventions will be used to show the structure of Lojban sen-
+   tences in diagrams:
+
+   - The selbri relation will be double-underlined.
+
+   - The sumti arguments will be single-underlined.
+
+   - Optional separator/terminator words are placed in square brackets.  They
+   may be omitted if so bracketed. The general rule is that these may be omit-
+   ted if and only if no grammatical ambiguity results.  Each such word serves
+   as an end marker for particular structures, making the overall structure of
+   the sentence very clear.
+
+Basic structure of a Lojban sentence:
+
+      sumti sumti ... sumti [cu] selbri sumti sumti ... sumti [vau]
+      ----- -----     -----      ====== ----- -----     -----
+
+   - Normally, there must be at least one sumti before the selbri.
+
+   - Each selbri relation has a specifically defined place structure that de-
+   fines the role of each sumti in the bridi relationship, based on its posi-
+   tion in order.  In the examples above, that order was expressed by la-
+   belling the positions x1, x2, x3, and x4.
+
+   - "cu" acts as a separator after at least one preceding sumti to clearly
+   mark the selbri.  As the diagram indicates, it may often be omitted.  There
+   will be examples below.
+
+   - "vau" goes at the end of the sentence, indicating that no more sumti will
+   follow.  It usually may be omitted.
+
+Sentence examples:
+
+      mi       [cu] vecnu  ti            ta       zo'e    [vau]
+      --            =====  --            --       ----
+      seller-x1     sells  goods-sold-x2 buyer-x3 price-x4
+      I             sell   this          to that  for some price.
+      I sell this-thing/these-things to that-buyer/those-buyers.  (The price
+      is obvious or unimportant.)
+
+   - Both the "cu" and the "vau" are optional in this example and could be
+   omitted:
+
+   - When an unspecified sumti ("zo'e") is at the end of a sentence, it may be
+   omitted.
+
+   - Normally, there will be one sumti (the x1) before the selbri.  There may
+   be more than one:
+
+      mi        ti           [cu] vecnu ta      [vau]
+      --        --                ===== --
+      seller-x1 goods-sold-x2     sells buyer-x3
+      I         this              sell  to that.
+      Translates as stilted or poetic English:
+      I, this thing, do sell to that buyer.
+
+
+   Usually, more than one sumti before the selbri will be for style or for em-
+   phasis on the sumti that are out-of-place from their normal position.
+   (Native speakers of languages other than English may prefer such orders.)
+
+Observatives:
+
+   If there is no sumti before the selbri, then it is understood that the x1
+   sumti value is equivalent to "zo'e"; i.e. unimportant or obvious, and
+   therefore omitted.  Any sumti after the selbri start counting from x2, x3,
+   x4 ...:
+
+      ta            [cu] melbi       [vau]
+      --                 =====
+      object/idea-x1     is-beautiful     (to someone by some standard)
+      That/Those         is/are beautiful.
+      That is beautiful.  (or)  Those are beautiful.
+
+   When the x1 is omitted:
+
+                    melbi        [vau]
+      ------------  =====
+      (Unspecified) is-beautiful (to someone by some standard)
+      melbi
+      Beautiful!  (or)  It's beautiful!
+
+   Omitting the x1 adds emphasis to the selbri relation, which has become
+   first and foremost in the sentence.  This kind of sentence is termed an ob-
+   servative, because it is usually stated by someone when they first observe
+   or take note of the relation, and wish to quickly communicate it to someone
+   else.  Commonly understood English observatives include "Smoke!" upon see-
+   ing smoke or smelling the odor, or "Car!" to a person crossing the street
+   who might be in danger.  Any Lojban selbri can be an observative if no
+   sumti appear before the selbri.
+
+   "cu" does not occur in an observative; "cu" is a separator, and there must
+   be a sumti before the selbri that needs to be kept separate, for it to be
+   used.  With no sumti preceding the selbri, "cu" is not permitted.
+
+True/false (yes/no) questions (the word "xu"):
+
+   xu question sentence (Is-it-true-that...):
+
+      xu          mi [cu] vecnu ti   ta  [vau]
+                  --      ===== --   --
+      Is-it-true? I       sell  this that.
+      Is-it-true-that I sell this to that?
+
+   "xu" has a very unrestricted grammar, and is permitted virtually anywhere
+   in a sentence.  At the beginning of the sentence, "xu" asks about the truth
+   of the bridi relationship.  Elsewhere, in a sentence, "xu" attaches to the
+   immediately preceding word (or the structure implied by that preceding
+   word, when it is the marker for a structure).  Thus, also after the "vau"
+   ending the sentence, "xu" asks about the entire bridi (the "vau" cannot be
+   omitted if "xu" is to appear 'after' it).
+
+
+
+
+
+
+   "xu" appearing after a sumti questions whether the bridi relationship ex-
+   pressed by the sentence is true, in particular for that sumti value:
+
+      mi [cu] vecnu ti   xu          ta   [vau]
+      --      ===== --   <-          --
+      I       sell  this Is-it-true? that.
+      Is-it-true-that I sell THIS (as opposed to something else) to that?
+
+   Similarly, "xu" following "vecnu" in the above example would question the
+   truth of the bridi relationship by specifically asking whether "sell" is a
+   true relation between the sumti.
+
+   We will discuss how to answer a "xu" true/false question below in the sec-
+   tion on selbri.
+
+Varying sumti order:
+
+   There are ways to vary the order of sumti from the numerical order speci-
+   fied by the place structure.  A sumti may be placed out of numerical order
+   by labelling it in front with a tag indicating the actual place structure
+   numerical position of the sumti.  The structure is thus of the form "fi
+   sumti" (where the "fi" category word shows which of the existing sumti
+   places is being used, by number:
+
+   fa/1st sumti - x1       fe/2nd sumti - x2       fi/3rd sumti - x3
+   fo/4th sumti - x4       fu/5th sumti - x5
+
+   One reason for using these tags is to skip a place structure place without
+   having to insert a "zo'e" for each skipped place:
+
+      mi    [cu] tavla fo  la lojban. [vau]
+      --         ===== .>  ----------
+      talker     talk  x4= language
+      I          talk  in-language Lojban.
+      I talk in Lojban (to someone about some topic).
+
+   which is equivalent to:
+
+      mi    [cu] tavla zo'e           zo'e              la lojban. [vau]
+      --         ===== ----           ----              ----------
+      talker     talk  audience       topic             language
+      I          talk  to unspecified about unspecified in Lojban.
+      I talk in Lojban (to someone about some topic).
+
+   After a "fi" tag sets the place number, any later sumti places continue the
+   numbering consecutively:
+
+      mi    [cu] tavla fi ta      la lojban. [vau]
+      --         ===== .> --      ----------
+      talker     talk  x3=topic   language-x4
+      I          talk  about that in-language Lojban.
+      I talk about that in Lojban (to someone unspecified).
+
+
+
+
+
+
+
+
+   Another reason to use "fi" tags is to change emphasis; listeners focus most
+   closely on the sumti at the beginning of a sentence.
+
+      fi la lojban. [cu] tavla fa mi     do         [vau]
+      .> ----------      ===== .> --     --
+      x3=topic           talk  x1=talker audience-x2
+      About Lojban       talk  I         to you.
+      It's Lojban, that I talk to you about (in an unspecified language).
+
+   There are other ways of rearranging the sumti of a sentence that will be
+   discussed below.
+
+   Note that in all examples where a sumti is omitted, the Lojbanist remembers
+   that there is an unspoken and unspecified value for each of the omitted
+   place structure places.
+
+   An observative can be formed by using "fa" to move the first (x1) sumti to
+   the position after the selbri.
+
+      melbi      fa ti   [vau]
+      =====      .> --
+      beautiful  x1=this
+      Beautiful  this-is (to someone by some standard).
+      Beautiful, it is!
+
+Basic structure of an utterance:
+
+   People don't always say just one sentence.  Lojban has a specific structure
+   for talk or writing that is longer than one sentence.  The entirety of a
+   given speech event or written text is called an utterance.
+
+      sentence .i sentence .i sentence [...] .i sentence
+      ni'o sentence .i sentence .i sentence .i sentence [...] .i sentence
+      ni'o sentence .i sentence [...] .i sentence
+      [fa'o]
+
+   "ni'o" separates paragraphs (covering different topics of discussion).  In
+   a long text or utterance, the topical structure of the text may be indi-
+   cated by multiple "ni'o"s, with perhaps "ni'oni'oni'o" used to indicate a
+   chapter, "ni'oni'o" to indicate a section, and a single "ni'o" to indicate
+   a subtopic corresponding to a single English paragraph.
+
+   ".i" separates sentences.  ".i" is sometimes compounded with words that
+   modify the exact meaning (the semantics) of the sentence in the context of
+   the utterance.  ("xu", discussed above, is one such word - it turns the
+   sentence from a statement to a question of truth.)  When more than one per-
+   son is talking, a new speaker will usually omit the ".i" even though she/he
+   may be continuing on the same topic.  It is still OK for a new speaker to
+   say the ".i" before continuing; indeed it is encouraged for maximum clarity
+   (since it is possible the 2nd speaker might merely be adding words onto the
+   end of the first speaker's sentence).  A good translation for ".i" is the
+   "and" used in run-on sentences when people are talking informally:  "I did
+   this, and then I did that, and ..., and ...".
+
+   "fa'o" is an optional end-of-utterance marker, used primarily in computer
+   input.  It is not needed in human speech.
+
+
+
+
+   You may now see why the "vau" at the end of the sentence can generally be
+   omitted.  Since the following word will usually be an ".i" or a "ni'o"
+   starting a new sentence or paragraph, there is no possibility of ambiguity.
+   These separators prevent the sumti at the beginning of the next sentence
+   from being mistaken as a trailing sumti of this sentence.
+
+Punctuation:
+
+   Note that Lojban has no mandatory punctuation marks.  Because Lojban speech
+   EXACTLY matches the written text representing that speech, all
+   'punctuation' that is used in English to show sentence structure, ques-
+   tions, exclamations or tone of voice, and even quotations must be expressed
+   in Lojban as actual words that are spoken.
+
+   The apostrophe (') is a letter representing a sound in the language.
+
+   The period (.) is an optional reminder to the reader that a pause (which
+   may be very short) is required between sounds at that point.  These may be
+   omitted, but are almost always printed.
+
+   Capitalization indicates unusual stress in the pronunciation of a name from
+   a language other than Lojban.  It is NOT used at the beginning of a sen-
+   tence.
+
+   Commas (,) indicate unusual syllable breaks in pronunciation of a name or
+   other word.
+
+   There are some optional conventions that allow certain punctuation symbols
+   to appear to clarify printed text, making it easier to read.  These punctu-
+   ation symbols ALWAYS appear associated with the printed word representing
+   that punctuation symbol.  Thus a "xu" question may be marked with a ques-
+   tion mark immediately after the "xu" (or immediately before the "xu", pos-
+   sibly inverted, like the Spanish punctuation style).  Other questions may
+   similarly be marked with a question mark after the word indicating the
+   question - NOT at the end of the sentence.  There are words that may be as-
+   sociated with exclamation points, start of quotation (represented by "<<")
+   and end of quotation (">>").
+
+
+                 II. THE BASIC COMPONENTS (sumti AND selbri):
+
+We now discuss the substructures of the basic components that make up a sen-
+tence.  Any variety of selbri may be placed in a sentence, or another
+substructure below that mentions 'selbri'.  Likewise, any variety of sumti may
+be placed in a sentence, or another substructure below that mentions 'sumti'.
+You may see that this can optionally lead to extremely complicated structures
+nested within one another.  Lojban's unambiguous grammar allows even these
+most complicated structures to be untangled in only one way.
+
+
+                               A. SIMPLE sumti
+
+sumti are not specific as to number (singular or plural), nor gender
+(masculine/feminine/neutral).  Such distinctions can be optionally expressed
+by being specific.
+
+
+
+
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+"pronoun" sumti:
+
+   These include the single-word sumti given above:
+
+      mi            I/we
+      do            you
+      ti            this/these
+      ta            that/those
+      tu            that/those-yonder
+      zo'e          something unspecified (it's either obvious or unimportant)
+
+   Some other words in this category include:
+
+      ri            he/she/it (the-last-referenced-sumti)
+      ko            imperative you
+      ko'a          it/he/she/they (a specific value)
+      di'u          it/this (the last sentence)
+
+   There are many others, each with a particular meaning.  For example, there
+   are 9 other words related to "ko'a".  Each may be used to represent a sepa-
+   rate value of "it".  Since Lojban has no gender or number, these 10 words
+   represent "he", "she", and "they" as well, and it becomes more clear why so
+   many are needed.
+
+   "zo'e" is a place-filler allowing you to skip over a sumti place in the or-
+   dered place structure without specifying a value.  The speaker indicates
+   that there is a value, but that it is not important to specify it, or that
+   the speaker thinks it is obvious given the context.
+
+      do [cu] tavla zo'e   ti        [vau]
+      --      ===== ----   --
+      You     talk         about this.
+      You talk about this. (to someone, in some language)
+
+   "ri" is a quick back-reference sumti.  It may have a new ad-hoc meaning ev-
+   ery time it occurs.  The rules for counting back to 'the last sumti' in-
+   clude some special cases that can't be covered in this summary, but in most
+   simple sentences, the referent will be obvious.  There are two other back-
+   referencing sumti of this type.
+
+      mi [cu] tavla fi la lojban.   ri              [vau]
+      --      ===== .> ----------   --
+      I       talk  x3=about-Lojban in-it(Lojban)-x4.
+      I talk about Lojban in Lojban (to someone unspecified.)
+
+   "ko" is used to express commands.  A statement with "ko" can be interpreted
+   by replacing the "ko" with "do", and then taking the result as a command to
+   the listener to make the sentence true for himself/herself as "do":
+
+      ko        [cu] tavla mi   [vau]
+      --             ===== --
+      You (imp.)     talk  to-me.
+      Talk to me!
+
+   is the command equivalent of:
+
+      do        [cu] tavla mi   [vau]
+      --             ===== --
+      You            talk  to-me.
+      You talk to me.
+
+   "ko" need not be in the first position, but rather can occur anywhere a
+   sumti is allowed, leading to possible Lojban commands that are very unlike
+   English commands:
+
+      mi [cu] tavla ko                  [vau]
+      --      ===== --
+      I       talk  to-you (imperative).
+      Let me talk (to you)!
+
+   "ko" is even permitted to occur in more than one place in a sentence, al-
+   lowing for meaning-rich commands like:
+
+      ko        [cu] tavla ko                 [vau]
+      --             ===== --
+      You (imp.)     talk  to-you (imperative).
+      Talk to yourself!
+
+   The English misses some of the meaning, since the Lojban expresses two com-
+   mands at once: that the listener talk to himself, but also that the lis-
+   tener allow himself to be talked-to (by himself).
+
+Names ("la name"):
+
+   Lojban names always end with a consonant followed by a mandatory pause
+   (which may be very short).  No other Lojban word ends with a consonant.
+   Thus names are easily recognized by both their form, and by being marked
+   with "la".
+
+      do [cu] tavla   la .an. ti        [vau]
+      --      ======= ------- --
+      You     talk-to Ann     about this.
+      You talk to Ann about this.
+
+question sumti ("ma"):
+
+   "ma" indicates a question about the value of a sumti.  It is answered by
+   'filling in the blank', replacing the "ma" with the intended sumti value.
+   It can be translated as "Who?" or "What?" in most cases, but also serves
+   for "When?", "Where?", and "Why? when used in sumti places that express
+   time, location, or cause.
+
+      ma  [cu] tavla do    [vau]
+      --       ===== --
+      __?      talks to-you.
+      What/Who talks to you?
+
+   is answerable by:
+
+      mi [cu] tavla do [vau]
+      --      ===== --
+      I talk to you.
+
+   Like "ko", "ma" can occur in any position where a sumti is allowed, not
+   just in the first position.:
+
+      do [cu] tavla ma [vau]
+      --      ===== --
+      You talk to what/whom?
+
+   "ma" can also appear in multiple sumti positions in one sentence, in effect
+   asking several questions at once.
+
+      ma [cu] tavla ma [vau]
+      --      ===== --
+      What/Who talks to what/whom?
+
+   The two separate "ma" positions ask two separate questions, and can there-
+   fore be answered with different values in each sumti place.
+
+Description sumti ("le selbri [ku]"):
+
+   "le" describes a sumti that the speaker has in mind by describing a bridi
+   relationship that it forms the first (x1) sumti of.  This bridi is repre-
+   sented by a selbri (e.g., one of the words described earlier in this pa-
+   per).  Description sumti phrases have a terminator on the right side, "ku",
+   which is omitted when no ambiguity results.
+
+      mi [cu] tavla   le vecnu [ku] le blari'o [ku]           [vau]
+      --      =====   ------------- ---------------
+      I       talk-to the seller    about the blue-green-thing.
+
+   "le vecnu" takes the selbri "vecnu", which has the "seller" in the x1
+   place, and uses it in this sentence to describe a particular "seller" that
+   the speaker has in mind (one that she probably expects the listener will
+   also know about).  Similarly, the speaker has a particular blue-green thing
+   in mind, which is described using "le" to mark "blari'o", a selbri whose
+   first sumti is something blue-green.
+
+   There are many variations on "le sumti [ku]" constructs, but to discuss
+   them, we must first discuss the more complex structures of selbri.
+
+
+                             B. selbri STRUCTURE
+
+Though Lojban sentences often translate word-for-word into fairly clear En-
+glish, selbri relations are actually quite unlike English.  The selbri "bajra"
+expresses a relation of running.
+
+      sumti  bajra     sumti      sumti       sumti
+      -----  =====     -----      -----       -----
+      runner [running] on-surface using-limbs with-gait
+
+   In some sentence positions, "bajra" might be interpreted as the 'verb' "to
+   run"; in other positions, "running".  In "le sumti [ku]", described in the
+   preceding section, it represents the 'noun' interpretation of its x1 sumti
+   place:  "runner".  (Some English words, like "cook", have similar proper-
+   ties, but the analogy is weak.)
+
+brivla:
+
+   The simplest form of selbri is an individual word.  A word which may by it-
+   self express a selbri relation is called a brivla.  The three types of
+   brivla are gismu (root words), lujvo (compounds), and le'avla (borrowings
+   from other languages).  All have identical grammar; they are allowed wher-
+   ever "selbri" appear in these examples.
+
+
+
+
+   gismu:
+
+      mi   [cu] klama ti          zo'e   zo'e  ta   [vau]
+      --        ===== --          ----   ----  --
+      Go-er     goes  destination origin route means.
+      I go here (to this) using that means. (from somewhere via some route).
+
+   lujvo:
+
+      ta  [cu] blari'o [vau]
+      --       =======
+      That    is-blue-green.
+
+   le'avla:
+
+      ti  [cu] djarspageti [vau]
+      --       ===========
+      This     is-spaghetti.
+
+   Some short words may serve as selbri, acting as variables that stand for
+   another selbri.  The most commonly used of these is "go'i", which repre-
+   sents the main bridi of the previous Lojban sentence, with any new sumti or
+   other sentence features being expressed replacing the previously expressed
+   ones.  Thus, in this context:
+
+      ta  [cu] go'i                   [vau]
+      --       ====
+      That     too/same-as-last selbri.
+      That (is spaghetti), too.
+
+   The word "go'i", by itself, by repeating a bridi marked as a "xu"
+   true/false question, repeats that bridi, thereby claiming it is true.
+   Thus, in this sense only, "go'i" can mean "yes".  "xu" questions can also
+   be answered "yes" by repeating the entire sentence in full, but "go'i" is
+   much easier to say.
+
+      xu ta [cu] blari'o [vau]
+         --      =======
+      Is-it-true-that that is-blue-green?
+
+      go'i                   [vau]
+      ====
+      True.  (repeats "That is blue green.")
+
+contradictory negation ("na selbri"):
+
+   The negation particle "na" can occur at the beginning of any selbri.  It
+   says that the relation claimed by the selbri does not hold (contradictory
+   negation).  It may often be translated as "It is false that [English sen-
+   tence]".
+
+      mi [cu] na klama ti ta [vau]
+      --      nn>===== -- --
+      It is false that I go to this from that.
+
+   The "na" is only permitted at the beginning of a complete selbri.  It is
+   considered part of the selbri in other constructs in the language, but is
+   restricted from other positions within a tanru (discussed below).
+
+
+   If the contradictory negation particle na precedes "go'i", the combination
+   "na go'i" denies the relation claimed by "go'i".  Thus, after a "xu"
+   true/false question, "na go'i" expresses the answer "False", or "No".
+
+      mi [cu] ja'a go'i [vau]
+      --      pppp>====
+      It is TRUE that I do (go to this from that).
+
+   If you were to use "go'i" after a sentence that contained a "na" contradic-
+   tory negation, the negation would carry over to the repeated sentence.  Un-
+   like English, "na go'i" would NOT form a double negative; it merely re-
+   places the "na" by another "na" leaving the sentence unchanged.  Instead,
+   you must cancel a negative by using the positive equivalent of "na"
+   ("ja'a") to replace the previous sentence "na":
+
+scalar negation ("na'e-word brivla"):
+
+   "na" deals primarily with the truth or falsity of a bridi.  Lojban also
+   supports a separate form of negation, called contrary or scalar negation.
+   A scalar negation attaches tightly to the next brivla of the selbri, modi-
+   fying the meaning of the word on some scale.  Scalar negation structures
+   may appear anywhere where 'brivla' or 'selbri' is allowed.  Scalar negation
+   words include "na'e" (other-than), "to'e" (absolute opposite-of), and
+   "no'e" (neutral on the scale); "je'a" is a strong positive scale assertion,
+   translating roughly as "certainly" or "indeed":
+
+    |----------- POSITIVE ------------|------------ NEGATIVE -----------|
+   je'a                              no'e             na'e             to'e
+
+   Examples:
+      mi [cu] melbi [vau]
+      --      =====
+      I am beautiful.
+
+      mi [cu] na'e melbi [vau]
+      --      ==========
+      I am other-than beautiful.
+
+      mi [cu] to'e melbi [vau]
+      --      ==========
+      I am ugly/opposite-of-beautiful.
+
+      mi [cu] no'e melbi [vau]
+      --      ==========
+      I am plain/neutral on the beauty-ugliness scale.
+
+      mi [cu] je'a melbi [vau]
+      --      ==========
+      I am indeed beautiful.
+
+question selbri ("mo"):
+
+   "mo", like its sumti relative "ma", is a fill-in-the-blank question.  It
+   asks the respondent to provide a selbri that would be a true relation if
+   inserted in place of the "mo":
+
+      do [cu] mo [vau]
+      --      ==
+      You are-what/do-what?
+
+   "mo" may be used ANYWHERE a brivla or other selbri might.  Keep this in
+   mind for later examples.  Unfortunately, by itself, "mo" is a very non-spe-
+   cific question.  The response to the above question could be:
+
+      mi [cu] melbi [vau]
+      --      =====
+      I am beautiful.
+
+   or:
+
+      mi [cu] tavla [vau]
+      --      =====
+      I talk.
+
+   Clearly, "mo" requires some cooperation between the speaker and the respon-
+   dent to ensure that the right question is being answered.  If context
+   doesn't make the question specific enough, the speaker must ask the ques-
+   tion more specifically using a more complex construction such as tanru
+   (below).
+
+   It is perfectly permissible for the respondent to fill in other unspecified
+   places in responding to a "mo" question.  Thus, the respondent in the last
+   example could have also specified an audience, a topic, and/or a language
+   in the response.
+
+Conversion ("se-word brivla"):
+
+   "se" and others in its word-category modify a brivla used in a selbri by
+   changing the order of the sumti that are attached, resulting a new selbri
+   that expresses the same relation, but with different order of emphasis.
+   "se" exchanges the first and second sumti places of the unmodified brivla.
+   This reversal is called conversion.
+
+   The bridi sentence:
+
+      do       [cu] vecnu ta            mi       zo'e    [vau]
+      --            ===== ----          --       ----
+      seller-x1     sells thing-sold-x2 buyer-x3 price-x4
+      You sell that to me.
+
+   can be converted to:
+
+      ta           [cu] se vecnu   do        mi       zo'e    [vau]
+      --                ========   --        --       ----
+      thing sold-x1     is-sold-by seller-x2 buyer-x3 price-x4
+      That is sold by you to me.
+
+   The effect is similar to what in English is called 'passive voice'.  In
+   Lojban, however, a conversion is NOT 'passive':  the converted selbri has a
+   place structure that is renumbered to reflect the place reversal, thus
+   having effects when such a conversion is used in combination with other
+   constructs (such as "fi" and "le selbri [ku]").
+
+
+
+
+
+
+
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+   The other simple relatives of "se" are "te" (switches 1st and 3rd places),
+   "ve" (switches 1st and 4th places), and "xe" (switches 1st and 5th places).
+   The effects may be seen on the 5-place gismu selbri "klama":
+
+      GO-ER  goes   to destination  from origin  via route  using means
+      -----  =====  --------------  -----------  ---------  -----------
+        x1   klama        x2             x3          x4          x5
+
+      DESTINATION  is-gone-to  BY GO-ER  from origin  via route  using means
+      -----------  ==========  --------  -----------  ---------  -----------
+           x1      se klama       x2          x3          x4          x5
+
+      ORIGIN  is-gone-from  to destination  BY GO-ER  via route  using means
+      ------  ============  --------------  --------  ---------  -----------
+        x1    te klama             x2          x3         x4          x5
+
+      ROUTE  is-gone-via  to destination  from origin  BY GO-ER  using means
+      -----  ===========  --------------  -----------  --------  -----------
+        x1   ve klama            x2            x3         x4          x5
+
+      MEANS  is-used-to-go  to destination  from origin  via route  BY GO-ER
+      -----  =============  --------------  -----------  ---------  --------
+        x1   xe klama              x2            x3          x4        x5
+
+tanru ("modifier-selbri modified-selbri"):
+
+   tanru are compound selbri - constructions of multiple brivla/selbri com-
+   ponents.  Each component might be a single word, or it might be a word
+   modified by "se", or scalar negations (like "na'e").  tanru take selbri
+   components (including other tanru) in pairs, with the first part modifying
+   the second part.
+
+   The kind of modification is vague:  tanru may act like an English ad-
+   jective-noun (fast-runner), adverb/verb (quickly-run) or it may restrict a
+   larger set (runner-shoes).  Context will generally indicate what is a
+   plausible interpretation of a tanru.  But allow for creative interpreta-
+   tion:  "runner-shoes" might be interpreted in some imaginative instances as
+   "shoes that run by themselves".  In general, however, the meaning of a
+   tanru is determined by the literal meaning of its components, and not by
+   any connotations or figurative meanings (sutra tavla - "fast-talker" thus
+   would not necessarily imply any trickery or deception, and a "jikca toldi"
+   - "social butterfly" must always an insect with large brightly-colored
+   wings, of the family lepidoptera).
+
+   The place structure of a tanru is always that of the final brivla/component
+   of the tanru.  Thus, the following has the place structure of "klama":
+
+      mi [cu] sutra klama la meris. [vau]
+      --      =========== ---------
+      I quickly-go to Mary.
+
+   With the conversion "se klama" in the final position, the place structure
+   is that of "se klama": the x1 place is the destination, and the x2 place is
+   the go-er:
+
+      mi [cu] sutra se klama la meris. [vau]
+      --      ============== ---------
+      I quickly am-gone-to by Mary.
+
+
+   A similar example shows that there is more to conversion than merely
+   switching places, though:
+
+      la tam. [cu] melbi tavla la meris. [vau]
+      -------      =========== ---------
+      Tom beautifully-talks to Mary.  or  Tom is a beautiful-talker to Mary.
+
+   has the place structure of "tavla", but note the two distinct inter-
+   pretations.
+
+   Now, using conversion, we can modify the place structure order:
+
+      la meris. [cu] melbi se tavla la tam. [vau]
+      ---------      ============== -------
+      Mary is beautifully-talked-to by Tom.  or  Mary is a beautiful-audience
+      for Tom.
+
+   and we see that the modification has been changed so as to focus on Mary's
+   role in the bridi relationship, leading to a different set of possible
+   interpretations.
+
+   Note that there is no place structure change if the modifying term is
+   converted, and hence less drastic variation in possible meanings:
+
+      la tam. [cu] tavla melbi la meris. [vau]
+      -------      =========== ---------
+      Tom is talkerly-beautiful to Mary.
+
+      la tam. [cu] se tavla melbi la meris. [vau]
+      -------      ============== ---------
+      Tom is audiencely-beautiful to Mary.
+
+   and we see that the manner in which Tom is seen as beautiful by Mary
+   changes, but Tom is still the one perceived as beautiful, and Mary, the
+   observer of beauty.
+
+   Any selbri form can be used in either position of a tanru.  This allows
+   more specific "mo" questions:
+
+      do [cu] mo tavla mi [vau]
+      --      ======== --
+      You are _____(what?)-kind-of talker to me?
+
+      do [cu] tavla mo mi [vau]
+      --      ======== --
+      You are talker-ly _____(what?) to me?
+
+   It was stated above that you can use scalar negation ("na'e" and its
+   equivalents) in tanru:
+
+      do [cu] na'e sutra tavla [vau]
+      --      ================
+      You are an other-than-quick talker. (or)  You are a slow talker.
+
+      do [cu] sutra na'e tavla [vau]
+      --      ================
+      You are quickly other-than-talking. (or)
+      You are doing something other-than-talking, quickly.
+
+
+quantified selbri ("number moi"):
+
+   Lojban numbers are expressed as strings of digits.  The basic digits are:
+
+      pa   re   ci   vo   mu            xa   ze   bi   so   no      pi
+      1    2    3    4    5             6    7    8    9    0       .
+
+   number moi (usually seen combined into one word) (ordinal numbers):
+
+      le tavla [ku] cu ci moi [vau]
+      -------------    ======
+      The talker is third.
+
+   number mei (usually seen combined into one word) (cardinal numbers):
+
+      le tavla [ku] cu ci mei [vau]
+      -------------    ======
+      The talkers are a-threesome.
+
+   number si'e (usually seen combined into one word) (portional numbers):
+
+      le blari'o [ku] cu pimu si'e [vau]
+      ---------------    =========
+      The blue-green (things) are a .5 portion (a half).
+
+   number cu'o (usually seen combined into one word) (probability numbers):
+
+      le blari'o [ku] cu pimu cu'o [vau]
+      ---------------    =========
+      The blue-green (occurrences) are a .5 probability (a half).
+
+   Note the interpretation of x1 in the last example, which is a result of the
+   place structure of probability numbers.  Each of these special kinds of
+   selbri have other places besides the x1 sumti that appear in these
+   examples.
+
+   number selbri may also be used as part of a tanru:
+
+      mi [cu] papa moi tavla do [vau]
+      --      ============== --
+      I am the 11th talker to you.
+
+   The place structure again is that of the final component of the tanru.
+
+Attaching internal sumti to a selbri:
+
+   Each component of a tanru is not merely a single-word brivla, but a rep-
+   resentation of an entire bridi relationship.  Lojban grammar allows the
+   sumti that complete and define that bridi to be combined into the selbri.
+   Combined sumti are called internal sumti.  We'll first show the structure
+   of such a complex selbri component:
+
+     brivla/selbri be sumti [bei sumti][bei sumti] ... [bei sumti] [be'o]
+
+
+
+   where the sumti attached with "be" is normally x2, and other sumti are
+   optionally attached in numerical order (x3, x4, x5), each preceded by the
+   marker "bei".  "be'o" is the end-marker for internal sumti, appearing after
+   the last internal sumti for a brivla or other selbri.  Let's now look at
+   one way that this construct is used.
+
+tanru with internal sumti:
+
+   Using the internal sumti structure, any of the components of a tanru can
+   have its own sumti:
+
+      ta [cu] tavla be do   bei le melbi ku [be'o] vecnu [vau]
+      --     |     |   --| |    -----------       |
+             |      -----   ----------------------|
+              ====================================
+      That is a talker-to-you-about-the-beautiful-thing(s) salesperson.
+      (or, more simply)
+      That's a salesperson who talks to you about beautiful things.
+
+   In compound constructs such as this one, the normally optional elidable
+   [omissible] right terminators may be mandatory to keep the sentence un-
+   ambiguous.  Thus, in this last example, either the "ku" or the "be'o" must
+   not be elided ["ku" was chosen arbitrarily].  Otherwise, "vecnu" is
+   absorbed into the internal sumti:
+
+      ta [cu] tavla be do   bei le melbi vecnu [ku] [be'o] [vau]
+      --     |     |   --| |    -------------------       |
+             |      -----   ------------------------------|
+              ============================================
+      That is a talker-to-you-about-the-beautiful-salesperson. (or)
+      That one talks about beautiful salespeople to you.
+
+   Obviously, a different statement.  In Lojban, you MUST be careful about
+   properly including terminators when needed.  If in doubt, include the
+   terminator; the statement CANNOT be ambiguous with the terminator present.
+
+   In the last example, by omitting the elidable terminators "ku" and "be'o",
+   we ended up with sumti attached to the selbri word in final position.  The
+   latter sentence is thus identical in meaning to the same sentence expressed
+   without internal sumti:
+
+      ta [cu] tavla do le melbi vecnu [ku] [vau]
+      --      ===== -- -------------------
+      That is a talker-to-you-about-the-beautiful-salesperson. (or)
+      That one talks about beautiful salespeople to you.
+
+   Internal sumti can use any sumti construct, including the fa/fe/fi/fo/fu
+   series to rearrange place orders:
+
+      ta [cu] tavla be do   bei fo la lojban. [be'o] vecnu [vau]
+      --     |     |   --| |    -------------       |
+             |      -----   ------------------------|
+              ======================================
+      That is a talker-to-you-in-Lojban salesperson. (or, more simply)
+      That's a salesperson who talks to you in Lojban.
+
+
+
+
+
+tanru inversion ("modified-selbri co modifier-selbri")
+
+   We rephrased the English translations of the Lojban in the last two ex-
+   amples in order to simplify the English structure and make the sentence
+   more clear.  The same type of rearrangement is possible in Lojban.  The
+   technique is called tanru inversion.  The modifier selbri is placed AFTER
+   the modified one, with a "co" separating them:
+
+          modified-selbri co modifier-selbri
+   The "co" can often be translated as "of type".
+
+   tanru inversion affects the interpretation of sumti that are in the sur-
+   rounding bridi relationship in a peculiar manner.  The inversion causes a
+   new brivla to be in the final position, and any following sumti are
+   interpreted as being associated with that final brivla of the modifier-
+   selbri.  The sumti PRECEDING the selbri still are associated with the final
+   term of the modified-selbri, because that is the most essential relation
+   that is being claimed by the sentence.
+
+   One obvious advantage of tanru inversion is to simplify the apparent
+   structure of a selbri.  As we have said, the selbri in the final position
+   does not need to use internal sumti structures to attach its sumti.  The
+   first of the examples above that use internal sumti becomes the simpler:
+
+      ta [cu] vecnu co tavla do le melbi [ku] [vau]
+      --      ============== -- -------------
+      That is a seller of-type talker to you about the beautiful thing(s).
+      (or)
+      That's a salesperson who talks to you about beautiful things.
+
+   "do" and "le melbi [ku]" are the x2 and x3 places of "tavla", while "ta"
+   remains the x1 of the underlying modified-relation, which is "vecnu".
+
+   The resulting Lojban now matches the colloquial English phrasing more
+   closely, and the sentence is simpler since it does not require the complex
+   marker system needed for internal sumti within the selbri.
+
+   All of the forms of selbri listed in this section are governed by rules
+   that form a hierarchy.  The most complex constructs are those using rules
+   higher in the hierarchy.  In general, constructs built from higher rules
+   cannot be used inside lower-rule constructs.  This hierarchy of rules is
+   the primary reason why Lojban's grammar is unambiguous.
+
+   Inversion of tanru uses rules which are highest in the hierarchy, thus
+   allowing you to invert almost all other selbri constructs.  However, this
+   means that you also CANNOT substitute a tanru inversion into very many
+   other constructs within a selbri.
+
+selbri grouping in tanru:
+
+   tanru may be composed of more than two components, any of which may be more
+   complex than the simple brivla and/or other selbri structures discussed
+   above.  Lojban allows complex tanru structures to be unambiguously
+   expressed, so that any such complex structure can be broken down into a
+   series of modifier-modified pairs.  We present two of the variety of ways
+   to express more complex groupings.
+
+
+
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+   In the absence of any grouping indications, components in tanru are pre-
+   sumed grouped from the left:
+
+      ti [cu] cmalu nanla ckule [vau]
+      --      =================
+      This    is-a small-boys school.  (This is a school for small boys.)
+
+   But what if we want to group this selbri so as to talk about a "boys
+   school" which is small.  One way is with tanru inversion:
+
+      ti [cu] nanla ckule co cmalu [vau]
+      --      ====================
+      This    is-a boys school of-type small.  (This is a boys school which is
+      small.)
+
+   tanru inversion can work for many simple grouping problems.  However, since
+   it changes the final brivla, it affects the interpretation of any sumti
+   following the selbri.  There is a more general solution that does not
+   affect which selbri is in final position, a choice that might be important
+   because of the structural markers required.
+
+   Any selbri, or any portion of a tanru that could stand alone as a selbri,
+   may be surrounded with word-brackets "ke" (left) and "ke'e" (right) to
+   indicate priority in grouping.  Normally, you will only use ke/ke'e
+   grouping around strings of two or more selbri components, since the
+   structure conveys no useful information around a single component.  At the
+   end of the selbri and in other places where no ambiguity results, the
+   "ke'e" terminator becomes optional (elidable):
+
+      ti [cu] cmalu ke nanla ckule [ke'e] [vau]
+      --      ===========================
+      This    is-a small boys-school.
+
+   A selbri structure surrounded by "ke" and "ke'e" has the same grammar as a
+   single word brivla.  As a result, you can modify such structures with
+   "na'e" and other scalar negation words, or with "se" and other conversion
+   words:
+
+      ti [cu] cmalu na'e ke nanla ckule [ke'e] [vau]
+      --      ================================
+      This    is-a small other-than-(boys-school).
+
+abstraction selbri:
+
+   The final selbri form we will cover in this paper isn't found very often in
+   selbri in its most basic form.  However, it turns out to be one of the most
+   important constructs in the language, showing up frequently as a part of
+   more complex structures.  This selbri form is called sentence abstraction.
+   The basic form is:
+
+     nu-word complete-bridi-sentence [kei]
+
+   where the bridi sentence inside the two markers can be a Lojban sentence of
+   ANY type discussed in this paper, no matter how complex.  The word "nu"
+   indicates an event abstraction, the most common kind of abstraction found
+   in Lojban.
+
+
+
+
+      ti       [cu]  nu  mi    [cu] tavla do         [vau] [kei] [vau]
+      --            |    --         ===== --                    |
+                    |    talker     talks to-audience           |
+                    |    I          talk  to you.               |
+      --------       ===========================================
+      event-x1       event-of "I talk to you."
+      This is an event of my talking to you.
+
+   The term 'event' should not be misconstrued.  In Lojban, it can refer to a
+   momentary occurrence, or to a situation lasting hours, days, or even an
+   indefinite period of time.  "nu" can stand for any of these kinds and dura-
+   tions of events.  Other words may substitute for "nu" when you need to be
+   specific and indicate particular event contours, such as a point event in
+   time (mu'e) or a steady, unchanging state (za'i) of indefinite duration.
+
+   There are other types of abstractions, as well, each indicated by words
+   that substitute for "nu".  The most common of these are "ka" for a prop-
+   erty/quality abstraction and "du'u" for a fact/assertion abstraction.
+   These will be exemplified in the next section.  Most abstraction selbri
+   have only one place (x1) which is the event, property, fact or other ab-
+   stract 'thing' being described by the selbri.
+
+   Abstractions, like other selbri, may be used in tanru; indeed, they are
+   more common in tanru than alone:
+
+      ti [cu] sutra bajra cukta [vau]
+      --      =================
+      This is-a fast-runner book.
+
+   which might be a book about fast runners, while:
+
+      ti [cu] sutra nu bajra kei cukta [vau]
+      --      ========================
+      This is-a fast-event(s)-of-running book.
+
+   which is more likely a book about races, or a how-to book about running
+   fast.  Note that the "kei" could not be elided in the last example, or the
+   following would have resulted:
+
+      ti [cu] sutra nu bajra cukta [kei] [vau]
+      --      ====================
+      This is-a fast event-of runner-book.
+
+   and one imagines a very short-lived book about runners (it is the event
+   that is fast, not the running or the book).
+
+   Most abstractions that appear often in selbri like this, tend to be ab-
+   breviated into a single-word selbri (a brivla) which embeds the "nu" into
+   the concept.  Such compounds don't require a "kei", since the abstraction
+   encompasses only the idea expressed within the word.  Lojban compound words
+   (lujvo) are composed of combining forms of their component brivla (content
+   words like "bajra") and cmavo (short structure words like "nu").
+
+
+
+
+
+
+
+
+   The rules for constructing lujvo are not difficult if you have a list of
+   the combining forms (called rafsi); the rules are designed carefully to
+   ensure that the pieces stay attached together and cannot be accidentally
+   interpreted as separate words, since (as in the last example) the grammar
+   of separate words may require added markers and terminators to obtain the
+   meaning that you intend.  The lujvo for an event of running is formed from
+   "nun", the rafsi combining form of "nu", and "bajra", which serves as its
+   own combining form:
+
+      sumti   nunbajra  sumti   sumti      sumti       sumti
+      -----   ========  -----   -----      -----       -----
+      event   [running] runner  on-surface using-limbs with-gait
+      x1 is an event of x2 running on surface x3 using limbs x4, with gait x5
+
+   Comparing this place structure with the one at the beginning of this
+   section, you will see that x1 has been assigned to the event, while the
+   remaining places are those of "bajra".  With this new lujvo, the next to
+   the last example sentence:
+
+      ti [cu] sutra nu bajra kei cukta [vau]
+      --      ========================
+      This is-a fast-events-of-running book.
+
+   can use less-complicated structure:
+
+      ti [cu] sutra nunbajra cukta [vau]
+      --      ====================
+      This is-a fast-(events-of-running) book.
+
+
+                              III. COMPLEX sumti
+
+More "le selbri [ku]" descriptions:
+
+   Now that we have seen a variety of selbri forms, it perhaps becomes obvious
+   that any of these selbri structures can be used in description sumti marked
+   with "le".  Indeed, some of these structures, especially internal sumti and
+   abstractions, are much more commonly found embedded in sumti, than in the
+   selbri that defines the main relation of the sentence.
+
+      ko [cu] tavla le sutra klama [ku] [vau]
+      --      ===== -------------------
+      You (imperative) talk to the quick-goer. (Talk to the quick-goer.)
+
+      do [cu] klama le se tavla [ku] ta [vau]
+      --      ===== ---------------- --
+      You go to the one-talked-to from that.
+
+   This last example shows the virtue of "se" conversion.  It has allowed us
+   to mentally convert "tavla" to make its x2 place accessible by description
+   in the sumti.
+
+   Now for a tricky usage.  We use "go'i" to refer to the bridi of the last
+   sentence.  Therefore "le go'i [ku]" refers to the first place of that bridi
+   (in this case, the go-er "do").  If we want to refer to the second place of
+   the last sentence bridi, the destination, we can mentally convert that
+   sentence using "se", and "le se go'i [ku]" means the destination ("le se
+   tavla [ku]").
+
+
+      le se go'i [ku] cu melbi [vau]
+      ---------------    =====
+      The destination is beautiful. (or)
+      The one talked-to (the destination) is beautiful.
+
+      le na'e melbi [ku] cu tavla [vau]
+      ------------------    =====
+      The other-than-beautiful one talks.
+
+      mi [cu] tavla le mo klama [ku] ri [vau]
+      --      ===== ---------------- --
+      I talk to the what-kind-of go-er about itself?
+
+      le re moi prenu [ku] cu tavla mi [vau]
+      --------------------    ===== --
+      The second person talks to me.
+
+   It is IMPORTANT to remember and correctly use the elidable separator "cu"
+   with description selbri.  If you misplace it or omit it (and its less-often
+   used alternative "ku"), you will create some very strange tanru.
+
+      le sutra [ku] cu vecnu cukta [vau]
+      -------------    ===========
+      The quick-one is a seller book.
+
+      le sutra vecnu [ku] cu cukta [vau]
+      -------------------    =====
+      The quick seller is a book.
+
+   And, if you omit the "cu", you get only a sumti:
+
+      le sutra vecnu cukta [ku] [vau]
+      -------------------------
+      The quick-seller book.
+
+sumti descriptions with internal sumti:
+
+      le selbri be sumti bei sumti bei sumti ... bei sumti [be'o] [ku]
+      |        |-------------------------------------------------|    |
+       ----------------------------------------------------------------
+
+   is all one sumti.
+
+      le tavla   be la .an. bei le vecnu [ku] [be'o] [ku] cu klama [vau]
+      |         |   -------     -------------       |    |   =====
+      |           -----------------------------------    |
+       --------------------------------------------------
+      The talker to Ann     about the seller                 goes.
+
+   You can even fill in the places of an internal sumti:
+
+      le tavla be le melbi be la .an. [be'o] [ku] [be'o] [ku] cu klama [vau]
+      |       |   |       |   -------       |    |      |    |   =====
+      |       |   |        -----------------     |      |    |
+      |       |    ------------------------------       |    |
+      |        -----------------------------------------     |
+       ------------------------------------------------------
+      The talker to the one who is beautiful to Ann goes..
+      (The one talking to the one Ann thinks is beautiful, goes.)
+
+   Without the omitted terminators this looks a bit less wordy:
+
+      le tavla be le melbi be la .an. cu klama
+      The one talking to the one Ann thinks is beautiful, goes.
+
+   Since a selbri can be a tanru with internal sumti, a sumti may be built on
+   such a selbri, possibly even having internal sumti on BOTH components of a
+   tanru (in a tanru embedded in a sumti, even the sumti attached to the final
+   component must be attached with be/bei/be'o).:
+
+      le melbi be la .an. [be'o] tavla be la mark. [be'o] [ku] cu vecnu ti
+      |       |   --------      |     |   --------       |    |   ===== --
+      |        -----------------       ------------------     |
+       -------------------------------------------------------
+      The beautiful-to-Ann talker-to-Mark sells this.
+      (The one Ann thinks is beautiful who is talking to Mark, sells this.
+
+   Here, either the "ku" or the "cu" is elidable before the main selbri (both
+   "be'o"s are unconditionally elidable).  Most frequently, when there is a
+   choice, the terminator that best communicates the sentence structure is
+   chosen.  "cu", in this case, clearly separates the complex sumti from the
+   selbri, and is preferred.  Often, a single "cu" may allow you to omit
+   several elidable terminators that would otherwise be necessary.  This
+   happens most frequently with abstraction selbri that are used in sumti
+   descriptions.
+
+abstraction sumti clauses:
+
+   le nu sentence kei:
+
+      mi [cu] djica le nu mi [cu] klama le zarci [ku] [vau] [kei] [ku] [vau]
+      --      ===== | |   --      ===== -------------            |    |
+                    |  ==========================================     |
+                     -------------------------------------------------
+      I       want  the-event-of: I go to the store.
+      I want to go to the store.
+
+   With the omitted terminators not printed, this sentence looks much shorter:
+
+      mi djica le nu mi klama le zarci
+      I want to go to the store.
+
+   An even shorter form will typically appear in Lojban text.  "le nu" occurs
+   so frequently in combination that it is often written as a single word;
+   this isn't mandatory - cmavo compounds are always understood as meaning the
+   same thing as the words written separately.  cmavo are generally written
+   one word when they together equate to a concept that is written in other
+   languages as one word.
+
+   In addition, the "mi" inside the abstraction will often be omitted.  When a
+   listener hears this sentence and realizes that the go-er wasn't specified
+   (as well as the origin, the route and the means), the obvious value(s) will
+   be assumed.  Leaving out the "mi" is exactly comparable to the difference
+   between the two English sentences:
+
+      I want to go to the store.    (and)    I want myself to go to the store.
+
+      mi djica lenu klama le zarci
+      I want to go to the store.
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+   If an abstraction is in the x1 position, "cu" allows four other elidable
+   markers to be omitted.  For example in a conversion of the last example
+   sentence:
+
+      lenu mi [cu] klama le zarci [ku] [vau] [kei] [ku] cu se djica mi [vau]
+      | |  --      ===== -------------            |    |   ======== --
+      |  =========================================     |
+       ------------------------------------------------
+      The-event-of: (I go to the store) is desirable to me.
+
+   the "cu" allows four other markers to be omitted.  Using "cu" is much
+   easier for the listener, who thus knows in one word that the complex sumti
+   is completely ended and the main selbri comes next.
+
+   We promised to give examples of two of the other types of abstractions in
+   this section.  These abstractions tend to be associated with specific
+   places of particular brivla.
+
+      la mark. [cu] ricfu   le ka melbi [vau] [kei] [ku] [vau]
+      --------      =====   ----------------------------
+      Mark is rich in the quality of x1 being beautiful to x2 by standard x3
+
+      mi [cu] djuno le du'u la djan. [cu] te vecnu [vau] [kei] [ku] [vau]
+      --      ===== -----------------------------------------------
+      I       know  the-fact-that John is a buyer.
+      I know that John buys (something).
+
+   As with the earlier examples. these sentences will typically appear much
+   shorter in print:
+
+      la mark. ricfu leka melbi
+      Mark is rich in beauty.
+
+      mi djuno ledu'u la djan. te vecnu
+      I know that John buys (something).
+
+Quantified sumti ("le number [boi] selbri [ku]"):
+
+   One way to quantify a sumti being described is to insert the number fol-
+   lowed by a terminator "boi" that may be omitted when no ambiguity results
+   (the usual case):
+
+      le re [boi] tavla [ku] cu klama [vau]
+      ----------------------    =====
+      The two talkers go.
+
+   "boi" may not be elided when a number selbri follows, since you wouldn't
+   know where one number stops and the next begins.  (Lojban does not allow
+   such boundaries to be expressed by contrastive stress as in English.):
+
+      le reno boi remei [ku] cu klama [vau]
+      ----------------------    =====
+      The twenty twosomes go.
+
+
+
+
+
+
+
+Quantified selection from sumti ("number [boi] le [number] [boi] selbri
+[ku]"):
+
+   You can also put a number preceding the "le", to select from the set in-
+   dicated by the description:
+
+      re [boi] le tavla [ku] cu klama [vau]
+      .......> -------------    =====
+
+      Two of the (unspecified number of) talkers go.
+
+      re [boi] le reno boi remei [ku] cu klama [vau]
+      .......> ----------------------    =====
+      Two of the twenty twosomes go.  (i.e. four altogether)
+
+      le tavla be pa [boi] le ci [boi] bajra [ku] [be'o] [ku] cu melbi [vau]
+      |       |   .......> ----------------------       |    |   =====
+      |        -----------------------------------------     |
+       ------------------------------------------------------
+      The talker to one-of the three   runners                is-beautiful.
+
+Indefinite description sumti ("lo selbri [ku]")
+
+   If you wish to describe a sumti, but do not have a specific in mind, you
+   can instead refer generically to something that meets the terms of the
+   description selbri:
+
+      lo tavla [ku] cu klama [vau]
+      -------------    =====
+      A talker goes.  (or)  Some talkers go.
+
+   "lo" may be used interchangeably with "le" in the preceding examples, with
+   an indefinite description as a result.
+
+   Lojban allows you to omit the "lo" in:
+
+     number [boi] [lo] [number] [boi] selbri [ku]
+
+      re [boi] tavla [ku] cu klama [vau]
+      -------------------    =====
+      re tavla cu klama
+      Two [of the unspecified number who are] talkers go.
+
+"di'u" and "la'e di'u":
+
+   In English, I might say "The school is beautiful", and you might reply
+   "This pleases me."  How do you know what "this" refers to?  Lojban uses
+   different expressions to convey the possible meanings of the English:
+
+      le ckule [ku] cu melbi [vau]
+      -------------    =====
+      The school is beautiful.
+
+
+
+
+
+
+
+
+   The following three sentences all might translate as "This pleases me."
+
+      ri [cu] pluka mi [vau]
+      --      ===== --
+      This (the school, the last expressed sumti) pleases me.
+
+      di'u [cu] pluka mi [vau]
+      ----      ===== --
+      This (the last sentence) pleases me (perhaps because it is grammatical
+      or sounds nice).
+
+      la'e di'u [cu] pluka mi [vau]
+      ---------      =====
+      This (the referent of the last sentence; i.e. that the school is
+      beautiful) pleases me.
+
+   The last sentence is an example of using one sumti to point to or refer to
+   another by inference.  "la'edi'u" is often written as a single word, and is
+   used more often than "di'u" by itself.
+
+Other sumti types:
+
+   Lojban supports several other sumti types, more than we can discuss in a
+   short paper.  These include bare numbers, several kinds of quoted text
+   (single words, grammatical or possibly ungrammatical text, and non-Lojban
+   text).
+
+
+              IV. ATTACHMENTS TO sumti AND selbri AND sentences
+
+                           A. ATTACHMENTS TO sumti
+
+All structures in this section apply to sumti at the main level of a sentence,
+as well as to sumti within substructures.
+
+Adding a new sumti place to a bridi relationship ("modal + sumti"):
+
+   time or location:  e.g. "pu"/before, "ba"/after, "ca"/simultaneous with,
+   "vi"/at, "va"/near, "vu"/far from
+
+   There are many more of these, and some specialized rules for compounding
+   them.  These are discussed in a more advanced paper.
+
+      mi [cu] tavla pu le nu do [cu] tavla [vau] [kei] [ku] [vau]
+      --      ===== .> ------------------------------------
+      mi tavla pu lenu do tavla
+      I talk before the-act-of you talk.  (I talk before you do.)
+
+   You must think carefully about what you mean with these constructions:
+
+      mi [cu] tavla pu do [vau]
+      --      ===== .> --
+      I talk before you.  (I talked before "you" even existed.)
+
+
+
+
+
+
+
+   modal tag: e.g. "secau" (without ...), "mu'i" (motivational because ...),
+   "du'o" (according to ...)
+
+      do [cu] klama secau mi [vau]
+      --      ===== ....> --
+      You go without me.
+
+modal questions ("modal + ma"):
+
+   Express common English questions using time, location, and modal tag words
+   combined with "ma":
+
+      ca ma do [cu] tavla [vau]
+      --            =====
+      Simultaneous-with ____(what?), you talk?  (When do you talk?)
+
+      vi ma do [cu] tavla [vau]
+      --            =====
+      At ____(what?), you talk?  (Where do you talk?)
+
+      mu'i ma do [cu] tavla [vau]
+      --              =====
+      Motivationally because ____(what?), you talk?  (Why do you talk?)
+
+      (Lojban has other "because" modal tags for asking a variety of different
+      "why?" questions.)
+
+sumti relative phrases ("sumti pe modifier-sumti [ge'u]"):
+
+   A sumti may be identified more exactly by attaching a relative phrase,
+   another sumti, that in some way restricts the possible set of things being
+   referred to:
+
+      le cukta [ku] pe le vecnu [ku] [ge'u] cu blari'o [vau]
+      ------------- <  -------------       |   =======
+                    <......................
+      The book of the salesperson is blue-green.
+
+   "pe", the basic marker of a restrictive relative phrase, is vague as to the
+   exact nature of the relationship between the original sumti and the sumti
+   that is identifying.  It is thus similar to the loosest English possessive,
+   as in "my chair/the chair of mine", which may be used for a chair that you
+   sit in but which is owned by someone else.
+
+   Successively tighter degrees of association/possession are indicated by
+   "po" (alienable possession) and "po'e" (inalienable possession):
+
+      le cukta [ku] po mi [ge'u]
+      ------------- <  --       |
+      The book of mine. (Even if you are holding it, it is still my book.  But
+      I also could give it to you such that it is no longer my book.)
+
+      le birka [ku] po'e mi [ge'u]
+      ------------- <    --       |
+      The arm of mine (It is still MY arm; it cannot be given away.)
+
+
+
+
+
+   "po'u" identifies a sumti by giving another IDENTITY: a sumti that could
+   equivalently replace the original:
+
+      la djan. po'u   le vecnu [ku] [ge'u] cu klama [vau]
+      -------- <      -------------       |   =====
+      John     who-is the seller              goes.
+      John-the-saleman goes.
+
+   "goi", used like "pe", defines "ko'a" and other variable sumti for use
+   throughout a text without repeating:
+
+      le melbi tavla [ku] goi ko'a [ge'u] [cu] vecnu [vau]
+      ------------------- <   ----       |     =====
+      The beautiful talker (hereinafter "ko'a") sells.
+
+      .i ko'a djica lenu do klama ko'a [vau] [kei] [ku] [vau]
+         ---- ===== -----------------------------------
+      He/she (the beautiful talker) wants the event of you going to him/her.
+
+   Lojban has words identical in grammar to "pe" that provide non-restrictive
+   (incidental) information about a sumti.  "ne" is the non-restrictive
+   (incidental) equivalent of "pe":
+
+   This construct may be combined with the modal construct discussed just
+   previously to identify a sumti:
+
+      la djan. ne pu la mark. [ge'u] [cu] melbi tavla [vau]
+      -------- <  >. --------       |     ===========
+      John, who was (incidentally) before Mark, is a beautiful-talker.
+
+   The contrast between "ne" (incidental) and "pe" (identifying) is shown by
+   giving the same sentence with "pe":
+
+      la djan. pe pu la mark. [ge'u] [cu] melbi tavla [vau]
+      -------- <  >. --------       |     ===========
+      (The) John who was before Mark is a beautiful-talker.
+
+   Certain modal tags, in fact, are designed primarily for use in relative
+   phrases, rather than to attach additional sumti structures to the main
+   bridi relationship as described earlier.  One of these is "semau" ("more
+   than ..."):
+
+      la djan. ne semau la mark. [ge'u] [cu] tavla mi [vau]
+      -------- <  >.... --------       |     ===== --
+      John, (incidentally) more than Mark, talks to me.
+      (John talks to me more than Mark does.)
+
+      la djan. [cu] tavla mi ne semau la mark. [ge'u] [vau]
+      --------      ===== -- <  >.... --------       |
+      John talks to me, (incidentally) more than Mark.
+      (John talks to me more than he does to Mark.)
+
+
+
+
+
+
+
+
+
+   Without linking a "semau" modal sumti to another sumti with "ne" or "pe",
+   it is hard to understand:
+
+      ???la djan. [cu] tavla mi semau la mark. [vau]
+         --------      ===== -- >.... --------
+      John talks to me, more than Mark. (but Mark is tied neither to John nor
+      me, but to the talking).
+      (John's talking to me) is more than (Mark).
+
+   Comparing a talking relationship to a person is nonsense.
+
+sumti relative clauses ("sumti poi sentence ku'o"):
+
+   "pe" phrases are limited to what can be expressed in a single sumti.  When
+   you need to include more complete information about a sumti, Lojban
+   provides for relative clauses.  A restrictive relative clause marker,
+   "poi", marks a following complete bridi as providing detailed identifying
+   information about the sumti by providing a relationship that the sumti fits
+   into.
+
+   The placeholder for the sumti being identified is "ke'a", which is merely
+   another in the set of single-word sumti.  "ke'a" is often left out if it is
+   contextually obvious where it would go (especially when "ke'a" would go in
+   the x1 position immediately after "poi", or in the first available
+   unspecified place if that x1 is provided in the clause).  A relative clause
+   is terminated with the marker "ku'o" which may be omitted if no ambiguity
+   will result.  It is very rare that "ku'o" needs to be expressed.
+
+      le ckule [ku] poi   mi [cu] klama ke'a [vau] [ku'o] cu blari'o [vau]
+      ------------- <     --      ===== ----             |   =======
+                    <....................................
+      The school    which I       go-to it                   is-blue-green.
+      The school I go to is blue-green.)
+
+   Note that "ke'a" refers to the school.
+
+      le bajra [ku] poi [cu] tavla [vau] [ku'o] cu vecnu [vau]
+      ------------- <        =====             |   =====
+                    <..........................
+      The runner who talks is a seller.
+
+   There is also a non-restrictive relative clause marker, "noi", for in-
+   cidental information about a sumti.
+
+tensed sumti ("le time/location/modal-tag + selbri [ku]")
+
+   A sumti may also have a time or location or modal tag in front of a de-
+   scription selbri:
+
+      le pu bajra [ku] [cu] tavla [vau]
+      ----------------      =====
+      The earlier/former/past runner talked/talks. (Since Lojban tense is
+      optional, we don't know when.)
+
+      le vi bajra [ku] [cu] tavla [vau]
+      ----------------      =====
+      The here runner talks.  (This runner talks.)
+
+
+
+
+      Diagrammed Summary of Lojban Grammar Forms with Example Sentences
+
+        Copyright 1990, 1991, 1992 - The Logical Language Group, Inc.
+        2904 Beau Lane Fairfax VA 22031-1303 USA  Phone: 703-385-0273
+ Permission granted to reproduce for no charge to the recipient, for purposes
+                           of promotion of Lojban.
+                              Updated April 1992
+
+short possessive sumti ("le possessor-sumti selbri [ku]")
+
+   As a comparison with the last example, note that a description sumti may
+   have a sumti after the "le", resulting in a short form of the loose "pe"
+   possessive.
+
+   English "this" might be represented by "vi" or by "ti", depending on
+   context.
+
+      le ti bajra [ku] [cu] tavla [vau]
+      ----------------      =====
+      The this-one's runner talks.  (This one's runner talks.)
+
+   A more complete structure of a description sumti is "[number] le [number]
+   [sumti] [modal] selbri [ku]".
+
+
+                           B. ATTACHMENTS TO selbri
+
+tensed or adverbial bridi relationships:
+
+   Immediately after a "cu" before a selbri, you can have a modal (such a
+   modal being there may make a "cu" unnecessary, since modals cannot be
+   absorbed into tanru).  Such modals serve as an equivalent to English tenses
+   and adverb functions.  In Lojban, tense is completely optional.  If
+   unspecified, tense is picked up from context.
+
+      do [cu] vu vecnu zo'e [vau]
+      --      >. =====
+      You yonder sell something-unspecified.
+
+      le vi tavla [ku] [cu] ba klama [vau]
+      ----------------      >. =====
+      The here talker will go.  (This talker will go.)
+
+      do [cu] mu'i tavla mi [vau]
+      --      >... ===== --
+      You motivatedly talk to me.
+
+
+                         C. ATTACHMENTS TO sentences
+
+A variety of constructs may occur anywhere in a sentence, operating inde-
+pendent of the primary grammar of the sentence.  These constructs generally
+have minimal internal grammar.  Like "xu", when not at the beginning of a
+sentence, they indicate emphasis on the word or construct they immediately
+follow.
+
+Indicators:
+
+   Indicators include a variety of expressions conveyed in English through
+   interjections or tone of voice.  Lojban supports a enormous range of
+   emotional expression through specific words and compounds.  Indicators may
+   be modified for intensity, or classified by sphere (social, mental,
+   emotional, physical, sexual, spiritual).
+
+      .ie mi [cu] klama [vau]
+          --      =====
+      Agreement! I go. (Yep! I'll go.)
+
+      .ei mi [cu] klama [vau]
+          --      =====
+      Obligation! I go. (I should go.)
+
+      mi [cu] klama le ckule .ui [ku] [vau]
+      --      ===== --------(   )---
+      I go to the school (and I am happy because it is the school I'm going
+      to).
+
+Discursives:
+
+   Discursives allow free expression of certain metalinguistic comments
+   (comments about the text).  Use of discursives allows clear separation of
+   these metalinguistic features from the underlying statements and logical
+   structure.  By comparison, the English words "but" and "also", which
+   discursively indicate contrast or added weight-of-example, are logically
+   equivalent to "and" without that discursive content.  The average English
+   speaker does not think about, and may not even realize, the contrary-
+   seeming idea that "but" basically means "and".
+
+      mi [cu] klama [vau] .i do [cu] stali [vau]
+      --      =====          --      =====
+      I go.  You stay.
+
+      mi [cu] klama [vau] .i ji'a do [cu] stali [vau]
+      --      =====               --      =====
+      I go.  In addition, you stay.  (added weight)
+
+      mi [cu] klama [vau] .i ku'i do [cu] stali [vau]
+      --      =====               --      =====
+      I go.  However, you stay.  (contrast)
+
+Evidentials:
+
+   Evidentials indicate the speaker's relationship to the statement,
+   specifically communicating how the speaker came to make the statement.
+   These include "za'a" (I directly observe the relationship), "pe'i" (I opine
+   that the relationship holds) "ru'a" (I postulate), and others.  Many
+   Amerind languages use these type of words.
+
+      pe'i do [cu] melbi [vau]
+           --      =====
+      I opine!  You are beautiful.
+
+      za'a do [cu] melbi [vau]
+           --      =====
+      I directly observe!  You are beautiful.
+
+   Some expressions overlap between categories, having value as indicators as
+   well as evidential import (".ia", belief, faith), or attitudi-
+   nal/metalinguistic import ("ga'i", hauteur, relative high-rank; cf.
+   Japanese).
+
+      .e'a ga'i ko'a [cu] citka lo titnanba [ku] [vau]
+                ----      ===== ----------------
+   Permission!/I permit! Hauteur! They eat cake.  (Let them eat cake!)
+
+
+
+
+                            V. LOGICAL CONNECTIVES
+
+Lojban expresses logical connectives so as to unambiguously indicate logical
+scope (what is being connected), as well as to isolate various non-logical
+features from the logical ones (as noted above for discursives).  Logical
+connectives may be expressed in forethought forms (both ... and ...) or
+afterthought  forms (..., and ...).  The form of logical connectives directly
+indicates their scope and the associated truth table for the two connected
+terms.  For example, a bare vowel joins sumti (".a"/alternation, a and/or b, a
+OR b; ".e"/conjunction, a AND b).  "na" and "nai" may be used to negate con-
+nected terms ("na.a"/conditional, not a OR b, if a then b; "anai"/a or not b,
+a if b).
+
+Parallel structures are shown in the following abbreviated table:
+
+     sumti              sumti forethought                   sentences
+OR   a and/or b         .a       ga sumti gi sumti          .i ja
+AND  a and b            .e       ge sumti gi sumti          .i je
+XOR  a or b, not both   .onai    go sumti ginai sumti       .i jonai
+->   if a then b        na.a     ganai sumti gi sumti       .i naja
+  (a only if b)
+<-   a if b             .anai    ga sumti ginai sumti       .i janai
+
+     tanru              tanru forethought                   compound bridi
+OR   a and/or b         ja       gu'a sumti gi sumti        gi'a
+AND  a and b            je       gu'e sumti gi sumti        gi'e
+XOR  a or b, not both   jonai    gu'o sumti ginai sumti     gi'onai
+->   if a then b        naja     gu'anai sumti gi sumti     nagi'a
+  (a only if b)
+<-   a if b             janai    gu'a sumti ginai sumti     gi'anai
+
+      mi [cu] citka ti .a ta [vau]
+      --      ===== --(++)--
+      I eat this and/or that.
+
+      mi [cu] citka ti .e ta [vau]
+      --      ===== --(++)--
+      I eat this and that.
+
+      mi [cu] citka ti na.a ta [vau]
+      --      ===== --(++++)--
+      I eat this only if that.
+
+      mi [cu] citka ti .anai ta [vau]
+      --      ===== --(+++++)--
+      I eat this if that.
+
+      ganai mi gi do [cu] klama [vau]
+      +++++)--(++)--      =====
+      If me, then you, go.
+
+       mi [cu] klama [vau]  .i je  do [cu] klama [vau]
+      |--      =====      |       |--      =====      |
+      |___________________|(+++++)|___________________|
+      I go AND you go.
+
+      mi [cu] klama tu [vau]  gi'e  citka ti [vau] [vau]
+      --     |===== --      |      |===== --      |
+      --     |______________|(++++)|______________|
+      I go to that-yonder AND eat this/these.
+
+Lojban also supports NON-logical connectives, such as mixed connection and set
+membership (ordered/un-ordered):
+
+      mi [cu] citka le blari'o joi pelxu [ku] [vau]
+      --      ===== ----------(+++)----------
+      I eat the blue-green-mixed-with-yellow (stuff).
+
+      mi [cu] citka le blari'o ku joi le pelxu [ku] [vau]
+      --      ===== -------------(+++)-------------
+      I eat the blue-green (stuff) mixed-with the yellow (stuff).
+
+   (The "ku" before the "joi" in the latter example CANNOT be left out due to
+   the ambiguity resolution rules.)
+
+
+                      VI. VERY BRIEF PRONUNCIATION GUIDE
+              (covers only features occurring in these examples)
+
+Vowels
+a as in father, never as in sofa
+e as in bet
+i s in machine
+o as in cocoa
+u as in flute
+
+Vowel pairs without apostrophes
+ai   as /igh/ in "high"
+au   as /ow/ in "cow"
+ei   as in "weight"
+ia   as the German "Ja"
+ie   as /ye/ in "yep"
+oi   as /oy/ in "toy"
+ui   as the word "we"
+
+Consonants as in English except
+c sh as in "shoe"
+j z as in "azure"
+x hard ch of Scottish "loch" (breathe through a 'k')
+g always hard, as in "go", NOT as in "germ"
+s always as in "floss", NOT as in "flows"
+
+A period indicates a mandatory pause, which may be very short.  An apostrophe
+(') between vowels splits them into 2 syllables with no sound from your vocal
+cords (usually like a brief 'h' sound) between.  There must be no pause, and
+no 'voiced' sound: "e'o" should be a smooth transition from "e" to "o" that
+doesn't sound like /ayo/ of "mayo".
+
+Stress longer words (brivla) penultimately (the next to the last syllable).
+
+      klama    /KLAH,mah/     blari'o   /blah,REE,ho/
+
+
+
+
+
+
+
+
+
+ VII. BRIEF GLOSSARY OF LOJBAN WORDS USED IN THESE EXAMPLES
+
+.a        and/or: sumti             ma       sumti question
+.anai     only if: sumti            mei      cardinal # selbri
+ ba       after/future time         mi        I; me; we; us
+ be       internal sumti link       mo        selbri question
+ be'o     end internal sumti        moi       ordinal # selbri
+ bei      more internal sumti       mu        5
+ bi       8                         mu'e      abstract.: point event
+ boi      end-of-number             mu'i      modal: motiv. cause
+ ca       same time/present         na        contradict. negation
+ ci       3                         na'e      scalar other-than
+ co       tanru inversion           na.a      only if: sumti
+ cu       selbri separator          nago'i    last bridi false; No!
+ cu'o     probability selbri        ne        incidental rel. phrase
+ di'u     last sentence             ni'o      new topic
+ do       sumti: you                ni'oni'o  new section
+ du'o     modal: according to...    no        0; none
+ du'u     abstraction: fact         no'e      scalar neutral
+.e        AND: sumti                noi       incidental rel. clause
+.e'a      indicator: permission     nu        abstraction: event
+.ei       indicator                 pa        1
+ fa       x1 sumti next             papa      11
+ fa'o     end-of-text               pe        identifying phrase
+ fe       x2 sumti next             pe'i      evidential: I opine!
+ fi       x3 sumti next             pi        .
+ fo       x4 sumti next             pimu      .5
+ fu       x5 sumti next             po        alienable possession
+ ga       and/or: forethought       po'e      inalienable possess.
+ ga'i     indicator: high rank      po'u      identity phrase
+ ganai    if: forethought           poi       identifying clause
+ ge'u     end relative phrase       pu        before/past tense
+ gi       forethought medial        re        2
+ gi'e     and: bridi                remei     twosome, pair
+ go'i     last bridi; too; yes!     reno      20
+ goi      sumti definition          ri        the last sumti
+.i        sentence link             ru'a      evidential: I assume!
+.ia       indicator: belief/faith   se        x1/x2 conversion
+.ie       indicator: agreement      secau     modal tag: without...
+ ja'a     it is true                semau     modal tag: more than
+ je       and: tanru, sentences     si'e      portion # selbri
+ je'a     scalar positive           so        9
+ ji'a     discursive: also          ta        that-there; those
+ joi      mixed-with 'and'          te        x1/x3 conversion
+ ka       abstraction: quality      ti        this-here; these
+ ke       tanru grouping            to'e      scalar opposite
+ ke'a     relative clause sumti     tu        that/those yonder
+ ke'e     end tanru grouping       .ui        indicator: happiness
+ kei      end abstraction           va        location: near
+ ko       imperative You!           vau       end of sumti list
+ ko'a     he/she/it - assigned      ve        x1/x4 conversion
+ ku       end description sumti     vi        location: here/at
+ ku'i     discursive: but           vo        4
+ ku'o     end relative clause       vu        location: far from
+ la       name follows              xa        6
+ la'e     the referent of           xe        x1/x5 conversion
+ la'edi'u bridi of last sentence    xu        Is it true?
+ le       description sumti; the    za'a      evidential: observed
+ ledu'u   the fact that ...         za'i      abstraction: state
+ leka     the quality of ...        ze        7
+ lenu     the event of ...          zo'e      unspecified sumti
+ lo       description sumti; a
+
+.an.       name: Ann
+ lojban.   name: Lojban
+ mark.     name: Mark
+ meris.    name: Mary
+ tam.      name: Tom
+
+brivla actually translate to a complete sentence indicating the place structures)
+
+bajra
+birka
+blari'o      x1 is blue-green
+bridi
+brivla
+citka
+ckule
+cmalu
+cmavo
+cukta
+djarspageti
+djica
+djuno
+gismu
+jikca
+klama
+le'avla
+lujvo
+melbi
+nanla
+nunbajra     x1 event of x2 runs on surface x3, limbs x4, gait x5
+pelxu
+pluka
+prenu
+rafsi
+ricfu
+selbri
+stali
+sumti
+sutra
+tanru
+tavla
+titnanba     x1 is sweet-bread/cake
+toldi
+vecnu
+zarci
+
+]]>
+</literallayout>
+</para>
+</sect1>
