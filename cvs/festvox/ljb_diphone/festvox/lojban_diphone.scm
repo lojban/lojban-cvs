@@ -21,13 +21,13 @@
 (lex.set.phoneset "toi_ljb")
 
 (set! token.whitespace " \t\n\r")
-(set! token.punctuation ".\",:;!?(){}[]")
-(set! token.prepunctuation ".\"({[")
+(set! token.punctuation "\",:;!?(){}[]")
+(set! token.prepunctuation "\"({[")
 
 (lex.create "lojban")
 
 ;; non-standard things
-(lex.add.entry '("." punc nil))
+(lex.add.entry '("." punc (((#) 0))))
 (lex.add.entry '("i" punc (((#) 0) ((iy) 0))))
 (lex.add.entry '("'i" nil (((hh) 0) ((iy) 0))))
 ;(lex.add.entry '("'" punc nil))
@@ -101,7 +101,7 @@
 
 (set! lojban_phone_data
 '(
-   (# 0.0 0.250)
+   (# 0.0 0.150)
 
    (e 0.0 0.080)
    (a 0.0 0.080)
@@ -110,25 +110,25 @@
    (u 0.0 0.070)
    (y 0.0 0.080)
 
-   (ai 0.0 0.100)
-   (ei 0.0 0.100)
-   (oi 0.0 0.100)
-   (au 0.0 0.100)
+   (ai 0.0 0.120)
+   (ei 0.0 0.120)
+   (oi 0.0 0.120)
+   (au 0.0 0.120)
 
-   (ie 0.0 0.100)
-   (ia 0.0 0.100)
-   (io 0.0 0.100)
-   (ii 0.0 0.100)
-   (iu 0.0 0.100)
+   (ie 0.0 0.120)
+   (ia 0.0 0.120)
+   (io 0.0 0.120)
+   (ii 0.0 0.120)
+   (iu 0.0 0.120)
 
-   (ue 0.0 0.100)
-   (ua 0.0 0.100)
-   (uo 0.0 0.100)
-   (ui 0.0 0.100)
-   (uu 0.0 0.100)
+   (ue 0.0 0.120)
+   (ua 0.0 0.120)
+   (uo 0.0 0.120)
+   (ui 0.0 0.120)
+   (uu 0.0 0.120)
 
-   (iy 0.0 0.100)
-   (uy 0.0 0.100)
+   (iy 0.0 0.120)
+   (uy 0.0 0.120)
 
    (p 0.0 0.100) 
    (t 0.0 0.085)
@@ -244,7 +244,7 @@ rules are not used unless explicitly called. [see Token to word rules]"
   ((string-matches name ".*\\..*")
    (append
     (builtin_english_token_to_words token (string-before name "."))
-    ;(list '((name hh)(pbreak_scale 1.0)))
+    (builtin_english_token_to_words token ".")
     (builtin_english_token_to_words token (string-after name "."))))
   (t
    (builtin_english_token_to_words token name))
