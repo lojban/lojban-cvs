@@ -26,3 +26,5 @@
 # spread out over the entire source repository.
 lojban	lojban
 jbofihe	jbofihe
+alice	lojban/translations/alice
+drbible lojban/translations/drbible
