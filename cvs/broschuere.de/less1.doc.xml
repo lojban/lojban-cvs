@@ -1,0 +1,674 @@
+<!-- -*- DocBook -*-  -->
+<sect1 id="less1"><title>Lektion 1: Laute, Leute und Launen</title>
+
+<para>Als Erstes muss man sich mit den Lauten und der Schreibung einer
+fremden Sprache vertraut machen. Das Gleiche gilt nat&uuml;rlich auch
+f&uuml;r Lojban. Gl&uuml;cklicherweise sind die Laute, Phoneme genannt, dieser Sprache sehr
+einfach.</para>
+
+<sect2><title>Vokale</title>
+
+<para>In Lojban gibt es sechs Vokale</para>
+
+<variablelist>
+<varlistentry> <term><foreignphrase
+lang="loj">a</foreignphrase></term> <listitem><para>wie in
+<wordasword>V<emphasis role="strong">a</emphasis>ter</wordasword>
+</para></listitem> </varlistentry>
+
+<varlistentry> <term><foreignphrase lang="loj">e</foreignphrase></term>
+<listitem><para>wie in <wordasword>g<emphasis
+role="bold">e</emphasis>lb</wordasword></para></listitem> </varlistentry>
+
+<varlistentry> <term><foreignphrase
+lang="loj">i</foreignphrase></term> <listitem><para>wie in
+<wordasword>S<emphasis role="bold">ie</emphasis>b</wordasword></para></listitem>
+</varlistentry>
+
+<varlistentry> <term><foreignphrase lang="loj">o</foreignphrase></term>
+<listitem><para>wie in <wordasword>B<emphasis
+role="bold">oo</emphasis>t</wordasword></para></listitem> </varlistentry>
+
+<varlistentry> <term><foreignphrase
+lang="loj">u</foreignphrase></term> <listitem><para>wie in
+<wordasword>H<emphasis role="bold">u</emphasis>t</wordasword></para></listitem>
+</varlistentry> </variablelist>
+
+<para>Diese f&uuml;nf Vokale sind uns aus dem Deutschen recht vertraut.
+Der sechste Vokal, <foreignphrase lang="loj">y</foreignphrase>,
+heisst bei den Linguisten <wordasword>Schwa</wordasword>.
+Schwa ist ein undifferenzierter Vokal, der entsteht, wenn der Mund bei der Aussprache vollst&auml;ndig entspannt
+und leicht ge&ouml;ffnet ist.
+</para>
+
+<para>Zwei Vokale werden zusammen wie einer ausgesprochen, ein sogenannter Diphtong:</para>
+
+<variablelist> <varlistentry><term><foreignphrase
+lang="loj">ai</foreignphrase></term> <listitem><para>wie in <wordasword>b<emphasis
+role="bold">ei</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">au</foreignphrase></term>
+
+<listitem><para>wie in <wordasword>H<emphasis
+role="bold">au</emphasis>s</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ei</foreignphrase></term>
+
+<listitem><para>wie in <wordasword>H<emphasis
+role="bold">ey</emphasis>!</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">oi</foreignphrase></term>
+
+<listitem><para>wie in <wordasword>H<emphasis
+role="bold">eu</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ia</foreignphrase></term>
+
+<listitem><para> <wordasword><emphasis role="bold">Ja</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ie</foreignphrase></term>
+
+<listitem><para>wie <wordasword><emphasis role="bold">je</emphasis>der</wordasword></para></listitem>
+</varlistentry>
+<varlistentry><term><foreignphrase lang="loj">iu</foreignphrase></term>
+
+<listitem><para>wie <wordasword><emphasis role="bold">Ju</emphasis>gend</wordasword></para></listitem>
+</varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ua</foreignphrase></term>
+
+<listitem><para>wie in <wordasword>Q<emphasis
+role="bold">ua</emphasis>rk</wordasword>, wobei das <wordasword>u</wordasword> auch 
+als solches gesprochen word. </para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ue</foreignphrase></term>
+
+<listitem><para>wie im englischen <wordasword>q<emphasis
+role="bold">ue</emphasis>stion</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">uo</foreignphrase></term>
+
+<listitem><para>wie im englischen <wordasword>q<emphasis
+role="bold">uo</emphasis>te</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">ui</foreignphrase></term>
+
+<listitem><para>wie franz&ouml;sisch <wordasword><emphasis role="bold">oui</emphasis></wordasword></para></listitem></varlistentry>
+</variablelist>
+
+</sect2>
+
+<sect2><title>Konsonanten</title>
+
+<para>Mit wenigen Ausnahmen werden die Konsonanten in Lojban genauso
+ausgesprochen, wie im Deutschen: </para>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="loj">c</foreignphrase></term>
+<listitem><para><wordasword>sch</wordasword>, wie in <wordasword><emphasis
+role="bold">Sch</emphasis>iff</wordasword></para></listitem></varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="loj">j</foreignphrase></term>
+<listitem><para>wie im franz&ouml;sischen <wordasword>bon<emphasis
+role="bold">j</emphasis>our</wordasword></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">s</foreignphrase></term>
+<listitem><para>ist immer scharf, wie in <wordasword>Ma<emphasis
+role="bold">ss</emphasis>e</wordasword></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">z</foreignphrase></term>
+<listitem><para>wird wie ein weiches <wordasword>s</wordasword>
+ausgesprochen, wie in <wordasword>Ba<emphasis
+role="bold">s</emphasis>el</wordasword></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">x</foreignphrase></term>
+<listitem><para>wie in <wordasword>Ba<emphasis role="bold">ch</emphasis></wordasword>
+</para></listitem></varlistentry> </variablelist>
+
+
+<para>Lojban kennt die Buchstaben <wordasword>H</wordasword>,
+<wordasword>Q</wordasword>,
+<wordasword>W</wordasword>,
+<wordasword>&szlig;</wordasword> nicht, ebenso wie Umlaute.  </para>
+</sect2>
+
+<sect2><title>Besondere Buchstaben</title>
+
+<para>In Lojban gibt es keine Interpunktion wie im Deutschen, Komma, Punkt und
+Apostroph haben hier eine andere Bedeutung, sie beeinflussen n&auml;mlich die
+Aussprache. Die erw&auml;hnten Zeichen werden verwendet wie gew&ouml;hnliche Buchstaben.
+ Das Apostroph trennt zwei Vokale und wird wie das deutsche
+<wordasword>h</wordasword> ausgesprochen.  Zum Beispiel ist <foreignphrase lang="loj">ui</foreignphrase> 
+ein Diphtong, aber <foreignphrase lang="loj">u'i</foreignphrase> wird
+ <wordasword>uhi</wordasword> gesprochen. Frage- und Ausrufezeichen werden ebenfalls nicht verwendet.</para>
+
+<para>Kommata werden selten benutzt, sie werden  gebraucht, um Vokale zu trennen. Das Komma erf&uuml;llt
+also die gleiche Funktion, wie das Apostroph, nur dass es lautlos ist, was in Namen erw&uuml;nscht sein kann.
+Lojban W&ouml;rter enthalten keine Kommata. Hier einige Beispiele:
+<foreignphrase lang="loj">pi,ER.</foreignphrase> (<wordasword>Pierre</wordasword>), im Gegensatz zu
+<foreignphrase lang="loj">pier.</foreignphrase> (<wordasword>P-yerr</wordasword>) oder <foreignphrase
+lang="loj">pi'ER.</foreignphrase> (<wordasword>Piherr</wordasword>).</para>
+
+<para>Der Punkt dient als Pausenzeichen, in der Aussprache &auml;ussert er sich als glottaler Verschluss.
+Der Luftstrom wird also im Rachen kurz unterbrochen. Dies soll bewirken, dass auch W&ouml;rter phonetisch
+getrennt bleiben, bei denen diese Trennung nicht aus der Grammatik zu erkennen ist. Insbesondere 
+wird der Punkt ben&ouml;tigt, um den Anfang und das Ende von Namen zu signalisieren.</para>
+
+<para>Grossbuchstaben werden f&uuml;r gew&ouml;hnlich nur verwendet, um eine von der normalen abweichende
+Betonung zu notieren. Normalerweise wird in Lojban die vorletzte Silbe betont,
+zum Beispiel <foreignphrase lang="loj">kurmikce</foreignphrase> Krankenschwester
+wird <foreignphrase lang="loj">kur<emphasis role="bold">MIK</emphasis>ce</foreignphrase> 
+gesprochen, nicht <foreignphrase lang="loj"><emphasis role="bold">KUR</emphasis>mikce.</foreignphrase> 
+ Der Name <wordasword>Juliette</wordasword> w&uuml;rde in englischer Aussprache 
+<foreignphrase lang="loj">DJUli,et.</foreignphrase> geschrieben, mit franz&ouml;sischer jedoch
+<foreignphrase lang="loj">julIET.</foreignphrase></para> </sect2>
+
+<sect2><title><quote role="socalled">Korrekte</quote> Aussprache</title>
+
+<para>Man muss es mit der Aussprache jedoch nicht allzu genau nehmen, die einzelnen Laute der Sprache 
+sind n&auml;mlich so gew&auml;hlt, dass einer Verwechelung vorgebeugt wird.
+Das heisst, dass es statt einer  <quote role="socalled">korrekten</quote> einen gewissen Bereich
+akzeptabler Aussprache gibt. Im Allgemeinen gilt, dass alles erlaubt ist, solange es nicht zu sehr wie etwas
+anderes klingt. Beispielsweise kann das Lojban <foreignphrase lang="loj">r</foreignphrase>
+, wie das <wordasword>r</wordasword> im Englischen, Italienischen oder Franz&ouml;sischen gesprochen werden. 
+Damit sind auch alle im Deutschen &uuml;blichen <wordasword>r</wordasword>s erlaubt.</para>
+</sect2>
+
+<sect2><title>Mit Gef&uuml;hl!</title>
+
+
+<para>Wenn Sie versucht haben eben besprochenen Diphtonge auszusprechen, haben sie bereits einige
+Lojban W&ouml;rter benutzt. In Lojban gibt es eine Klasse von W&ouml;rtern die man als <wordasword>Attitudinalia
+</wordasword> bezeichnen k&ouml;nnte, sie dr&uuml;cken das emotionale Verh&auml;ltniss des Sprechenden oder Schreibenden 
+zum Gegenstand seiner &Auml;usserung aus. Die einfachsten bestehen aus zwei Vokalen, manche haben ein 
+Apostroph in der Mitte. Hier seien zum Anfang einige angef&uuml;hrt:
+</para>
+
+<variablelist>
+<varlistentry><term><foreignphrase lang="loj">.a'o</foreignphrase></term>
+<listitem><para>Hoffnung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.au</foreignphrase></term>
+<listitem><para>Verlangen</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.a'u</foreignphrase></term>
+<listitem><para>Interesse</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.ie</foreignphrase></term>
+<listitem><para>Einigung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.i'e</foreignphrase></term>
+<listitem><para>Zustimmung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.ii</foreignphrase></term>
+<listitem><para>Angst</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.iu</foreignphrase></term>
+<listitem><para>Liebe</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.oi</foreignphrase></term>
+<listitem><para>Beschwerde</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.ua</foreignphrase></term>
+<listitem><para>Entdeckung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.&uuml;</foreignphrase></term>
+<listitem><para>&Uuml;berraschung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.u'e</foreignphrase></term>
+<listitem><para>Bewunderung</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.ui</foreignphrase></term>
+<listitem><para>Gl&uuml;ck</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.u'i</foreignphrase></term>
+<listitem><para>Amusement</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.uu</foreignphrase></term>
+<listitem><para>Mitleid</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="loj">.u'u</foreignphrase></term>
+<listitem><para>Re&uuml;</para></listitem></varlistentry>
+
+</variablelist>
+
+
+<para> Diese kann man in ihr Gegenteil umwandeln, indem man <foreignphrase
+lang="loj">nai</foreignphrase> anh&auml;ngt. Also bedeutet <foreignphrase
+lang="loj">.uinai</foreignphrase> <quote>Ich bin ungl&uuml;cklich</quote>, <foreignphrase
+lang="loj">.aunai</foreignphrase> dr&uuml;ckt Wiederstreben aus, <foreignphrase
+lang="loj">.uanai</foreignphrase> bedeutet Verwirrung und so weiter.  
+Man kann diese Ausdr&uuml;cke auch verbinden. <foreignphrase
+lang="loj">.iu.uinai</foreignphrase> bedeutet <quote>Ich bin ungl&uuml;cklich verliebt. </quote> 
+Auf diese Weise kann man sehr einfach viele Empfindungen ausdr&uuml;cken, die ansonsten sehr 
+umst&auml;ndlich auszudr&uuml;cken sind. </para>
+
+<para>Attitudinalia sind es sicher wert, dass man zumindest einige schon als Anf&auml;nger auswendig
+ lernt. Ein grosses Problem beim Erwerb von Fremdsprachen ist, dass man schnell lernt ein Kilogramm Oliven zu kaufen oder nach dem Postamt zu fragen, aber Gef&uuml;hle werden in vielen Sprachen auf eine sehr subtile 
+Art und Weise ausgedr&uuml;ckt, die sich schwer erschliesst. In Lojban kann man diese Dinge knapp und
+ direkt beschreiben. Wie man verschiedene Intensit&auml;ten von Gef&uuml;hlen darstellt werden wir 
+sp&auml;ter betrachten.</para>
+ 
+<simplesect role="exercise"><title>&Uuml;bung 1</title> <para>Gebrauch der Attitudinalia und ihrer Negationen. 
+Was w&uuml;rden Sie in den folgenden Situationen sagen? 
+
+<orderedlist>
+
+<listitem><para>Ihnen f&auml;llt ein, wo Sie Ihre Schl&uuml;ssel vergessen haben.</para></listitem>
+
+<listitem><para>Jemand tritt Ihnen auf die Zehen.</para></listitem>
+
+<listitem><para>Sie scha&uuml;n einen langweiligen Film.</para></listitem>
+
+<listitem><para>Jemand hat Ihnen gerade eine lustige Geschichte erz&auml;hlt.</para></listitem>
+
+<listitem><para>Sie stimmen mit jemandem nicht &uuml;berein.</para></listitem>
+
+<listitem><para>Jemand hat gerade den letzten Keks aus der Dose genommen.</para></listitem>
+
+<listitem><para>Sie m&ouml;gen jemanden &uuml;berhaupt nicht.</para></listitem>
+
+<listitem><para>Ihnen wird kaltes fettiges Essen vorgesetzt.</para></listitem>
+
+<listitem><para>Einer Ihrer Freunde ist gerade durch eine Pr&uuml;fung gefallen.</para></listitem>
+
+<listitem><para>Ein grosser gr&uuml;ner K&auml;fer krabbelt auf Sie zu.</para></listitem>
+
+</orderedlist>
+</para></simplesect></sect2>
+
+<sect2><title>Lojban Namen (<foreignphrase 
+lang="loj">cmene</foreignphrase>)</title>
+
+<para>
+ Sicher haben Sie schon einmal einen Film
+gesehen, in dem verschiedene Leute keine gemeinsame Sprache sprechen. Da kommen dann Versuche, wie 
+<quote>Ich Tarzan</quote>. Damit fangen wir auch an.</para>
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">mi'e robin.</foreignphrase>
+Ich-bin Robin
+</literallayout>
+</informalexample>
+
+<para><foreignphrase lang="loj">mi'e</foreignphrase> ist verwandt mit 
+<foreignphrase lang="loj">mi</foreignphrase>, was <quote role="gloss">Ich, der Sprecher</quote> bedeutet. 
+</para>
+
+<para>Manche Namen k&ouml;nnen direkt &uuml;bernommen werden. Manche Namen jedoch m&uuml;ssen  <quote
+ role="socalled">lojbanisiert</quote> werden. Das mag sich ungewohnt anh&ouml;ren, aber alle Sprachen tun dies
+zu einem gewissen Grad. Im Englischen wird <foreignphrase>Jose</foreignphrase> beim Sprechen 
+zu <wordasword>Hosee
+</wordasword> und <wordasword>Margarete</wordasword> im Chinesischen zu 
+<foreignphrase>Magelita</foreignphrase>. Manche Laute gibt es eben in manchen Sprachen nicht. Lassen Sie 
+uns sehen, wie man Ihren Namen <quote role="socalled">lojbanisieren</quote> kann.  
+</para>
+
+<para>Nehmen wir also zum Beispiel den Namen <wordasword>Sebastian</wordasword>. Wir stellen fest, dass die
+beiden <wordasword>s</wordasword> verschieden sind, das erste ist weich, das zweite ist scharf. Die Lojban 
+Schreibung ist also <foreignphrase lang="loj">zebastian.</foreignphrase> .
+</para>
+<para>Sie haben vieleicht den Punkt am Ende bemerkt, der ist, wie oben beschrieben, n&ouml;tig, um den Namen von 
+folgenden Worten zutrennen. Sollte der Name auch noch mit einem Vokal beginnen, muss auch am Anfang ein Punkt 
+gesetzt werden, um den Anfang zu markieren. Hier einige Beispiele: </para> 
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="loj">.an.</foreignphrase></term>
+<listitem><para>Anne</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">.axmet.</foreignphrase></term>
+<listitem><para>Ahmet</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">.eduard.</foreignphrase></term>
+<listitem><para>Edward</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">.IBraxim.</foreignphrase> oder
+<foreignphrase lang="loj">.IBra'im.</foreignphrase></term>
+<listitem><para>Ibrahim</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">.odin.</foreignphrase></term>
+<listitem><para>Odin</para></listitem> </varlistentry>
+
+</variablelist>
+
+
+<para>Man kann auch noch einen Punkt zwischen Vor- und Nachnamen setzen, obwohl das nicht zwingend notwendig 
+ist, <wordasword>Jim Jones</wordasword>
+wird also <foreignphrase lang="loj">djim.djonz.</foreignphrase> .</para>
+
+<para>Eine weitere Regel f&uuml;r die Lojbanisierung von Namen ist, dass der 
+<foreignphrase lang="loj">cmene</foreignphrase>, Lojban f&uuml;r Name, als letzten Buchstaben 
+einen Konsonanten tr&auml;gt, 
+auch dies dient der Unterscheidbarkeit der  <foreignphrase lang="loj">cmene</foreignphrase> von anderen 
+Lojban W&ouml;rtern, die n&auml;mlich alle mit einem Vokale enden. H&auml;ufig wird daf&uuml;r ein <foreignphrase
+lang="loj"><wordasword>s</wordasword></foreignphrase> genommen, aber jeder andere Konsonant ist ebenso
+zul&auml;ssig. <wordasword>Maria</wordasword> wird so zu <foreignphrase lang="loj">marias.</foreignphrase>, 
+<wordasword>Kay</wordasword> wird zu <foreignphrase lang="loj">kais.</foreignphrase> .  Alternativ kann auch 
+ein Vokal am Ende weggelassen werde. <wordasword>Maria</wordasword> kann zum Beispiel als <foreignphrase
+lang="loj">mar.</foreignphrase> wiedergegeben werden.</para>
+
+<para>Einige Lautfolgen sind in <foreignphrase lang="loj">cmene</foreignphrase>, 
+wegen der Verwechselungsm&ouml;glichkeit mit anderen Lojban W&ouml;rtern
+grunds&auml;tzlich nicht zul&auml;ssig:
+ <foreignphrase
+lang="loj">la</foreignphrase>, <foreignphrase
+lang="loj">lai</foreignphrase> and <foreignphrase
+lang="loj">doi</foreignphrase>.  
+<wordasword>Klaus</wordasword> und <wordasword>Goslar</wordasword> d&uuml;rfen also nicht als <foreignphrase
+lang="loj">klaus.</foreignphrase> und <foreignphrase
+lang="loj">goslar.</foreignphrase> geschrieben werden, sondern zum Beispiel <foreignphrase
+lang="loj">kl,aus.</foreignphrase> und <foreignphrase
+lang="loj">goslyar.</foreignphrase>  .</para>
+
+<para>Abschliessend befassen wir uns noch mit der Betonung. Wie wir gesehen haben, werden Lojban W&ouml;rter
+auf der vorletzten Silbe betont. Wenn ein Name anders betont werden soll, mussen daf&uuml;r Grossbuchstaben
+verwendet werden. Deshalb werden der deutsche und der franz&ouml;sische <wordasword>Robert</wordasword> in 
+Lojban unterschiedlich geschrieben. <foreignphrase
+lang="loj">robert.</foreignphrase> ist eine m&ouml;gliche Schreibung der deutschen Version, die franz&ouml;sische 
+Fassung jedoch <foreignphrase lang="loj">roBER.</foreignphrase> . 
+</para>
+
+<para>Um einen Eindruck zu vermittlen, wie wirkliche Namen aussehen, folgen nun die Namen einiger 
+bekannter Pers&ouml;nlichkeiten, in der Schreibweise, wie sie ihrer Muttersprache entspricht. </para>
+
+<!-- set TermLength artificially to prevent both table and para renderings in the same grouping -->
+<variablelist termlength="1"> <title>Englisch</title>
+
+<varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphrase
+lang="loj">magryt.tatcys.</foreignphrase> (kein <wordasword>th</wordasword> in Lojban, da die meisten 
+Menschen auf der Welt damit Probleme h&auml;tten)</para></listitem></varlistentry>
+
+<varlistentry><term>Mick Jagger</term> <listitem><para><foreignphrase
+lang="loj">mik.djagys.</foreignphrase></para></listitem> </varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Franz&ouml;sisch</title>
+
+<varlistentry><term>Napoleon</term> <listitem><para><foreignphrase
+lang="loj">napole,ON.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Juliette Binoche</term> <listitem><para><foreignphrase
+lang="loj">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Chinesisch</title>
+
+<varlistentry><term>Laozi</term> <listitem><para><foreignphrase
+lang="loj">laudzys.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Mao Zedong</term> <listitem><para><foreignphrase
+lang="loj">maus.dzeDYNG.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+<variablelist termlength="1"><title>Turkisch</title>
+
+<varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphrase
+lang="loj">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Erkin Koray</term> <listitem><para><foreignphrase
+lang="loj">.erkin.korais.</foreignphrase></para></listitem></varlistentry>
+
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Deutsch</title>
+
+<varlistentry><term>Ludwig Wittgenstein</term> <listitem><para><foreignphrase
+lang="loj">ludvig.VITgynctain.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Clara Schumann</term> <listitem><para><foreignphrase
+lang="loj">klaras.cuman.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Spanisch</title>
+
+<varlistentry><term>Isabel Allende</term> <listitem><para><foreignphrase
+lang="loj">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Che Guevara</term> <listitem><para><foreignphrase
+lang="loj">tcegevaras.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>Wo liegen diese Orte?</para>
+
+
+<orderedlist>
+<listitem><para><foreignphrase lang="loj">niu,IORK.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">romas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">kitos.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">kardif.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.beidjin.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.ankaras.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">prictinas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">keiptaun.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">taibeis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">bon.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">delis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">nis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.atinas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">lidz.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">xelsinkis.</foreignphrase></para></listitem>
+</orderedlist>
+
+
+</simplesect>
+
+<simplesect role="exercise"><title>&Uuml;bung 3</title>
+
+<para>Lojbanisieren Sie diese Namen</para>
+
+<orderedlist>
+
+<listitem><para>John</para></listitem>
+
+<listitem><para>Melissa</para></listitem>
+
+<listitem><para>Amanda</para></listitem>
+
+<listitem><para>Matthew</para></listitem>
+
+<listitem><para>Mich&auml;l</para></listitem>
+
+<listitem><para>David Bowie</para></listitem>
+
+<listitem><para>Jane Austen</para></listitem>
+
+<listitem><para>William Shakespeare</para></listitem>
+
+<listitem><para>Sigourney Weaver</para></listitem>
+
+<listitem><para>Richard Nixon</para></listitem>
+
+<listitem><para>Quito</para></listitem>
+
+<listitem><para>Istanbul</para></listitem>
+
+<listitem><para>Madrid</para></listitem>
+
+<listitem><para>Tokyo</para></listitem>
+
+<listitem><para>San Salvador</para></listitem>
+
+</orderedlist>
+
+</simplesect>
+</sect2>
+
+
+<sect2><title>Lojban W&ouml;rter als Namen</title>
+
+<para>Nun sollten Sie in der Lage sein Ihren Namen zu lojbanisieren. Sie k&ouml;nnen Ihren Name jedoch 
+auch &uuml;bersetzen, wenn Sie wollen, vorausgesetzt Sie wissen, was er bedeutet. Die amerikanischen Ureinwohner
+tun dies f&uuml;r gew&ouml;hnlich, wenn sie Englisch sprechen, einerseits haben sie oft bedeutungsvolle Namen,
+ andererseits gehen sie nicht ernsthaft davon aus, dass die <foreignphrase>wasichu</foreignphrase>
+ Lakota oder Navaho Namen aussprechen k&ouml;nnen.</para>
+
+<para>Alle Lojban W&ouml;rter enden mit einem Vokal. Man k&ouml;nnte sie so als Namen verwenden, aber f&uuml;r 
+gew&ouml;hnlich entfernt man den letzten Vokal, um deutlich zu machen, dass es sich um einen Namen handelt.  
+Wenn Ihr Spitzname also zum Beispiel <wordasword>Maus</wordasword> ist, so k&ouml;nnten sie das
+Lojban Wort f&uuml;r <wordasword>Maus</wordasword>, <foreignphrase
+lang="loj">smacu</foreignphrase> hernehmen und es als <foreignphrase
+lang="loj">cmene</foreignphrase> verwenden, oder einen Konsonanten anf&uuml;gen: <foreignphrase
+lang="loj">smacus.</foreignphrase>, oder einen Vokal anschneiden <foreignphrase
+lang="loj">smac.</foreignphrase> .</para>
+
+<para>Einige Beispiele:</para>
+<itemizedlist>
+<listitem><para>Skandinavisch: <foreignphrase lang="scand">Bj&ouml;rn</foreignphrase>, B&auml;r &ndash; 
+<foreignphrase lang="loj">cribe</foreignphrase>
+&ndash; <foreignphrase lang="loj">crib.</foreignphrase></para></listitem>
+
+<listitem><para>Chinesisch: <foreignphrase lang="chin">Mei Li</foreignphrase>, sch&ouml;n &ndash; <foreignphrase
+lang="loj">melbi</foreignphrase> &ndash; <foreignphrase
+lang="loj">melb.</foreignphrase></para></listitem>
+
+<listitem><para>T&uuml;rkisch: <foreignphrase lang="turk">Ayhan</foreignphrase>, Herr des Mondes &ndash; 
+<foreignphrase
+lang="loj">lunra nobli</foreignphrase> (<foreignphrase
+lang="loj">lurnobli</foreignphrase>) &ndash; <foreignphrase
+lang="loj">lurnoblis.</foreignphrase></para> </listitem> </itemizedlist>
+</sect2>
+
+<sect2><title>L&ouml;sungen zu den &Uuml;bungen</title>
+
+<simplesect role="excanswer"><title>&Uuml;bung 1</title> <orderedlist>
+
+<listitem><para><foreignphrase lang="loj">.ua</foreignphrase> </para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.oi</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.u'inai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.u'i</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.ienai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.oi</foreignphrase> , <foreignphrase
+lang="loj">.i'enai</foreignphrase>, oder <foreignphrase
+lang="loj">.oi.i'enai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.iunai</foreignphrase></para></listitem>
+
+<listitem><para>Wahrscheinlich <foreignphrase lang="loj">.a'unai.oi</foreignphrase>,
+ vorausgesetzt Sie m&ouml;gen kaltes fettiges Essen nicht.</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.uu</foreignphrase></para></listitem>
+
+<listitem><para>Hier sind wohl verschiedene Antworten vorstellbar, jenachdem, was Sie von K&auml;fern halten.
+<foreignphrase
+lang="loj">.ii</foreignphrase> falls Sie eine Phobie haben, <foreignphrase
+lang="loj">.a'unai</foreignphrase> falls Sie sie einfach abstossend finden,
+ <foreignphrase lang="loj">.a'u</foreignphrase> k&ouml;nnte ein Entomologe,
+sagen. </para> </listitem>
+
+</orderedlist>
+</simplesect>
+
+
+<simplesect role="excanswer"><title>&Uuml;bung 2</title>
+
+<orderedlist>
+
+<listitem><para>New York</para></listitem>
+
+<listitem><para>Rome</para></listitem>
+
+<listitem><para>Quito</para></listitem>
+
+<listitem><para>Cardiff</para></listitem>
+
+<listitem><para>Beijing (bevorzugt gegen&uuml;ber dem im Deutschen &uuml;blichen <wordasword>Peking</wordasword>)</para></listitem>
+
+<listitem><para>Ankara</para></listitem>
+
+<listitem><para>Pri&#0269;tina</para></listitem>
+
+<listitem><para>Cape Town</para></listitem>
+
+<listitem><para>Taipei (man beachte: <foreignphrase lang="loj">b</foreignphrase>, nicht
+<foreignphrase lang="loj">p</foreignphrase>)</para></listitem>
+
+<listitem><para>Bonn</para></listitem>
+
+<listitem><para>Delhi</para></listitem>
+
+<listitem><para>Nizza</para></listitem>
+
+<listitem><para>Athen</para></listitem>
+
+<listitem><para>Leeds</para></listitem>
+
+<listitem><para>Helsinki</para></listitem>
+
+</orderedlist>
+</simplesect>
+
+<simplesect role="excanswer"><title>&Uuml;bung 3</title>
+
+<para>Es gibt gew&ouml;hnlich verschiedene Schreibweisen f&uuml;r Namen, entweder da sie es urspr&uuml;nglich 
+verschiedene Aussprachen eines Namens gibt, oder da einige Laute kein exaktes &Auml;quivalent in Lojban haben, 
+man sich also zwischen verschiedenen Lojban Buchstaben entscheiden muss. Das ist in Ordnung solange jeder
+weiss um was oder um wen es sich handelt.
+</para>
+
+<orderedlist>
+
+<listitem><para><foreignphrase lang="loj">djon.</foreignphrase> (oder
+<foreignphrase lang="loj">djan.</foreignphrase> in einigen Dialekten)</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">melisys.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.amandys.</foreignphrase> (je nach Akzent kann statt des 
+<foreignphrase
+lang="loj">y</foreignphrase> auch <foreignphrase
+lang="loj">a</foreignphrase> stehen)</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">matius.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">maikyl.</foreignphrase> or
+<foreignphrase lang="loj">maik,l.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">deivd.bau,i.</foreignphrase> or
+<foreignphrase lang="loj">bo,i.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">djein.ostin.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="loj">.uiliam.cekspir.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="loj">sigornis.uivyr.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="loj">ritcyrd.niksyn.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">kitos.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.istanBUL.</foreignphrase> mit englischer Betonung,
+ <foreignphrase lang="loj">.IStanbul</foreignphrase> mit amerikanischer,
+<foreignphrase lang="loj">.istanbul.</foreignphrase> mit t&uuml;rkischer. 
+In Lojban bevorzugt man <foreignphrase
+lang="loj">cmene</foreignphrase>, die auf der urspr&uuml;nglichen Aussprache des Namens basieren. 
+Dies ist jedoch keine absolute Regel.
+</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">maDRID.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">tokios.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">san.salvaDOR.</foreignphrase> (mit spanischer Betonung)
+</para></listitem>
+
+</orderedlist> </simplesect>
+
+
+</sect2>
+
+</sect1>
