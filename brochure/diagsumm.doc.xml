@@ -178,7 +178,7 @@ omitted.</para></listitem>
 
 <simplesect><title>Sentence examples</title>
 
-<informaltable frame="none">
+<informaltable frame="none" role="compact">
 <tgroup cols="5">
 <colspec colnum="1" colname="c1" colwidth="2*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -9947,7 +9947,7 @@ lang="art-lojban">bajra</foreignphrase></term>
 <varlistentry><term><foreignphrase
 lang="art-lojban">birka</foreignphrase></term>
 
-<listitem><para> x<subscript>1</subscript> is a/the arm [body-part] of x<subscript>2</subscript></para></listitem></varlistentry>
+<listitem><para>x<subscript>1</subscript> is a/the arm [body-part] of x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">blari'o</foreignphrase></term>

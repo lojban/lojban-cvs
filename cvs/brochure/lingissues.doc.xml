@@ -1036,7 +1036,7 @@ lang="art-lojban">mr</foreignphrase>, do not appear in English, but are
 still possible to English- speakers with a bit of practice. Medial
 consonant clusters are also restricted, to prevent mixed voiced&ndash;unvoiced
 clusters, consecutive stops, and other hard-to-handle combinations. The new
-Lojban sound /y/, IPA [&schwa;], is used to separate <quote
+Lojban sound /y/, IPA [<emphasis role="ipa">&schwa;</emphasis>], is used to separate <quote
 role="socalled">bad</quote> medial clusters wherever the morphology rules
 would otherwise produce them.</para>
 
@@ -1057,11 +1057,11 @@ role="socalled">the
 cat</quote>), while officially pronounced /le,MLA,tu/, can be pronounced as
 /lem,LA,tu/ with no confusion to the listener.</para>
 
-<para>In addition, the buffering sound, IPA [&Iipa;] (the
+<para>In addition, the buffering sound, IPA [<emphasis role="ipa">&Iipa;</emphasis>] (the
 <wordasword>i</wordasword> of English <wordasword>bit</wordasword>) is
 explicitly reserved for insertion at any point into a Lojban word where the
 speaker requires it for ease of pronunciation. The word <foreignphrase
-lang="art-lojban">mlatu</foreignphrase> may be pronounced /m&Iipa;latu/ by
+lang="art-lojban">mlatu</foreignphrase> may be pronounced /m<emphasis role="ipa">&Iipa;</emphasis>latu/ by
 those who cannot manage <foreignphrase
 lang="art-lojban">ml</foreignphrase>, and nothing else need be changed.
 This sound is <quote role="socalled">stripped</quote> by the listener

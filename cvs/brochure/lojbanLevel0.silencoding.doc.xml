@@ -1,0 +1,28 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
+<!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
+<!ENTITY brochure SYSTEM "brochure.doc.xml">
+<!ENTITY intro SYSTEM "intro.doc.xml">
+<!ENTITY tech SYSTEM "tech.doc.xml">
+<!ENTITY overview SYSTEM "overview.doc.xml">
+<!ENTITY diagsumm SYSTEM "diagsumm.doc.xml">
+<!ENTITY lingissues SYSTEM "lingissues.doc.xml">
+<!ENTITY xtomathy SYSTEM "xtomathy.doc.xml">
+<!ENTITY xtomathyinfo SYSTEM "xtomathyinfo.doc.xml">
+<!ENTITY bradi SYSTEM "bradi.doc.xml">
+<!ENTITY ckape SYSTEM "ckape.doc.xml">
+<!ENTITY lorxu SYSTEM "lorxu.doc.xml">
+<!ENTITY attit SYSTEM "attit.doc.xml">
+<!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
+<!ENTITY sumtiemph "be underlined">
+<!ENTITY selbriemph "be italicized">
+<!ENTITY schwa "&#171;">
+<!ENTITY Iipa "I">
+]>
+<book>
+&bookinfo;
+&intro;
+&brochure;
+&tech;
+&xtomathy;
+&index;
+</book>
