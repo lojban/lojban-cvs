@@ -406,7 +406,7 @@ die  <quote role="gloss">Bank</quote>, zu der man sein Geld tr&auml;gt.
 Man weiss in Lojban immer, wo ein Wort beginnt und endet, <quote role="gloss">Blumen-Topf-Erde</quote> ist ja 
 auch, etwas anderes als <quote role="gloss">Blumento-Pferde</quote>.
 Am wichtigsten ist, dass die Funktion eins Wortes immer unausweichlich festgelegt ist.
-<!-- better examples here-->
+<!--bgohla  better examples here-->
 </para>
 
 <para>
@@ -418,7 +418,7 @@ die Semantik, Metaphern  und absichtliche Auslassung von Informationen, die Elli
 <para>In nat&uuml;rlichen Sprachen, stehen W&ouml;rter f&uuml;r ganze Gruppen von Konzepten
 anstatt einzelner Bedeutungen. Diese sehr verschiedenen Bedeutungen eines Wortes haben oft eine sehr
  schwache Beziehung zueinander.
-<!--find example here-->
+<!--bgohla find example here-->
 Dazu kommt nocht die verschiedenen Erfahrungen jedes einzelnen, die jedem Wort eine
 individuelle emotionale F&auml;rbung geben. Durch den kulturell neutralen <quote>neuen Anfang</quote>
 soll eine &Uuml;bertragung dieser Assoziationen vermieden werden. 
@@ -450,40 +450,42 @@ was Sie <emphasis>meinen</emphasis>, aber er wird immer verstehen was Sie <empha
 
 </answer>
 </qandaentry>
-<!--bookmark-->
 <qandaentry>
 <question>
-<para>Can you make jokes in an unambiguous language?</para>
+<para>Kann man in einer eindeutigen Sprache Witze machen?</para>
 </question>
 <answer>
-<para>Most humor arises from situation and character and is as funny in
-Lojban as in any language.  Humor based on word play, of course, is
-language-dependent.  Lojban has no homonyms, and hence no simple puns; puns
-derived from similar sounds are still possible.  Since Lojban will almost
-always be a second language, bilingual puns and word play abound, often
-based on the relative ambiguity of the other languages involved.  Humor
-based on internal grammatical ambiguity is of course impossible in Lojban,
-but humor based on nonsensical statements or on logical structures that
-would be difficult to clearly express in another language, become
-easier.</para>
 
 
-<para>As speakers become fluent, and conventional phrases come into use,
-Lojban will develop its own forms of spoonerisms and subtle puns.  Unique
-forms of Lojban word-play have already turned up; they exploit the way
-small variations in Lojban grammar create unexpected variations in meaning,
-and the capability to simply express rather mind-boggling relationships. 
-Like all word-play, these lose zest when translated into other
-languages.</para>
+<para>Witz entsteht meist aus Situationen und Charakteren und ist 
+in Lojban genauso lustig wie in jeder anderen Sprache. Der sogenannte Wortwitz ist allerdings
+sehr sprachspezifisch. In Lojban gibt es keine Homonyme, also auch keine einfachen
+Wortspiele. Witze, die auf gleichlautende W&ouml;rter zur&uuml;ckgehen, sind allerdings m&ouml;glich.
+Da Lojban auch auf absehbare Zeit eine Fremdsprache bleiben wird, gibt es 
+viele zweisprachige Wortspiele, die auf die Mehrdeutigkeit der anderen beteiligten Sprachen anspielen.
+Witze, die sich auf grammatische Vieldeutigkeit von Lojban beziehen k&ouml;nnten, sind nat&uuml;rlich unm&ouml;glich,
+hingegen solche die auf unsinnigen Aussagen beruhen oder auf logischen Strukturen, die in anderen Sprachen schwieriger
+auszudr&uuml;cken sind, hingegen werden leichter.
+</para>
+<!--bgohla examples ??? -->
 
 
-<para>Related to humor is the aphorism: the pithy saying that gains
-pungency or poignancy from terse, elegant phrasing.  Lojban seems as
-capable of aphorisms as any language, perhaps more than most; however,
-because the language is so young, such aphorisms are still rare.</para>
+<para>W&auml;hrend die Lojbanisten an Sprachgewandheit gewinnen wird
+sich auch eine spezieller Lojban Humor herausbilden. Einzigartige Formen des
+Wortspiels sind bereits vorgekommen, diese leben davon, dass kleine Ver&auml;nderungen 
+an der Grammatik unerwartete Auswirkungen auf den Sinn haben. Wie alle 
+Wortspiele verlieren sie an Biss und Sch&auml;rfe, wenn man versucht sie zu &uuml;bersetzen.
+</para>
+
+
+<para>Dem Witz verwandt ist der Aphorismus, der markige Spruch der durch
+eleganten und sparsamen Ausdruck besonders versch&auml;rft ist. Lojban ist wohl
+f&uaml;hig Aphorismen auszudr&uuml;cken, vielleicht besser als andere. Da die
+Sprache allerdings noch jung ist, sind Aphorismen noch selten.</para>
+
 </answer>
 </qandaentry>
-
+<!--bgohla bookmark-->
 <qandaentry>
 <question>
 
