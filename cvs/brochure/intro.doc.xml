@@ -1,0 +1,77 @@
+<preface id="pref"><title> Organization of this booklet &mdash; <foreignphrase
+lang="art-lojban">stura le dei cmacku</foreignphrase></title>
+
+
+<para>This booklet is an introduction to the language Lojban.  It is
+divided into three parts.  </para>
+
+
+<para><link linkend="sect1">Part I</link> gives a general
+presentation of what the language is, why it exists, and why it should be
+of interest to you. <link linkend="sect2">Part II</link> contains a more
+formal exposition of the language, consisting of an overview of the
+language's grammar, and a diagrammed summary of its grammar basics. It may
+be used in conjunction with, or instead of, the introductory lessons
+available separately. <link linkend="sect3">Part III</link>, finally,
+contains a few texts in Lojban, with parallel translation and glosses, to
+allow you to get a feel for how the language works. </para>
+
+<para>The <citetitle>Introduction</citetitle> (formerly the <foreignphrase
+lang="art-lojban">la lojban. mo</foreignphrase> brochure) was originally
+written by Athelstan and Bob LeChevalier in 1988, and updated in 1991 and
+2001. The <citetitle>Overview</citetitle> was originally written by Bob
+LeChevalier in 1989, and updated in 1990 and 2001. The
+<citetitle>Diagrammed Summary</citetitle> was originally written by Nora
+Tansky LeChevalier and Bob LeChevalier in 1990, and updated in 1992 and
+2001. <citetitle>Loglan and Lojban</citetitle> was originally written by
+John Cowan in 1991.</para>
+
+<note><para>This booklet is published by the Logical Language Group,
+incorporated as a non-profit scientific/educational charity approved by the
+U.S. Government for tax-deductible donations.  We ask that those obtaining
+our materials by computer register your interest with us by postal or
+computer mail.  We also ask that you consider contributing to The Logical
+Language Group to help offset our continuing costs in general support of
+the Lojban community.  Any amount you contribute will be helpful;
+contributor's costs can range from as little as $5 for the introductory
+teaching materials, to greater amounts for people actively learning or
+supporting the language.  </para> </note>
+
+<para><foreignphrase lang="art-lojban">.i le dei cmacku cu vasru loi cfari
+terdjuno datni pe la lojban. .i le cmacku cu pagbu lo cimei</foreignphrase></para>
+
+<para><foreignphrase lang="art-lojban">.i le <link linkend="sect1">1moi 
+pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei; .e ledu'u ly. zasti 
+mu'i ma kau kei; .e ledu'u tu'a ly. cinri do ki'u ma kau .i le <link 
+linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o;
+no'u lo naltcila velski be le gerna sidbo;
+kujoi lo xracartu torvelski be le jubme gerna .i ka'e pilno le go'i .a le 
+cfari ve ctuca be la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
+linkend="sect3">3 !mu'amai moi pagbu</link> cu vasru {so'u seltcidu pebau la 
+lojban. ge'u} .e lo kansa xe fanva .e lo kansa xe vlafanva mu'i lenu do co'a 
+jimpe ledu'u le bangu cu se sazri ta'i ma kau</foreignphrase></para>
+
+<para><foreignphrase lang="art-lojban">ni'o le lidne pagbu cu krasi se
+finti la .AT,lstan. joi la lojbab. ca la 1988nan. gi'e se ningau ca la
+1991nan. .e la 2001nan. .i le naltcila velski cu krasi se finti la lojbab.
+ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan. .i le xracartu
+torvelski cu krasi se finti la noras. tanskis. lecevalier. joi la lojbab.
+ca la 1990nan. gi'e se ningau ca la 1992nan. .e la
+2001nan. .i la me la loglan. joi la lojban. cu krasi se finti la djan. 
+kau,n. ca la 1991nan.</foreignphrase></para>
+
+<note><title><foreignphrase lang="art-lojban">ni'o
+ju'i</foreignphrase></title><para><foreignphrase lang="art-lojban">le
+dei cmacku cu se gubgau la lojbangirz. noi ba'o ritli binxo lo nalprali ke
+saske ja ctuca ke dinterdu'a girzu; poi le merko turni cu zanru lenu le
+cteki be le jdini poi se dunda fi le girzu cu jdika .i mi cpedu lenu le
+cpacu be lemi datni bei xebe'i le skami cu jungau mi lenu se cinri kei
+semu'i lenu pelji ja skami mrilu .i mi ji'a cpedu lenu do dunda fi la
+lojbangirz. mu'i lenu jdikygau lemi ca'o se pleji befo lenu vrici sarji
+le lojbo cecmu .i ro jdini poi do dunda cu plixau .i le se pleji be le
+dunda cu rupnu li su'e 5 pemu'i tu'a le cfari cilre seltcidu ge'uku bi'o lo
+zmadu pe lo ca'a cilre ja sarji be le bangu</foreignphrase></para></note>
+
+
+</preface>
+

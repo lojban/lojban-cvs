@@ -1,0 +1,166 @@
+<chapter id="attit">
+<chapterinfo><author><firstname>Nora</firstname><surname>Tansky LeChevalier</surname></author>
+<printhistory><para>Printed in <citetitle>The Complete Lojban Language</citetitle>, 13.15.</para></printhistory>
+</chapterinfo>
+
+<title><foreignphrase lang="art-lojban">Attitudinal</foreignphrase></title>
+
+<para>
+<literallayout>
+<foreignphrase lang="art-lojban">la rik. .e la .alis. nerkla le kafybarja</foreignphrase>
+<computeroutput>Rick and Alice in-go to-the coffee-bar.</computeroutput>
+Rick and Alice go into the coffee bar.
+
+<foreignphrase lang="art-lojban">.i sei la rik. cusku se'u
+	ta'a ro zvati be ti
+	mi baza speni ti .iu</foreignphrase>
+<computeroutput>[Comment] Rick says, [end-comment]
+	[Interrupt] all at this-place,
+	I [future] [medium] am-spouse-to this-one [love].</computeroutput>
+Rick said, <quote>Sorry to break in, everybody. Pretty soon I'm getting married to my love here.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la djordj. cusku se'u
+	a'o ko gleki doi ma</foreignphrase>
+<computeroutput>[Comment] George says, [end-comment]
+[Hope] [You-imperative] are-happy, O [who?].</computeroutput>
+George said, <quote>I hope you'll be happy, um, ...?</quote>
+
+<foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
+	pe'u .alis.
+	xu mi ba terfriti le nunspenybi'o</foreignphrase>
+<computeroutput>[Comment] Pam says,
+	[Please] Alice, [end-comment]
+	[Is it true?] I [future] receive-offer-of the event-of-spouse-becoming?</computeroutput>
+Pam said, <quote>Please, Alice, am I going to be invited to the wedding?</quote>
+
+<foreignphrase lang="art-lojban">.i sei la mark. cusku se'u
+	coi baza speni
+	a'o le re do lifri le ka xamgu</foreignphrase>
+<computeroutput>[Comment] Mark says, [end-comment]
+	[Greetings] [future] [medium] spouse(s),
+	[Hope] the two of-you experience the-property-of being-happy</computeroutput>
+Mark said, <quote>Hello, spouses-to-be.  I hope both of you will be very happy.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la rik. cusku se'u
+	mi'e .rik. doi terpreti</foreignphrase>
+<computeroutput>[Comment] Rick says, [end-comment]
+	[I am] Rick, O questioners.</computeroutput>
+Rick said, <quote>My name is Rick, for those of you who want to know.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la .alis. cusku se'u
+	nu'e .pam. .o'ero'i
+	do ba zvati</foreignphrase>
+<computeroutput>[Comment] Alice says, [end-comment]
+	[Promise-to] Pam, [closeness] [emotional]
+	you [future] are-at.</computeroutput>
+Alice said, <quote>I promise you'll be there, Pam honey.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la fred. cusku se'u
+	.uinaicairo'i
+	mi ji'a prami la .alis.
+	fe'o .rik.</foreignphrase>
+<computeroutput>[Comment] Fred says, [end-comment]
+	[Happy] [not] [emphatic] [emotional]
+	I [additionally] love Alice.
+	[Over and out to] Rick.</computeroutput>
+<quote>I love Alice too,</quote> said Fred miserably.  <quote>Have a nice life, Rick.</quote>
+
+<foreignphrase lang="art-lojban">.i la fred. cliva</foreignphrase>
+Fred leaves.
+And he left.
+
+<foreignphrase lang="art-lojban">.i sei la rik. cusku se'u
+	fi'i ro zvati
+	ko pinxe pa ckafi fi'o pleji mi</foreignphrase>
+<computeroutput>[Comment] Rick says, [end-comment]
+	[Welcome-to] all at-place,
+	[You-imperative] drink one coffee with-payer me.</computeroutput>
+Rick said, raising his voice, <quote>A cup of coffee for the house, on me.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
+	be'e selfu</foreignphrase>
+<computeroutput>[Comment] Pam says, [end-comment]
+	[Request to speak to] server.</computeroutput>
+Pam said, <quote>Waiter!</quote>
+
+<foreignphrase lang="art-lojban">.i sei le selfu cu cusku se'u
+	re'i </foreignphrase>
+<computeroutput>[Comment] The server says, [end-comment]
+	[Ready to receive].</computeroutput>
+The waiter replied, <quote>May I help you?</quote>
+
+<foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
+	e'o ko selfu le traji xamgu ckafi le baza speni
+	fi'o selpleji mi </foreignphrase>
+<computeroutput>[Comment] Pam says, [end-comment]
+	[Petition] [You-imperative] serve the (superlatively good) coffee to-the [future] [medium] spouse
+	with-payment me.</computeroutput>
+Pam said, <quote>One Jamaica Blue for the lovebirds here, on my tab.</quote>
+
+<foreignphrase lang="art-lojban">.i sei le selfu cucusku se'u
+	vi'o </foreignphrase>
+<computeroutput>[Comment] The server says, [end-comment]
+	[Will comply].</computeroutput>
+<quote>Gotcha</quote>, said the waiter.
+
+<foreignphrase lang="art-lojban">.i sei la rik. cusku se'u
+	ki'e .pam. </foreignphrase>
+<computeroutput>[Comment] Rick says, [end-comment]
+	[Thanks O] Pam.</computeroutput>
+<quote>Thanks, Pam</quote>, said Rick.
+
+<foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
+	je'e </foreignphrase>
+<computeroutput>[Comment] Pam says, [end-comment]
+	[Acknowledge].</computeroutput>
+<quote>Sure</quote>, said Pam.
+
+<foreignphrase lang="art-lojban">.i sei la djan. cusku se'u
+	.y. mi .y. mutce spopa .y.
+	le nu le speni si .y.
+	ba speni .y. .y.
+	su .yyyyyy. mu'o </foreignphrase>
+<computeroutput>[Comment] John says, [end-comment]
+	[Uh] I [uh] very [nonexistent gismu] [uh]
+	the event-of the spouse [erase] [uh]
+	[future] spouse [uh] [uh]
+	[erase all] [uh] [over]</computeroutput>
+John said, <quote>I, er, a lotta, uh, marriage, upcoming marriage, ....  Oh, forget it. Er, later.</quote>
+
+<foreignphrase lang="art-lojban">.i sei la djordj. cusku se'u
+	ke'o .djan. zo'o </foreignphrase>
+<computeroutput>[Comment] George says, [end-comment]
+	[Repeat O] John [humor].</computeroutput>
+<quote>How's that again, John?</quote> said George.
+
+<foreignphrase lang="art-lojban">.i sei la pam. cusku se'u
+	ju'i .djordj.
+	.e'unai le kabri bazi farlu </foreignphrase>
+<computeroutput>[Comment] Pam says, [end-comment]
+	[Attention] George,
+	[Warning] the cup [future] [short] falls</computeroutput>
+<quote>George, watch out!</quote> said Pam.  <quote>The cup's falling!</quote>
+
+<foreignphrase lang="art-lojban">.i le kabri cu je'a farlu </foreignphrase>
+The cup indeed falls.
+The cup fell.
+
+<foreignphrase lang="art-lojban">.i sei la djan. cusku se'u
+	.e'o doi djordj. zo'o rapygau </foreignphrase>
+<computeroutput>[Comment] John says, [end-comment]
+	[Petition] O George [humor] repeat-cause.</computeroutput>
+John said, <quote>Try that again, George!</quote>
+
+<foreignphrase lang="art-lojban">.i sei la djordj. cusku se'u
+	co'o ro zvati pe secau la djan. ga'i </foreignphrase>
+<computeroutput>[Comment] George says, [end-comment]
+	[Partings] all at-place without John [superiority]</computeroutput>
+<quote>Goodbye to all of you,</quote> said George sneeringly, <quote>except John.</quote>
+
+<foreignphrase lang="art-lojban">.i la djordj. cliva </foreignphrase>
+<computeroutput>George leaves.</computeroutput>
+George left.
+
+</literallayout>
+</para>
+</chapter>
