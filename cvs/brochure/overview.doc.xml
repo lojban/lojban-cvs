@@ -1916,7 +1916,7 @@ are named after one word within the category, often
 the one most frequently used. CU, KOhA, PU, and UI are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.
 
 <note><para>The <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> names are capitalized in English
-discussion of Lojban. The apostrophe is converted to <wordasword>h</wordasword> in such usage; this is for compatibility with computer grammar parses.</para></note></para>
+discussion of Lojban. The apostrophe is converted to <wordasword>h</wordasword> in such usage; this is for compatibility with computer grammar parsers.</para></note></para>
 
 </sect2>
 
@@ -3083,7 +3083,7 @@ role="socalled">&int;
 dx evaluated over the interval of &minus;5 to +5 bottles of
 water</quote>.<indexterm id="idx191" startref="idx190" class="endofrange" significance="preferred"/>
 
-<note><para>In case you're curious: <foreignphrase lang="art-lojban">ri'o ni'u re xy. te'a ci su'i xy. te'a re su'i mu ku'e xy. ku'e mo'e ni'u mu djacu botpi te'u ga'o bi'o ga'o mo'e mu djacu botpi</foreignphrase></para></note></para> </sect2>
+<note><para>In case you're curious: <foreignphrase lang="art-lojban">li ri'o ni'u re xy. te'a ci su'i xy. te'a re su'i mu ku'e xy. ku'e mo'e ni'u mu djacu botpi te'u ga'o bi'o ga'o mo'e mu djacu botpi</foreignphrase></para></note></para> </sect2>
 
 <sect2><title><foreignphrase lang="art-lojban">selsku</foreignphrase></title>
 
