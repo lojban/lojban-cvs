@@ -157,7 +157,7 @@
        '(name "lojban_lpc_group")
        '(coef_ext ".pm")
        '(sig_ext ".wav")
-       (list 'index_file (path-append ljb_diphone_dir "ljb_diphone_hand_timed.index"))
+       (list 'index_file (path-append ljb_diphone_dir "ljb_diphone.index"))
        (list 'coef_dir (path-append ljb_diphone_dir "pm/"))
        (list 'sig_dir (path-append ljb_diphone_dir "wav/"))
        '(grouped "false")
