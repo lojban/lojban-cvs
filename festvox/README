@@ -1,20 +1,53 @@
 This is the Lojban Text-to-Speech project
+$Id$
 
 The goal is to create a voice for Festival that can speak any valid 
 lojban text. (It should hopefully be able to handle other languages as 
 well using language shifts and other Festival voices. That is the 
 future.) 
 
-The tools used here are as follows:
+IMPORTANT:
+You should grab a copy of the wav files of the diphones here:
 
-* Festival - the open-source text-to-speech engine that will eventually 
-             speak everything for us
+http://www.lojban.org/twiki/pub/Files/SoundFiles/akwavs.zip
+
+and decompress them into 
+    festvox/ljb_diphone/wav/ 
+
+
+The tools used in making the voice are as follows:
+
+* Festival - The open-source text-to-speech engine that will eventually 
+             speak everything for us. 
 * Festvox  - Festival's voice development package. This is used to build 
              various component of the voice database
-
-both of these can be acquired from http://www.festvox.org/
-
+See below for information on acquiring these two.
 * Praat    - A wonderful tool for maniuplating, analyzing and generally 
              poking at sound files in a phonetic nature. 
+             http://www.fon.hum.uva.nl/praat/
 * Perl     - used for converting Praat files to something Festival 
              understands. 
+
+Festival and Festvox can be acquired from http://www.festvox.org/ 
+There's a great wealth of information on the website, but the most 
+important (or at least helpful to making this voice) have been:
+
+Tutorial on creating a voice, in this case a japanese one:
+http://www.festvox.org/bsv/bsv-jpdiphone-ch.html
+
+As we didn't have any EGG signal, this:
+http://festvox.org/festvox/bsv-pitchmarks-sect.html
+
+A more general tutorial on voice building: 
+http://www.cstr.ed.ac.uk/projects/festival/manual/festival_24.html#SEC99
+
+lojban doesn't need a lexicon, so this was used:
+http://www.cstr.ed.ac.uk/projects/festival/manual/festival_13.html#SEC43
+
+and of course, some info on the synthesizer we're using: 
+http://www.cstr.ed.ac.uk/projects/festival/manual/festival_20.html#SEC76
+
+For more information on the project, see the Lojban Wiki:
+http://www.lojban.org/wiki/index.php/Lojban%20diphone%20speech%20synthesizer
+
+$Log$
