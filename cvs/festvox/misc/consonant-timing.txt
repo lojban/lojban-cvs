@@ -1,0 +1,23 @@
+this is where the consonants are split (at least by Xavier)
+
+start is at the start of the plosive sound. 
+middle is the middle of the consonant phoneme.
+
+p	start
+t	start
+k	start
+f	middle
+b	start
+d	start
+g	middle
+v	middle
+s	middle
+z	middle
+c	middle
+j	middle
+x	middle
+m	middle
+n	middle
+l	middle
+r	middle
+h	middle
