@@ -6,11 +6,19 @@
 <style-specification use="docbook">
 <style-specification-body>
 
+;; Need to avoid Unicode proper, because of BRAINDAMAGE somewhere between 
+;; [open]jade and Word
+(define ($unicode-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "SILSophiaIPA"
+		sosofo))
+
+
 (define %paper-type% "TradePaperback")
-(define %page-width% 6in)
-(define %page-height% 9in)
-(define %left-margin% 0.75in)
-(define %right-margin% 0.75in)
+(define %page-width% 5.5in)
+(define %page-height% 8.5in)
+(define %left-margin% 0.5in)
+(define %right-margin% 0.5in)
 (define %top-margin% 0.75in)
 (define %bottom-margin% 1in)
 (define %hsize-bump-factor% 1.15)

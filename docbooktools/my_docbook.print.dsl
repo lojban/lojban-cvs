@@ -14,8 +14,16 @@
   ;; The font family used in titles
   "Times New Roman")
 
+(define %admon-font-family%
+	;; Exercises, notes
+	"Trebuchet MS")
+
 (define %may-format-variablelist-as-table% #t)
 
+;; force table vertical compacting
+(define %cals-cell-before-row-margin% 0pt)
+
+(define %cals-cell-after-row-margin% 0pt)
 
 (define %default-variablelist-termlength%
   ;; Default term length on variablelists
@@ -38,6 +46,8 @@
 							1.0))
 		sosofo))
 
+;; you may have to change this to a non-unicode font if in RTF; 
+;; cf. paperback stylesheet, *.silencoding.doc.xml entities
 (define ($unicode-text$ #!optional (sosofo (process-children)))
 	(make sequence
 		font-family-name: "Code2000"
@@ -70,6 +80,7 @@
       ((equal? role (normalize "sumti")) ($underline-seq$))
       ((equal? role (normalize "selbri")) ($italic-seq$))
       ((equal? role (normalize "placestruct")) ($italic-seq$))
+      ((equal? role (normalize "ipa")) ($unicode-text$))
       (else ($italic-seq$)))))
 
 
@@ -385,34 +396,170 @@
     (make-endnotes)))
 
 
-;; In the appendix (vocabulary), squish entries together vertically in appendix
+;; modified to shrink font for vocab
+(element variablelist
+  (let* ((termlength (if (attribute-string (normalize "termlength"))
+			 (string->number 
+			  (attribute-string (normalize "termlength")))
+			 %default-variablelist-termlength%))
+	 (maxlen     (if (> termlength %default-variablelist-termlength%)
+			    termlength
+			    %default-variablelist-termlength%))
+	 (too-long?  (variablelist-term-too-long? termlength)))
+    (make display-group
+      start-indent: (if (INBLOCK?)
+			(inherited-start-indent)
+			(+ %block-start-indent% (inherited-start-indent)))
+      space-before: (if (INLIST?) %para-sep% %block-sep%)
+      space-after:  (if (INLIST?) %para-sep% %block-sep%)
+;; added: NN
+	  font-size: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+		(* %bf-size% %smaller-size-factor%) (inherited-font-size))  
+      line-spacing: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+        (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
+		(inherited-line-spacing))
+;; end added
+
+      (if (and (or (and termlength (not too-long?))
+		   %always-format-variablelist-as-table%)
+	       (or %may-format-variablelist-as-table%
+		   %always-format-variablelist-as-table%))
+	  (make table
+	    space-before: (if (INLIST?) %para-sep% %block-sep%)
+	    space-after:  (if (INLIST?) %para-sep% %block-sep%)
+	    start-indent: (if (INBLOCK?)
+			      (inherited-start-indent)
+			      (+ %block-start-indent% 
+				 (inherited-start-indent)))
+
+;; Calculate the width of the column containing the terms...
+;;
+;; maxlen       in        (inherited-font-size)     72pt
+;;        x ---------- x ----------------------- x ------ = width
+;;           12 chars              10pt              in
+;;
+	    (make table-column
+	      column-number: 1
+	      width: (* (* (/ maxlen 12) (/ (inherited-font-size) 10pt)) 72pt))
+	    (with-mode variablelist-table
+	      (process-children)))
+	  (process-children)))))
 
 
-;; added : squash output vertically
-	(element para
-        (if (have-ancestor? (normalize "appendix") (current-node))
-     	  (make paragraph
-			space-before: 0pt
-			space-after: 0pt
-			font-size: (* %bf-size% %smaller-size-factor%)
-			line-spacing: (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
-			(process-children))
 
-(if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
 
+;; modified to obligatorily vertically squash
+(mode variablelist-table
+  (element varlistentry
+    (let* ((terms      (select-elements (children (current-node))
+					(normalize "term")))
+	   (listitem   (select-elements (children (current-node))
+					(normalize "listitem")))
+	   (termlen    (if (attribute-string (normalize "termlength")
+					     (parent (current-node)))
+			   (string->number (attribute-string
+					    (normalize "termlength")
+					    (parent (current-node))))
+			   %default-variablelist-termlength%))
+	   (too-long? (varlistentry-term-too-long? (current-node) termlen)))
+      (if too-long?
+	  (make sequence
+	    (make table-row
+	      cell-before-row-margin: 0pt
+
+	      (make table-cell
+		column-number: 1
+		n-columns-spanned: 2
+		n-rows-spanned: 1
+		(process-node-list terms)))
+	    (make table-row
+	      (make table-cell
+		column-number: 1
+		n-columns-spanned: 1
+		n-rows-spanned: 1
+		;; where terms would have gone
+		(empty-sosofo))
+	      (make table-cell
+		column-number: 2
+		n-columns-spanned: 1
+		n-rows-spanned: 1
+		(process-node-list listitem))))
+	  (make table-row
+	    cell-before-row-margin: 0pt
+
+	    (make table-cell
+	      column-number: 1
+	      n-columns-spanned: 1
+	      n-rows-spanned: 1
+	      (process-node-list terms))
+	    (make table-cell
+	      column-number: 2
+	      n-columns-spanned: 1
+	      n-rows-spanned: 1
+	      (process-node-list listitem))))))
+  
+  (element (varlistentry term)
+;; added NN
+	(make paragraph
+		start-indent: 0pt
+        first-line-start-indent: 0pt
+;; end NN
+    (make sequence
+      (process-children-trim)
+      (if (not (last-sibling?))
+	  (literal ", ")
+	  (empty-sosofo))))
+)
+
+  (element (varlistentry listitem)
+    (make display-group
+      start-indent: 0pt
+      (process-children)))
+
+;; added NN
+   (element (listitem para)
           (make paragraph
+			first-line-start-indent: 0pt
 			space-before: 0pt
 			space-after: 0pt
-			font-size: (* %bf-size% %smaller-size-factor%)
-			line-spacing: (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
-			(process-children))
+			quadding: %default-quadding%
+			hyphenate?: %hyphenation%
+			(process-children)))
+	
+;; end NN
 
-           ($paragraph$)
+  ;; Suggested by Nick NICHOLAS, nicholas@uci.edu
+  (element (variablelist title)
+    (make table-row
+      cell-before-row-margin: 0pt
+      (make table-cell
+	column-number: 1
+	n-columns-spanned: 2
+	n-rows-spanned: 1
+	(make paragraph
+	  use: title-style
+;; added: NN
+		keep-with-next?: #t
+;; end added NN
+	  start-indent: 0pt
+	  (process-children)))))
 
 )
 
-		)
-	)
+;; modified to squish vocab
+(element informaltable
+
+	(make display-group
+      font-size: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+		(* %bf-size% %smaller-size-factor%) (inherited-font-size))  
+      line-spacing: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+        (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
+		(inherited-line-spacing))
+	  hyphenate?: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+		#t %hyphenation%)
+  ($informal-object$ %informaltable-rules% %informaltable-rules%)))
+
+
 
 </style-specification-body>
 </style-specification>
