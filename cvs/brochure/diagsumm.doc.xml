@@ -35,7 +35,7 @@ corresponding words.</para>
 <simplesect><title>Some words used as <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></title>
 
-<variablelist>
+<variablelist termlength="6">
 <varlistentry>
 <term><foreignphrase lang="art-lojban">mi</foreignphrase></term> 
 <listitem><para>I/me/my, we/us/our</para></listitem>
@@ -72,7 +72,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>, labell
 lang="art-lojban">la</foreignphrase>:
 
 
-<variablelist termlength="15">
+<variablelist termlength="10">
 <varlistentry>
 <term><foreignphrase lang="art-lojban">la meris.</foreignphrase></term>
 <listitem><para>the one/ones named Mary</para></listitem>
@@ -86,7 +86,7 @@ lang="art-lojban">la</foreignphrase>:
 <simplesect><title>Some words used to indicate <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> relations</title>
 
-<para><variablelist>
+<para><variablelist termlength="8">
 <varlistentry>
 <term><foreignphrase lang="art-lojban">vecnu</foreignphrase></term>
 <listitem><para>x<subscript>1</subscript> (seller) sells x<subscript>2</subscript> (goods) to x<subscript>3</subscript> (buyer) for x<subscript>4</subscript> (price)</para></listitem>
@@ -134,7 +134,7 @@ the sentence clear.</para></listitem>
 <listitem><para>The structure of Lojban phrases is indicated by bars beneath the
 text, joining related words together.</para></listitem>
 
-<listitem><para>Word modifying other words are indicated by arrows pointing from
+<listitem><para>Words modifying other words are indicated by arrows pointing from
 the modifier to the modified.</para></listitem>
 
 </itemizedlist></para></simplesect>
@@ -1418,7 +1418,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></primar
 </indexterm>These expressions (usually called pro-<foreignphrase 
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> in Lojban) include the single-word <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> given above:
 
-<variablelist>
+<variablelist termlength="6">
 
 <varlistentry>
 <term><foreignphrase 
@@ -1452,7 +1452,7 @@ lang="art-lojban">zo'e</foreignphrase></term>
 </varlistentry>
 </variablelist></para><para>Some other words in this category include:
 
-<variablelist>
+<variablelist termlength="6">
 
 <varlistentry>
 
@@ -2227,11 +2227,11 @@ running.</para>
 
 <informaltable role="phrasediag" frame="none">
 <tgroup cols="5">
-<colspec colnum="1" colname="c1" colwidth="4*"/>
-<colspec colnum="2" colname="c2" colwidth="4*"/>
-<colspec colnum="3" colname="c3" colwidth="4*"/>
-<colspec colnum="4" colname="c4" colwidth="5*"/>
-<colspec colnum="5" colname="c5" colwidth="4*"/>
+<colspec colnum="1" colname="c1" colwidth="40*"/>
+<colspec colnum="2" colname="c2" colwidth="40*"/>
+<colspec colnum="3" colname="c3" colwidth="40*"/>
+<colspec colnum="4" colname="c4" colwidth="50*"/>
+<colspec colnum="5" colname="c5" colwidth="40*"/>
 <tbody>
 <row>
 
@@ -3322,7 +3322,7 @@ lang="art-lojban">klama</foreignphrase>:
 
 <informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
+<colspec colnum="1" colname="c1" colwidth="4*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
@@ -3332,7 +3332,7 @@ lang="art-lojban">klama</foreignphrase>:
 
 <row>
 
-<entry>GO-ER</entry>
+<entry><emphasis role="bold">go-er</emphasis></entry>
 
 <entry>goes</entry>
 
@@ -3367,7 +3367,7 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 </tgroup>
 </informaltable><informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
+<colspec colnum="1" colname="c1" colwidth="4*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
@@ -3377,11 +3377,11 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry>DESTINATION</entry>
+<entry><emphasis role="bold">destination</emphasis></entry>
 
 <entry>is-gone-to</entry>
 
-<entry>BY GO-ER</entry>
+<entry><emphasis role="bold">by go-er</emphasis></entry>
 
 <entry>from origin</entry>
 
@@ -3412,7 +3412,7 @@ role="selbri"><emphasis role="bold">se</emphasis> klama</emphasis></foreignphras
 </tgroup>
 </informaltable><informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
+<colspec colnum="1" colname="c1" colwidth="4*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
@@ -3422,13 +3422,13 @@ role="selbri"><emphasis role="bold">se</emphasis> klama</emphasis></foreignphras
 
 <row>
 
-<entry>ORIGIN</entry>
+<entry><emphasis role="bold">origin</emphasis></entry>
 
 <entry>is-gone-from</entry>
 
 <entry>to destination</entry>
 
-<entry>BY GO-ER</entry>
+<entry><emphasis role="bold">by go-er</emphasis></entry>
 
 <entry>via route</entry>
 
@@ -3457,7 +3457,7 @@ role="selbri"><emphasis role="bold">te</emphasis> klama</emphasis></foreignphras
 </tgroup>
 </informaltable><informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
+<colspec colnum="1" colname="c1" colwidth="4*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
@@ -3467,7 +3467,7 @@ role="selbri"><emphasis role="bold">te</emphasis> klama</emphasis></foreignphras
 
 <row>
 
-<entry>ROUTE</entry>
+<entry><emphasis role="bold">route</emphasis></entry>
 
 <entry>is-gone-via</entry>
 
@@ -3475,7 +3475,7 @@ role="selbri"><emphasis role="bold">te</emphasis> klama</emphasis></foreignphras
 
 <entry>from origin</entry>
 
-<entry>BY GO-ER</entry>
+<entry><emphasis role="bold">by go-er</emphasis></entry>
 
 <entry>using means</entry>
 
@@ -3502,7 +3502,7 @@ role="selbri"><emphasis role="bold">ve</emphasis> klama</emphasis></foreignphras
 </tgroup>
 </informaltable><informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
+<colspec colnum="1" colname="c1" colwidth="4*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
@@ -3512,7 +3512,7 @@ role="selbri"><emphasis role="bold">ve</emphasis> klama</emphasis></foreignphras
 
 <row>
 
-<entry>MEANS</entry>
+<entry><emphasis role="bold">means</emphasis></entry>
 
 <entry>is-used-to-go</entry>
 
@@ -3522,7 +3522,7 @@ role="selbri"><emphasis role="bold">ve</emphasis> klama</emphasis></foreignphras
 
 <entry>via route</entry>
 
-<entry>BY GO-ER</entry>
+<entry><emphasis role="bold">by go-er</emphasis></entry>
 
 </row>
 
@@ -3764,7 +3764,7 @@ Tom.</wordasword></entry> </row>
 and we see that the modification has been changed so as to focus on Mary's
 role in the <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
 relationship, leading to a different set of possible interpretations.</para>
-<para>That there is no place structure change if the modifying term is
+<para>Note that there is no place structure change if the modifying term is
 converted, and hence there is less drastic variation in possible meanings:
 
 <informaltable role="phrasediag" frame="none">
@@ -5119,12 +5119,12 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 </tgroup>
 <tgroup cols="7">
 <colspec colnum="1" colname="c3" colwidth="5*"/>
-<colspec colnum="2" colname="c4" colwidth="5*"/>
+<colspec colnum="2" colname="c4" colwidth="6*"/>
 <colspec colnum="3" colname="c5" colwidth="2*"/>
 <colspec colnum="4" colname="c6" colwidth="4*"/>
 <colspec colnum="5" colname="c7" colwidth="4*"/>
 <colspec colnum="6" colname="c8" colwidth="4*"/>
-<colspec colnum="7" colname="c9" colwidth="4*"/>
+<colspec colnum="7" colname="c9" colwidth="3*"/>
 <spanspec spanname="partselbri" namest="c4" nameend="c8" align="left" />
 <spanspec spanname="wholeselbri" namest="c3" nameend="c8" align="left" />
 <tbody>
@@ -5554,12 +5554,12 @@ form:</para>
 
 <informaltable role="phrasediag" frame="none">
 <tgroup cols="6">
-<colspec colnum="1" colname="c1" colwidth="5*"/>
-<colspec colnum="2" colname="c2" colwidth="7*"/>
-<colspec colnum="3" colname="c3" colwidth="5*"/>
-<colspec colnum="4" colname="c4" colwidth="8*"/>
-<colspec colnum="5" colname="c5" colwidth="8*"/>
-<colspec colnum="6" colname="c6" colwidth="6*"/>
+<colspec colnum="1" colname="c1" colwidth="50*"/>
+<colspec colnum="2" colname="c2" colwidth="70*"/>
+<colspec colnum="3" colname="c3" colwidth="55*"/>
+<colspec colnum="4" colname="c4" colwidth="75*"/>
+<colspec colnum="5" colname="c5" colwidth="80*"/>
+<colspec colnum="6" colname="c6" colwidth="60*"/>
 <spanspec spanname="whole" namest="c1" nameend="c6" align="left" />
 <tbody>
 <row>
@@ -5602,9 +5602,9 @@ role="sumti"><emphasis role="term">sumti</emphasis></emphasis></foreignphrase></
 
 <row>
 
-<entry spanname="whole">x<subscript>1</subscript> is an event of x<subscript>2</subscript> running
+<entry spanname="whole"><wordasword>x<subscript>1</subscript> is an event of x<subscript>2</subscript> running
 on surface x<subscript>3</subscript> using limbs x<subscript>4</subscript>,
-with gait x<subscript>5</subscript>.</entry>
+with gait x<subscript>5</subscript>.</wordasword></entry>
 
 </row>
 
@@ -6321,7 +6321,7 @@ goes.)</wordasword></entry>
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> may be built on such a
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>, possibly even
 having internal <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> on
-<emphasis>both</emphasis> components of a <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>.
+<emphasis>both</emphasis> components of a <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> .
 (In a <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> embedded within a
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>, even the
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> attached to the
@@ -6963,7 +6963,7 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 <colspec colnum="1" colname="c1" colwidth="8*"/>
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <colspec colnum="3" colname="c3" colwidth="8*"/>
-<colspec colnum="4" colname="c4" colwidth="20*"/>
+<colspec colnum="4" colname="c4" colwidth="16*"/>
 <colspec colnum="5" colname="c5" colwidth="6*"/>
 <spanspec spanname="pa" namest="c3" nameend="c4" align="left" />
 <spanspec spanname="be" namest="c2" nameend="c5" align="left" />
@@ -7270,7 +7270,8 @@ lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> relatio
 <para><indexterm id="idx339" class="startofrange">
 <primary>modal tags</primary>
 </indexterm>The modal tags, or <foreignphrase
-lang="art-lojban"><emphasis role="term">sumti tcita</emphasis></foreignphrase>, allow specify relationships such as time or location: e.g. <foreignphrase
+lang="art-lojban"><emphasis role="term">sumti tcita</emphasis></foreignphrase>, 
+specify relationships such as time or location: e.g. <foreignphrase
 lang="art-lojban">pu</foreignphrase> <quote role="gloss">before</quote>,
 <foreignphrase
 lang="art-lojban">ba</foreignphrase> <quote role="gloss">after</quote>, <foreignphrase
@@ -9038,7 +9039,7 @@ role="selbri">melbi</emphasis> [vau]</foreignphrase></entry>
 </tgroup>
 </informaltable>
 
-<para>Some expressions overlap between categories, behaving like as
+<para>Some expressions overlap between categories, behaving as
 indicators as well as evidentials (<foreignphrase
 lang="art-lojban">.ia</foreignphrase>, belief, faith), or
 attitudinals/discursives (<foreignphrase
@@ -9112,10 +9113,10 @@ or not <wordasword>b</wordasword>, <wordasword>a</wordasword> if <wordasword>b</
 
 <informaltable frame="none">
 <tgroup cols="4">
-<colspec colnum="1" colname="c1" colwidth="4*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="4*"/>
-<colspec colnum="4" colname="c4" colwidth="2*"/>
+<colspec colnum="1" colname="c1" colwidth="40*"/>
+<colspec colnum="2" colname="c2" colwidth="17*"/>
+<colspec colnum="3" colname="c3" colwidth="38*"/>
+<colspec colnum="4" colname="c4" colwidth="25*"/>
 <thead>
 <row>
 
@@ -9760,7 +9761,7 @@ lang="art-lojban">ku</foreignphrase></primary>
 <foreignphrase lang="art-lojban">joi</foreignphrase> in the latter example 
 <emphasis>cannot</emphasis> be left
 out due to the ambiguity resolution rules
-invoked in th definition of Lojban.)</para></sect1>
+invoked in the definition of Lojban.)</para></sect1>
 
 <sect1 id="gloss"><title>Brief glossary of Lojban words used in these examples</title>
 

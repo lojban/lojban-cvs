@@ -1130,7 +1130,8 @@ separated in print and in sound by an apostrophe (<foreignphrase
 lang="art-lojban">'</foreignphrase>), representing a short, breathy /h/
 sound. (Say <wordasword>Oh hello</wordasword> quickly and without a pause
 between the words to get an English equivalent, in this case of Lojban
-<foreignphrase lang="art-lojban">o'e</foreignphrase>.)<indexterm class="endofrange" id="idx194" startref="idx193"/></para>
+<foreignphrase lang="art-lojban">o'e</foreignphrase>. Any voiceless non-Lojban 
+sound may also be used.)<indexterm class="endofrange" id="idx194" startref="idx193"/></para>
 
 <para>When the vowels occur together, one at the end of a word and the
 other at the beginning of the next word, the <foreignphrase

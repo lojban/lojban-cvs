@@ -47,7 +47,7 @@
 <!ENTITY ipag "g">
 <!ENTITY ipatheta "T">
 <!ENTITY glottal "?">
-<!ENTITY Ibarredipa "i&quot;">
+<!ENTITY Ibarredipa "I">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 <!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)">
