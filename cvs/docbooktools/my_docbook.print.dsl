@@ -219,10 +219,40 @@
       2
       1))
 
+;; done for spacing
+(define ($make-empty-row$ cols)
+;;  (let* 
+;;	 (
+;;(tgroup (ancestor-member (current-node) (list (normalize "tgroup"))))
+;;	 (cols   (string->number (attribute-string (normalize "cols") tgroup))))
+;;    (if (last-sibling? (tgroup)) 
+;;	(empty-sosofo)
+	(make table-row
+	  (make table-cell
+	    n-columns-spanned: cols
+       cell-before-row-margin: %cals-cell-before-row-margin%
+	    cell-after-row-margin: %cals-cell-after-row-margin%
+	    cell-before-column-margin: %cals-cell-before-column-margin%
+	    cell-after-column-margin: %cals-cell-after-column-margin%
+	    start-indent: %cals-cell-content-start-indent%
+	    end-indent: %cals-cell-content-end-indent%
+		(literal " ")
+	))
+;;))
+)
+
+
+
+
 (element tgroup
-  (let ((frame-attribute (if (inherited-attribute-string (normalize "frame"))
+  (let* ((frame-attribute (if (inherited-attribute-string (normalize "frame"))
 			     (inherited-attribute-string (normalize "frame"))
-			     ($cals-frame-default$))))
+			     ($cals-frame-default$)))
+;;added NN
+			(lastsib (if (last-sibling? (current-node)) #t #f))
+			(cols   (string->number (attribute-string (normalize "cols") (current-node))))
+;; end added: NN
+		)
     (make table
       ;; These values are used for the outer edges (well, the top, bottom
       ;; and left edges for sure; I think the right edge actually comes
@@ -280,7 +310,15 @@
 		       (tfoot footer))
 	($process-colspecs$ (current-node))
 	(process-children)
-	(make-table-endnotes)))))
+;; added NN: add extra row at end of each group, for spacing
+    (if lastsib (empty-sosofo) ($make-empty-row$ cols))
+;; end NN
+	(make-table-endnotes)
+)
+
+)))
+
+
 
 
 ;; following indexing code (made to cope with ranges) courtesy of Jiri Kosek,

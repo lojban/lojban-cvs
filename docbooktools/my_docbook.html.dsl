@@ -188,6 +188,42 @@
 	  (literal (gentext-end-quote))))))
 ))
 
+(element tgroup
+  (let* ((wrapper   (parent (current-node)))
+	 (frameattr (attribute-string (normalize "frame") wrapper))
+	 (pgwide    (attribute-string (normalize "pgwide") wrapper))
+	 (footnotes (select-elements (descendants (current-node)) 
+				     (normalize "footnote")))
+;; added: NN
+            (lastsib (if (last-sibling? (current-node)) #t #f))
+;; end added
+	 (border (if (equal? frameattr (normalize "none"))
+		     '(("BORDER" "0"))
+		     '(("BORDER" "1"))))
+	 (width (if (equal? pgwide "1")
+		    (list (list "WIDTH" ($table-width$)))
+		    '()))
+	 (head (select-elements (children (current-node)) (normalize "thead")))
+	 (body (select-elements (children (current-node)) (normalize "tbody")))
+	 (feet (select-elements (children (current-node)) (normalize "tfoot"))))
+    (make element gi: "TABLE"
+	  attributes: (append
+		       border
+		       width
+		       (if %cals-table-class%
+			   (list (list "CLASS" %cals-table-class%))
+			   '()))
+	  (process-node-list head)
+	  (process-node-list body)
+	  (process-node-list feet)
+	  (make-table-endnotes)
+;; added NN: add extra row at end of each group, for spacing
+    (if lastsib (empty-sosofo) (make empty-element gi: "TR"))
+;; end NN
+
+)))
+
+
 ;; Redo tables: rowsep becomes hr
 
 (define ($process-row$ row overhang)
