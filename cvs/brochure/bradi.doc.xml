@@ -11,8 +11,8 @@ url="http://people.fix.no/arj/lojban/bradi-je-bandu.html"><computeroutput>http:/
 <literallayout>
 <foreignphrase lang="art-lojban">bi'u pa finti co jmive je prami</foreignphrase>
 <foreignphrase lang="art-lojban">cu zutse co fengu gi'e pilno le skami</foreignphrase>
-<foreignphrase lang="art-lojban">i ciska lo valsi voi vindu je ralci</foreignphrase>
-<foreignphrase lang="art-lojban">i za'a le lisri cu ckape lei palci</foreignphrase>
+<foreignphrase lang="art-lojban">i darlu co darsi sai ne'i le zdani</foreignphrase>
+<foreignphrase lang="art-lojban">i za'a le zekri lei turni cu xrani</foreignphrase>
 
 <foreignphrase lang="art-lojban">i pa jdaralju co prami je krici</foreignphrase>
 <foreignphrase lang="art-lojban">cu dunku bo catlu se farna le vrici</foreignphrase>
@@ -26,7 +26,7 @@ url="http://people.fix.no/arj/lojban/bradi-je-bandu.html"><computeroutput>http:/
 
 <foreignphrase lang="art-lojban">i uusai le bandu cu na'e se bandu</foreignphrase>
 <foreignphrase lang="art-lojban">i za'a se jalge le nu mrocoldandu</foreignphrase>
-<foreignphrase lang="art-lojban">i uosai le palci cu jmaji co salci</foreignphrase>
+<foreignphrase lang="art-lojban">i uosai le turni cu jmaji co salci</foreignphrase>
 <foreignphrase lang="art-lojban">i sisti co zasti fa le remna co kalci</foreignphrase>
 </literallayout>
 </para>
@@ -37,8 +37,8 @@ url="http://people.fix.no/arj/lojban/bradi-je-bandu.html"><computeroutput>http:/
 <literallayout>
 There's an author, living and loving,
 sitting angrily down in front of his computer.
-He writes words venomous and subtle.
-I see that the stories are dangerous to the evil ones.
+He argues daringly within the house.
+I see that the crime injures the rulers.
 </literallayout>
 </para>
 
@@ -64,7 +64,7 @@ I hear that the man is an enemy of the state.
 <literallayout>
 Unfortunately, the defenders were not defended.
 I see that it results in death by hanging.
-At last, the evil ones can gather and celebrate.
+At last, the rulers can gather and celebrate.
 The human waste is no longer here. 
 </literallayout>
 </para>
@@ -224,29 +224,21 @@ role="placestruct"><subscript>2</subscript> (tool(s))</emphasis></entry>
 <entry><foreignphrase lang="art-lojban">.i</foreignphrase></entry>
 
 <entry><foreignphrase
-lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>ciska&raquo;<subscript>2</subscript></foreignphrase></entry>
+lang="art-lojban">[<subscript>1</subscript>&laquo;<subscript>2</subscript>{<subscript>3</subscript>darlu</foreignphrase></entry>
 
-<entry><foreignphrase 
-lang="art-lojban">(<subscript>3</subscript>{<subscript>4</subscript>lo</foreignphrase></entry>
+<entry><foreignphrase
+lang="art-lojban">co</foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">valsi}<subscript>4</subscript></foreignphrase></entry>
+<entry><foreignphrase
+lang="art-lojban">darsi}<subscript>3</subscript>&raquo;<subscript>2</subscript></foreignphrase></entry>
 
 </row>
 
 <row>
 <entry><quote role="gloss">.</quote></entry>
-<entry>writ-ing</entry>
-<entry>any/some</entry>
-<entry>word(s)</entry>
-</row>
-
-<row>
-<entry>&nbsp;</entry>
-<entry>&nbsp;</entry>
-<entry spanname=ciska2><foreignphrase lang="art-lojban"><emphasis
-role="placestruct">ciska</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>2</subscript> (thing(s) written)</emphasis></entry>
-
+<entry>argu-ing</entry>
+<entry>of-type</entry>
+<entry>dar-ing</entry>
 </row>
 
 </tbody>
@@ -261,36 +253,35 @@ role="placestruct"><subscript>2</subscript> (thing(s) written)</emphasis></entry
 <row>
 
 <entry><foreignphrase
-lang="art-lojban">&lt;<subscript>5</subscript>voi</foreignphrase></entry>
+lang="art-lojban">sai</foreignphrase></entry>
 
 <entry><foreignphrase 
-lang="art-lojban">[<subscript>6</subscript>&laquo;<subscript>7</subscript>{<subscript>8</subscript>vindu</foreignphrase></entry>
+lang="art-lojban">(<subscript>4</subscript>ne'i</foreignphrase></entry>
 
 <entry><foreignphrase 
-lang="art-lojban">je</foreignphrase></entry>
+lang="art-lojban">le</foreignphrase></entry>
 
 <entry><foreignphrase 
-lang="art-lojban">ralci}<subscript>8</subscript>&raquo;<subscript>7</subscript>]<subscript>6</subscript>&gt;<subscript>5</subscript>)<subscript>3</subscript>]<subscript>1</subscript></foreignphrase></entry>
+lang="art-lojban">zdani)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
 
 </row>
 
 <row rowsep=1>
-<entry>which (I call)</entry>
-<entry>being toxic</entry>
-<entry>and</entry>
-<entry>being delicate</entry>
+<entry>{strong attitude...}</entry>
+<entry>inside</entry>
+<entry>the</entry>
+<entry>house(s)</entry>
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=5>
+<tgroup cols=4>
 <colspec colnum=1 colname=c24 colwidth="2*"></colspec>
 <colspec colnum=2 colname=c25 colwidth="5*"></colspec>
 <colspec colnum=3 colname=c26 colwidth="4*"></colspec>
 <colspec colnum=4 colname=c27 colwidth="6*"></colspec>
-<colspec colnum=5 colname=c28 colwidth="3*"></colspec>
-<spanspec spanname=ckape1 namest=c26 nameend=c27></spanspec>
+<spanspec spanname=xrani1 namest=c26 nameend=c27></spanspec>
 <tbody>
 <row>
 
@@ -301,9 +292,7 @@ lang="art-lojban">ralci}<subscript>8</subscript>&raquo;<subscript>7</subscript>]
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">lisri)<subscript>2</subscript></foreignphrase></entry>
-
-<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">zekri)<subscript>2</subscript></foreignphrase></entry>
 
 </row>
 
@@ -311,49 +300,52 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignp
 <entry><quote role="gloss">.</quote></entry>
 <entry>{I observe...}</entry>
 <entry>the</entry>
-<entry>story(ies)</entry>
-<entry>is/does</entry>
+<entry>crime(s)</entry>
 </row>
 
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname=ckape1><foreignphrase lang="art-lojban"><emphasis
-role="placestruct">ckape</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>1</subscript> (dangerous thing(s))</emphasis></entry>
+<entry spanname=xrani1><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">xrani</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>1</subscript> (injur-er(s))</emphasis></entry>
 
 </row>
 
 </tbody>
 </tgroup>
 
-<tgroup cols=3>
-<colspec colnum=1 colname=c29 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c30 colwidth="1*"></colspec>
-<colspec colnum=3 colname=c31 colwidth="1*"></colspec>
-<spanspec spanname=ckape2 namest=c30 nameend=c31></spanspec>
+<tgroup cols=4>
+<colspec colnum=1 colname=c28 colwidth="3*"></colspec>
+<colspec colnum=2 colname=c29 colwidth="1*"></colspec>
+<colspec colnum=3 colname=c30 colwidth="1*"></colspec>
+<colspec colnum=4 colname=c31 colwidth="1*"></colspec>
+<spanspec spanname=xrani2 namest=c28 nameend=c29></spanspec>
 <tbody>
 <row>
 
-<entry><foreignphrase lang="art-lojban">&laquo;<subscript>3</subscript>ckape&raquo;<subscript>3</subscript></foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">(<subscript>3</subscript>lei</foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">(<subscript>4</subscript>lei</foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">turni)<subscript>3</subscript></foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">palci)<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
+
+<entry><foreignphrase 
+lang="art-lojban">&laquo;<subscript>4</subscript>xrani&raquo;<subscript>4</subscript>]<subscript>1</subscript></foreignphrase></entry>
 
 </row>
 
 <row>
-<entry>being dangerous</entry>
 <entry>between them the</entry>
-<entry>evil thing(s)</entry>
+<entry>govern-er(s)</entry>
+<entry>is/does</entry>
+<entry>injur-ing</entry>
 </row>
 
 <row rowsep=1>
-<entry>&nbsp;</entry>
-<entry spanname=ckape2><foreignphrase lang="art-lojban"><emphasis
-role="placestruct">ckape</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>2</subscript> (harmful to)</emphasis></entry>
+<entry spanname=xrani2><foreignphrase lang="art-lojban"><emphasis
+role="placestruct">xrani</emphasis></foreignphrase><emphasis
+role="placestruct"><subscript>2</subscript> (injured thing(s))</emphasis></entry>
 
 </row>
 
@@ -1042,7 +1034,7 @@ role="placestruct"><subscript>1</subscript> (outcome(s))</emphasis></entry>
 lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignphrase></entry>
 
 <entry><foreignphrase 
-lang="art-lojban">palci)<subscript>2</subscript></foreignphrase></entry>
+lang="art-lojban">turni)<subscript>2</subscript></foreignphrase></entry>
 
 </row>
 
@@ -1050,7 +1042,7 @@ lang="art-lojban">palci)<subscript>2</subscript></foreignphrase></entry>
 <entry><quote role="gloss">.</quote></entry>
 <entry>{strong completion...}</entry>
 <entry>the</entry>
-<entry>evil thing(s)</entry>
+<entry>govern-er(s)</entry>
 </row>
 
 <row>
@@ -1162,15 +1154,15 @@ lang="art-lojban">kalci}<subscript>5</subscript>)<subscript>4</subscript>]<subsc
 <entry>excrement</entry>
 </row>
 
-</tbody>
-</tgroup>
-
 <row>
 <entry spanname=zasti1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zasti</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (exist-er(s))</emphasis></entry>
 
 </row>
+</tbody>
+</tgroup>
+
 </informaltable>
 
 

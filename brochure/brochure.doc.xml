@@ -45,7 +45,7 @@ sounds into words.</para></listitem>
 <listitem><para>Lojban is simple compared to natural languages; it is easy
 to learn.</para></listitem>
 
-<listitem><para>Lojban's 1250 root words can be easily combined to form a
+<listitem><para>Lojban's 1350 root words can be easily combined to form a
 vocabulary of millions of words.</para></listitem>
 
 <listitem><para>Lojban is regular; the rules of the language are without
@@ -323,9 +323,9 @@ structural syntax.</para> </answer> </qandaentry>
 <qandaentry> <question> <para>Lojban seems complex. How hard is it to
 learn?</para> </question>
 
-<answer> <para>Lojban is actually much simpler than natural languages. Its
-grammar is comparable in complexity with the current generation of computer
-languages (such as C++ or Perl). Lojban seems complex only because the
+<answer> <para>Lojban is actually much simpler than natural languages. It
+is only slightly more complex than the current generation of computer
+languages (such as And and Perl). Lojban seems complex only because the
 varieties of human thought are complex, and Lojban is designed to minimize
 constraints on those thoughts. Lojban text appears longer and more complex
 due to its lack of idiom, its complete explicitness of logical structure, and
@@ -343,7 +343,7 @@ can be precise and specific more easily than in other languages.</para>
 
 
 <para>Because Lojban's grammar is simple, it is easier to learn than other
-languages. A working vocabulary including the complete set of 1250 root
+languages. A working vocabulary including the complete set of 1350 root
 words takes about 8&ndash;12 weeks of study at 1 hour per day. It is by no
 means uncommon for people who embark on learning Lojban to be able to write
 grammatical Lojban within a few days, and to hold at least a limited
@@ -752,7 +752,7 @@ issues of the Logical Language Group journal <foreignphrase
 lang="art-lojban">ju'i lobypli</foreignphrase>, or by inspection and
 analysis of the formal grammar description (available in higher-level
 teaching materials; see below for contact details.) The formal grammars are
-specified with the computer language tool <citetitle>YACC</citetitle>, or
+specified in compliance with the computer parser generator <citetitle>YACC</citetitle>, or
 in a simplified version in <citetitle>E-BNF</citetitle> notation.</para>
 
 
