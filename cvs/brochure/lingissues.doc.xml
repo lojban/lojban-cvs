@@ -4,7 +4,9 @@
 
 <sect1 id="sw"><title>What is the Sapir&ndash;Whorf hypothesis?</title>
 
-<para>The Sapir&ndash;Whorf hypothesis is the notion that the language you speak
+<para><indexterm id="idx400" significance="preferred" class="startofrange">
+<primary>Sapir&ndash;Whorf hypothesis</primary>
+</indexterm>The Sapir&ndash;Whorf hypothesis is the notion that the language you speak
 affects the way you think. Most people who have learnt a foreign language,
 or have grown up speaking two languages, will be familiar with this idea,
 having found themselves thinking and speaking in one language or the other
@@ -78,12 +80,14 @@ reaching out to speakers of languages other than English. </para>
 <para>Lojban does not need to prove or disprove the Sapir&ndash;Whorf hypothesis
 in order to be successful. However, if evidence is produced supporting the
 Sapir&ndash;Whorf effect, Lojban will likely be perceived as an outstanding tool
-of analytical and creative thought. </para> </sect1>
+of analytical and creative thought.<indexterm id="idx401" startref="idx400" significance="preferred" class="endofrange"/></para> </sect1>
 
 <sect1 id="use"><title>How can Lojban be used by scientists studying language? 
 </title>
 
-<para>An artificial language (AL) is a simple model of a natural language. 
+<para><indexterm id="idx402" significance="preferred" class="startofrange">
+<primary>linguistic testing</primary>
+</indexterm>An artificial language (AL) is a simple model of a natural language. 
 It is used for communication like natural languages, simpler, more regular,
 and relatively uncontaminated by culture effects. Unlike most natural
 languages, an AL has not evolved through naturally processes of internal
@@ -92,7 +96,9 @@ which details of an AL is pre-defined, the internal structure of the
 language is far better known than that of any natural language. </para>
 
 
-<para>Such a pre-definition, a language <quote role="socalled">prescription</quote>, makes an AL a
+<para>Such a pre-definition, a language <quote role="socalled">prescription</quote><indexterm id="idx404">
+<primary>prescription</primary>
+</indexterm>, makes an AL a
 unique tool for studying the nature of language. As people learn the
 language, the way they <quote role="socalled">acquire</quote> understanding of that prescription can
 tell scientists how <quote role="socalled">natural</quote> the prescribed forms are. Actual usage of
@@ -117,7 +123,9 @@ study of language usage and language change. </para>
 
 
 <para>A new language like Lojban, with no native speakers, is termed a
-<quote role="socalled">pidgin</quote>. As the language evolves, native speakers of other languages will
+<quote role="socalled">pidgin</quote><indexterm id="idx405">
+<primary>pidgin</primary>
+</indexterm>. As the language evolves, native speakers of other languages will
 learn it, and will bring into their Lojban usage the perspective and
 patterns of their native language. This interaction process, called
 <quote role="socalled">creolization</quote>, affects all languages, and may be the principle cause of
@@ -139,7 +147,9 @@ observed in a few years in Lojban speakers. </para>
 
 <para>With the learning of other languages acquiring critical importance in
 today's international economy, Lojban provides a tool for researching in
-language acquisition. Again, Lojban's simplicity allows the results of
+language acquisition.<indexterm id="idx406">
+<primary>language acquisition</primary>
+</indexterm> Again, Lojban's simplicity allows the results of
 such research to be obtained more quickly than in similar studies of
 natural language acquisition. </para>
 
@@ -158,7 +168,9 @@ and time-consuming testing and analysis involved in natural language
 research. </para>
 
 
-<para>Because Lojban is relatively culture-free, and because of its
+<para>Because Lojban is relatively culture-free,<indexterm id="idx407">
+<primary>cultural neutrality</primary>
+</indexterm> and because of its
 prescribed structure that is consistent with predicate logic, Lojban is an
 ideal medium for the analysis and description of other languages. 
 Currently, features in language must be compared against other natural
@@ -196,7 +208,7 @@ language that probably can't be learned in any other way. Even if Lojban
 should fail as a language, we will learn. However, to the extent Lojban
 succeeds, its potential as a basis for testing ideas about language, its
 structure, and usage, is unlimited. The invention of Lojban is the
-invention of the science of experimental linguistics. </para>
+invention of the science of experimental linguistics.<indexterm id="idx403" startref="idx402" significance="preferred" class="endofrange"/></para>
 
 </sect1>
 
@@ -204,11 +216,17 @@ invention of the science of experimental linguistics. </para>
 <sect1info><author><firstname>John</firstname> <surname>Cowan</surname></author></sect1info>
 
 <title>Loglan and Lojban: A Linguist's Questions And An Amateur's 
-Answers</title>
+Answers</title><titleabbrev>Loglan and Lojban</titleabbrev>
 
 
-<para>The following questions about Loglan are based on a 1969 review by
-Arnold M. Zwicky of James Cooke Brown's 1966 edition of <citetitle>Loglan
+<para>The following questions about Loglan<indexterm id="idx410">
+<primary>Loglan</primary>
+</indexterm> are based on a 1969 review by
+Arnold M. Zwicky<indexterm id="idx408">
+<primary>Zwicky, Arnold M.</primary>
+</indexterm> of James Cooke Brown's<indexterm id="idx409">
+<primary>Brown, James Cook</primary>
+</indexterm> 1966 edition of <citetitle>Loglan
 1</citetitle>. Although basically friendly, Zwicky's review raises a large
 number of linguistic objections to Loglan as it existed in 1966. The review
 represents the only formal notice the linguistics community has ever taken
@@ -251,12 +269,16 @@ be said to be unambiguous?
 </question>
 
 <answer>
-<para>The sense in which Lojban is said to be unambiguous is not a simple
+<para><indexterm id="idx411" significance="preferred" class="startofrange">
+<primary>unambiguous language</primary>
+</indexterm>The sense in which Lojban is said to be unambiguous is not a simple
 one, and some amplification of the fundamental claim is necessary.
 Ambiguity is judged on four levels: the phonological&ndash;graphical, the
 morphological, the syntactic, and the semantic.</para>
 
-<para>Lojban is audio-visually isomorphic: the writing system has a
+<para>Lojban is audio-visually isomorphic<indexterm id="idx413" significance="preferred">
+<primary>audio-visual isomorphism</primary>
+</indexterm>: the writing system has a
 grapheme for every phoneme and vice versa, and there are no supra-segmental
 phonemes (such as tones or pitch) which are not represented in the writing
 system. Lojban's phonology contains significant pauses that affect word
@@ -274,7 +296,9 @@ up into words in only one way, and each compound word can be converted to
 and from an equivalent phrase in only one way.</para>
 
 <para>The syntactic unambiguity of Lojban has been established by the use
-of a LALR(1) parser generator which, in cooperation with a series of simple
+of a LALR(1) parser generator<indexterm id="idx414">
+<primary>grammar, formal</primary>
+</indexterm> which, in cooperation with a series of simple
 pre-parser operations, produces a unique parse for every Lojban text. In
 addition, the existence of a defined <quote role="socalled">phrase
 structure rule</quote> grammar underlying the language (and tested via the
@@ -288,12 +312,18 @@ semantics, and therefore reflect the same underlying deep structure.</para>
 contains several constructs which are explicitly ambiguous semantically.
 The most important of these are Lojban <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
-(so-called <quote role="socalled">metaphors</quote>) and Lojban names.
+(so-called <quote role="socalled">metaphors</quote>)<indexterm id="idx415" class="startofrange">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
+</indexterm> and Lojban names.<indexterm id="idx417">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase></primary>
+</indexterm>
 Names are ambiguous in almost any language, and Lojban is no better; a name
 simply must be resolved in context, and the only final authority for the
 meaning of a name is the user of the name. <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
-are further discussed in later replies. </para> </answer> </qandaentry>
+are further discussed in later replies.<indexterm id="idx412" startref="idx411" significance="preferred" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>If the meaning of a particular
 <foreignphrase lang="art-lojban"><emphasis
@@ -350,7 +380,7 @@ role="socalled">nonce</quote> compound word is <quote
 role="socalled">nonstandard</quote> (has not been checked against a
 dictionary or other standard), and may have a meaning based on an unusual
 interpretation of the underlying <foreignphrase lang="art-lojban"><emphasis
-role="term">tanru</emphasis></foreignphrase>. </para> </answer>
+role="term">tanru</emphasis></foreignphrase>.<indexterm id="idx416" startref="idx415" class="endofrange"/></para> </answer>
 </qandaentry>
 
 <qandaentry>
@@ -364,14 +394,17 @@ without regard to any sort of semantic theory. Why was this done?
 <answer>
 <para></para>
 
-<para>Lojban content words are built up from a list of about 1300 root
+<para>Lojban content words are built up from a list of around 1350 root
 words (called <foreignphrase lang= "art-lojban"><emphasis
-role="term">gismu</emphasis></foreignphrase>), which are not necessarily to
+role="term">gismu</emphasis></foreignphrase>),<indexterm id="idx418">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase></primary>
+</indexterm> which are not necessarily to
 be taken as semantically simple. Lojban does not claim to exhibit a
 complete and comprehensive semantic theory which hierarchically partitions
 the entire semantic space of human discourse.</para>
 
-<para>Rather, the 1300-odd root words blanket semantic space, in the sense
+<para>Rather, the 1350-odd root words blanket semantic space, in the sense
 that everything human beings talk about can be built up using appropriate
 <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase>. This claim is being tested in
@@ -390,14 +423,20 @@ that a word is a <quote role="socalled">nonce</quote> coinage rather than
 an established <quote role="socalled">dictionary word</quote>).</para>
 
 <para>Lojban's empirically derived word list is similar to that of Basic
-English, which replaces the whole English vocabulary with English-normal
+English,<indexterm id="idx419">
+<primary>Basic English</primary>
+</indexterm> which replaces the whole English vocabulary with English-normal
 compounds built from about 800 root words. Lojban and Basic English both
 allow for the adoption of technical terms from other languages to cover
 things like plant and animal names, food names, and names of chemical
 compounds.</para>
 
 <para>The unfortunate terms <wordasword>primitive word</wordasword> and
-<wordasword>prim</wordasword> formerly used by the Loglan Project suggested
+<wordasword>prim</wordasword><indexterm id="idx420">
+<primary>primitive word</primary>
+</indexterm><indexterm id="idx421">
+<primary>prim</primary>
+</indexterm> formerly used by the Loglan Project suggested
 the notion that Lojban's set of <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> was meant to be a list of
 semantic primitives. This is not the case for Lojban, and the more neutral
@@ -433,7 +472,10 @@ role="term">tanru</emphasis></foreignphrase>? </para> </question>
 <answer>
 <para></para>
 
-<para>In the early part of the Loglan Project, poor <foreignphrase
+<para><indexterm id="idx422" class="startofrange">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
+</indexterm>In the early part of the Loglan Project, poor <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>
 were regrettably common. In particular, it was common for <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> to
@@ -473,7 +515,7 @@ a Lojban relative clause. As a comparision, such interpretations as <quote
 role="gloss">school containing girls</quote>, <quote role="gloss">school whose
 students are girls</quote>, and <quote role="gloss">school to train persons to
 behave like girls</quote> are plausible with minimal context because these
-renderings do not involve additional restriction. </para> </answer>
+renderings do not involve additional restriction.<indexterm id="idx423" startref="idx422" class="endofrange"/></para> </answer>
 </qandaentry>
 
 <qandaentry>
@@ -491,9 +533,13 @@ language?
 <answer>
 <para></para>
 
-<para>Lojban's avoidance of ambiguity does not mean an avoidance of
+<para><indexterm id="idx424" class="startofrange">
+<primary>unambiguous language</primary>
+</indexterm>Lojban's avoidance of ambiguity does not mean an avoidance of
 vagueness. A Lojban aphorism states that the price of infinite precision
-is infinite verbosity, as indeed Wilkins' <citetitle>Philosophical 
+is infinite verbosity, as indeed Wilkins'<indexterm id="idx426">
+<primary>Wilkins, John</primary>
+</indexterm> <citetitle>Philosophical 
 Language</citetitle>
 illustrates. Lojban's allowable vagueness permits useful sentences to be
 not much longer than their natural-language counterparts.</para>
@@ -516,7 +562,9 @@ connectives.</para>
 
 <para>These properties are a product of Lojban's fundamental design, which
 was chosen to emphasize a highly distinctive and non-natural syntax (that
-of formal first-order predicate logic) embedded in a language with the
+of formal first-order predicate logic)<indexterm id="idx427">
+<primary>logic</primary>
+</indexterm> embedded in a language with the
 same expressive power as natural languages. Through the appearance of
 this one highly unusual feature, the intent of the Loglan Project has
 been to maximize one difference between Lojban and natural languages
@@ -527,7 +575,10 @@ use of this logic as a reasoning tool.</para>
 
 <para>As to the <quote role="socalled">primitives</quote>, Lojban
 <foreignphrase lang="art-lojban"><emphasis
-role="term">gismu</emphasis></foreignphrase> roots are defined rather
+role="term">gismu</emphasis></foreignphrase><indexterm id="idx428a">
+<primary><foreignphrase lang="art-lojban"><emphasis
+role="term">gismu</emphasis></foreignphrase></primary>
+</indexterm> roots are defined rather
 abstractly, in order to cover as large a segment of closely related
 semantic space as possible. These broad (but not really vague) concepts can
 then be restricted using <foreignphrase lang="art-lojban"><emphasis
@@ -542,7 +593,7 @@ approaches have been explored throughout the Loglan Project to determine
 the best means to convey these meanings. It is believed that the current
 working definitions of the <foreignphrase lang="art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> are much more clear than the
-1966 set. </para> </answer> </qandaentry>
+1966 set.<indexterm id="idx425" startref="idx424" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>On a more technical note, Lojban
 <foreignphrase lang="art-lojban"><emphasis
@@ -554,7 +605,12 @@ languages</quote> (Z). Why was this choice made? </para> </question>
 <answer>
 <para></para>
 
-<para>Lojban is predominantly a left-branching language. By default, all
+<para><indexterm id="idx428" class="startofrange">
+<primary><foreignphrase lang="art-lojban"><emphasis
+role="term">tanru</emphasis></foreignphrase></primary>
+<secondary><foreignphrase lang="art-lojban"><emphasis
+role="term">selbri</emphasis></foreignphrase> grouping within</secondary>
+</indexterm>Lojban is predominantly a left-branching language. By default, all
 structures are left-branching, with right-branching available when marked
 by a particle. Since the head of most constructs appears on the left,
 left-branching structures tend to favor the speaker. Nothing spoken needs
@@ -570,7 +626,7 @@ simplicity.</para>
 <para>Experience has shown, however, that Lojban's left-branching
 structure is not a major problem for language learners. Indeed, many
 longer English metaphors translate directly into Lojban using simple
-left-branching structures.
+left-branching structures.<indexterm id="idx429" startref="idx428" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -590,7 +646,9 @@ logical language needs?
 <answer>
 <para></para>
 
-<para>The Lojban anaphora conventions have undergone much revision and
+<para><indexterm id="idx430" class="startofrange">
+<primary>anaphora</primary>
+</indexterm>The Lojban anaphora conventions have undergone much revision and
 expansion since the early days of Loglan. There now exist both the <quote
 role="socalled">traditional</quote> Loglan back-counting anaphora, which
 refer to previous referents, and more <quote
@@ -605,7 +663,7 @@ regions in ASL are similarly meaningless.</para>
 assigned in a fixed order. Subscripts (as in mathematics) are allowed
 almost everywhere in the language, and provide for a countable infinity
 of variables as of many other things. Lojban also has added the
-capability of using individual letters and acronyms as anaphoric symbols.
+capability of using individual letters and acronyms as anaphoric symbols.<indexterm id="idx431" startref="idx430" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -623,7 +681,10 @@ matter?
 <answer>
 <para></para>
 
-<para>Lojban personal pronouns have been simplified. There are now forms
+<para><indexterm id="idx432" class="startofrange">
+<primary>pro-<foreignphrase lang="art-lojban"><emphasis
+role="term">sumti</emphasis></foreignphrase></primary>
+</indexterm>Lojban personal pronouns have been simplified. There are now forms
 for I, II, III, I and II, I and III, II and III, and I and II and III.
 There are no separate forms (and never have been) for plurals, because
 number is not a mandatory grammatical category in any part of Lojban.
@@ -632,7 +693,7 @@ both precise and vague forms analogous to English
 <wordasword>some</wordasword>, <wordasword>few</wordasword>,
 <wordasword>too many</wordasword>, etc.) Honorifics have been added to the
 language, using a general mechanism which may apply to any word or
-construct, not merely to pronouns. </para> </answer> </qandaentry>
+construct, not merely to pronouns.<indexterm id="idx433" startref="idx432" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry>
 <question>
@@ -665,7 +726,10 @@ party (or a similar noisy environment)?
 <answer>
 <para></para>
 
-<para>One of the recurrent difficulties with all forms of Loglan,
+<para><indexterm id="idx434" class="startofrange">
+<primary><foreignphrase lang="art-lojban"><emphasis
+role="term">cmavo</emphasis></foreignphrase></primary>
+</indexterm>One of the recurrent difficulties with all forms of Loglan,
 including Lojban, is the tendency to fill up the available space of
 structure words, making words of similar function hard to distinguish in
 noisy environments. The phonological revisions made when Lojban split
@@ -684,7 +748,7 @@ maximally separated.</para>
 <para>A variety of ways to say <quote>Huh?</quote> have been added to the language,
 partially alleviating the difficulty. These question words can be used
 to specify the type of word that was expected, or the part of the
-relationship that was not understood by the listener.
+relationship that was not understood by the listener.<indexterm id="idx435" startref="idx434" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -700,7 +764,9 @@ really speakable? </para> </question>
 <answer>
 <para></para>
 
-<para>Lojban allows certain flexibilities of pause and stress in the area
+<para><indexterm id="idx436" class="startofrange">
+<primary>pause</primary>
+</indexterm>Lojban allows certain flexibilities of pause and stress in the area
 of structure words. By default, all structure words are unstressed.
 However, it is possible to set off structure words with optional pauses,
 and even to give them optional stress, subject to a single limitation: a
@@ -714,7 +780,7 @@ and <foreignphrase lang="art-lojban"><emphasis
 role="term">cmavo</emphasis></foreignphrase> are always one or two
 syllables long, and many <foreignphrase lang="art-lojban"><emphasis
 role="term">lujvo</emphasis></foreignphrase> compounds are only two or
-three syllables. </para> </answer> </qandaentry>
+three syllables.<indexterm id="idx437" startref="idx436" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry>
 <question>
@@ -732,7 +798,9 @@ use than typical natural languages?
 <answer>
 <para></para>
 
-<para>Lojban does have transformations, in the sense that there are
+<para>Lojban does have transformations,<indexterm id="idx438">
+<primary>transformations</primary>
+</indexterm> in the sense that there are
 several alternative surface structures that have the same semantics and
 therefore, presumably, the same deep structure. What it does not have is
 identical surface structures with differing deep structures, so a
@@ -752,7 +820,9 @@ done instead? </para> </question>
 <answer>
 <para></para>
 
-<para>The English sentence <wordasword>If you water it, it will grow</wordasword> looks
+<para><indexterm id="idx439" class="startofrange">
+<primary>connectives</primary><secondary>logical</secondary>
+</indexterm>The English sentence <wordasword>If you water it, it will grow</wordasword> looks
 superficially like a Lojban <foreignphrase
 lang="art-lojban">na.a</foreignphrase> connection (material implication), but
 it actually has causal connotations not present in <foreignphrase
@@ -764,7 +834,7 @@ the effect) will serve, since these require that either the cause, or the
 effect, or both be asserted. Instead, the correct translation of the
 English involves <quote role="gloss">cause</quote> as a predicate, and might be paraphrased <quote>The
 event of your watering it is a cause of the event of its future 
-growing.</quote>
+growing.</quote><indexterm id="idx440" startref="idx439" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -781,7 +851,9 @@ those, only those which actually assert something.
 <answer>
 <para></para>
 
-<para>In early versions of Loglan, imperatives were marked by a predication
+<para><indexterm id="idx441" class="startofrange">
+<primary><foreignphrase lang="art-lojban">ko</foreignphrase></primary>
+</indexterm>In early versions of Loglan, imperatives were marked by a predication
 without a subject. In Lojban, there is a special imperative pronoun
 <foreignphrase lang="art-lojban">ko</foreignphrase>. This is a second
 person pronoun logically equivalent to <foreignphrase
@@ -805,7 +877,7 @@ imperative.</para>
 <para>A minor advantage of this style of imperative is that tensed
 imperatives like <foreignphrase lang="art-lojban">ko ba
 klama</foreignphrase> (<quote role="gloss">Come in-the-future!</quote>) become
-straightforward. </para> </answer> </qandaentry>
+straightforward.<indexterm id="idx442" startref="idx441" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>Loglan's existential (bound) variables
 appear to be non-standard. Brown states that the value of an existential
@@ -818,7 +890,9 @@ back-counting anaphora unable to refer to existential variables? </para>
 <answer>
 <para></para>
 
-<para>Existential variables are now interpreted in a standard way, to
+<para><indexterm id="idx443">
+<primary>existential variables</primary>
+</indexterm>Existential variables are now interpreted in a standard way, to
 refer to something unspecified, or something specified by a restrictive
 relative clause (<quote>all x such that...</quote>). There are separate sets of
 variables for quantifying over arguments and over predicates. In
@@ -842,9 +916,10 @@ material as merely unspecified.
 </question>
 
 <answer>
-<para></para>
 
-<para>The Lojban tense system has been greatly elaborated and clarified
+<para><indexterm id="idx444" class="startofrange">
+<primary>tense</primary>
+</indexterm>The Lojban tense system has been greatly elaborated and clarified
 with respect to its Loglan predecessor. There are now specific mechanisms
 for stating the potentiality or actuality of a predication; in the absence
 of these, a predication is neutral concerning the degree of actuality
@@ -862,7 +937,7 @@ this assumption is modified to the extent that each sentence is assumed to
 refer to a slightly later time than the previous sentence, although with
 explicit tense markers it is possible to tell a story in reversed or
 scrambled time order. Therefore, each predication does have a tense, one
-that is implicit if not necessarily explicit. </para> </answer>
+that is implicit if not necessarily explicit.<indexterm id="idx445" startref="idx444" class="endofrange"/></para> </answer>
 </qandaentry>
 
 <qandaentry>
@@ -881,7 +956,9 @@ choice of place structures?
 <answer>
 <para></para>
 
-<para>Very little. Place structures are empirically derived, like the
+<para><indexterm id="idx446" class="startofrange">
+<primary>place structure</primary>
+</indexterm>Very little. Place structures are empirically derived, like the
 root word list itself, and present a far more difficult problem;
 therefore, they will be standardized (if ever) only after everything else
 is complete. Many of the particular objections made above have force,
@@ -922,7 +999,7 @@ lang="art-lojban">dzukla</foreignphrase> would be appropriate. The
 <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase> <foreignphrase
 lang="art-lojban">cadzu cliva</foreignphrase> and <foreignphrase
-lang="art-lojban">cadzu litru</foreignphrase> may be similarly analyzed.
+lang="art-lojban">cadzu litru</foreignphrase> may be similarly analyzed.<indexterm id="idx447" startref="idx446" class="endofrange"/>
 </para> </answer> </qandaentry>
 
 <qandaentry>
@@ -939,7 +1016,9 @@ to pronounce?
 <answer>
 <para></para>
 
-<para>Lojban phonology is much better than 1966 Loglan's was. There are
+<para><indexterm id="idx448" class="startofrange">
+<primary>phonology</primary>
+</indexterm>Lojban phonology is much better than 1966 Loglan's was. There are
 now only 4 falling and 10 rising diphthongs, and the rising diphthongs
 are used only in names and in paralinguistic grunts representing
 emotions. All 25 vowel combinations are used, but they are separated by
@@ -948,7 +1027,9 @@ diphthongization. English-speakers think of this glide as /h/, and even
 speakers of languages like French, which has no /h/, can manage this
 sound intervocalically.</para>
 
-<para>Consonant clusters are controlled more carefully as well. Only 48
+<para>Consonant clusters<indexterm id="idx450">
+<primary>cluster, consonant</primary>
+</indexterm> are controlled more carefully as well. Only 48
 selected clusters are permitted initially; some of these, such as
 <foreignphrase lang="art-lojban">ml</foreignphrase> and <foreignphrase
 lang="art-lojban">mr</foreignphrase>, do not appear in English, but are
@@ -968,7 +1049,9 @@ stress pattern preceded (and followed) by words that end with a vowel.
 The unambiguous morphology allows the words to be broken apart even if
 run together at a very high speech rate. Meanwhile, though, the final
 vowel of the preceding word serves to buffer the cluster, allowing it to
-be pronounced as a much easier medial cluster. Thus <foreignphrase
+be pronounced as a much easier medial cluster.<indexterm id="idx451">
+<primary>buffer</primary>
+</indexterm> Thus <foreignphrase
 lang="art-lojban">le mlatu</foreignphrase> (<quote 
 role="socalled">the
 cat</quote>), while officially pronounced /le,MLA,tu/, can be pronounced as
@@ -982,7 +1065,7 @@ lang="art-lojban">mlatu</foreignphrase> may be pronounced /m&Iipa;latu/ by
 those who cannot manage <foreignphrase
 lang="art-lojban">ml</foreignphrase>, and nothing else need be changed.
 This sound is <quote role="socalled">stripped</quote> by the listener
-before any further linguistic processing is done. </para> </answer>
+before any further linguistic processing is done.<indexterm id="idx449" startref="idx448" class="endofrange"/></para> </answer>
 </qandaentry>
 
 <qandaentry>
@@ -997,7 +1080,10 @@ difficult?
 <answer>
 <para></para>
 
-<para>Lojban words are less English-like than prior versions of Loglan,
+<para><indexterm id="idx452" class="startofrange">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase></primary><secondary>etymology</secondary>
+</indexterm>Lojban words are less English-like than prior versions of Loglan,
 since they were redone using newer (1985) data on numbers of speakers.
 English is now less important in relative terms than Mandarin Chinese,
 and most Lojban words are fairly equal mixtures of the two languages,
@@ -1029,7 +1115,7 @@ reflecting the high frequency of syllable ending /n/ in Chinese). The
 result is a language that is much more pleasant-sounding than, for example,
 randomly chosen phoneme strings, while having at least some arguable claim
 to being free of the European cultural bias found in the roots of most
-other constructed languages. </para> </answer> </qandaentry>
+other constructed languages.<indexterm id="idx453" startref="idx452" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry>
 <question>
@@ -1044,16 +1130,21 @@ for that matter, an absolutely free one).
 <answer>
 <para></para>
 
-<para>Lojban's word order is by no means fixed. In fact, Lojban is only
+<para><indexterm id="idx454">
+<primary>word order</primary>
+</indexterm>Lojban's word order is by no means fixed. In fact, Lojban is only
 secondarily a <quote role="socalled">word order</quote> language at all.
 Primarily, it is a particle language. Using a standard word order allows
 many of the particles to be <quote role="socalled">elided</quote> (dropped)
 in common cases. However, even the standard unmarked word order is by no
 means fixed; the principal requirement is that at least one argument
-
 precede the predicate, but it is perfectly all right for all of the
-arguments to do so, leading to an SOV word order rather than the canonical
-SVO (subject&ndash;verb&ndash;object). VSO order is expressible using only 1 particle.
+arguments to do so, leading to an SOV word order<indexterm id="idx456">
+<primary>SOV order</primary>
+</indexterm> rather than the canonical
+SVO (subject&ndash;verb&ndash;object).<indexterm id="idx455">
+<primary>SVO order</primary>
+</indexterm> VSO order is expressible using only 1 particle.
 In two-argument predicates, OSV, OVS, and VOS are also possible with only
 one particle, and various even more scrambled orders (when more than
 two-place predicates are involved) can also be achieved. </para> </answer>
@@ -1071,7 +1162,9 @@ constructions be represented better? </para> </question>
 <answer>
 <para></para>
 
-<para>Lojban does have relative clauses, of the Hebrew type; the relative
+<para><indexterm id="idx457">
+<primary>relative clauses</primary>
+</indexterm>Lojban does have relative clauses, of the Hebrew type; the relative
 marker and the relative pronoun are distinct. The marker <foreignphrase
 lang="art-lojban">poi</foreignphrase> (or <foreignphrase
 lang="art-lojban">noi</foreignphrase> for non-restrictive clauses) always
@@ -1087,14 +1180,18 @@ biased towards particular languages. There is a word for <quote
 role="gloss">brown</quote>, which is a color not used in Chinese (although
 a word exists, it is rare); on the other hand, there is only one word for
 <quote role="gloss">blue</quote>, although Russian-speakers convey the
-range of English <quote role="gloss">blue</quote> with two words. How can
+range of English <quote role="gloss">blue</quote> with two words.<indexterm id="idx459">
+<primary>colors</primary>
+</indexterm> How can
 Loglan be prevented from splintering into dialects which differ in such
 points? </para> </question>
 
 <answer>
 <para></para>
 
-<para>To some extent, such splitting is inevitable and already exists in
+<para><indexterm id="idx458">
+<primary>cutural neutrality</primary>
+</indexterm>To some extent, such splitting is inevitable and already exists in
 natural languages. Some English-speakers may use the color term <quote
 role="gloss">aqua</quote> in their idiolect, whereas others lump that color with
 <quote role="gloss">blue</quote>, and still others with <quote 
@@ -1128,7 +1225,9 @@ noticed if structurally marked</quote> (Z)? If so, this is trivially true.
 <answer>
 <para></para>
 
-<para>A better paraphrase might be <quote>Unmarked features are more likely to
+<para><indexterm id="idx460" class="startofrange">
+<primary>Sapir&ndash;Whorf hypothesis</primary>
+</indexterm>A better paraphrase might be <quote>Unmarked features are more likely to
 be used, and therefore will tend to constitute the backgrounded features
 of the language</quote>. By making the unmarked features those which are most
 unlike natural-language features, a new set of thought habits will be
@@ -1147,7 +1246,7 @@ between noun, verb, and adjective). If Sapir&ndash;Whorf is true, there should
 be measureable broadening in thought patterns (possibly showing up as
 increased creativity or ability to see relationships between
 superficially unlike concepts). Again, the null hypothesis is that no
-measureable distinction will exist.
+measureable distinction will exist.<indexterm id="idx461" startref="idx460" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>

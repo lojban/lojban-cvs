@@ -11,6 +11,8 @@
 <!ENTITY raquo "&gt;&gt;">
 <!ENTITY ldquo "&quot;">
 <!ENTITY rdquo "&quot;">
+<!ENTITY nbsp " ">
+<!ENTITY iquest "?">
 <!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
 <!ENTITY brochure SYSTEM "brochure.doc.xml">
 <!ENTITY intro SYSTEM "intro.doc.xml">
@@ -20,6 +22,7 @@
 <!ENTITY lingissues SYSTEM "lingissues.doc.xml">
 <!ENTITY xtomathy SYSTEM "xtomathy.doc.xml">
 <!ENTITY xtomathyinfo SYSTEM "xtomathyinfo.doc.xml">
+<!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY bradi SYSTEM "bradi.doc.xml">
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
@@ -35,4 +38,5 @@
 &brochure;
 &tech;
 &xtomathy;
+&index;
 </book>

@@ -25,10 +25,13 @@ LeChevalier in 1989, and updated in 1990 and 2001. The
 <citetitle>Diagrammed Summary</citetitle> was originally written by Nora
 Tansky LeChevalier and Bob LeChevalier in 1990, and updated in 1992 and
 2001. <citetitle>Loglan and Lojban</citetitle> was originally written by
-John Cowan in 1991. Thanks to Pierre Abbat and Jay Kominek for their 
+John Cowan in 1991. The glosses in Part III were made using the program
+<ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html"><citetitle>jbofihe</citetitle></ulink>
+by Richar Curnow.
+Thanks to Pierre Abbat and Jay Kominek for their 
 suggestions.</para>
 
-<note><para>This booklet is published by the Logical Language Group,
+<note><para>This booklet is published by the <indexterm id="idx1"><primary>Logical Language Group</primary></indexterm>Logical Language Group,
 incorporated as a non-profit scientific/educational charity approved by the
 U.S. Government for tax-deductible donations.  We ask that those obtaining
 our materials by computer register your interest with us by postal or
@@ -43,14 +46,14 @@ supporting the language.  </para> </note>
 terdjuno datni pe la lojban. .i le cmacku cu pagbu lo cimei</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">.i le <link linkend="sect1">1moi 
-pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei; .e ledu'u ly. zasti 
-mu'i ma kau kei; .e ledu'u tu'a ly. cinri do ki'u ma kau .i le <link 
-linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o;
-no'u lo naltcila velski be le gerna sidbo;
+pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei .e ledu'u ly. zasti 
+mu'i ma kau kei .e ledu'u tu'a ly. cinri do ki'u ma kau .i le <link 
+linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o
+no'u lo naltcila velski be le gerna sidbo
 kujoi lo xracartu torvelski be le jubme gerna .i ka'e pilno le go'i .a le 
 cfari ve ctuca be la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
-linkend="sect3">3 !mu'amai moi pagbu</link> cu vasru {so'u seltcidu pebau la 
-lojban. ge'u} .e lo kansa xe fanva .e lo kansa xe vlafanva mu'i lenu do co'a 
+linkend="sect3">3 mu'amai moi pagbu</link> cu vasru so'u seltcidu pebau la 
+lojban. ge'u .e lo kansa xe fanva .e lo kansa xe vlafanva mu'i lenu do co'a 
 jimpe ledu'u le bangu cu se sazri ta'i ma kau</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o le lidne pagbu cu krasi se
@@ -66,9 +69,9 @@ lenu ra cu stidi sidju</foreignphrase></para>
 <note><title><foreignphrase lang="art-lojban">ni'o
 ju'i</foreignphrase></title><para><foreignphrase lang="art-lojban">le
 dei cmacku cu se gubgau la lojbangirz. noi ba'o ritli binxo lo nalprali ke
-saske ja ctuca ke dinterdu'a girzu; poi le merko turni cu zanru lenu le
+saske ja ctuca ke dinterdu'a girzu poi le merko turni cu zanru lenu le
 cteki be le jdini poi se dunda fi le girzu cu jdika .i mi cpedu lenu le
-cpacu be lemi datni bei xebe'i le skami cu jungau mi lenu se cinri kei
+cpacu be lemi datni bei xebe'i le skami cu jungau ly. lenu se cinri kei
 semu'i lenu pelji ja skami mrilu .i mi ji'a cpedu lenu do dunda fi la
 lojbangirz. mu'i lenu jdikygau lemi ca'o se pleji befo lenu vrici sarji
 le lojbo cecmu .i ro jdini poi do dunda cu plixau .i le se pleji be le

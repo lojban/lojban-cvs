@@ -1,8 +1,8 @@
 <part id="sect1"><title>What is Lojban? &mdash; <foreignphrase
-lang="art-lojban">la lojban mo</foreignphrase></title>
+lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojban?</titleabbrev>
 
 <chapter id="lojbanmo"><title>What is Lojban? &mdash; <foreignphrase
-lang="art-lojban">la lojban mo</foreignphrase></title>
+lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojban?</titleabbrev>
 <qandaset defaultlabel="qanda">
 
 <qandaentry>
@@ -11,15 +11,20 @@ lang="art-lojban">la lojban mo</foreignphrase></title>
 
 <answer> <para>Lojban
 (/LOZH-bahn/) is a constructed
-language. Originally called <quote role="socalled">Loglan</quote> by
-project founder Dr. James Cooke Brown, who started the language development
+language. Originally called <quote role="socalled">Loglan</quote><indexterm id="idx2">
+<primary>Loglan</primary></indexterm> by
+project founder Dr. James Cooke Brown,<indexterm id="idx3">
+<primary>Brown, James Cooke</primary>
+</indexterm> who started the language development
 in 1955, the goals for the language were first described in the article
 <citetitle>Loglan</citetitle> in <citetitle>Scientific
 American</citetitle>, June 1960. Made well-known by that article and by
 occasional references in science fiction and computer publications,
 Loglan/Lojban has been built over three decades by dozens of workers and
 hundreds of supporters, led since 1987 by The Logical Language
-Group.</para>
+Group.<indexterm id="idx4">
+<primary>Logical Language Group</primary>
+</indexterm></para>
 
 
 <para>There are many artificial languages, but Loglan/Lojban has been
@@ -70,11 +75,15 @@ the questions most often asked about Lojban.</para>
 <qandaentry> <question> <para>Why was Lojban developed?</para> </question>
 
 <answer> <para>Lojban was originally designed for the purpose of supporting
-research on a concept known as the Sapir&ndash;Whorf hypothesis. Simply
+research on a concept known as the Sapir&ndash;Whorf hypothesis<indexterm id="idx5">
+<primary>Sapir&ndash;Whorf hypothesis</primary>
+</indexterm>. Simply
 expressed, this hypothesis states that the structure of a language
 constrains the thinking of people using that language. Lojban allows the
 full expressive capability of a natural language, but differs in structure
-from other languages in major ways. This allows its use as a test vehicle
+from other languages in major ways. This allows its use as a test vehicle<indexterm id="idx6">
+<primary>linguistic testing</primary>
+</indexterm>
 for scientists studying the relationships between language, thought, and
 culture. Further discussion of these issues can be found in <xref
 linkend="sect2" endterm="sect2title"/>.</para>
@@ -85,19 +94,38 @@ linkend="sect2" endterm="sect2title"/>.</para>
 </question>
 
 <answer> <para>Yes, several. Due to its unambiguous grammar and simple
-structure, it also can be easily parsed (broken down for analysis) by
-computers, making it possible for Lojban to be used in the future for
-computer&ndash;human interaction, and perhaps conversation. Lojban's
-structure is similar to existing artificial intelligence (AI) programming
+structure, it also can be easily parsed<indexterm id="id7">
+<primary>parsing</primary>
+</indexterm> (broken down for analysis) by
+computers<indexterm id="idx44">
+<primary>computer applications</primary>
+</indexterm>, making it possible for Lojban to be used in the future for
+computer&ndash;human interaction<indexterm id="idx8">
+<primary>computer&ndash;human interaction</primary>
+</indexterm>, and perhaps conversation. Lojban's
+structure is similar to existing artificial intelligence (AI)<indexterm id="idx9">
+<primary>artificial intelligence (AI)</primary>
+</indexterm> programming
 languages, and will likely be a most powerful tool in AI processing,
 especially in the storing and processing of data about the world and
 people's conceptions of it. There are also linguists interested in Lojban's
-potential as an intermediate language in computer-aided translation of
+potential as an intermediate language in computer-aided translation<indexterm id="idx10">
+<primary>computer-aided translation</primary>
+</indexterm><indexterm id="idx11">
+<primary>translation, computer-aided</primary>
+<see>computer-aided translation</see>
+</indexterm><indexterm id="idx45">
+<primary>computer applications</primary>
+</indexterm> of
 natural langauges; and Lojban is of interest as a potential stepping-stone
 for students learning other languages. Because Lojban was designed to be
-culturally neutral, and has a powerful vocabulary easily learned by people
+culturally neutral<indexterm id="idx12">
+<primary>cultural neutrality</primary>
+</indexterm>, and has a powerful vocabulary easily learned by people
 of different language origins, some are interested in Lojban's potential as
-an international language. These are only the beginnings of the Lojban
+an international language<indexterm id="idx13">
+<primary>international language</primary>
+</indexterm>. These are only the beginnings of the Lojban
 applications that will be developed in the future.</para>
 
 </answer> </qandaentry>
@@ -110,7 +138,9 @@ language</emphasis>, and not as a computer language. It is therefore
 intended for use in conversation, reading, writing, and thinking. However,
 since Lojban can be processed by a computer much more easily than can a
 natural language, it is only a matter of time before Lojban-based computer
-applications are developed. Learning and using Lojban doesn't require you
+applications<indexterm id="idx46">
+<primary>computer applications</primary>
+</indexterm> are developed. Learning and using Lojban doesn't require you
 to know anything about computers or to talk like one.</para> </answer>
 </qandaentry>
 
@@ -118,9 +148,15 @@ to know anything about computers or to talk like one.</para> </answer>
 sound?</para> </question>
 
 <answer><para>Lojban uses letters of the Roman alphabet to represent its 6
-vowels and 17 consonants; the Lojban character set uses only standard
-typewriter or computer keyboard keys; capitalization is rarely used to
-indicate unusual stress in the pronunciation of names. Punctuation is
+vowels and 17 consonants<indexterm id="idx14">
+<primary>orthography</primary>
+</indexterm>; the Lojban character set uses only standard
+typewriter or computer keyboard keys; capitalization<indexterm id="idx15">
+<primary>capitalization</primary>
+</indexterm> is rarely used to
+indicate unusual stress in the pronunciation of names. Punctuation<indexterm id="idx16">
+<primary>punctuation</primary>
+</indexterm> is
 spoken as words. The written language corresponds exactly to the sounds of
 the spoken language; spelling is phonetic and unambiguous, and the flowing
 sounds of the language break down uniquely into words. These features make
@@ -159,27 +195,41 @@ vowels for a listener, without requiring a pause between them.</para>
 memories for many of us. But though Lojban grammar seems strange at first
 sight, it is actually quite simple. It is based on a system called
 predicate logic, which states that in any sentence you have a
-<firstterm>relationship</firstterm> (<foreignphrase
+<firstterm>relationship</firstterm><indexterm id="idx17">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></primary>
+</indexterm><indexterm id="idx18"><primary>relationship</primary>
+<see><foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></see>
+</indexterm><indexterm id="idx19"><primary>predicate</primary>
+<see><foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></see>
+</indexterm> (<foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> in Lojban) between one or more
 <firstterm>arguments</firstterm> (<foreignphrase
-lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>). An argument can be a thing,
+lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>)<indexterm id="idx20">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></primary>
+</indexterm><indexterm id="idx21"><primary>argument</primary>
+<see><foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></see>
+</indexterm>. An argument can be a thing,
 event, quality or just about anything (quite how you can have a
 relationship of one argument is one of the mysteries of predicate logic!).
 To give an example, the English sentence
 
-<informalexample><literallayout>Chris adores Pat </literallayout></informalexample>
-
-has a relation <wordasword>adore</wordasword>, between two arguments,
+<informalexample><literallayout>Chris adores Pat </literallayout>
+</informalexample>has a relation <wordasword>adore</wordasword>, between two arguments,
 <wordasword>Chris</wordasword> and <wordasword>Pat</wordasword>. In Lojban
 this would be
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. prami la pat.</foreignphrase></literallayout></informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. prami la pat.</foreignphrase></literallayout>
 
-or, if you prefer,
+</informalexample>or, if you prefer,
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. la pat. prami</foreignphrase></literallayout></informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la kris. la pat. prami</foreignphrase></literallayout>
 
-(The full stops mean that you have to pause slightly to separate the
+</informalexample>(The full stops mean that you have to pause slightly to separate the
 words &mdash;
 anythingelseinLojbancanberuntogetherwithoutbeingmisunderstood). </para>
 
@@ -226,7 +276,13 @@ not <quote>I gave the woman to the book</quote> (of course). </para>
 
 <para>The important point is that Lojban has a lot of what we would call
 <quote role="gloss">grammar</quote>, but nearly all of this is contained in
-the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> (structure
+the <foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>)<indexterm id="idx22">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
+</indexterm>)<indexterm id="idx23"><primary>structure word</primary>
+<see><foreignphrase
+lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></see>
+</indexterm> (structure
 words), and you can use as many or as few of them as you want. </para>
 
 </answer> </qandaentry>
@@ -237,7 +293,13 @@ grammar?</para> </question>
 <answer> <para>In Lojban, it is equally easy to speak of something as being
 action as it is as being a case of existence. The distinction between the
 two can be ignored, or can be explicitly expressed by associating concepts
-in <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphors
+in <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphors)<indexterm id="idx24">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
+</indexterm><indexterm id="idx25"><primary>metaphor</primary>
+<see><foreignphrase
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></see>
+</indexterm>
 (combinations of <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>)
 involving words like <foreignphrase lang="art-lojban">gasnu</foreignphrase>
 (<quote role="gloss">do</quote>), <foreignphrase
@@ -246,8 +308,12 @@ role="gloss">exist</quote>), <foreignphrase
 lang="art-lojban">zukte</foreignphrase> (<quote role="gloss">act with
 purpose</quote>); with a variety of <quote role="gloss">operators</quote>
 (<foreignphrase lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>) dealing with
-abstractions such as events, states, properties, amounts, ideas,
-experience, and truth; or with four pre-defined varieties of causality
+abstractions<indexterm id="idx26">
+<primary>abstraction</primary>
+</indexterm> such as events, states, properties, amounts, ideas,
+experience, and truth; or with four pre-defined varieties of causality<indexterm id="idx27">
+<primary>causality</primary>
+</indexterm>
 (others can be developed through metaphor).</para>
 
 
@@ -262,13 +328,22 @@ both the irregularity and the declensions.</para>
 
 
 <para>Tense and location markers (inflections), adverbs, and prepositions
-are combined into one part of speech. New preposition-like forms can be
+are combined into one part of speech.<indexterm id="idx28">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
+</indexterm><indexterm id="idx29">
+<primary>tense</primary>
+</indexterm> New preposition-like forms can be
 built at will from predicates; these allow the user to expand upon a
 sentence by attaching and relating clauses not normally implied in the
 meaning of a word.</para>
 
 
-<para>Numbers and quantifiers are conceptually expanded from natural
+<para>Numbers and quantifiers<indexterm id="idx30">
+<primary>quantifiers</primary>
+</indexterm><indexterm id="idx31">
+<primary>numbers</primary><see>quantifiers</see>
+</indexterm> are conceptually expanded from natural
 languages. <wordasword>Many</wordasword>, <wordasword>enough</wordasword>,
 <wordasword>too much</wordasword>, <wordasword>a few</wordasword>, and
 <wordasword>at least</wordasword> are among concepts that are expressed as
@@ -283,7 +358,9 @@ useful in ordinary speech, too.</para>
 <para>Predicate logic can express a wide variety of human thought; Lojban
 adds in non-logical constructs that do not affect or obscure the logical
 structure, allowing communications that are not amenable to logical
-analysis. For example, Lojban has a full set of emotional indicators which
+analysis. For example, Lojban has a full set of emotional indicators<indexterm id="idx31a">
+<primary>attitudinals</primary>
+</indexterm> which
 allow expression of intensity and denial. These are similar to such
 ejaculations in English as <wordasword>Oh!</wordasword>,
 <wordasword>Aha!</wordasword>, and <wordasword>Wheee!</wordasword>, but
@@ -293,20 +370,29 @@ logical deduction, etc.?) similar to those found in some American Indian
 languages.</para>
 
 
-<para>Lojban supports metalinguistic discussion about the sentences being
+<para>Lojban supports metalinguistic discussion<indexterm id="idx32">
+<primary>metalinguistic language</primary>
+</indexterm> about the sentences being
 spoken while remaining unambiguous. (<quote>This sentence is not
 true</quote> need not be a paradox in Lojban.) Lojban also supports a
 variety of <quote role="gloss">tense</quote> logic that allows extreme
 specificity of time and space (and space&ndash;time) relationships, even
 those implied by the concept of time travel. A substantial portion of
 Lojban's grammar is designed to support unambiguous statement of
-mathematical expressions and relations in a manner compatible both with
+mathematical expressions<indexterm id="idx33">
+<primary>mathematical expressions</primary>
+</indexterm><indexterm id="idx34">
+<primary>MEX</primary><see>mathematical expressions</see>
+</indexterm> and relations in a manner compatible both with
 international usage and Lojban's non-mathematical grammar.</para>
 
 
 <para>Lojban <quote role="gloss">parts of speech</quote> are convertible
 from one to another by using short structure words (called <foreignphrase
-lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>). One can make numbers serve as
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>)<indexterm id="idx35">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
+</indexterm>. One can make numbers serve as
 nouns or verbs, or can invent new numbers and prepositions. Lojban removes
 many of the constraints on human thought while preserving tight control on
 structural syntax.</para> </answer> </qandaentry>
@@ -316,7 +402,7 @@ learn?</para> </question>
 
 <answer> <para>Lojban is actually much simpler than natural languages. It
 is only slightly more complex than the current generation of computer
-languages (such as And and Perl). Lojban seems complex only because the
+languages (such as Ada and Perl). Lojban seems complex only because the
 varieties of human thought are complex, and Lojban is designed to minimize
 constraints on those thoughts. Lojban text appears longer and more complex
 due to its lack of idiom, its complete explicitness of logical structure, and
@@ -352,8 +438,22 @@ proficiency.</para> </answer> </qandaentry>
 <qandaentry> <question> <para>What do you mean by <quote
 role="socalled">unambiguous</quote>?</para> </question>
 
-<answer> <para>Lojban has an unambiguous grammar (proven by computer
-analysis of a formal grammar), pronunciation, and morphology (word forms).
+<answer> <para><indexterm id="idx36" class="startofrange">
+<primary>unambiguous language</primary>
+</indexterm>Lojban has an unambiguous grammar (proven by computer
+analysis of a formal grammar<indexterm id="idx47">
+<primary>grammar, formal</primary>
+</indexterm><indexterm id="idx48">
+<primary>formal grammar</primary><see>grammar, formal</see>
+</indexterm><indexterm id="idx49">
+<primary>machine grammar</primary><see>grammar, formal</see>
+</indexterm>), pronunciation<indexterm id="idx50">
+<primary>phonology</primary>
+</indexterm><indexterm id="idx51">
+<primary>pronunciation</primary><see>phonology</see>
+</indexterm>, and <firstterm>morphology</firstterm><indexterm id="idx52">
+<primary>morphology</primary>
+</indexterm> (word forms).
 In practice this means that the person who reads or hears a Lojban sentence
 is never in doubt as to what words it contains or what roles they play in
 the sentence. This is true even if the words are unfamiliar, so long as the
@@ -392,7 +492,9 @@ fresh start possible.</para>
 <para>Lojban's powerful metaphor and word-building features make it easy to
 make fine distinctions between concepts. This discourages the tendency for
 individual words to acquire families of meanings. Lojban metaphors (called
-<foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>) are themselves
+<foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase><indexterm id="idx38">
+<primary><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
+</indexterm>) are themselves
 ambiguous; they specify a relationship between concepts, but not what the
 relationship is. That relationship can be made explicit using unambiguous
 logical constructs if necessary, or can be left vague as the speaker
@@ -408,19 +510,26 @@ interaction.</para>
 It is possible to be fanciful or ridiculous, to tell a lie, or to be
 misunderstood. You can be very specific, or you can be intentionally vague.
 Your hearer may not understand what you <emphasis>meant</emphasis>, but
-will always understand what you <emphasis>said</emphasis>.</para>
+will always understand what you <emphasis>said</emphasis>.<indexterm id="idx37" class="endofrange" startref="idx36">
+<primary>unambiguous language</primary>
+</indexterm></para>
 
 </answer> </qandaentry>
 
 <qandaentry> <question> <para>Can you make jokes in an unambiguous
 language?</para> </question>
 
-<answer> <para>Most humor arises from situation and character and is as
+<answer> <para><indexterm id="idx39">
+<primary>humor</primary>
+</indexterm>Most humor arises from situation and character and is as
 funny in Lojban as in any language. Humor based on word play, of course, is
 language-dependent. Lojban has no homonyms, and hence no simple puns; puns
 derived from similar sounds are still possible, and have in fact been
 attempted (for example in the Lojban translation of <citetitle>Alice in
-Wonderland</citetitle>.) Since Lojban will almost always be a second
+Wonderland</citetitle>.><indexterm id="idx40">
+<primary><citetitle>Alice in
+Wonderland</citetitle></primary>
+</indexterm>) Since Lojban will almost always be a second
 language, bilingual puns and word play abound, often based on the relative
 ambiguity of the other languages involved. Humor based on internal
 grammatical ambiguity is of course impossible in Lojban, but humor based on
@@ -448,7 +557,11 @@ language is so young, such aphorisms are still rare.</para> </answer>
 <para>Isn't Esperanto the <quote role="gloss">international
 language</quote>?</para> </question> <answer>
 
-<para>There have been hundreds of artificial international languages
+<para><indexterm id="idx41" class="startofrange">
+<primary>international language</primary>
+</indexterm><indexterm id="idx43">
+<primary>Esperanto</primary>
+</indexterm>There have been hundreds of artificial international languages
 developed, of which Esperanto is the most successful and widely known.
 Esperanto, like most other such languages, was based on European languages
 in both grammar and vocabulary. The inherent cultural bias makes Esperanto
@@ -461,7 +574,9 @@ English, Hindi, Russian, Spanish, and Arabic. Lojban's words thus show
 roots in three major families of languages spoken by most of the world's
 people. Lojban's grammar accommodates structures found in non-European
 languages, and uses sounds found in most of the world's languages. Coupled
-with the potential computer applications that will make Lojban a useful
+with the potential computer applications<indexterm id="idx53">
+<primary>computer applications</primary>
+</indexterm> that will make Lojban a useful
 language to know, Lojban's potential as an
 international language may be more far-reaching than Esperanto's.</para>
 
@@ -526,10 +641,14 @@ equal priority to the structures and concepts of other languages and
 cultures. This cultural neutrality enhances Lojban's acceptability as an
 international language. Since it is as capable of generating or borrowing
 any words needed to support the concepts of science and technology as
-English, and has advantages for computer applications, Lojban is likely to
+English, and has advantages for computer applications<indexterm id="idx43a">
+<primary>computer applications</primary>
+</indexterm>, Lojban is likely to
 spread worldwide through the technological community. Far more so than
 English, Lojban is simple and easy to learn for people of all
-cultures.</para> </answer> </qandaentry>
+cultures.<indexterm id="idx42" class="endofrange" startref="idx41">
+<primary>international language</primary>
+</indexterm></para> </answer> </qandaentry>
 
 <qandaentry> <question>
 
@@ -537,8 +656,13 @@ cultures.</para> </answer> </qandaentry>
 language or an <quote role="socalled">unambiguous</quote> one?</para>
 </question> <answer>
 
-<para>Original poetry has already been written in Lojban, and some has been
-translated into the language. Lojban's powerful metaphor structure allows
+<para>Original poetry<indexterm id="idx55a">
+<primary>poetry</primary>
+</indexterm> has already been written in Lojban, and some has been
+translated into the language. Lojban's powerful metaphor structure<indexterm id="idx56">
+<primary><foreignphrase
+lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
+</indexterm> allows
 you to build concepts into words easily, as you need them. A Lojban speaker
 doesn't need a dictionary to use and understand millions of words that can
 potentially exist in the language. The absence of cultural constraints
@@ -563,8 +687,12 @@ poetic expression to communicate both concrete and abstract ideas.</para>
 <qandaentry> <question> <para>How was Lojban developed?</para> </question>
 <answer>
 
-<para>The language, then called <quote role="gloss">Loglan</quote>, was
-first described in the 1950s, by Dr. James Cooke Brown. The 1960 Scientific
+<para>The language, then called <quote role="gloss">Loglan</quote><indexterm id="idx57">
+<primary>Loglan</primary>
+</indexterm>, was
+first described in the 1950s, by Dr. James Cooke Brown<indexterm id="idx57a">
+<primary>Brown, James Cooke</primary>
+</indexterm>. The 1960 Scientific
 American article <citetitle>Loglan</citetitle> was his call for assistance
 in developing the language. A revolution in linguistics was simultaneously
 taking place, resulting in a rapidly increasing knowledge of the nature of
@@ -587,7 +715,9 @@ the language in this version has followed a painstaking and extensive
 period of research and analysis, ranging from 1988 to 1998. Thus, in an
 important sense, Lojban is a very new language. To ensure Lojban remains
 stable while people learn it, the language definition is being closely
-controlled; the grammar and vocabulary has already been baselined (frozen)
+controlled; the grammar and vocabulary has already been baselined<indexterm id="idx58">
+<primary>baseline</primary>
+</indexterm> (frozen)
 for several years. When the number of speakers has grown significantly, and
 a Lojban literature has developed, Lojban will be treated like a natural
 language and allowed to grow and flourish without constraint, as do other
@@ -596,9 +726,13 @@ natural languages.</para> </answer> </qandaentry>
 <qandaentry> <question> <para>How many people speak Lojban?</para>
 </question> <answer>
 
-<para>Questions of how many people speak a language greatly depend on your
+<para><indexterm id="idx59">
+<primary>Lojban</primary><secondary>number of speakers of</secondary>
+</indexterm>Questions of how many people speak a language greatly depend on your
 presuppositions and definitions &mdash; which a language like Lojban, at
-least, can make explicit! The on-line Lojban mailing list, which
+least, can make explicit! The on-line Lojban mailing list<indexterm id="idx60">
+<primary>Lojban mailing list</primary>
+</indexterm>, which
 constitutes the largest community of people using the language, has over
 200 subscribers, with well over 20 regular posters as of this writing. The
 level of confidence of the language community has already risen to such a
@@ -636,7 +770,9 @@ the language, you are welcome to join in that leadership.</para>
 
 
 <para>Those with a computer background who learn the language now will be
-the leaders in developing the first meaningful computer applications for
+the leaders in developing the first meaningful computer applications<indexterm id="idx54">
+<primary>computer applications</primary>
+</indexterm> for
 the language. Expertise in the language will no doubt be valuable as Lojban
 becomes recognized as a useful tool for computer applications by the
 computer industry. Meanwhile, computer-oriented Lojbanists can also aid in
@@ -645,7 +781,9 @@ to run on new computers.</para>
 
 
 <para>Those without a computer orientation will also find Lojban a valuable
-language. You may be interested in the Sapir&ndash;Whorf hypothesis, and in
+language. You may be interested in the Sapir&ndash;Whorf hypothesis<indexterm id="idx61">
+<primary>Sapir&ndash;Whorf hypothesis</primary>
+</indexterm>, and in
 the scientific tests to be planned and conducted, or in other
 language-related research. You may be interested in Lojban's potential as
 an international language, and in the attempts to use the language to reach
@@ -695,7 +833,9 @@ description of the language's grammar, and you probably also received other
 materials such as an introductory lesson. If you obtained this booklet via
 computer transmission, these added materials are probably available via the
 same source. If you have not received these materials, you may write to The
-Logical Language Group, Inc. at the address found at the end of this
+Logical Language Group<indexterm id="idx62">
+<primary>Logical Language Group</primary>
+</indexterm>, Inc. at the address found at the end of this
 brochure, and we will be happy to provide them. We request a contribution
 of $5 to cover the costs of these materials (listed on the Registration
 form as <quote>Package 0</quote>).</para>
@@ -730,7 +870,9 @@ vocabulary in order to use that grammar.</para>
 
 <para>You can learn the Lojban vocabulary using computer software. The
 Logical Language Group has computer-aided&ndash;teaching programs
-distributed under the name <citetitle>LogFlash</citetitle>, with an MS-DOS
+distributed under the name <citetitle>LogFlash</citetitle><indexterm id="idx63">
+<primary><citetitle>LogFlash</citetitle></primary>
+</indexterm>, with an MS-DOS
 version currently available. The software is based on flash-card teaching
 techniques, which are extremely efficient in helping you learn the
 vocabulary. Other computer software is available, including a parser and a
@@ -740,9 +882,14 @@ glosser.</para>
 <para>You can learn the Lojban grammar in several ways, including study of
 examples in our on-line text archives and mailing lists, reading past
 issues of the Logical Language Group journal <foreignphrase
-lang="art-lojban">ju'i lobypli</foreignphrase>, or by inspection and
+lang="art-lojban">ju'i lobypli</foreignphrase><indexterm id="idx64">
+<primary><foreignphrase
+lang="art-lojban">ju'i lobypli</foreignphrase></primary>
+</indexterm>, or by inspection and
 analysis of the formal grammar description (available in higher-level
-teaching materials; see below for contact details.) The formal grammars are
+teaching materials; see below for contact details.) The formal grammars<indexterm id="idx65">
+<primary>grammar, formal</primary>
+</indexterm> are
 specified in compliance with the computer parser generator <citetitle>YACC</citetitle>, or
 in a simplified version in <citetitle>E-BNF</citetitle> notation.</para>
 
@@ -753,7 +900,9 @@ lessons available; these cover the basics of the language, but at a more
 leisurely pace. For more advanced study, you may wish to use the draft
 lessons written in the late 1980s (22 lessons); these draft lessons will
 eventually form the basis of a Lojban textbook. A complete grammatical
-description of Lojban, <citetitle>The Complete Lojban Language</citetitle>
+description of Lojban, <citetitle>The Complete Lojban Language</citetitle><indexterm id="idx66">
+<primary><citetitle>The Complete Lojban Language</citetitle></primary>
+</indexterm>
 by John W. Cowan, was published by the Logical Language Group in 1997. This
 is an authoritative reference, and is being used as an aid to learning the advanced
 features of the language.</para>
@@ -783,7 +932,9 @@ interesting and stimulating entertainment for all concerned.</para>
 <qandaentry> <question><para>What is The Logical Language Group?</para>
 </question> <answer>
 
-<para>The Logical Language Group, Inc. is a non-profit organization, the
+<para><indexterm id="idx67" class="startofrange" significance="preferred">
+<primary>Logical Language Group</primary>
+</indexterm>The Logical Language Group, Inc. is a non-profit organization, the
 embodiment of the Loglan/Lojban community. We were founded to complete the
 language development process, to develop and publish teaching materials, to
 organize and teach the community, to promote applications of Lojban, and to
@@ -892,8 +1043,9 @@ stay informed by checking our web page or participating in the Lojban
 mailing lists (see contact details below). A printed newsletter
 (<foreignphrase lang="art-lojban">le lojbo karni</foreignphrase>) and a
 journal (<foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase>)
-
-have been published intermittently, and may or may not be in active
+<indexterm id="idx69">
+<primary><foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase></primary>
+</indexterm>have been published intermittently, and may or may not be in active
 publication when you read this. <foreignphrase lang="art-lojban">le lojbo
 karni</foreignphrase> contains general news aimed at those not actively
 involved in the language community. <foreignphrase lang="art-lojban">ju'i
@@ -939,7 +1091,9 @@ language. We aid such people in organizing, leading, and teaching formal
 classes and study groups, and will sponsor affiliated groups in local areas
 where non-profit sponsorship brings useful benefits. We also conduct an
 annual (northern summer) celebration of the language and community, called
-<quote role="socalled">LogFest</quote>, in conjunction with our annual
+<quote role="socalled">LogFest</quote><indexterm id="idx70">
+<primary>Logfest</primary>
+</indexterm>, in conjunction with our annual
 business meeting in the Washington DC area. We also expect to support other
 local meetings and gatherings as the community grows.</para>
 
@@ -947,7 +1101,8 @@ local meetings and gatherings as the community grows.</para>
 <para>Of course, we also try to publicize the language. Our representatives
 attend meetings and give presentations on the language. We distribute these
 brochures. Through our efforts, and with your help, the community of
-Lojbanists is rapidly growing.</para> </answer> </qandaentry>
+Lojbanists is rapidly growing.<indexterm id="idx68" class="endofrange" startref="idx67" significance="preferred"/>
+</para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>What can I do now?</para> </question>
 
@@ -960,7 +1115,9 @@ time:</para>
 <listitem><para>you can participate in completing the language
 development;</para></listitem>
 
-<listitem><para>you can devise applications for Lojban in computers,
+<listitem><para>you can devise applications for Lojban<indexterm id="idx55">
+<primary>computer applications</primary>
+</indexterm> in computers,
 education, linguistics, and other fields;</para></listitem>
 
 <listitem><para>you can help in organizing Lojbanists in your area, and in
@@ -1051,7 +1208,9 @@ available information, is at: <informalexample><para><ulink
 url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></para></informalexample></para>
 
 
-<para>Two active Lojban-related mailing lists are available on the
+<para>Two active Lojban-related mailing lists<indexterm id="idx71" significance="preferred">
+<primary>Lojban mailing list</primary>
+</indexterm> are available on the
 Internet. The mailing lists may be accessed at:
 <informalexample><para><ulink
 url="http://groups.yahoo.com"><computeroutput>http://groups.yahoo.com</computeroutput></ulink></para></informalexample>

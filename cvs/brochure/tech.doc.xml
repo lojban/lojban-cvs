@@ -1,6 +1,6 @@
 <part id="sect2">
-<title id="sect2title" xreflabel="Part II">Technical Descriptions &mdash; <foreignphrase lang="art-lojban">certu 
-velskicu</foreignphrase></title>
+<title xreflabel="Part II">Technical Descriptions &mdash; <foreignphrase lang="art-lojban">certu 
+velskicu</foreignphrase></title><titleabbrev id="sect2title">Technical Descriptions</titleabbrev>
 &overview;
 &diagsumm;
 &lingissues;</part>
