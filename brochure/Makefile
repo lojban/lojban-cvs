@@ -5,12 +5,14 @@ all: rtf paperback tex html
 
 paperback: lojbanLevel0.index.doc.xml
 	openjade -E 0 -t rtf -o lojban.tmp.rtf -d $(DSSSLLOC)/print/my_docbook.paperback.dsl $(DOCBOOKTOOLS)/xml.dcl lojbanLevel0.silencoding.doc.xml
-	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lojban.tmp.rtf > lojbanLevel0.paperback.rtf
+	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lojban.tmp.rtf > lojban.tmp1.rtf
+	perl $(DOCBOOKTOOLS)/rtfDocBookCleanup.pl < lojban.tmp1.rtf > lojbanLevel0.paperback.rtf
 	echo "Don't forget to index the text in Word (Ctrl-A, F9 on PC.)"
 
 rtf: lojbanLevel0.index.doc.xml
 	openjade -E 0 -o lojban.tmp.rtf -t rtf -d $(DSSSLLOC)/print/my_docbook.print.dsl $(DOCBOOKTOOLS)/xml.dcl lojbanLevel0.doc.xml
-	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lojban.tmp.rtf > lojbanLevel0.doc.rtf
+	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lojban.tmp.rtf > lojban.tmp1.rtf
+	perl $(DOCBOOKTOOLS)/rtfDocBookCleanup.pl < lojban.tmp1.rtf > lojbanLevel0.doc.rtf
 	echo "Don't forget to index the text in Word (Ctrl-A, F9 on PC.)"
 
 

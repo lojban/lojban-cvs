@@ -21,7 +21,7 @@ allow you to get a feel for how the language works. </para>
 lang="art-lojban">la lojban. mo</foreignphrase> brochure) was originally
 written by Athelstan and Bob LeChevalier in 1988, and updated in 1991 and
 2001. The <citetitle>Overview</citetitle> was originally written by Bob
-LeChevalier in 1989, and updated in 1990 and 2001. The
+LeChevalier and John Cowan in 1989, and updated in 1990 and 2001. The
 <citetitle>Diagrammed Summary</citetitle> was originally written by Nora
 Tansky LeChevalier and Bob LeChevalier in 1990, and updated in 1992 and
 2001. <citetitle>Linguistic Issues</citetitle> is based on material originally
@@ -39,7 +39,7 @@ John Cowan in 1991, in response to Arnold M. Zwicky's<indexterm id="idx408">
 <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html"><citetitle>jbofihe</citetitle></ulink>
 by Richard Curnow.</para>
 
-<para>Thanks to Pierre Abbat, John Cowan and Jay Kominek for their 
+<para>Thanks to Pierre Abbat and Jay Kominek for their 
 suggestions.</para>
 
 <note><para>This booklet is published by the 
@@ -71,7 +71,8 @@ jimpe ledu'u le bangu cu se sazri ta'i ma kau</foreignphrase></para>
 <para><foreignphrase lang="art-lojban">ni'o le lidne pagbu po'u le lu la lojban.
 mo li'u seltcidu pepuku cu krasi se
 finti la .AT,lstan. joi la lojbab. ca la 1988nan. gi'e se ningau ca la
-1991nan. .e la 2001nan. .i le naltcila velski cu krasi se finti la lojbab.
+1991nan. .e la 2001nan. .i le naltcila velski cu krasi se finti la lojbab. joi la
+djan. kau,n.
 ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan. .i le xracartu
 torvelski cu krasi se finti la noras. tanskis. lecevalier. joi la lojbab.
 ca la 1990nan. gi'e se ningau ca la 1992nan. .e la
@@ -88,8 +89,7 @@ po'u la'o gy. Language gy. be'o nede'i la 1969nan.
 po'u la <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html">jbofi'e</ulink>
 zi'e nefi'e la ritcyd.kernous.</foreignphrase></para>
 
-<para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e. 
-la djan.kau,n. .e la djez. KOminek. 
+<para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e la djez. KOminek. 
 lenu vo'e cu stidi sidju</foreignphrase></para>
 
 <note><title><foreignphrase lang="art-lojban">ni'o
