@@ -8,6 +8,8 @@
 
 (define %show-ulinks% #f)
 
+(define %ss-shift-factor% 0.3)
+
 (define %title-font-family% 
   ;; The font family used in titles
   "Times New Roman")
@@ -28,6 +30,7 @@
 
 (define ($lojban-text$ #!optional (sosofo (process-children)))
 	(make sequence
+        hyphenate?: #f
 		font-family-name: "Andale Mono"
 		font-size: (* (inherited-font-size) 
 						(if %verbatim-size-factor%
@@ -272,6 +275,7 @@
 ;; following indexing code (made to cope with ranges) courtesy of Jiri Kosek,
 ;; see http://sources.redhat.com/ml/docbook-apps/2001-q2/msg00127.html
 (element (indexterm)
+
          (make sequence
 
                ;; start of range
@@ -307,17 +311,31 @@
                            (data-of (select-elements 
                                      (children (current-node))(normalize "secondary")))))
                     )
+
                   ;; handle see
                   (if (node-list-empty? 
                        (select-elements 
                         (children (current-node))(normalize "see")))
                       (literal "")
                     (make sequence
-                          (literal "#txe viz ")
+                          (literal "#txe See ")
                           (literal 
                            (data-of (select-elements 
                                      (children (current-node))(normalize "see")))))
                     )
+
+                  ;; inserted (NN): handle seealso (lamely)
+                  (if (node-list-empty? 
+                       (select-elements 
+                        (children (current-node))(normalize "seealso")))
+                      (literal "")
+                    (make sequence
+                          (literal "#txe See also ")
+                          (literal 
+                           (data-of (select-elements 
+                                     (children (current-node))(normalize "seealso")))))
+                    )
+
                   ;; handle start of range (make reference to it)
                   (if (equal? (attribute-string "class") "startofrange")
                       (make sequence
@@ -327,6 +345,13 @@
                     (literal "")
                     )
                   
+;; added NN: process preferred entries in bold
+				(if (equal? (attribute-string "significance") "preferred")
+					(literal "#bb")
+                 (literal "")
+                 )
+;; end NN
+
                   ;; common end
                   (literal "##")
                   )
@@ -373,7 +398,19 @@
 			line-spacing: (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
 			(process-children))
 
+(if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
+
+          (make paragraph
+			space-before: 0pt
+			space-after: 0pt
+			font-size: (* %bf-size% %smaller-size-factor%)
+			line-spacing: (* %bf-size% %line-spacing-factor% %smaller-size-factor%)
+			(process-children))
+
            ($paragraph$)
+
+)
+
 		)
 	)
 

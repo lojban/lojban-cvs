@@ -8,10 +8,16 @@ while (<>)
 {
 
   # rejstøík
-  s/#([^:#]*):::([^#]*)#/#$1\\:$2#/g; 
+  s/#([^:#]*):::([^#]*)#/#$1\\:$2#/g;
+  # next two added by NN: force italicisation 
+  s/#xe #([^#]*)#txe See also ([^#]*)##/{\\v\\b0\\i0{\\xe {}{$1}{\\txe {\\i See also }{}{$2}}{}}}/g;
+  s/#xe #([^#]*)#txe See ([^#]*)##/{\\v\\b0\\i0{\\xe {}{$1}{}{\\txe {\\i See }$2}{}}}/g;
   s/#xe #([^#]*)#txe ([^#]*)##/{\\v\\b0\\i0{\\xe {}{$1}{}{\\txe $2}{}}}/g;
   s/#xe #([^#]*)#rxe ([^#]*)##/{\\v\\b0\\i0{\\xe {}{$1}{}{\\rxe $2}}}/g;
   s/#xe #([^#]*)##/{\\v\\b0\\i0{\\xe {}{$1}}}/g;
+  # next two added by NN to deal with indexterm significance="preferred"
+  s/#xe #([^#]*)#rxe ([^#]*)#bb##/{\\v\\b0\\i0{\\xe {}{$1}{}{\\rxe $2}\\bxe }}/g;
+  s/#xe #([^#]*)#bb##/{\\v\\b0\\i0{\\xe {}{$1\\bxe }}}/g;
 #  $l = EReg_Replace('#([^:#]*):([^#]*)#', '#\1\\:\2#', $l);
 #  $l = EReg_Replace('#xe #([^#]*)#txe ([^#]*)##', '{\\v\\b0\\i0{\\xe {\1}{\\txe \2}{}}}', $l);
 #  $l = EReg_Replace('#xe #([^#]*)#rxe ([^#]*)##', '{\\v\\b0\\i0{\\xe {\1}{\\rxe \2}}}', $l);

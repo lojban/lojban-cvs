@@ -1,0 +1,8 @@
+SPAN.sect1, SPAN.literallayout, SPAN.computeroutput, SPAN.footnote, SPAN.quote, SPAN.emphasis, SPAN.wordasword, SPAN.term, SPAN.foreignphrase, SPAN.para, SPAN.chapter, SPAN.title {
+  font-family: Times New Roman,serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 10pt;
+  color: #000000;
+}
+DIV { margin-top: 0pt; margin-bottom: 0pt; margin-left: 0pt; margin-right: 0pt }

@@ -1,0 +1,31 @@
+<HTML><HEAD><TITLE>DocBook for Lojban</TITLE>
+<body bgcolor="#DFFFFF" text="#000000" link="#C01800" alink="#00A050"
+vlink="#2800A0">
+<P>
+Getting DocBook to work with Jade and DSSSL is regrettably not as straightforward as it should be. In the following, I outline my solution for Win NT, using Cygwin.
+</P>
+<OL>
+<LI><P>To get started, follow the installation steps outlined in
+<A HREF="http://ourworld.compuserve.com/homepages/hoenicka_markus/ntsgml.html">Markus Hoenicka's SGML for Windows NT site</A>.
+<BLOCKQUOTE>
+I've installed Cygwin as my Unix shell. I have not installed Emacs (a pox on 't; I use <A HREF="http://www.esperanto.muv.ru/UniRed">UniRed</A>, and any XML-aware editor will do, WYSIWYG or not.) I likewise have not installed Gnuserv, Ghostscript, PSGML or TDTD, or TeX. You may want to install them for your own purposes; that's up to you.
+</BLOCKQUOTE>
+</P>
+<LI><P>Once you've installed OpenJade, DocBook, and the DocBook stylesheets, you'll now need to rearrange your directories and catalog files so that the installation actually works. This gave me no end of hassle; the configuration that ended up working is that outlined in a recent <A HREF="http://lists.oasis-open.org/archives/docbook-apps/200011/msg00183.html">posting</A> to the Docbook-apps mailing list by Rune Enggaard Jensen. The main point of this is to make sure that Jade does not barf on seeing XML entities instead of SGML entities.
+</P>
+<LI><P>Next, install in a directory the subdirectories <CODE>docbooktools</CODE>, <CODE>lessons</CODE> and <CODE>brochure</CODE>.</P>
+<LI><P>From <CODE>docbooktools</CODE>, you will need to copy across the customised DSSSL drivers to where the other DSSSL files are. Go to the directory where you've placed the DocBook DSSSL stylesheets. Put <CODE>my_docbook.print.dsl</CODE>, <CODE>my_docbook.paperback.dsl</CODE> and <CODE>my_docbook.tex.dsl</CODE> in the <CODE>print</CODE> subdirectory, and <CODE>my_docbook.html.dsl</CODE> in the <CODE>html</CODE> subdirectory. (If I had time, I'd write a shell script to do this automagically; mayhaps someone else will.)
+</P>
+<LI><P>To actually generate output from the DocBook, you then run <CODE>make</CODE>. There are four targets currently: <CODE>rtf</CODE>, <CODE>paperback</CODE> (generating an RTF file, page size 6 by 9 inches), <CODE>tex</CODE> and <CODE>html</CODE>.
+</P>
+<LI><P>To go from the output TeX to a DVi file, you will need to run the preprocessor <A HREF="http://www.tug.org/applications/jadetex/">JadeTex</A>. I haven't gotten this to work, but Paul Reinerfelt has (eventually), so he should be able to address queries.</P>
+</OL>
+
+<ADDRESS><SMALL>Created and Maintained by: Nick Nicholas,
+<A
+HREF="mailto:nicholas@uci.edu">
+<CODE>nicholas@uci.edu</CODE></A>
+<BR>Created: 2001-4-12</SMALL></ADDRESS>
+<BR>Last revision: 2001-7-20</SMALL></ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,15 @@
+BODY {background-color: white}
+BLOCKQUOTE.note {background-color: #FFE8FB; font-size: smaller}
+BLOCKQUOTE.vocab {background-color: #FFFBE8}
+SPAN.searchregion  {background-color: #FFE8FB}
+SPAN.searchregion2  {background-color: #E8FFFB}
+TABLE.warning {color: #FF0000}
+TABLE.simplesect {background-color: #E8FFFB}
+TABLE.excanswer {background-color: #E8FFFB}
+P.navigation {background-color: #E8FFFB; text-align: center; font-size: smaller; padding: 6px 6px 6px 6px; border-width: thin; border-color: blue; border-style: solid}
+P.navigation a {text-decoration: none}
+DT TT.foreignphrase {font-style: normal; font-weight: bold}
+TD.term TT.foreignphrase {font-style: normal; font-weight: bold}
+DT {font-style: italic; font-weight: normal}
+TD.term {font-style: italic; font-weight: normal}
+

@@ -14,6 +14,7 @@
 (define ($lojban-text$ #!optional (sosofo (process-children)))
 	(make sequence
 		font-family-name: "ecdh"
+		hyphenate?: #f
 		;;font-weight: 'bold
 		sosofo))
 
