@@ -19,18 +19,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.53533465289429527 
+                    xmax = 0.50642768048564502 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.53533465289429527 
+                    xmin = 0.50642768048564502 
                     xmax = 0.6238622558957867 
                     text = "p-au" 
                 intervals [3]:
                     xmin = 0.6238622558957867 
-                    xmax = 0.77743054681674117 
+                    xmax = 0.74762023152032053 
                     text = "au-p" 
                 intervals [4]:
-                    xmin = 0.77743054681674117 
+                    xmin = 0.74762023152032053 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -67,18 +67,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.35285938956469048 
+                    xmax = 0.31582233116610736 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.35285938956469048 
+                    xmin = 0.31582233116610736 
                     xmax = 0.48113407962807603 
                     text = "t-au" 
                 intervals [3]:
                     xmin = 0.48113407962807603 
-                    xmax = 0.67264277183538401 
+                    xmax = 0.64554248520227431 
                     text = "au-t" 
                 intervals [4]:
-                    xmin = 0.67264277183538401 
+                    xmin = 0.64554248520227431 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -115,18 +115,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.51275108070003728 
+                    xmax = 0.49468422294463082 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.51275108070003728 
+                    xmin = 0.49468422294463082 
                     xmax = 0.61663551279362405 
                     text = "k-au" 
                 intervals [3]:
                     xmin = 0.61663551279362405 
-                    xmax = 0.77562386104120051 
+                    xmax = 0.75936368906133478 
                     text = "au-k" 
                 intervals [4]:
-                    xmin = 0.77562386104120051 
+                    xmin = 0.75936368906133478 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -167,10 +167,10 @@ item []:
                     text = "" 
                 intervals [2]:
                     xmin = 0.37182959020786721 
-                    xmax = 0.47210065075037277 
+                    xmax = 0.4802307367403057 
                     text = "f-au" 
                 intervals [3]:
-                    xmin = 0.47210065075037277 
+                    xmin = 0.4802307367403057 
                     xmax = 0.59766531215044738 
                     text = "au-f" 
                 intervals [4]:
@@ -211,18 +211,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.51184773781226689 
+                    xmax = 0.47932739385253537 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.51184773781226689 
+                    xmin = 0.47932739385253537 
                     xmax = 0.6103121125792319 
                     text = "b-au" 
                 intervals [3]:
                     xmin = 0.6103121125792319 
-                    xmax = 0.76839711793903798 
+                    xmax = 0.7449102028570096 
                     text = "au-b" 
                 intervals [4]:
-                    xmin = 0.76839711793903798 
+                    xmin = 0.7449102028570096 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -259,18 +259,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.36279616133016401 
+                    xmax = 0.33479253180928409 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.36279616133016401 
-                    xmax = 0.46397056476043991 
+                    xmin = 0.33479253180928409 
+                    xmax = 0.46939062208706184 
                     text = "d-au" 
                 intervals [3]:
-                    xmin = 0.46397056476043991 
-                    xmax = 0.58592185460943325 
+                    xmin = 0.46939062208706184 
+                    xmax = 0.57508173995618939 
                     text = "au-d" 
                 intervals [4]:
-                    xmin = 0.58592185460943325 
+                    xmin = 0.57508173995618939 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -307,18 +307,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.44229033545395224 
+                    xmax = 0.43235356368847871 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.44229033545395224 
+                    xmin = 0.43235356368847871 
                     xmax = 0.55249816776193128 
                     text = "g-au" 
                 intervals [3]:
                     xmin = 0.55249816776193128 
-                    xmax = 0.68890294381524975 
+                    xmax = 0.67986951493754655 
                     text = "au-g" 
                 intervals [4]:
-                    xmin = 0.68890294381524975 
+                    xmin = 0.67986951493754655 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -647,10 +647,10 @@ item []:
                     text = "" 
                 intervals [2]:
                     xmin = 0.18664429821495152 
-                    xmax = 0.3094989309517151 
+                    xmax = 0.30407887362509317 
                     text = "n-au" 
                 intervals [3]:
-                    xmin = 0.3094989309517151 
+                    xmin = 0.30407887362509317 
                     xmax = 0.41790007748415359 
                     text = "au-n" 
                 intervals [4]:
@@ -691,18 +691,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.36460284710570467 
+                    xmax = 0.36911956154455627 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.36460284710570467 
+                    xmin = 0.36911956154455627 
                     xmax = 0.45313045010719605 
                     text = "l-au" 
                 intervals [3]:
                     xmin = 0.45313045010719605 
-                    xmax = 0.56695165396625646 
+                    xmax = 0.5561115393130126 
                     text = "au-l" 
                 intervals [4]:
-                    xmin = 0.56695165396625646 
+                    xmin = 0.5561115393130126 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:

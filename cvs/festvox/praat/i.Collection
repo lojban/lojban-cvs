@@ -211,18 +211,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.410673334381991 
+                    xmax = 0.40254324839205813 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.410673334381991 
+                    xmin = 0.40254324839205813 
                     xmax = 0.47300399363814311 
                     text = "v-i" 
                 intervals [3]:
                     xmin = 0.47300399363814311 
-                    xmax = 0.56153159663963459 
+                    xmax = 0.574178397068419 
                     text = "i-v" 
                 intervals [4]:
-                    xmin = 0.56153159663963459 
+                    xmin = 0.574178397068419 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -315,10 +315,10 @@ item []:
                     text = "s-i" 
                 intervals [3]:
                     xmin = 0.51907448091442943 
-                    xmax = 0.6238622558957867 
+                    xmax = 0.62115222723247565 
                     text = "i-s" 
                 intervals [4]:
-                    xmin = 0.6238622558957867 
+                    xmin = 0.62115222723247565 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -595,18 +595,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.51546110936334821 
+                    xmax = 0.4820374225158463 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.51546110936334821 
+                    xmin = 0.4820374225158463 
                     xmax = 0.5696616826295674 
                     text = "p-i" 
                 intervals [3]:
                     xmin = 0.5696616826295674 
-                    xmax = 0.7178099162239 
+                    xmax = 0.66631937162099175 
                     text = "i-p" 
                 intervals [4]:
-                    xmin = 0.7178099162239 
+                    xmin = 0.66631937162099175 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -643,18 +643,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.54075471022091715 
+                    xmax = 0.51817113802665915 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.54075471022091715 
+                    xmin = 0.51817113802665915 
                     xmax = 0.60037534081375832 
                     text = "t-i" 
                 intervals [3]:
                     xmin = 0.60037534081375832 
-                    xmax = 0.77833388970451145 
+                    xmax = 0.68709625803970908 
                     text = "i-t" 
                 intervals [4]:
-                    xmin = 0.77833388970451145 
+                    xmin = 0.68709625803970908 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -691,18 +691,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.43325690657624899 
+                    xmax = 0.40976999149422066 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.43325690657624899 
+                    xmin = 0.40976999149422066 
                     xmax = 0.50823436626118568 
                     text = "k-i" 
                 intervals [3]:
                     xmin = 0.50823436626118568 
-                    xmax = 0.6193455414569351 
+                    xmax = 0.59134191193605512 
                     text = "i-k" 
                 intervals [4]:
-                    xmin = 0.6193455414569351 
+                    xmin = 0.59134191193605512 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -739,18 +739,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.49558756583240116 
+                    xmax = 0.46848727919929151 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.49558756583240116 
+                    xmin = 0.46848727919929151 
                     xmax = 0.54527142465976874 
                     text = "b-i" 
                 intervals [3]:
                     xmin = 0.54527142465976874 
-                    xmax = 0.68077285782531682 
+                    xmax = 0.6374123992123415 
                     text = "i-b" 
                 intervals [4]:
-                    xmin = 0.68077285782531682 
+                    xmin = 0.6374123992123415 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -787,18 +787,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.54075471022091715 
+                    xmax = 0.51455776647557783 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.54075471022091715 
+                    xmin = 0.51455776647557783 
                     xmax = 0.59585862637490672 
                     text = "d-i" 
                 intervals [3]:
                     xmin = 0.59585862637490672 
-                    xmax = 0.75755700328579412 
+                    xmax = 0.70064640135626388 
                     text = "i-d" 
                 intervals [4]:
-                    xmin = 0.75755700328579412 
+                    xmin = 0.70064640135626388 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -835,18 +835,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.48836082273023856 
+                    xmax = 0.4711973078626025 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.48836082273023856 
+                    xmin = 0.4711973078626025 
                     xmax = 0.55249816776193128 
                     text = "g-i" 
                 intervals [3]:
                     xmin = 0.55249816776193128 
-                    xmax = 0.67264277183538401 
+                    xmax = 0.63560571343680083 
                     text = "i-g" 
                 intervals [4]:
-                    xmin = 0.67264277183538401 
+                    xmin = 0.63560571343680083 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:

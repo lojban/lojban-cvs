@@ -19,18 +19,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.44500036411726318 
+                    xmax = 0.41519004882084259 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.44500036411726318 
+                    xmin = 0.41519004882084259 
                     xmax = 0.52630122401659207 
                     text = "p-ai" 
                 intervals [3]:
                     xmin = 0.52630122401659207 
-                    xmax = 0.68890294381524975 
+                    xmax = 0.64734917097781497 
                     text = "ai-p" 
                 intervals [4]:
-                    xmin = 0.68890294381524975 
+                    xmin = 0.64734917097781497 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -67,18 +67,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.410673334381991 
+                    xmax = 0.38447639063665173 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.410673334381991 
+                    xmin = 0.38447639063665173 
                     xmax = 0.50552433759787463 
                     text = "t-ai" 
                 intervals [3]:
                     xmin = 0.50552433759787463 
-                    xmax = 0.63650905632457111 
+                    xmax = 0.60669874102815058 
                     text = "ai-t" 
                 intervals [4]:
-                    xmin = 0.63650905632457111 
+                    xmin = 0.60669874102815058 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -115,18 +115,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.48655413695469796 
+                    xmax = 0.46306722187266958 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.48655413695469796 
+                    xmin = 0.46306722187266958 
                     xmax = 0.58050179728281126 
                     text = "k-ai" 
                 intervals [3]:
                     xmin = 0.58050179728281126 
-                    xmax = 0.7087764873461968 
+                    xmax = 0.68980628670302002 
                     text = "ai-k" 
                 intervals [4]:
-                    xmin = 0.7087764873461968 
+                    xmin = 0.68980628670302002 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -211,18 +211,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.39350981951435493 
+                    xmax = 0.36911956154455627 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.39350981951435493 
+                    xmin = 0.36911956154455627 
                     xmax = 0.49016750850577923 
                     text = "b-ai" 
                 intervals [3]:
                     xmin = 0.49016750850577923 
-                    xmax = 0.61753885568139444 
+                    xmax = 0.59495528348713644 
                     text = "ai-b" 
                 intervals [4]:
-                    xmin = 0.61753885568139444 
+                    xmin = 0.59495528348713644 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -259,18 +259,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.39079979085104394 
+                    xmax = 0.36821621865678594 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.39079979085104394 
+                    xmin = 0.36821621865678594 
                     xmax = 0.47390733652591344 
                     text = "d-ai" 
                 intervals [3]:
                     xmin = 0.47390733652591344 
-                    xmax = 0.6103121125792319 
+                    xmax = 0.59314859771159578 
                     text = "ai-d" 
                 intervals [4]:
-                    xmin = 0.6103121125792319 
+                    xmin = 0.59314859771159578 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -307,18 +307,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.4802307367403057 
+                    xmax = 0.50462099471010435 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.4802307367403057 
-                    xmax = 0.60760208391592085 
+                    xmin = 0.50462099471010435 
+                    xmax = 0.62566894167132725 
                     text = "g-ai" 
                 intervals [3]:
-                    xmin = 0.60760208391592085 
-                    xmax = 0.68980628670302002 
+                    xmin = 0.62566894167132725 
+                    xmax = 0.72503665932606254 
                     text = "ai-g" 
                 intervals [4]:
-                    xmin = 0.68980628670302002 
+                    xmin = 0.72503665932606254 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -329,14 +329,14 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.55430485353747194 
+                    xmax = 0.551594824874161 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.55430485353747194 
-                    xmax = 0.67264277183538401 
+                    xmin = 0.551594824874161 
+                    xmax = 0.69341965825410135 
                     text = "ai" 
                 intervals [3]:
-                    xmin = 0.67264277183538401 
+                    xmin = 0.69341965825410135 
                     xmax = 0.89993749999999995 
                     text = "" 
     item [8]:
@@ -551,10 +551,10 @@ item []:
                     text = "" 
                 intervals [2]:
                     xmin = 0.50552433759787463 
-                    xmax = 0.59766531215044738 
+                    xmax = 0.61121545546700218 
                     text = "j-ai" 
                 intervals [3]:
-                    xmin = 0.59766531215044738 
+                    xmin = 0.61121545546700218 
                     xmax = 0.72322997355052188 
                     text = "ai-j" 
                 intervals [4]:
@@ -599,10 +599,10 @@ item []:
                     text = "" 
                 intervals [2]:
                     xmin = 0.36453235354613867 
-                    xmax = 0.47666004827869918 
+                    xmax = 0.48787281775195523 
                     text = "x-ai" 
                 intervals [3]:
-                    xmin = 0.47666004827869918 
+                    xmin = 0.48787281775195523 
                     xmax = 0.65606435985079603 
                     text = "ai-x" 
                 intervals [4]:
@@ -647,10 +647,10 @@ item []:
                     text = "" 
                 intervals [2]:
                     xmin = 0.39170313373881427 
-                    xmax = 0.48113407962807603 
+                    xmax = 0.49107085139354956 
                     text = "m-ai" 
                 intervals [3]:
-                    xmin = 0.48113407962807603 
+                    xmin = 0.49107085139354956 
                     xmax = 0.59856865503821766 
                     text = "ai-m" 
                 intervals [4]:
@@ -739,10 +739,10 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.37182959020786721 
+                    xmax = 0.36460284710570467 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.37182959020786721 
+                    xmin = 0.36460284710570467 
                     xmax = 0.46126053609712897 
                     text = "l-ai" 
                 intervals [3]:
