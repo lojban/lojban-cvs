@@ -344,7 +344,7 @@ of Lojban (<foreignphrase
 lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>), and
 of its function words (<foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>), are
-explicitly defined, with a unique though at times broad sense.<indexterm id="idx412" startref="idx411" significance="preferred" class="endofrange"/></para> </answer> </qandaentry>
+explicitly defined, with a unique, though at times broad, sense.<indexterm id="idx412" startref="idx411" significance="preferred" class="endofrange"/></para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>If the meaning of a particular
 <foreignphrase lang="art-lojban"><emphasis
@@ -435,7 +435,7 @@ that everything human beings talk about can be built up using appropriate
 <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase>. This claim is being tested in
 actual usage, and root words can still be added if necessary (after careful
-consideration) if genuine gaps are found. For the most part, the few gaps
+consideration), if genuine gaps are found. For the most part, the few gaps
 which are now recognized (about 20 words have been added in the past
 decade) reflect the completing of semantic sets. It is no longer permitted
 for language users to create new <foreignphrase lang="art-lojban"><emphasis
@@ -620,7 +620,7 @@ the best methods of conveying these meanings.<indexterm id="idx425" startref="id
 <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase> involving more than two
 components always left-grouping (in the absence of a marker word), when
-right-branching structure is much more natural to human
+right-grouping structure is much more natural to human
 languages? </para> </question>
 
 <answer>
@@ -631,23 +631,23 @@ languages? </para> </question>
 role="term">tanru</emphasis></foreignphrase></primary>
 <secondary><foreignphrase lang="art-lojban"><emphasis
 role="term">selbri</emphasis></foreignphrase> grouping within</secondary>
-</indexterm>Lojban is predominantly a left-branching language. By default, all
-structures are left-branching, with right-branching available when marked
+</indexterm>Lojban is predominantly a left-grouping language. By default, all
+structures are left-grouping, with right-grouping available when marked
 by a particle. Since the head of most constructs appears on the left,
-left-branching structures tend to favor the speaker. Nothing spoken needs
+left-grouping structures tend to favor the speaker. Nothing spoken needs
 to be revised to add more information. When the head is on the right, as in
 the case of <foreignphrase lang="art-lojban"><emphasis
-role="term">tanru</emphasis></foreignphrase>, left-branching may seem
+role="term">tanru</emphasis></foreignphrase>, left-grouping may seem
 counterintuitive, as it requires the listener to retain the entire
-structure in mind until the head is found. However, left-branching was
+structure in mind until the head is found. However, left-grouping was
 retained even in <foreignphrase lang="art-lojban"><emphasis
 role="term">tanru</emphasis></foreignphrase> for the sake of
 simplicity.</para>
 
-<para>Experience has shown, however, that Lojban's left-branching
+<para>Experience has shown, however, that Lojban's left-grouping
 structure is not a major problem for language learners. Indeed, many
 longer English metaphors translate directly into Lojban using simple
-left-branching structures.<indexterm id="idx429" startref="idx428" class="endofrange"/>
+left-grouping structures.<indexterm id="idx429" startref="idx428" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -895,7 +895,7 @@ commanding the listener to make the assertion true which results when
 sisti</foreignphrase> (<quote role="gloss">Stop!</quote>) is logically
 equivalent to <foreignphrase lang="art-lojban">do sisti</foreignphrase>
 (<quote role="gloss">you stop</quote>), and pragmatically may be understood
-as <quote role="gloss">Make <quote><foreignphrase lang="art-lojban">do
+as <quote>Make <quote><foreignphrase lang="art-lojban">do
 sisti</foreignphrase></quote> true!</quote>. This allows logical connection to be
 used in imperatives without loss of clarity or generality; the logical
 connection applies to the assertion which is in effect embedded in the
@@ -992,7 +992,9 @@ compromise: fewer places are easier to learn; more places make for more
 concision (arguments not represented in the place structure may be added,
 but must be marked with appropriate case tags); the presence of an argument
 in the place structure makes a metaphysical claim that it is required for
-the predication to be meaningful. This last point requires some
+the predication to be meaningful.</para>
+
+<para>This last point requires some
 explanation. For example, the predicate <foreignphrase
 lang="art-lojban">klama</foreignphrase> (<quote role="gloss">come,
 go</quote>) has five places: the actor, the destination, the origin, the
@@ -1100,8 +1102,8 @@ careful morphological tests and cannot easily be devised during conversation.<in
 
 <qandaentry>
 <question>
-<para>The Lojban phonological system is hard for English-speakers (to say
-nothing of Japanese-speakers) to use, due to the large numbers of
+<para>The Lojban phonological system is hard to use for English-speakers (to say
+nothing of Japanese-speakers), due to the large numbers of
 consonant clusters and non-English diphthongs. How can a language be
 appropriate as an international auxiliary language when it is difficult
 to pronounce?
@@ -1213,7 +1215,7 @@ What are some examples of the process and its results?</para></question>
 in the process: Chinese, English, Hindi, Spanish, Russian, Arabic.
 (Natural language forms below are given in this order, labeled by
 single letters.) In some cases, two different terms from one or another
-language was used, to see which would have the highest score. The terms
+language were used, to see which would have the higher score. The terms
 were then converted to Lojban phonology, with the additional step of
 reducing affricates to their corresponding fricatives, to avoid a false match
 between the stop portion of a source-language affricate and a Lojban stop.
@@ -1253,8 +1255,8 @@ language families blended nicely to form this word.</para>
 <para>Other gismu show similar patterns. <foreignphrase lang="art-lojban">prenu</foreignphrase>, for example, meaning
 <quote role="gloss">person</quote>, is a mixture of Chinese <foreignphrase lang="zho">ren</foreignphrase> and the <quote role="gloss">person</quote> root used
 in English, Spanish, and Russian. <foreignphrase lang="art-lojban">vanju</foreignphrase>, for <quote role="gloss">wine</quote> (Lojbanized as
-<foreignphrase lang="art-lojban">vain</foreignphrase>) matches well with every source language except Arabic, and even
-with French <foreignphrase lang="fra">vin</foreignphrase> (which would Lojbanize as <foreignphrase lang="art-lojban">van</foreignphrase>), which is not a source
+<foreignphrase lang="eng">vain</foreignphrase>) matches well with every source language except Arabic, and even
+with French <foreignphrase lang="fra">vin</foreignphrase> (which would Lojbanize as <foreignphrase lang="fra">van</foreignphrase>), which is not a source
 language at all. </para>                  
 
 <para>Finally, there is <foreignphrase lang="art-lojban">jmive</foreignphrase>, the gismu for <quote role="gloss">(a)live</quote>, which owes its form
@@ -1408,7 +1410,7 @@ predicate logic may not be enough to establish <quote role="socalled">ease of th
 
 <answer>
 
-<para>Perhaps not. However, the Sapir&ndash;Whorf hypothesis tends to be
+<para>Perhaps not. However, the Sapir&ndash;Whorf hypothesis may be
 confirmed if experiments show that Lojban-speakers have a greater
 facility with predicate logic than non&ndash;Lojban-speakers. That would
 indicate that language (natural language) limits thought in ways that
@@ -1506,7 +1508,7 @@ can then rerun the experiment with minor changes to explore the effects
 of those variables.</para>
 
 <para>Experimental linguistics of this kind is virtually unthinkable using the
-natural languages. The Sapir&ndash;Whorf Hypothesis<indexterm id="idx460f">
+natural languages. The Sapir&ndash;Whorf hypothesis<indexterm id="idx460f">
 <primary>Sapir&ndash;Whorf hypothesis</primary>
 </indexterm> is not really testable,
 since we can't control any variables, and we don't know what features of
@@ -1669,9 +1671,7 @@ fire/burn in-the-house plural  diminutive  past-tense</literallayout>
 <informalexample><literallayout><foreignphrase lang="art-lojban">fagykemyzdanerso'icmapru</foreignphrase>
 fire-type-of-house-inside-many-small-past-event</literallayout>
 
-</informalexample>
-
-<indexterm id="idx460m" class="startofrange" significance="preferred">
+</informalexample><indexterm id="idx460m" class="startofrange" significance="preferred">
 <primary>linguistic glossing</primary>
 </indexterm>In either case, the Lojban more accurately tracks the semantics of the
 Nootka, demonstrating the inadequacy of the English. The Nootka word as

@@ -1,8 +1,8 @@
-<part id="sect1"><title>What is Lojban? &mdash; <foreignphrase
-lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojban?</titleabbrev>
+<part id="sect1"><title>Introduction &mdash; <foreignphrase
+lang="art-lojban">lidne pagbu</foreignphrase></title><titleabbrev>Introduction</titleabbrev>
 
-<chapter id="lojbanmo"><title>What is Lojban? &mdash; <foreignphrase
-lang="art-lojban">la lojban mo</foreignphrase></title><titleabbrev>What is Lojban?</titleabbrev>
+<chapter id="lojbanmo"><title>Questions and Answers on Lojban &mdash; <foreignphrase
+lang="art-lojban">preti ce'o danfu sera'a la lojban.</foreignphrase></title><titleabbrev>Questions and Answers</titleabbrev>
 <qandaset>
 
 <qandaentry>
@@ -85,7 +85,7 @@ from other languages in major ways. This allows its use as a test vehicle<indext
 <primary>linguistic testing</primary>
 </indexterm>
 for scientists studying the relationships between language, thought, and
-culture. If you are reading this as part of the introductory booklet, further discussion of these issues can be found in the chapter <xref
+culture. If you are reading this as part of the introductory booklet, further discussion of these issues can be found in the section <xref
 linkend="sect2" endterm="sect2title"/>.</para>
 
 </answer> </qandaentry>
@@ -234,7 +234,7 @@ words &mdash;
 anythingelseinLojbancanberuntogetherwithoutbeingmisunderstood). </para>
 
 
-<para>You might be thinking <quote>Well in that case a function is a verb
+<para>You might be thinking <quote>Well in that case a relationship is a verb
 and an argument is a noun, so why bother with special terminology like
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> and
 whatnot?</quote> However, in Lojban Chris's feelings about Pat might be
@@ -249,7 +249,7 @@ role="gloss">describing word</quote>), <wordasword>beautiful</wordasword>.
 In Turkish, you would say <wordasword>Pat g&uuml;zel</wordasword>, which is
 a noun and an adjective, with no verb required. In Chinese you would use
 <wordasword>meili</wordasword>, a <quote role="gloss">stative verb</quote>
-&mdash; but enough! In Lojban you don't need all this. </para>
+&mdash; but enough! In Lojban you don't need all these language-specific notions. </para>
 
 
 <para>Now, if there are no nouns, verbs, subjects or objects in Lojban, how
@@ -393,7 +393,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>)<indext
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primary>
 </indexterm>. One can make numbers serve as
-nouns or verbs, or can invent new numbers and prepositions. Lojban removes
+nouns or verbs, or invent new numbers and prepositions. Lojban removes
 many of the constraints on human thought, while preserving tight control on
 structural syntax.</para> </answer> </qandaentry>
 
@@ -498,7 +498,7 @@ individual words to acquire families of meanings. Lojban metaphors (called
 ambiguous; they specify a relationship between concepts, but not what the
 relationship is. That relationship can be made explicit using unambiguous
 logical constructs if necessary, or can be left as vague as the speaker
-(usually) desires. Similarly, portions of the logical structure of a Lojban
+desires (as is usually the case). Similarly, portions of the logical structure of a Lojban
 expression can be omitted, greatly simplifying the expression while causing
 some ambiguity. Unlike in the natural languages, though, this ambiguity is
 readily identified by a reader or listener. Thus all ambiguity in Lojban is
@@ -507,7 +507,7 @@ interaction.</para>
 
 
 <para>This precision in no way confines the meaning of a Lojban sentence.
-It is possible to be fanciful or ridiculous, to tell a lie, or to be
+It is possible to be fanciful or ridiculous, to tell lies, or to be
 misunderstood. You can be very specific, or you can be intentionally vague.
 Your hearer may not understand what you <emphasis>meant</emphasis>, but
 will always understand what you <emphasis>said</emphasis>.<indexterm id="idx37" class="endofrange" startref="idx36">
@@ -594,12 +594,12 @@ international language movement.</para>
 <para>Since Lojban is also not in direct competition with Esperanto,
 it has proven attractive to Esperantists
 interested in acquiring a new perspective on their own international
-language, who feel less threatened because Lojban has different goals.
+language, and feel less threatened because Lojban has different goals.
 
 Lojban's supporters recognize that it will take decades for Lojban to
 acquire both the number and variety of speakers and the extensive history
 of usage that marks Esperanto culture. Meanwhile, each language community
-has much to learn from the other; this process has started and is
+has much to learn from the other; this process is already
 well underway.</para> </answer> </qandaentry>
 
 <qandaentry> <question>
@@ -620,7 +620,7 @@ economics, science, and technology makes further declines in the
 universality of English likely.</para>
 
 
-<para>In addition, most who know English as a second language speak it only
+<para>In addition, many who know English as a second language speak it only
 minimally, though they may be able to read or understand many words. India
 is a prominent example of a country where English is the only language more
 or less understood throughout the country, which has about 1500 languages
@@ -668,7 +668,7 @@ doesn't need a dictionary to use and understand millions of words that can
 potentially exist in the language. The absence of cultural constraints
 makes consideration of new ideas and relationships easier than in natural
 languages, spurring creativity. Lojban aids in communicating abstractions
-by identifying their nature explicitly. Lojban is a thus a very powerful
+by identifying their nature explicitly. Lojban is thus a very powerful
 language, not only for poetry, but for discussing such abstract fields as
 philosophy, physics, metaphysics, and religion.</para>
 
@@ -690,7 +690,7 @@ poetic expression to communicate both concrete and abstract ideas.</para>
 <para>The language, then called <quote role="gloss">Loglan</quote><indexterm id="idx57">
 <primary>Loglan</primary>
 </indexterm>, was
-first described in the 1950s, by Dr. James Cooke Brown<indexterm id="idx57a">
+first described in the 1950s by Dr. James Cooke Brown<indexterm id="idx57a">
 <primary>Brown, James Cooke</primary>
 </indexterm>. The 1960 Scientific
 American article <citetitle>Loglan</citetitle> was his call for assistance
@@ -715,7 +715,7 @@ the language in this version has followed a painstaking and extensive
 period of research and analysis, between 1988 and 1998. Thus, in an
 important sense, Lojban is a very new language. To ensure Lojban remains
 stable while people learn it, the language definition is being closely
-controlled; the grammar and vocabulary has already been baselined<indexterm id="idx58">
+controlled; the grammar and vocabulary have already been baselined<indexterm id="idx58">
 <primary>baseline</primary>
 </indexterm> (frozen)
 for several years. When the number of speakers has grown significantly, and
@@ -793,7 +793,7 @@ across cultural boundaries.</para>
 <para>Regardless of your background, you will find learning Lojban to be a
 mind-expanding experience. Learning any language other than your native
 tongue broadens your perspectives and allows you to transcend the necessarily limited
-viewpoints of your native language culture. Lojban, being much simpler to
+viewpoints of your native language culture. Lojban, being simpler to
 learn than natural languages, provides this benefit much more quickly than
 does the study of other languages. And being quite different from natural languages,
 Lojban provides this benefit more directly.</para>
@@ -881,12 +881,12 @@ lists, and by going through the formal grammar<indexterm id="idx65">
 <primary>grammar, formal</primary>
 </indexterm>
 description. (The formal grammars are available in two
-formats, <citetitle>YACC</citetitle> and simplified <citetitle>E-BNF</citetitle>.  If you don't understand
-these formats, don't worry.)</para>
+formats, <citetitle>YACC</citetitle> and simplified <citetitle>E-BNF</citetitle>.)</para>
 
 
 <para>An introduction to the grammar of Lojban will be found in <xref
-linkend="sect2" endterm="sect2title"/>. There is also a set of introductory
+linkend="sect2" endterm="sect2title"/> in the <citetitle>What is
+Lojban?</citetitle> booklet. There is also a set of introductory
 lessons available; these cover the basics of the language, but at a more
 leisurely pace. For more advanced study, you may wish to use the draft
 lessons written in the late 1980s (22 lessons); these draft lessons will
@@ -909,7 +909,7 @@ are available on the Lojban web site (see contact details below).</para>
 <emphasis>use</emphasis> it. The Logical Language Group will assist you in
 finding other Lojban students of comparable skill level and interests,
 either in your local area or reachable by post or electronic mail. The
-on-line Lojban discussion groups regularly contains Lojban text, some with
+on-line Lojban discussion groups regularly contain Lojban text, some with
 detailed translations and some without translation, as well as discussions
 of language points by various members of the Lojban community. There is also a
 discussion group specifically for beginners as of this writing. Of course
@@ -980,8 +980,8 @@ constraints, and will accept reasonable offers of reduced or delayed
 payments subject to our financial condition, coupled with your commitment
 to actively maintain contact and involvement with the community.
 Obviously, the level of your prior and current activity and any commitments
-you make to learning the language or to volunteer work for <foreignphrase
-lang="art-lojban">la lojbangirz.</foreignphrase> will be factored into our
+you make to learning the language, or to volunteer work for <foreignphrase
+lang="art-lojban">la lojbangirz.</foreignphrase>, will be factored into our
 decision.</para>
 
 <para><foreignphrase lang="art-lojban">la lojbangirz.</foreignphrase> has a
@@ -990,7 +990,7 @@ language goals are dependent on building an international community of
 speakers, and because we recognize the difficulties caused by the
 international currency market and the relative wealth of nations. We can
 accept bank cheques in most currencies and international payment via Master
-Card and Visa. We also encourage groups to form so that they can receive a single copy
+Card and Visa. We also people to form groups so that they can receive a single copy
 of our materials, copying or passing them to others to keep the per-person
 costs low. We expect a lower standard of contact and contribution
 from overseas Lojbanists when deciding on whether to continue sending our
@@ -1042,7 +1042,7 @@ journal (<foreignphrase lang="art-lojban">ju'i lobypli</foreignphrase>)
 </indexterm>have been published intermittently, and may or may not be in active
 publication when you read this. <foreignphrase lang="art-lojban">le lojbo
 karni</foreignphrase> contains general news aimed at those not actively
-involved in the learning and using the language. <foreignphrase lang="art-lojban">ju'i
+involved in learning and using the language. <foreignphrase lang="art-lojban">ju'i
 lobypli</foreignphrase> contains discussions of features of the language,
 debates on research issues and applications, letters from the community and
 responses, and Lojban writings and translations.</para>
@@ -1136,7 +1136,7 @@ conversation with other Lojbanists.</para></listitem></itemizedlist>
 
 
 <para>For many of these activities, you need to learn the language first.
-However, even those who haven't yet had time to learn the language,
+However, even those who haven't yet had time to learn the language
 can assist in recruiting and
 contributing ideas to the effort.</para>
 
@@ -1156,7 +1156,7 @@ of sufficient general interest. Open debate aids in understanding and
 improves the overall quality of the language and of our presentation of it
 to the world. We would rather hear criticism now within our friendly
 community and either correct our problems or prepare an adequate response,
-than to do so later when such issues are raised by outsiders.</para>
+than do so later when such issues are raised by outsiders.</para>
 
 
 <para>In short, Lojban is a product of <emphasis>all</emphasis> of the community, including <emphasis>you</emphasis>
