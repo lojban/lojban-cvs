@@ -1271,7 +1271,7 @@ item []:
                     text = "" 
             item [2]:
                 class = "IntervalTier" 
-                name = "middle" 
+                name = "midpoint" 
                 xmin = 0 
                 xmax = 0.69993749999999999 
                 intervals: size = 2 
@@ -1311,7 +1311,7 @@ item []:
                     text = "" 
             item [2]:
                 class = "IntervalTier" 
-                name = "middle" 
+                name = "midpoint" 
                 xmin = 0 
                 xmax = 0.69993749999999999 
                 intervals: size = 2 
@@ -1351,7 +1351,7 @@ item []:
                     text = "" 
             item [2]:
                 class = "IntervalTier" 
-                name = "middle" 
+                name = "midpoint" 
                 xmin = 0 
                 xmax = 0.69993749999999999 
                 intervals: size = 2 
@@ -1391,7 +1391,7 @@ item []:
                     text = "" 
             item [2]:
                 class = "IntervalTier" 
-                name = "middle" 
+                name = "midpoint" 
                 xmin = 0 
                 xmax = 0.69993749999999999 
                 intervals: size = 2 
