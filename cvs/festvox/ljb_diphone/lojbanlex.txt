@@ -1,3 +1,7 @@
 ( "gismu" content ( ((g i s) 1) ((m u) 0)) )
+( "la" nil ( ((l a) 0)  ) )
 ( "le" nil ( ((l e) 0)  ) )
+( "lojban" content ( ((l o j) 1) ((b a n) 0) ) )
 ( "napoleon" content ( ((n a) 0) ((p o) 0) ((l e) 1) ((o n) 0) ) )
+( "nelci" content ( ((n e l) 1) ((c i) 0)) )
+( "xod." content ( ((x o d #) 1) ) )

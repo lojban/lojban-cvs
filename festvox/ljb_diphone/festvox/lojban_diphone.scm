@@ -178,6 +178,48 @@
 ; ;; Go ahead and set up the diphone db
  (us_diphone_init lojban_lpc_group)
 
+
+;; Here we define the routines that are used to predict stress.
+;; All penultimate syllables get stress, monosyllabic words also get stress.
+;; TODO:
+;; -- cmavo should not get stress at all. Separate between parts of speech.
+;; -- syllables in which the vowel is upper-case should get the stress instead
+;;    off the syllable that would otherwise get it; override the default stress
+;;    handling.
+(define (has_consonant_cluster sylstruc)
+  t ;; FIXME, Stubroutine
+)
+
+(define (has_final_consonant sylstruc)
+  nil ;; FIXME, Stubroutine
+)
+
+(define (is_content_word sylstruc)
+  (or (has_final_consonant sylstruc) (has_consonant_cluster sylstruc))
+)
+
+(define (apply_stress syllable)
+  (cons (car syllable) (cons 1))
+)
+
+(define (lojban_penultimate sylstruc)
+    (if (> (length sylstruc) 2)
+	;; Chop off first and recurse with the rest
+	(cons (car sylstruc) (lojban_penultimate (cdr sylstruc)))
+	;; Apply the stress to the first syllable remaining
+	(cons (apply_stress (car sylstruc)) (cdr sylstruc)) )
+)
+
+(define (lojban_assign_stress sylstruc)
+;; For the moment, we assume that ALL words get penultimate stress.
+;; We have to do something so that this does not include cmavo
+(if (is_content_word sylstruc)
+    (lojban_penultimate sylstruc)
+    ;;else assign no stress
+    sylstruc)
+)
+
+
 (define (lojban_lts word feats)
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
@@ -185,7 +227,7 @@ a lojban pronunciation of WORD."
 ;(print word) ;; DEBUG
   (list word
         nil
-        (lex.syllabify.phstress (lts.apply (downcase word) 'lojban))))
+        (lojban_assign_stress (lex.syllabify.phstress (lts.apply (downcase word) 'lojban)))))
 
 (lex.set.lts.method 'lojban_lts)
 

@@ -10,3 +10,6 @@ d-iy
 g-iy
 d-uy
 
+a-x
+x-a
+(For now, replace these with o-x and x-o, respectively. The vowels o and a should be sufficiently close that the splice between o and a sounds more intelligible than the wrong x consonant.)
