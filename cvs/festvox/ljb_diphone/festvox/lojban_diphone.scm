@@ -103,6 +103,7 @@
  ( [ v ] = v )
  ( [ x ] = x )
  ( [ z ] = z )
+ ( [ "." ] = # )
 ))
 
 (lex.set.lts.ruleset 'lojban)
@@ -150,12 +151,13 @@
    (c 0.0 0.110)
    (j 0.0 0.100)
    (f 0.0 0.100)
-   (v 0.0 0.100)
+   (v 0.0 0.050)
 
    (h 0.0 0.030)
-   (x 0.0 0.130)   (m 0.0 0.070)
+   (x 0.0 0.040)
+   (m 0.0 0.070)
    (n 0.0 0.040)
-   (l 0.0 0.080)
+   (l 0.0 0.050)
    (r 0.0 0.030)
 ))
 
@@ -182,7 +184,6 @@
 ;; Here we define the routines that are used to predict stress.
 ;; All penultimate syllables get stress, monosyllabic words also get stress.
 ;; TODO:
-;; -- cmavo should not get stress at all. Separate between parts of speech.
 ;; -- syllables in which the vowel is upper-case should get the stress instead
 ;;    off the syllable that would otherwise get it; override the default stress
 ;;    handling.
@@ -201,7 +202,7 @@
 )
 
 (define (is_vowel letter)
-  (member letter '("a", "e", "i", "o", "u", "y"))
+  (member letter '("a" "e" "i" "o" "u" "y"))
 )
 
 (define (has_consonant_cluster word)
@@ -258,10 +259,16 @@
    )
 )
 
+; This doesn't appear to continue through synthesis
+; It might be better to keep "." as a lexical item, and use pre-processing
+; after tokenising, but before LTS, to insert this pseudo-word
+; at the appropriate places.
 (define (lojban_apply_period word feats)
   (cons
     (if (has_final_consonant word)
-	(string-append word "." ) ; Add period at end
+	(car (lojban_apply_period (string-append word "." ) feats)) ; Add period at end
+	; Also run the result through the same function, in case it needs
+	; a period in front as well.
 	(if (has_initial_vowel word)
 	    (string-append "." word ) ; Add period at beginning
 	    word)
@@ -270,16 +277,12 @@
   )
 )
 
-;(define (lojban_apply_period word feats)
-;  (cons word (cons feats))
-;)
-
 (define (lojban_lts word feats)
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
   (require 'lts)
-;(print word) ;; DEBUG
-;(print feats)
+(print word) ;; DEBUG
+(print feats) ;; MORE DEBUG
   (list word
         nil
 	(if feats
@@ -292,7 +295,7 @@ a lojban pronunciation of WORD."
   )
 )
 
-(lex.set.pre_hooks lojban_pos_predict lojban_apply_period)
+(lex.set.pre_hooks '(lojban_apply_period lojban_pos_predict))
 (lex.set.lts.method 'lojban_lts)
 
 ;;; Intonation
@@ -313,39 +316,30 @@ a lojban pronunciation of WORD."
  '
    ((R:SylStructure.parent.R:Syllable.p.syl_break > 1 ) ;; clause initial
     ((R:SylStructure.parent.stress is 1)
-     ((2.5))
+     ((2.0))
      ((1.0)))
     ((R:SylStructure.parent.syl_break > 1)   ;; clause final
      ((R:SylStructure.parent.stress is 1)
-      ((2.5))
+      ((2.0))
       ((1.0)))
      ((R:SylStructure.parent.stress is 1)
       ((ph_vc is +)
        ((1.0))
-       ((2.5)))
+       ((2.0)))
       ((1.0))))))
-
-
-
-; (set! lojban_phrase_cart_tree
-; '
-; ((lisp_token_end_punc in ("?" "i" ".i" ".ije" "ni'o" ">" ")" "}" ":"))
-;   ((BB))
-;   ((lisp_token_end_punc in ("\"" ";"))
-;    ((B))
-;    ((n.name is 0)  ;; end of utterance
-;     ((BB))
-;     ((NB))))))
 
 (set! simple_phrase_cart_tree
 '
-((R:Token.parent.name in ("i" ".i" "ije" ".ije"))
-  ((BB))
-  ((R:Token.parent.name in ("noi" "poi" "goi" "je" "ja" "jo" "ju" "la" "le" "lo" "li" "lu"))
+((R:Token.parent.n.name in ("ni'o" "ni'oni'o" "i" ".i" "ije" ".ije"))
+   ((BB))
+  ((R:Token.parent.name in ("toi" "li'u" "ku" "kei" "vau" "do'u" "ku'o"))
    ((B))
-   ((n.name is 0)
-    ((BB))
+  ((R:Token.parent.n.name in ("je" "ja" "jo" "ju" "joi" "zi'e" "gi'a" "gi'e" "gi'o" "gi'u" "noi" "voi" "poi" "to" "lu" "doi" "coi" "je'e" "vi'o" "be'e" "re'i"))
+   ((B))
+  ((n.name is 0)
+   ((BB))
     ((NB))))))
+)
 
 (set! lojban_int_simple_params
     '((f0_mean 140) (f0_std 50)))
