@@ -1,7 +1,7 @@
 File type = "ooTextFile"
 Object class = "Collection"
 
-size = 18 
+size = 21 
 item []: 
     item [1]:
         class = "TextGrid" 
@@ -311,10 +311,10 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.36460284710570467 
+                    xmax = 0.3835730477488814 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.36460284710570467 
+                    xmin = 0.3835730477488814 
                     xmax = 0.4711973078626025 
                     text = "f-a" 
                 intervals [3]:
@@ -333,14 +333,14 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.43867696390287092 
+                    xmax = 0.43777362101510064 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.43867696390287092 
-                    xmax = 0.52630122401659207 
+                    xmin = 0.43777362101510064 
+                    xmax = 0.52088116668997009 
                     text = "a" 
                 intervals [3]:
-                    xmin = 0.52630122401659207 
+                    xmin = 0.52088116668997009 
                     xmax = 0.89993749999999995 
                     text = "" 
     item [8]:
@@ -356,25 +356,21 @@ item []:
                 name = "Diphone" 
                 xmin = 0 
                 xmax = 0.89993749999999995 
-                intervals: size = 5 
+                intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
                     xmax = 0.41157667726976133 
                     text = "" 
                 intervals [2]:
                     xmin = 0.41157667726976133 
-                    xmax = 0.49739425160794176 
+                    xmax = 0.50191096604679342 
                     text = "s-a" 
                 intervals [3]:
-                    xmin = 0.49739425160794176 
-                    xmax = 0.59856865503821766 
+                    xmin = 0.50191096604679342 
+                    xmax = 0.61392548413031311 
                     text = "a-s" 
                 intervals [4]:
-                    xmin = 0.59856865503821766 
-                    xmax = 0.72774668798937348 
-                    text = "" 
-                intervals [5]:
-                    xmin = 0.72774668798937348 
+                    xmin = 0.61392548413031311 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -515,10 +511,10 @@ item []:
                     text = "r-a" 
                 intervals [3]:
                     xmin = 0.52630122401659207 
-                    xmax = 0.63470237054903045 
+                    xmax = 0.65818928563105883 
                     text = "a-r" 
                 intervals [4]:
-                    xmin = 0.63470237054903045 
+                    xmin = 0.65818928563105883 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -603,10 +599,10 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.44680704989280384 
+                    xmax = 0.45132376433165544 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.44680704989280384 
+                    xmin = 0.45132376433165544 
                     xmax = 0.50913770914895595 
                     text = "p-a" 
                 intervals [3]:
@@ -625,14 +621,14 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.4820374225158463 
+                    xmax = 0.47390733652591344 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.4820374225158463 
-                    xmax = 0.54346473888422808 
+                    xmin = 0.47390733652591344 
+                    xmax = 0.54978813909862034 
                     text = "a" 
                 intervals [3]:
-                    xmin = 0.54346473888422808 
+                    xmin = 0.54978813909862034 
                     xmax = 0.89993749999999995 
                     text = "" 
     item [14]:
@@ -651,18 +647,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.46577725053598057 
+                    xmax = 0.4711973078626025 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.46577725053598057 
+                    xmin = 0.4711973078626025 
                     xmax = 0.52630122401659207 
                     text = "t-a" 
                 intervals [3]:
                     xmin = 0.52630122401659207 
-                    xmax = 0.66180265718214015 
+                    xmax = 0.66360934295768081 
                     text = "a-t" 
                 intervals [4]:
-                    xmin = 0.66180265718214015 
+                    xmin = 0.66360934295768081 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -673,10 +669,10 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.50100762315902303 
+                    xmax = 0.4820374225158463 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.50100762315902303 
+                    xmin = 0.4820374225158463 
                     xmax = 0.5786951115072706 
                     text = "a" 
                 intervals [3]:
@@ -699,18 +695,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.44680704989280384 
+                    xmax = 0.45132376433165544 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.44680704989280384 
+                    xmin = 0.45132376433165544 
                     xmax = 0.51726779513888888 
                     text = "k-a" 
                 intervals [3]:
                     xmin = 0.51726779513888888 
-                    xmax = 0.64102577076342271 
+                    xmax = 0.64554248520227431 
                     text = "a-k" 
                 intervals [4]:
-                    xmin = 0.64102577076342271 
+                    xmin = 0.64554248520227431 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -721,10 +717,10 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.48113407962807603 
+                    xmax = 0.47390733652591344 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.48113407962807603 
+                    xmin = 0.47390733652591344 
                     xmax = 0.56333828241517514 
                     text = "a" 
                 intervals [3]:
@@ -747,10 +743,10 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.44590370700503351 
+                    xmax = 0.44996874999999997 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.44590370700503351 
+                    xmin = 0.44996874999999997 
                     xmax = 0.50733102337341529 
                     text = "d-a" 
                 intervals [3]:
@@ -769,10 +765,10 @@ item []:
                 intervals: size = 3 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.4711973078626025 
+                    xmax = 0.4666805934237509 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.4711973078626025 
+                    xmin = 0.4666805934237509 
                     xmax = 0.551594824874161 
                     text = "a" 
                 intervals [3]:
@@ -795,10 +791,10 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.27426855832867258 
+                    xmax = 0.27968861565529451 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.27426855832867258 
+                    xmin = 0.27968861565529451 
                     xmax = 0.34743933223806855 
                     text = "g-a" 
                 intervals [3]:
@@ -873,5 +869,149 @@ item []:
                     text = "a" 
                 intervals [3]:
                     xmin = 0.64734917097781497 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+    item [19]:
+        class = "TextGrid" 
+        name = "ak_0041" 
+        xmin = 0 
+        xmax = 0.89993749999999995 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "diphone" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 4 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.4802307367403057 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.4802307367403057 
+                    xmax = 0.54256139599645781 
+                    text = "b-a" 
+                intervals [3]:
+                    xmin = 0.54256139599645781 
+                    xmax = 0.68077285782531682 
+                    text = "a-b" 
+                intervals [4]:
+                    xmin = 0.68077285782531682 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.49829759449571209 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.49829759449571209 
+                    xmax = 0.59043856904828484 
+                    text = "a" 
+                intervals [3]:
+                    xmin = 0.59043856904828484 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+    item [20]:
+        class = "TextGrid" 
+        name = "ak_0051" 
+        xmin = 0 
+        xmax = 0.89993749999999995 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "diphone" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 4 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.44936630639097747 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.44936630639097747 
+                    xmax = 0.52901125267990301 
+                    text = "n-a" 
+                intervals [3]:
+                    xmin = 0.52901125267990301 
+                    xmax = 0.63530429964539004 
+                    text = "a-n" 
+                intervals [4]:
+                    xmin = 0.63530429964539004 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.48113407962807603 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.48113407962807603 
+                    xmax = 0.57508173995618939 
+                    text = "a" 
+                intervals [3]:
+                    xmin = 0.57508173995618939 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+    item [21]:
+        class = "TextGrid" 
+        name = "ak_0052" 
+        xmin = 0 
+        xmax = 0.89993749999999995 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "diphone" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 4 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.54985574494949496 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.54985574494949496 
+                    xmax = 0.6238622558957867 
+                    text = "l-a" 
+                intervals [3]:
+                    xmin = 0.6238622558957867 
+                    xmax = 0.71700886824324328 
+                    text = "a-l" 
+                intervals [4]:
+                    xmin = 0.71700886824324328 
+                    xmax = 0.89993749999999995 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 0.89993749999999995 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.58230848305835192 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.58230848305835192 
+                    xmax = 0.67264277183538401 
+                    text = "a" 
+                intervals [3]:
+                    xmin = 0.67264277183538401 
                     xmax = 0.89993749999999995 
                     text = "" 
