@@ -1,6 +1,6 @@
-<chapter id="overview"><title>Overview of Lojban Grammar &mdash;
-<foreignphrase lang="art-lojban">naltcila velski be le lojbo gerna 
-sidbo</foreignphrase></title><titleabbrev id="overviewtitle">Overview of Lojban Grammar</titleabbrev>
+<chapter id="overview"><title>Overview of Lojban Grammar</title>
+<subtitle><foreignphrase lang="art-lojban">naltcila velski be le lojbo gerna 
+sidbo</foreignphrase></subtitle><titleabbrev id="overviewtitle">Overview of Lojban Grammar</titleabbrev>
 
 <para>This overview of Lojban will hopefully
 give you a good feel for the design and scope of the language. It serves as

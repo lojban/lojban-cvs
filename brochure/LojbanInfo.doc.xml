@@ -1,5 +1,5 @@
 <bookinfo>
-   <title>What Is Lojban? <foreignphrase lang="art-lojban">.i la lojban mo</foreignphrase></title>
+   <title>What Is Lojban?</title><subtitle><foreignphrase lang="art-lojban">.i la lojban mo</foreignphrase></subtitle>
    <authorgroup>
    <editor><firstname>Nick</firstname><surname>Nicholas</surname></editor>
    <editor><firstname>John</firstname><surname>Cowan</surname></editor>

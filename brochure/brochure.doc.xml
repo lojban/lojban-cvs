@@ -1,8 +1,9 @@
-<part id="sect1"><title>Introduction &mdash; <foreignphrase
-lang="art-lojban">lidne pagbu</foreignphrase></title><titleabbrev>Introduction</titleabbrev>
+<part id="sect1"><title>Introduction</title><subtitle><foreignphrase
+lang="art-lojban">lidne pagbu</foreignphrase></subtitle><titleabbrev>Introduction</titleabbrev>
 
-<chapter id="lojbanmo"><title>Questions and Answers on Lojban &mdash; <foreignphrase
-lang="art-lojban">preti ce'o danfu sera'a la lojban.</foreignphrase></title><titleabbrev>Questions and Answers</titleabbrev>
+<chapter id="lojbanmo"><title>Questions and Answers on Lojban</title>
+<subtitle><foreignphrase
+lang="art-lojban">preti ce'o danfu sera'a la lojban.</foreignphrase></subtitle><titleabbrev>Questions and Answers</titleabbrev>
 <qandaset>
 
 <qandaentry>
@@ -153,7 +154,7 @@ vowels and 17 consonants<indexterm id="idx14">
 </indexterm>; the Lojban character set uses only standard
 typewriter or computer keyboard keys; capitalization<indexterm id="idx15">
 <primary>capitalization</primary>
-</indexterm> is rarely used to
+</indexterm> is used rarely, and only to
 indicate unusual stress in the pronunciation of names. Punctuation<indexterm id="idx16">
 <primary>punctuation</primary>
 </indexterm> is
@@ -180,12 +181,14 @@ worthwhile.</para>
 <para>As an example of Lojban, Occam's Razor (<quote>The simplest
 explanation is usually the best</quote>) may be translated:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">roda poi velcki cu so'eroi ganai saprai gi xagrai</foreignphrase>
-/roh-dah poi VEHL-shkee shoo soh-heh-ROI GAH-nai SAHP-rai, ghee KHAH-grai/
+<informalexample><literallayout><foreignphrase lang="art-lojban">roda poi velcki cu so'eroi ke ganai saprai gi xagrai</foreignphrase>
+/roh-dah poi VEHL-shkee shoo soh-heh-ROI keh GAH-nai SAHP-rai, ghee KHAH-grai/
 <wordasword>All somethings which-are explanations mostly-are (if superlatively-simple then superlatively-good).</wordasword></literallayout></informalexample>
 The apostrophe is pronounced like a short, breathy <quote
 role="gloss">h</quote>, and is used to clearly separate the two adjacent
 vowels for a listener, without requiring a pause between them.</para>
+
+<para>(If you are reading this text in the <citetitle>What is Lojban?</citetitle> booklet, a full pronunciation key is available in the <link linkend="overview">Overview of Lojban Grammar.</link>)</para>
 </answer> </qandaentry>
 
 <qandaentry> <question> <para>What kind of grammar does Lojban have?</para>
@@ -270,7 +273,7 @@ the word <foreignphrase lang="art-lojban">dunda</foreignphrase> means
 <informalexample><literallayout>x<subscript>1</subscript> gives x<subscript>2</subscript> to x<subscript>3</subscript></literallayout></informalexample>
 
 
-<para>So <foreignphrase lang="art-lojban">mi pu dunda le cuska le
+<para>So <foreignphrase lang="art-lojban">mi pu dunda le cukta le
 ninmu</foreignphrase> means <quote>I gave the book to the woman</quote>,
 not <quote>I gave the woman to the book</quote>). </para>
 
@@ -301,7 +304,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primar
 <see><foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></see>
 </indexterm>
-(combinations of <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>)
+(combinations of <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> into single expressions giving novel meanings),
 involving words like <foreignphrase lang="art-lojban">gasnu</foreignphrase>
 (<quote role="gloss">do</quote>), <foreignphrase
 lang="art-lojban">zasti</foreignphrase> (<quote
@@ -315,7 +318,7 @@ abstractions<indexterm id="idx26">
 experience, and truth; or with four pre-defined varieties of causality<indexterm id="idx27">
 <primary>causality</primary>
 </indexterm>
-(others can be developed through metaphor).</para>
+(others can be developed through <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphor).</para>
 
 
 
@@ -365,8 +368,8 @@ analysis. For example, Lojban has a full set of emotional indicators<indexterm i
 ejaculations in English as <wordasword>Oh!</wordasword>,
 <wordasword>Aha!</wordasword>, and <wordasword>Wheee!</wordasword>, but
 each has a specific meaning. Similarly, Lojban has indicators of the
-speaker's relationship to what is said (is it hearsay, direct observation,
-logical deduction, etc.?) similar to those found in some American Indian
+speaker's relationship to what is said (whether it is hearsay, direct observation,
+logical deduction, etc.) similar to those found in some American Indian
 languages.</para>
 
 
@@ -472,7 +475,7 @@ the first three words could be the verb.</para>
 
 <para>Lojban is <emphasis>not</emphasis> entirely unambiguous, of course;
 human beings occasionally desire to be ambiguous in their expressions. In
-Lojban, this ambiguity is limited to semantics, metaphor, and intentional
+Lojban, this ambiguity is limited to semantics, <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphor, and intentional
 omission of information (ellipsis).</para>
 
 
@@ -489,12 +492,13 @@ corresponding words in other languages; the differences aid in making this
 fresh start possible.</para>
 
 
-<para>Lojban's powerful metaphor and word-building features make it easy to
+<para>Lojban's powerful <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphor and word-building features make it easy to
 make fine distinctions between concepts. This discourages the tendency for
-individual words to acquire families of meanings. Lojban metaphors (called
+individual words to acquire families of meanings. Lojban's
 <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase><indexterm id="idx38">
 <primary><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
-</indexterm>) are themselves
+</indexterm> metaphors (combinations of <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> into novel
+concepts) are themselves
 ambiguous; they specify a relationship between concepts, but not what the
 relationship is. That relationship can be made explicit using unambiguous
 logical constructs if necessary, or can be left as vague as the speaker
@@ -659,7 +663,7 @@ language or an <quote role="socalled">unambiguous</quote> one?</para>
 <para>Original poetry<indexterm id="idx55a">
 <primary>poetry</primary>
 </indexterm> has already been written in Lojban, and some has been
-translated into the language. Lojban's powerful metaphor structure<indexterm id="idx56">
+translated into the language. Lojban's powerful <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> metaphor structure<indexterm id="idx56">
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
 </indexterm> allows
@@ -715,7 +719,7 @@ the language in this version has followed a painstaking and extensive
 period of research and analysis, between 1988 and 1998. Thus, in an
 important sense, Lojban is a very new language. To ensure Lojban remains
 stable while people learn it, the language definition is being closely
-controlled; the grammar and vocabulary have already been baselined<indexterm id="idx58">
+controlled; the grammar and core vocabulary have already been baselined<indexterm id="idx58">
 <primary>baseline</primary>
 </indexterm> (frozen)
 for several years. When the number of speakers has grown significantly, and
@@ -828,7 +832,7 @@ gaining skill with greater experience.</para> </answer> </qandaentry>
 <qandaentry> <question> <para>How do I learn Lojban?</para> </question>
 <answer>
 
-<para>This booklet includes a description of the grammar of Lojban and some
+<para>This text appears in a booklet including a description of the grammar of Lojban and some
 introductory learning materials.  If you are reading this text in a
 separately printed brochure, you may write to the Logical Language
 Group<indexterm id="idx62">
@@ -839,7 +843,7 @@ contribution of $5 to cover its cost.</para>
 
 
 <para>If you are reading this brochure on-line, or have access to the
-Internet, the complete booklet is also available on the World Wide
+Internet, the complete <citetitle>What is Lojban?</citetitle> booklet is also available on the World Wide
 Web for free at the address:</para>
 
 <informalexample>
@@ -868,8 +872,8 @@ vocabulary in order to use that grammar.</para>
 Logical Language Group has computer-aided&ndash;teaching programs
 distributed under the name <citetitle>LogFlash</citetitle><indexterm id="idx63">
 <primary><citetitle>LogFlash</citetitle></primary>
-</indexterm>, with an MS-DOS/Windows
-version currently available. The software is based on flash-card teaching
+</indexterm>, with MS-DOS/Windows, Macintosh and Unix
+versions currently available. The software is based on flash-card teaching
 techniques, which are extremely efficient in helping you learn the
 vocabulary. Other computer software is available, including a parser and a
 glosser.</para>
@@ -1231,6 +1235,10 @@ url="mailto://lojban-beginners-subscribe@yahoogroups.com"><computeroutput>lojban
 
 </variablelist>
 
+<para>(The lists are mirrored outside yahoo.com, on the Lojban web server: 
+<ulink
+url="http://www.lojban.org/lsg2/">
+<computeroutput>http://www.lojban.org/lsg2/</computeroutput></ulink>)</para>
 
 <para>If you have received a registration form and an order form with this
 booklet, you can provide us with useful information to aid us in serving

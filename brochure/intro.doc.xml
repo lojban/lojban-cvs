@@ -1,5 +1,6 @@
-<preface id="pref"><title>Organization of this booklet &mdash; <foreignphrase
-lang="art-lojban">stura le dei cmacku</foreignphrase></title>
+<preface id="pref"><title>Organization of this booklet</title>
+<subtitle><foreignphrase
+lang="art-lojban">stura le dei cmacku</foreignphrase></subtitle>
 <titleabbrev>Organization of this booklet</titleabbrev>
 
 
@@ -53,7 +54,8 @@ John Cowan in 1991, in response to Arnold M. Zwicky's<indexterm id="idx408">
 <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html"><citetitle>jbofi'e</citetitle></ulink>
 by Richard Curnow.</para></listitem></itemizedlist>
 
-<para>Thanks to Pierre Abbat, Jay Kominek, Nora Tansky LeChevalier and Scott
+<para>Thanks to Pierre Abbat, Arnt Richard
+Johansen, Jay Kominek, Jorge Llamb&iacute;as, Adam Raizen, Nora Tansky LeChevalier and Scott
 Weller for their suggestions.</para>
 
 <note><para>This booklet is published by the 
@@ -76,7 +78,7 @@ pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei .e ledu'u ly. zasti
 mu'i ma kau kei .e ledu'u tu'a ly. cinri do ki'u ma kau .i le <link 
 linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o
 no'u lo naltcila velski be le gerna sidbo
-kujoi lo xracartu torvelski be le jubme gerna be'o .e lo prosa poi casnu le bauske
+kujoi lo xracartu torvelski be le jicmu gerna be'o .e lo prosa poi casnu le bauske
 cuntu noi srana la lojban. .i ka'e pilno le go'i .a le 
 cfari ve cilre be fi la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
 linkend="sect3">3 mu'anai moi pagbu</link> cu vasru so'u seltcidu pebau la 
@@ -115,17 +117,18 @@ po'u la'o gy. Language gy. be'o nede'i la 1969nan.</foreignphrase></para></listi
 po'u la <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html">jbofi'e</ulink>
 zi'e nefi'e la ritcrd.kernous.</foreignphrase></para></listitem></itemizedlist>
 
-<para><foreignphrase lang="art-lojban">.i mi ckire la pier.abat. .e la djez.KOminek. .e la noras.tanskis.lecevalier.
+<para><foreignphrase lang="art-lojban">.i mi ckire la pier.abat. .e la .arnt.rikard.iuxansen. goi la tsali ge'u .e la xorxes.jambi,as. .e la djez.KOminek. 
+.e la .adam.reizen. .e la noras.tanskis.lecevalier.
 .e la skat.uelyr. lenu vo'e cu stidi sidju</foreignphrase></para>
 
 <note><title><foreignphrase lang="art-lojban">ni'o
 ju'ido'u</foreignphrase></title><para><foreignphrase lang="art-lojban">le
-dei cmacku cu se gubgau la lojbangirz. noi ba'o ritli binxo lo nalprali ke
+dei cmacku cu se gubgau la lojbangirz. noi ba'o ritli binxo lo nalselprali ke
 saske ja ctuca ke dinterdu'a girzu poi le merko turni cu zanru lenu le
 cteki be le jdini poi se dunda fi le girzu cu jdika .i mi cpedu lenu le
-cpacu be lemi datni bei xebe'i le skami cu jungau ly. lenu se cinri kei
-semu'i lenu pelji ja skami mrilu .i mi ji'a cpedu lenu do dunda fi la
-lojbangirz. mu'i lenu jdikygau lemi ca'o se pleji befo lenu vrici sarji
+cpacu be lemi datni bei xebe'i le skami cu jungau ly. ledu'u se cinri kei
+semu'i lenu pelji ja skami mrilu .i ji'a mi cpedu lenu do dunda fi la
+lojbangirz. mu'i lenu fatnygau lemi ca'o se pleji befo lenu vrici sarji
 le lojbo cecmu .i ro jdini poi do dunda cu plixau .i le se pleji be le
 dunda cu merko rupnu li su'e 5 pemu'i tu'a le cfari cilre seltcidu ge'u bi'o lo
 zmadu pe lo ca'a cilre ja sarji be le bangu</foreignphrase></para></note>
