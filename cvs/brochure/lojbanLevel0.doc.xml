@@ -93,70 +93,138 @@
 <!ENTITY cyju "&#1102;">
 <!ENTITY cyja "&#1103;">
 <!ENTITY cyT "&#1058;">
-<!ENTITY ma3shang " &#x99ac;&#x4e0a;">
-<!ENTITY fei1 " &#x98db;">
-<!ENTITY bing1li4 " &#x5175;&#x529b;">
-<!ENTITY duo1 " &#x591a;">
-<!ENTITY wo3 " &#x6211;">
-<!ENTITY dao4lu " &#x9053;&#x8def;">
-<!ENTITY gong1fu1 " &#x529f;&#x592b;">
-<!ENTITY gu3wu3 " &#x53e4;&#x7269;">
-<!ENTITY shen5me5 " &#x751a;&#x9ebc;">
-<!ENTITY wo3lai2le5 " &#x6211;&#x4f86;&#x4e86;">
-<!ENTITY lai2 " &#x4f86;">
-<!ENTITY bai2cai4 " &#x767d;&#x83dc;">
-<!ENTITY lao3 " &#x8001;">
-<!ENTITY zao1gao1 " &#x7cdf;&#x7cd5;">
-<!ENTITY feizhou " &#x975e;&#x6d32;">
-<!ENTITY meiguo " &#x7f8e;&#x570b;">
-<!ENTITY beijing " &#x5317;&#x4eac;">
-<!ENTITY fa3cai4 " &#x767c;&#x8ca1;">
-<!ENTITY yazhou " &#x4e9e;&#x6d32;">
-<!ENTITY ya1zi " &#x9d28;&#x5b50;">
-<!ENTITY yang2ren2 " &#x6d0b;&#x4eba;">
-<!ENTITY lie4feng1 " &#x70c8;&#x98a8;">
-<!ENTITY mie4wang2 " &#x6ec5;&#x4ea1;">
-<!ENTITY yingguo " &#x82f1;&#x570b;">
-<!ENTITY yi1 " &#x4e00;">
-<!ENTITY yi4wen2 " &#x8b6f;&#x6587;">
-<!ENTITY peng2you3 " &#x670b;&#x53cb;">
-<!ENTITY niu2rou4 " &#x725b;&#x8089;">
-<!ENTITY yong4gong1 " &#x7528;&#x529f;">
-<!ENTITY ba1gua4 " &#x516b;&#x5366;">
-<!ENTITY wuye " &#x4e94;&#x8449;">
-<!ENTITY puyi " &#x6ea5;&#x5100;">
-<!ENTITY luoma " &#x7f85;&#x99ac;">
-<!ENTITY wu2bi3 " &#x7121;&#x6bd4;">
-<!ENTITY bu2bian4 " &#x4e0d;&#x4fbf;">
-<!ENTITY bing1bao2 " &#x51b0;&#x96f9;">
-<!ENTITY sha1wei3 " &#x644b;&#x5c3e;">
-<!ENTITY shan1shang " &#x5c71;&#x4e0a;">
-<!ENTITY datong " &#x5927;&#x540c;">
-<!ENTITY dong1fang1 " &#x6771;&#x65b9;">
-<!ENTITY da3dao3 " &#x6253;&#x5012;">
-<!ENTITY feng1shui3 " &#x98a8;&#x6c34;">
-<!ENTITY feilongwufeng " &#x98db;&#x9f8d;&#x821e;&#x9cf3;">
-<!ENTITY gao1liang2 " &#x9ad8;&#x6881;">
-<!ENTITY zao1gao1 " &#x7cdf;&#x7cd5;">
-<!ENTITY ke4ren2 " &#x5ba2;&#x4eba;">
-<!ENTITY kai1kou3 " &#x958b;&#x53e3;">
-<!ENTITY aolong2 " &#x5967;&#x9f8d;">
-<!ENTITY lun2liu2 " &#x8f2a;&#x6d41;">
-<!ENTITY ma2fan4 " &#x9ebb;&#x7169;">
-<!ENTITY ming2mei4 " &#x660e;&#x5a9a;">
-<!ENTITY nanning " &#x5357;&#x5be7;">
-<!ENTITY neng2li4 " &#x80fd;&#x529b;">
-<!ENTITY nong2ren2 " &#x8fb2;&#x4eba;">
-<!ENTITY pinyin " &#x62fc;&#x97f3;">
-<!ENTITY he2ping1 " &#x548c;&#x5e73;">
-<!ENTITY ren2 " &#x4eba;">
-<!ENTITY rang4 " &#x8b93;">
-<!ENTITY er2tong2 " &#x5152;&#x7ae5;">
-<!ENTITY san1jiao3 " &#x4e09;&#x89d2;">
-<!ENTITY sang3menr2 " &#x55d3;&#x60b6;&#x5152;">
-<!ENTITY tang " &#x5510;">
-<!ENTITY te4bie2 " &#x7279;&#x5225;">
-<!ENTITY henhao " &#x5f88;&#x597d;">
+
+<!ENTITY trd-ma3shang " &#x99ac;&#x4e0a;">
+<!ENTITY trd-fei1 " &#x98db;">
+<!ENTITY trd-bing1li4 " &#x5175;&#x529b;">
+<!ENTITY trd-duo1 " &#x591a;">
+<!ENTITY trd-wo3 " &#x6211;">
+<!ENTITY trd-dao4lu " &#x9053;&#x8def;">
+<!ENTITY trd-gong1fu1 " &#x529f;&#x592b;">
+<!ENTITY trd-gu3wu3 " &#x53e4;&#x7269;">
+<!ENTITY trd-shen5me5 " &#x751a;&#x9ebc;">
+<!ENTITY trd-wo3lai2le5 " &#x6211;&#x4f86;&#x4e86;">
+<!ENTITY trd-lai2 " &#x4f86;">
+<!ENTITY trd-bai2cai4 " &#x767d;&#x83dc;">
+<!ENTITY trd-lao3 " &#x8001;">
+<!ENTITY trd-zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY trd-feizhou " &#x975e;&#x6d32;">
+<!ENTITY trd-meiguo " &#x7f8e;&#x570b;">
+<!ENTITY trd-beijing " &#x5317;&#x4eac;">
+<!ENTITY trd-fa3cai4 " &#x767c;&#x8ca1;">
+<!ENTITY trd-yazhou " &#x4e9e;&#x6d32;">
+<!ENTITY trd-ya1zi " &#x9d28;&#x5b50;">
+<!ENTITY trd-yang2ren2 " &#x6d0b;&#x4eba;">
+<!ENTITY trd-lie4feng1 " &#x70c8;&#x98a8;">
+<!ENTITY trd-mie4wang2 " &#x6ec5;&#x4ea1;">
+<!ENTITY trd-yingguo " &#x82f1;&#x570b;">
+<!ENTITY trd-yi1 " &#x4e00;">
+<!ENTITY trd-yi4wen2 " &#x8b6f;&#x6587;">
+<!ENTITY trd-peng2you3 " &#x670b;&#x53cb;">
+<!ENTITY trd-niu2rou4 " &#x725b;&#x8089;">
+<!ENTITY trd-yong4gong1 " &#x7528;&#x529f;">
+<!ENTITY trd-ba1gua4 " &#x516b;&#x5366;">
+<!ENTITY trd-wuye " &#x4e94;&#x8449;">
+<!ENTITY trd-puyi " &#x6ea5;&#x5100;">
+<!ENTITY trd-luoma " &#x7f85;&#x99ac;">
+<!ENTITY trd-wu2bi3 " &#x7121;&#x6bd4;">
+<!ENTITY trd-bu2bian4 " &#x4e0d;&#x4fbf;">
+<!ENTITY trd-bing1bao2 " &#x51b0;&#x96f9;">
+<!ENTITY trd-sha1wei3 " &#x644b;&#x5c3e;">
+<!ENTITY trd-shan1shang " &#x5c71;&#x4e0a;">
+<!ENTITY trd-datong " &#x5927;&#x540c;">
+<!ENTITY trd-dong1fang1 " &#x6771;&#x65b9;">
+<!ENTITY trd-da3dao3 " &#x6253;&#x5012;">
+<!ENTITY trd-feng1shui3 " &#x98a8;&#x6c34;">
+<!ENTITY trd-feilongwufeng " &#x98db;&#x9f8d;&#x821e;&#x9cf3;">
+<!ENTITY trd-gao1liang2 " &#x9ad8;&#x6881;">
+<!ENTITY trd-zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY trd-ke4ren2 " &#x5ba2;&#x4eba;">
+<!ENTITY trd-kai1kou3 " &#x958b;&#x53e3;">
+<!ENTITY trd-aolong2 " &#x5967;&#x9f8d;">
+<!ENTITY trd-lun2liu2 " &#x8f2a;&#x6d41;">
+<!ENTITY trd-ma2fan4 " &#x9ebb;&#x7169;">
+<!ENTITY trd-ming2mei4 " &#x660e;&#x5a9a;">
+<!ENTITY trd-nanning " &#x5357;&#x5be7;">
+<!ENTITY trd-neng2li4 " &#x80fd;&#x529b;">
+<!ENTITY trd-nong2ren2 " &#x8fb2;&#x4eba;">
+<!ENTITY trd-pinyin " &#x62fc;&#x97f3;">
+<!ENTITY trd-he2ping1 " &#x548c;&#x5e73;">
+<!ENTITY trd-ren2 " &#x4eba;">
+<!ENTITY trd-rang4 " &#x8b93;">
+<!ENTITY trd-er2tong2 " &#x5152;&#x7ae5;">
+<!ENTITY trd-san1jiao3 " &#x4e09;&#x89d2;">
+<!ENTITY trd-sang3menr2 " &#x55d3;&#x60b6;&#x5152;">
+<!ENTITY trd-tang " &#x5510;">
+<!ENTITY trd-te4bie2 " &#x7279;&#x5225;">
+<!ENTITY trd-henhao " &#x5f88;&#x597d;">
+
+<!ENTITY smp-ma3shang " &#x9a6c;&#x4e0a;">
+<!ENTITY smp-fei1 " &#x98de;">
+<!ENTITY smp-bing1li4 " &#x5175;&#x529b;">
+<!ENTITY smp-duo1 " &#x591a;">
+<!ENTITY smp-wo3 " &#x6211;">
+<!ENTITY smp-dao4lu " &#x9053;&#x8def;">
+<!ENTITY smp-gong1fu1 " &#x529f;&#x592b;">
+<!ENTITY smp-gu3wu3 " &#x53e4;&#x7269;">
+<!ENTITY smp-shen5me5 " &#x4ec0;&#x4e48;">
+<!ENTITY smp-wo3lai2le5 " &#x6211;&#x6765;&#x4e86;">
+<!ENTITY smp-lai2 " &#x6765;">
+<!ENTITY smp-bai2cai4 " &#x767d;&#x83dc;">
+<!ENTITY smp-lao3 " &#x8001;">
+<!ENTITY smp-zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY smp-feizhou " &#x975e;&#x6d32;">
+<!ENTITY smp-meiguo " &#x7f8e;&#x56fd;">
+<!ENTITY smp-beijing " &#x5317;&#x4eac;">
+<!ENTITY smp-fa3cai4 " &#x53d1;&#x8d22;">
+<!ENTITY smp-yazhou " &#x4e9a;&#x6d32;">
+<!ENTITY smp-ya1zi " &#x9e2d;&#x5b50;">
+<!ENTITY smp-yang2ren2 " &#x6d0b;&#x4eba;">
+<!ENTITY smp-lie4feng1 " &#x70c8;&#x98ce;">
+<!ENTITY smp-mie4wang2 " &#x706d;&#x4ea1;">
+<!ENTITY smp-yingguo " &#x82f1;&#x56fd;">
+<!ENTITY smp-yi1 " &#x4e00;">
+<!ENTITY smp-yi4wen2 " &#x8bd1;&#x6587;">
+<!ENTITY smp-peng2you3 " &#x670b;&#x53cb;">
+<!ENTITY smp-niu2rou4 " &#x725b;&#x8089;">
+<!ENTITY smp-yong4gong1 " &#x7528;&#x529f;">
+<!ENTITY smp-ba1gua4 " &#x516b;&#x5366;">
+<!ENTITY smp-wuye " &#x4e94;&#x53f6;">
+<!ENTITY smp-puyi " &#x6ea5;&#x4eea;">
+<!ENTITY smp-luoma " &#x7f57;&#x9a6c;">
+<!ENTITY smp-wu2bi3 " &#x65e0;&#x6bd4;">
+<!ENTITY smp-bu2bian4 " &#x4e0d;&#x4fbf;">
+<!ENTITY smp-bing1bao2 " &#x51b0;&#x96f9;">
+<!ENTITY smp-sha1wei3 " &#x644b;&#x5c3e;">
+<!ENTITY smp-shan1shang " &#x5c71;&#x4e0a;">
+<!ENTITY smp-datong " &#x5927;&#x540c;">
+<!ENTITY smp-dong1fang1 " &#x4e1c;&#x65b9;">
+<!ENTITY smp-da3dao3 " &#x6253;&#x5012;">
+<!ENTITY smp-feng1shui3 " &#x98ce;&#x6c34;">
+<!ENTITY smp-feilongwufeng " &#x98de;&#x9f99;&#x821e;&#x51e4;">
+<!ENTITY smp-gao1liang2 " &#x9ad8;&#x6881;">
+<!ENTITY smp-zao1gao1 " &#x7cdf;&#x7cd5;">
+<!ENTITY smp-ke4ren2 " &#x5ba2;&#x4eba;">
+<!ENTITY smp-kai1kou3 " &#x5f00;&#x53e3;">
+<!ENTITY smp-aolong2 " &#x5965;&#x9f99;">
+<!ENTITY smp-lun2liu2 " &#x8f6e;&#x6d41;">
+<!ENTITY smp-ma2fan4 " &#x9ebb;&#x70e6;">
+<!ENTITY smp-ming2mei4 " &#x660e;&#x5a9a;">
+<!ENTITY smp-nanning " &#x5357;&#x5b81;">
+<!ENTITY smp-neng2li4 " &#x80fd;&#x529b;">
+<!ENTITY smp-nong2ren2 " &#x519c;&#x4eba;">
+<!ENTITY smp-pinyin " &#x62fc;&#x97f3;">
+<!ENTITY smp-he2ping1 " &#x548c;&#x5e73;">
+<!ENTITY smp-ren2 " &#x4eba;">
+<!ENTITY smp-rang4 " &#x8ba9;">
+<!ENTITY smp-er2tong2 " &#x513f;&#x7ae5;">
+<!ENTITY smp-san1jiao3 " &#x4e09;&#x89d2;">
+<!ENTITY smp-sang3menr2 " &#x55d3;&#x95f7;&#x513f;">
+<!ENTITY smp-tang " &#x5510;">
+<!ENTITY smp-te4bie2 " &#x7279;&#x522b;">
+<!ENTITY smp-henhao " &#x5f88;&#x597d;">
+<!ENTITY smp-zhspace "/">
+
 <!ENTITY devcandrabindu "&#x901;">
 <!ENTITY devanusvara "&#x902;">
 <!ENTITY devvisarga "&#x903;">
@@ -323,7 +391,10 @@
 <!ENTITY artrhamza "&#x2be;">
 <!ENTITY artrain "&#x2bf;">
 <!ENTITY arkh "&#x1e2b;">
-<!ENTITY level0addr "http://www.lojban.org/level0.html">
+<!ENTITY level0addr "http://www.lojban.org/publications/level0.html">
+<!ENTITY cost "$5">
+<!ENTITY cost-lojban "merko rupnu be li su'o 5">
+<!ENTITY copy  "&#169;">
 ]>
 <book>
 &bookinfo;

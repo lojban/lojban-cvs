@@ -852,7 +852,7 @@ Internet, the complete <citetitle>What is Lojban?</citetitle> booklet is also av
 Web for free at the address:</para>
 
 <informalexample>
-<literallayout><computeroutput>&level0addr;</computeroutput></literallayout></informalexample>
+<literallayout><ulink url="&level0addr;"><computeroutput>&level0addr;</computeroutput></ulink></literallayout></informalexample>
 
 <para>Once you have read this booklet, there are several
 directions you may proceed, depending on your goals for use of the language.</para>
@@ -1210,7 +1210,7 @@ Internet. <!--The mailing lists may be accessed at:
 <informalexample><para><ulink
 url="http://groups.yahoo.com"><computeroutput>http://groups.yahoo.com</computeroutput></ulink></para></informalexample>
 Search for the keyword <quote role="gloss">lojban</quote>; t-->The general
-Lojban list is called <computeroutput>lojban</computeroutput>; the
+Lojban list is <computeroutput>lojban</computeroutput>; the
 list for discussions in Lojban only is
 <computeroutput>jbosnu</computeroutput>; and the list specifically for beginners
 is <computeroutput>lojban-beginners</computeroutput>. They may be accessed as follows:</para>
