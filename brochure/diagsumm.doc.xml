@@ -1304,7 +1304,7 @@ lang="art-lojban">xu</foreignphrase><indexterm id="idx224">
 lang="art-lojban">xu</foreignphrase>)</secondary>
 </indexterm>, discussed above, is one such word
 &mdash; it turns the sentence from a statement to a question of truth. When
-more than one peson is talking, a new speaker will usually omit the
+more than one person is talking, a new speaker will usually omit the
 <foreignphrase lang="art-lojban">.i</foreignphrase> even though she/he may
 be continuing on the same topic. It is still OK for a new speaker to say
 the <foreignphrase lang="art-lojban">.i</foreignphrase> before continuing;
@@ -2433,7 +2433,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="selbri">djarspageti</emphasis></foreignphrase></entry>
+role="selbri">cidjrspageti</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">[vau]</foreignphrase></entry>
 
@@ -4061,7 +4061,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="sumti">le tavla [ku]</emphasis></foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">cu</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="selbri">ci moi</emphasis></foreignphrase></entry>
@@ -4094,7 +4094,7 @@ seen combined into one word) (<firstterm>cardinal numbers</firstterm><indexterm 
 <row>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le tavla [ku]</emphasis></foreignphrase></entry>
+role="sumti">le tavla ku</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
 
@@ -4129,7 +4129,7 @@ seen combined into one word) (<firstterm>portional numbers</firstterm><indexterm
 <row>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le blari'o [ku]</emphasis></foreignphrase></entry>
+role="sumti">le blari'o ku</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
 
@@ -4164,7 +4164,7 @@ seen combined into one word) (<firstterm>probability numbers</firstterm><indexte
 <row>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le blari'o [ku]</emphasis></foreignphrase></entry>
+role="sumti">le blari'o ku</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
 
@@ -10107,6 +10107,12 @@ x<subscript>2</subscript>, place structure x<subscript>3</subscript>,
 language x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">cidjrspageti</foreignphrase></term>
+
+<listitem><para>x<subscript>1</subscript> is a quantity of/contains 
+spaghetti, composition x<subscript>2</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">citka</foreignphrase></term>
 
 <listitem><para>x<subscript>1</subscript> eats/ingests/consumes (transitive verb) x<subscript>2</subscript></para></listitem></varlistentry>
@@ -10140,12 +10146,6 @@ lang="art-lojban">cukta</foreignphrase></term>
 x<subscript>4</subscript> preserved in medium x<subscript>5</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">djarspageti</foreignphrase></term>
-
-<listitem><para>x<subscript>1</subscript> is a quantity of/contains 
-spaghetti, composition x<subscript>2</subscript></para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
 lang="art-lojban">djica</foreignphrase></term>
 
 <listitem><para>x<subscript>1</subscript> desires/wants/wishes x<subscript>2</subscript> (event/state) for purpose x<subscript>3</subscript></para></listitem></varlistentry>
@@ -10160,8 +10160,8 @@ epistemology x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">fu'ivla</foreignphrase></term>
 
-<listitem><para>x<subscript>1</subscript> is a loanword copied from foreign word x<subscript>2</subscript> into language 
-x<subscript>3</subscript></para></listitem></varlistentry>
+<listitem><para>x<subscript>1</subscript> is a loanword meaning x<subscript>2</subscript> in language 
+x<subscript>3</subscript> copied from source word x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">gismu</foreignphrase></term>
@@ -10274,7 +10274,7 @@ lang="art-lojban">tavla</foreignphrase></term>
 lang="art-lojban">titnanba</foreignphrase></term>
 
 <listitem><para>x<subscript>1</subscript> is
-sweet-bread/cake</para></listitem></varlistentry>
+sweet-bread/cake made from grains/raw material x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">toldi</foreignphrase></term>

@@ -23,16 +23,86 @@
 <!ENTITY lingissues SYSTEM "lingissues.doc.xml">
 <!ENTITY xtomathy SYSTEM "xtomathy.doc.xml">
 <!ENTITY xtomathyinfo SYSTEM "xtomathyinfo.doc.xml">
+<!ENTITY phonapp SYSTEM "phonapp.doc.xml">
 <!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY bradi SYSTEM "bradi.doc.xml">
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
 <!ENTITY schwa "@">
+<!ENTITY backa "A">
+<!ENTITY esh "S">
+<!ENTITY ersh "s.">
+<!ENTITY ipaepsilon "E">
+<!ENTITY ipaphi "P">
+<!ENTITY ezh "Z">
+<!ENTITY erzh "z.">
+<!ENTITY syllabic "-">
+<!ENTITY openo "O">
+<!ENTITY trillr "r&lt;trl&gt;">
+<!ENTITY upsr "r">
+<!ENTITY tapr "*">
+<!ENTITY uvr "r&quot;">
+<!ENTITY ipabeta "B">
+<!ENTITY ipatheta "T">
+<!ENTITY glottal "?">
 <!ENTITY Ibarredipa "i&quot;">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 <!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)">
+<!ENTITY a1 "a1">
+<!ENTITY a2 "a2">
+<!ENTITY a3 "a3">
+<!ENTITY a4 "a4">
+<!ENTITY e1 "e1">
+<!ENTITY e2 "e2">
+<!ENTITY e3 "e3">
+<!ENTITY e4 "e4">
+<!ENTITY i1 "i1">
+<!ENTITY i2 "i2">
+<!ENTITY i3 "i3">
+<!ENTITY i4 "i4">
+<!ENTITY o1 "o1">
+<!ENTITY o2 "o2">
+<!ENTITY o3 "o3">
+<!ENTITY o4 "o4">
+<!ENTITY u1 "u1">
+<!ENTITY u2 "u2">
+<!ENTITY u3 "u3">
+<!ENTITY u4 "u4">
+<!ENTITY cya "a">
+<!ENTITY cyb "b">
+<!ENTITY cyv "v">
+<!ENTITY cyg "g">
+<!ENTITY cyd "d">
+<!ENTITY cyje "e">
+<!ENTITY cyzh "zh">
+<!ENTITY cyz "z">
+<!ENTITY cyi "i">
+<!ENTITY cyj "j">
+<!ENTITY cyk "k">
+<!ENTITY cyl "l">
+<!ENTITY cym "m">
+<!ENTITY cyn "n">
+<!ENTITY cyo "o">
+<!ENTITY cyp "p">
+<!ENTITY cyr "r">
+<!ENTITY cys "s">
+<!ENTITY cyt "t">
+<!ENTITY cyu "u">
+<!ENTITY cyf "f">
+<!ENTITY cyx "x">
+<!ENTITY cyc "ts">
+<!ENTITY cych "ch">
+<!ENTITY cysh "sh">
+<!ENTITY cyshch "shch">
+<!ENTITY cyhard "''">
+<!ENTITY cyy "y">
+<!ENTITY cysoft "'">
+<!ENTITY cye "e">
+<!ENTITY cyju "ju">
+<!ENTITY cyja "ja">
+<!ENTITY cyT "T">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>
@@ -41,6 +111,7 @@
 &brochure;
 &tech;
 &xtomathy;
+&phonapp;
 &index;
 </book>
 

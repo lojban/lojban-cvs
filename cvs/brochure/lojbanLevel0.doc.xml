@@ -12,12 +12,86 @@
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
+<!ENTITY phonapp SYSTEM "phonapp.doc.xml">
 <!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
 <!ENTITY schwa "&#601;">
 <!ENTITY Ibarredipa "&#616;">
+<!ENTITY backa "&#593;">
+<!ENTITY esh "&#643;">
+<!ENTITY ersh "&#642;">
+<!ENTITY ipaepsilon "&#603;">
+<!ENTITY ipaphi "&#632;">
+<!ENTITY ezh "&#658;">
+<!ENTITY erzh "&#656;">
+<!ENTITY syllabic "&#809;">
+<!ENTITY openo "&#596;">
+<!ENTITY trillr "r">
+<!ENTITY upsr "&#633;">
+<!ENTITY tapr "&#638;">
+<!ENTITY uvr "&#640;">
+<!ENTITY ipabeta "&#946;">
+<!ENTITY ipatheta "&#952;">
+<!ENTITY glottal "&#660;">
 <!ENTITY IPAASCIIdisclaimer "">
+<!ENTITY a1 "&#640;">
+<!ENTITY a2 "&#640;">
+<!ENTITY a3 "&#640;">
+<!ENTITY a4 "&#640;">
+<!ENTITY e1 "&#640;">
+<!ENTITY e2 "&#640;">
+<!ENTITY e3 "&#640;">
+<!ENTITY e4 "&#640;">
+<!ENTITY i1 "&#640;">
+<!ENTITY i2 "&#640;">
+<!ENTITY i3 "&#640;">
+<!ENTITY i4 "&#640;">
+<!ENTITY o1 "&#640;">
+<!ENTITY o2 "&#640;">
+<!ENTITY o3 "&#640;">
+<!ENTITY o4 "&#640;">
+<!ENTITY u1 "&#640;">
+<!ENTITY u2 "&#640;">
+<!ENTITY u3 "&#640;">
+<!ENTITY u4 "&#640;">
+<!ENTITY uuml1 "&#470;">
+<!ENTITY uuml2 "&#472;">
+<!ENTITY uuml3 "&#474;">
+<!ENTITY uuml4 "&#476;">
+<!ENTITY cya "&#1072;">
+<!ENTITY cyb "&#1073;">
+<!ENTITY cyv "&#1074;">
+<!ENTITY cyg "&#1075;">
+<!ENTITY cyd "&#1076;">
+<!ENTITY cyje "&#1077;">
+<!ENTITY cyzh "&#1078;">
+<!ENTITY cyz "&#1079;">
+<!ENTITY cyi "&#1080;">
+<!ENTITY cyj "&#1081;">
+<!ENTITY cyk "&#1082;">
+<!ENTITY cyl "&#1083;">
+<!ENTITY cym "&#1084;">
+<!ENTITY cyn "&#1085;">
+<!ENTITY cyo "&#1086;">
+<!ENTITY cyp "&#1087;">
+<!ENTITY cyr "&#1088;">
+<!ENTITY cys "&#1089;">
+<!ENTITY cyt "&#1090;">
+<!ENTITY cyu "&#1091;">
+<!ENTITY cyf "&#1092;">
+<!ENTITY cyx "&#1093;">
+<!ENTITY cyc "&#1094;">
+<!ENTITY cych "&#1095;">
+<!ENTITY cysh "&#1096;">
+<!ENTITY cyshch "&#1097;">
+<!ENTITY cyhard "&#1098;">
+<!ENTITY cyy "&#1099;">
+<!ENTITY cysoft "&#1100;">
+<!ENTITY cye "&#1101;">
+<!ENTITY cyju "&#1102;">
+<!ENTITY cyja "&#1103;">
+<!ENTITY cyT "&#1058;">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
 <book>
@@ -26,5 +100,6 @@
 &brochure;
 &tech;
 &xtomathy;
+&phonapp;
 &index;
 </book>

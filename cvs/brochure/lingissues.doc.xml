@@ -428,7 +428,7 @@ the entire semantic space of human discourse. Furthermore, while some
 <foreignphrase lang= "art-lojban"><emphasis
 role="term">gismu</emphasis></foreignphrase> were chosen because they seem to
 be semantic primitives, many others (e.g. <foreignphrase lang= "art-lojban">nanmu</foreignphrase>,
-meaning <quote role="gloss">adult human male</quote>) are plainly not.</para>
+meaning <quote role="gloss">human male</quote>) are plainly not.</para>
 
 <para>Rather, the 1350-odd root words blanket semantic space, in the sense
 that everything human beings talk about can be built up using appropriate
@@ -862,7 +862,7 @@ effect, or both be asserted. Instead, the correct translation of the
 English involves <quote role="gloss">cause</quote> as a predicate, and might be paraphrased <quote>The
 event of your watering it is a cause of the event of its future 
 growing. (<foreignphrase
-lang="art-lojban">lenu do jacysabji da cu nibli lenu da ba banro</foreignphrase>)</quote><indexterm id="idx440" startref="idx439" class="endofrange"/>
+lang="art-lojban">roda zo'u lenu do jacysabji da cu rinka lenu da ba banro</foreignphrase>)</quote><indexterm id="idx440" startref="idx439" class="endofrange"/>
 </para>
 </answer>
 </qandaentry>
@@ -1104,7 +1104,7 @@ careful morphological tests and cannot easily be devised during conversation.<in
 <question>
 <para>The Lojban phonological system is hard to use for English-speakers (to say
 nothing of Japanese-speakers), due to the large numbers of
-consonant clusters and non-English diphthongs. How can a language be
+consonant clusters. How can a language be
 appropriate as an international auxiliary language when it is difficult
 to pronounce?
 </para>
@@ -1132,7 +1132,7 @@ selected clusters are permitted initially; some of these, such as
 lang="art-lojban">mr</foreignphrase>, do not appear in English, but are
 still possible to English-speakers with a bit of practice. Medial
 consonant clusters are also restricted, to prevent mixed voiced&ndash;unvoiced
-clusters, consecutive stops, and other hard-to-handle combinations. The
+clusters, and other hard-to-handle combinations. The
 Lojban sound /y/, IPA [<emphasis role="ipa">&schwa;</emphasis>], is used to separate <quote
 role="socalled">bad</quote> medial clusters wherever the morphology rules
 would otherwise produce them.&IPAASCIIdisclaimer;</para>
@@ -1658,7 +1658,7 @@ Many small fires were-then burning within the house.</literallayout>
 </informalexample>But here is the sentence as a single word (though not with the same
 structure as Nootka):
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">zdane'ikemcmafagyso'ikemprununje'a</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">zdane'ikemcmafagyso'ikemprununjelca</foreignphrase>
 house-inside-type-of-small-fire-many-type-of-previous-burning</literallayout>
 
 </informalexample>In fact, according to Miller the Nootka breaks down as:

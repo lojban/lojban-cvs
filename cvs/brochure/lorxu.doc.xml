@@ -1,6 +1,6 @@
 <chapter id="lorxu">
 
-<title><foreignphrase lang="art-lojban">lorxu</foreignphrase></title>
+<title><foreignphrase lang="art-lojban">me le cipnrkorvo .e le lorxu</foreignphrase></title>
 
 <para>Nick Nicholas (Australia); translated from Aesop from the Greek (Fable 126).
 First published in <citetitle><foreignphrase lang="art-lojban">ju'i
@@ -27,8 +27,8 @@ lobypli</foreignphrase></citetitle> 16, May 1992.</para>
 seeing him, and wishing to obtain the meat, stood and praised him as well-proportioned
 and beautiful &mdash; also saying that he should indeed be king of
 the birds, and that this would have happened, if he had a [good] voice. And wishing
-to show him that he also had a voice, he threw off the meat and shouted loudly.
-And having run to him and snatched the meat, he said: <quote>O Crow, if you
+to show her that he too had a voice, he threw off the meat and shouted loudly.
+And having run to him and snatched the meat, she said: <quote>O Crow, if you
 had brains too, nothing would be lacking for you to be king of 
 everything.</quote></para>
 <para>The word is opportune for a foolish man.</para>
@@ -120,7 +120,7 @@ lang="art-lojban">{<subscript>3</subscript>cipnkorvo}<subscript>3</subscript></f
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="zutse1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="zutse1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (sit-ter(s))</emphasis></entry>
 
@@ -164,7 +164,7 @@ lang="art-lojban">rectu)<subscript>7</subscript>]<subscript>5</subscript>&gt;<su
 
 <row>
 <entry>&nbsp;</entry>
-<entry spanname="kavbu2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="kavbu2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">kavbu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
 
@@ -204,7 +204,7 @@ lang="art-lojban">tricu)<subscript>9</subscript>]<subscript>1</subscript></forei
 
 <row rowsep="1">
 <entry>&nbsp;</entry>
-<entry spanname="zutse2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="zutse2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (sitting surface(s))</emphasis></entry>
 
@@ -249,7 +249,7 @@ lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>viska&
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="sanli1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="sanli1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (stand-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">skicu</emphasis></foreignphrase><emphasis
@@ -286,7 +286,7 @@ lang="art-lojban">&laquo;<subscript>8</subscript>djica&raquo;<subscript>8</subsc
 </row>
 
 <row>
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">viska</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (seen thing(s))</emphasis></entry>
 <entry>&nbsp;</entry>
@@ -321,7 +321,7 @@ lang="art-lojban">[<subscript>11</subscript>&laquo;<subscript>12</subscript>cpac
 </row>
 
 <row>
-<entry spanname="djica2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="djica2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">djica</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (desired thing(s))</emphasis></entry>
 
@@ -360,7 +360,7 @@ lang="art-lojban">&laquo;<subscript>14</subscript>sanli&raquo;<subscript>14</sub
 </row>
 
 <row>
-<entry spanname="cpacu2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="cpacu2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">cpacu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (acquired thing(s))</emphasis></entry>
 
@@ -421,11 +421,11 @@ lang="art-lojban">(<subscript>18</subscript>ri)<subscript>18</subscript></foreig
 </row>
 
 <row>
-<entry spanname="skicu2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="skicu2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">skicu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (described thing(s))</emphasis></entry>
 
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">skicu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>3</subscript> (audience(s) for describing)</emphasis></entry>
 
@@ -464,7 +464,7 @@ lang="art-lojban">melbi}<subscript>20</subscript>)<subscript>19</subscript></for
 </row>
 
 <row>
-<entry spanname="skicu4"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="skicu4" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">skicu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>4</subscript> (description(s))</emphasis></entry>
 
@@ -511,7 +511,7 @@ lang="art-lojban">&lt;<subscript>23</subscript>du'u</foreignphrase></entry>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="bacru2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="bacru2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bacru</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry>
 
@@ -549,7 +549,7 @@ lang="art-lojban">&laquo;<subscript>27</subscript>nu'o</foreignphrase></entry>
 
 <row>
 <entry>&nbsp;</entry>
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">turni</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
 
@@ -588,7 +588,7 @@ lang="art-lojban">cipni)<subscript>28</subscript>]<subscript>25</subscript></for
 </row>
 
 <row>
-<entry spanname="turni2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="turni2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">turni</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (governed thing(s))</emphasis></entry>
 
@@ -623,7 +623,7 @@ lang="art-lojban">da'i</foreignphrase></entry>
 
 <row>
 <entry>&nbsp;</entry>
-<entry spanname="nibli1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="nibli1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">nibli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (logically necessitating thing(s))</emphasis></entry>
 
@@ -657,7 +657,7 @@ lang="art-lojban">cu</foreignphrase></entry>
 
 <row>
 <entry>&nbsp;</entry>
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">voksa</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (thing(s) having voice)</emphasis></entry>
 
@@ -693,7 +693,7 @@ lang="art-lojban">xamgu)<subscript>35</subscript>]<subscript>32</subscript>&gt;<
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="voksa1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="voksa1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">voksa</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (voice sound(s))</emphasis></entry>
 
@@ -723,9 +723,9 @@ lang="art-lojban">&laquo;<subscript>36</subscript>nibli&raquo;<subscript>36</sub
 </tgroup>
 
 <tgroup cols="3">
-<colspec colnum="3" colname="c68" colwidth="1*"/>
-<colspec colnum="4" colname="c69" colwidth="2*"/>
-<colspec colnum="1" colname="c70" colwidth="1*"/>
+<colspec colnum="1" colname="c68" colwidth="1*"/>
+<colspec colnum="2" colname="c69" colwidth="2*"/>
+<colspec colnum="3" colname="c70" colwidth="1*"/>
 <spanspec spanname="nibli2" namest="c68" nameend="c70"/>
 <tbody>
 <row>
@@ -748,7 +748,7 @@ lang="art-lojban">[<subscript>39</subscript>&laquo;<subscript>40</subscript>pu'i
 </row>
 
 <row>
-<entry spanname="nibli2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="nibli2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">nibli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (logically necessitated thing(s))</emphasis></entry>
 
@@ -805,7 +805,7 @@ lang="art-lojban">{<subscript>3</subscript>cipnrkorvo}<subscript>3</subscript></
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="renro1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="renro1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">renro</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (throw-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">krixa</emphasis></foreignphrase><emphasis
@@ -847,7 +847,7 @@ lang="art-lojban">[<subscript>9</subscript>&laquo;<subscript>10</subscript>jarco
 
 <row>
 <entry>&nbsp;</entry>
-<entry spanname="djica2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="djica2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">djica</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (desired thing(s))</emphasis></entry>
 
@@ -897,11 +897,11 @@ lang="art-lojban">&lt;<subscript>13</subscript>ka</foreignphrase></entry>
 </row>
 
 <row>
-<entry spanname="jarco3"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="jarco3" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">jarco</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>3</subscript> (audience of display)</emphasis></entry>
 
-<entry spanname="jarco2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="jarco2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">jarco</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (shown property(ies))</emphasis></entry>
 
@@ -953,7 +953,7 @@ lang="art-lojban">xamgu)<subscript>16</subscript>]<subscript>14</subscript>&gt;<
 </row>
 
 <row>
-<entry spanname="xamgu1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="xamgu1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">xamgu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (voice sound(s))</emphasis></entry>
 
@@ -1061,7 +1061,7 @@ lang="art-lojban">cu</foreignphrase></entry>
 
 <row>
 <entry>&nbsp;</entry>
-<entry spanname="bajra1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="bajra1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bajra</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (run-ner(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bacru</emphasis></foreignphrase><emphasis
@@ -1142,7 +1142,7 @@ lang="art-lojban">kei&gt;<subscript>6</subscript>)<subscript>5</subscript></fore
 </row>
 
 <row>
-<entry spanname="kavbu2a"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="kavbu2a" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">kavbu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
 
@@ -1176,7 +1176,7 @@ lang="art-lojban">cipnrkorvo}<subscript>12</subscript>)<subscript>11</subscript>
 </row>
 
 <row>
-<entry spanname="bacru2a"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="bacru2a" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bacru</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry>
 
@@ -1215,7 +1215,7 @@ role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry
 </row>
 
 <row>
-<entry spanname="fanta1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="fanta1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">fanta</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (prevent-er(s))</emphasis></entry>
 
@@ -1246,7 +1246,7 @@ role="placestruct"><subscript>2</subscript> (prevent-er(s))</emphasis></entry>
 
 <row>
 <entry>&nbsp;</entry>
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">menli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (of body)</emphasis></entry>
 
@@ -1277,7 +1277,7 @@ role="placestruct"><subscript>2</subscript> (of body)</emphasis></entry>
 </row>
 
 <row>
-<entry spanname="menli1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="menli1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">menli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (mind(s))</emphasis></entry>
 
@@ -1314,7 +1314,7 @@ role="placestruct"><subscript>1</subscript> (mind(s))</emphasis></entry>
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="fanta2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="fanta2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">fanta</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (prevented event(s))</emphasis></entry>
 
@@ -1344,7 +1344,7 @@ role="placestruct"><subscript>2</subscript> (prevented event(s))</emphasis></ent
 </row>
 
 <row>
-<entry><foreignphrase lang="art-lojban"><emphasis
+<entry role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">turni</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
 
@@ -1375,7 +1375,7 @@ role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
 </row>
 
 <row rowsep="1">
-<entry spanname="turni2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="turni2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">turni</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (governed thing(s))</emphasis></entry>
 
@@ -1413,7 +1413,7 @@ lang="art-lojban">&lt;<subscript>4</subscript>noi</foreignphrase></entry>
 </row>
 
 <row>
-<entry spanname="xamgu2"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="xamgu2" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">xamgu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (goodness beneficiary(ies))</emphasis></entry>
 
@@ -1454,7 +1454,7 @@ lang="art-lojban">se cusku)<subscript>2</subscript></foreignphrase></entry>
 <row>
 <entry>&nbsp;</entry>
 <entry>&nbsp;</entry>
-<entry spanname="xamgu1"><foreignphrase lang="art-lojban"><emphasis
+<entry spanname="xamgu1" role="placedef"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">xamgu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (good thing(s))</emphasis></entry>
 

@@ -217,8 +217,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></primar
 <see><foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></see>
 </indexterm>. An argument can be a thing,
-event, quality or just about anything (quite how you can have a
-relationship of one argument is one of the mysteries of predicate logic!).
+event, quality or just about anything.
 To give an example, the English sentence
 
 <informalexample><literallayout>Chris adores Pat </literallayout>
@@ -365,7 +364,7 @@ structure, allowing communications that are not amenable to logical
 analysis. For example, Lojban has a full set of emotional indicators<indexterm id="idx31a">
 <primary>attitudinals</primary>
 </indexterm>, which are similar to such
-ejaculations in English as <wordasword>Oh!</wordasword>,
+interjections in English as <wordasword>Oh!</wordasword>,
 <wordasword>Aha!</wordasword>, and <wordasword>Wheee!</wordasword>, but
 each has a specific meaning. Similarly, Lojban has indicators of the
 speaker's relationship to what is said (whether it is hearsay, direct observation,
@@ -417,7 +416,7 @@ time to carefully formulate exact logical phrasings.</para>
 
 <para>Lojban's pronunciation, spelling, word formation, and grammar rules
 are fixed, and the language is free of exceptions to these rules. Such
-exceptions are the bane of learning to speak natural language <emphasis>correctly</emphasis>.
+exceptions are the bane of learning to speak a natural language <emphasis>correctly</emphasis>.
 Without the burden of ambiguity, Lojban users
 can be precise and specific more easily than in other languages.</para>
 
@@ -501,8 +500,8 @@ individual words to acquire families of meanings. Lojban's
 concepts) are themselves
 ambiguous; they specify a relationship between concepts, but not what the
 relationship is. That relationship can be made explicit using unambiguous
-logical constructs if necessary, or can be left as vague as the speaker
-desires (as is usually the case). Similarly, portions of the logical structure of a Lojban
+logical constructs if necessary, or can be left vague, as the speaker
+typically desires. Similarly, portions of the logical structure of a Lojban
 expression can be omitted, greatly simplifying the expression while causing
 some ambiguity. Unlike in the natural languages, though, this ambiguity is
 readily identified by a reader or listener. Thus all ambiguity in Lojban is
@@ -598,7 +597,7 @@ international language movement.</para>
 <para>Since Lojban is also not in direct competition with Esperanto,
 it has proven attractive to Esperantists
 interested in acquiring a new perspective on their own international
-language, and feel less threatened because Lojban has different goals.
+language, and who feel less threatened because Lojban has different goals.
 
 Lojban's supporters recognize that it will take decades for Lojban to
 acquire both the number and variety of speakers and the extensive history
@@ -679,8 +678,8 @@ philosophy, physics, metaphysics, and religion.</para>
 
 <para>Lojban poets are already experimenting with new (and old) forms of
 poetry that seem especially well suited to the rhythm, sound, and flow of
-the language. Not since the Middle Ages have poets had such an opportunity
-to affect the development of a new language, as they now can with Lojban.
+the language. Rarely do poets have such an opportunity
+to affect the development of a new language as they now can with Lojban.
 Lojban's rich and powerful <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> have been used to create colorful
 images and to convey moving emotions. <!--Unhindered by grammatical ambiguity
@@ -797,7 +796,7 @@ across cultural boundaries.</para>
 <para>Regardless of your background, you will find learning Lojban to be a
 mind-expanding experience. Learning any language other than your native
 tongue broadens your perspectives and allows you to transcend the necessarily limited
-viewpoints of your native language culture. Lojban, being simpler to
+viewpoints of your native language's culture. Lojban, being simpler to
 learn than natural languages, provides this benefit much more quickly than
 does the study of other languages. And being quite different from natural languages,
 Lojban provides this benefit more directly.</para>
@@ -857,9 +856,9 @@ directions you may proceed, depending on your goals for use of the language.</pa
 own before working with others. We recommend, where possible, that you
 identify at least one other person to study and interact with, either in
 person or by mail. The Logical Language Group maintains lists of Lojban
-students of various degrees of skill and activity levels. There are also
+students of various degrees of skill and activity levels. There is also
 both a general and an in-Lojban discussion group available on the Internet.
-Information will be found below.</para>
+Information will be found at the end of this document.</para>
 
 
 <para>Almost any use you wish to make of Lojban requires some degree of
@@ -892,9 +891,7 @@ formats, <citetitle>YACC</citetitle> and simplified <citetitle>E-BNF</citetitle>
 linkend="sect2" endterm="sect2title"/> in the <citetitle>What is
 Lojban?</citetitle> booklet. There is also a set of introductory
 lessons available; these cover the basics of the language, but at a more
-leisurely pace. For more advanced study, you may wish to use the draft
-lessons written in the late 1980s (22 lessons); these draft lessons will
-eventually form the basis of a Lojban textbook. A complete grammatical
+leisurely pace. For more advanced study, you may wish to use <citetitle>Lojban for Beginners</citetitle>, an introductory set of lessons by Robin Turner and Nick Nicholas. A complete grammatical
 description of Lojban, <citetitle>The Complete Lojban Language</citetitle><indexterm id="idx66">
 <primary><citetitle>The Complete Lojban Language</citetitle></primary>
 </indexterm>
@@ -924,12 +921,12 @@ role="socalled">hobbyist</quote> aspect of the language will provide
 interesting and stimulating entertainment for all concerned.</para>
 </answer> </qandaentry>
 
-<qandaentry id="llg"> <question><para>What is The Logical Language Group?</para>
+<qandaentry> <question><para><indexterm id="llg" class="startofrange" significance="preferred">
+<primary>Logical Language Group</primary>
+</indexterm>What is The Logical Language Group?</para>
 </question> <answer>
 
-<para><indexterm id="idx67" class="startofrange" significance="preferred">
-<primary>Logical Language Group</primary>
-</indexterm>The Logical Language Group, Inc. is a non-profit organization, the
+<para>The Logical Language Group, Inc. is a non-profit organization, the
 embodiment of the Loglan/Lojban community. We were founded to complete the
 language development process, to develop and publish teaching materials, to
 organize and teach the community, to promote applications of Lojban, and to
@@ -994,7 +991,7 @@ language goals are dependent on building an international community of
 speakers, and because we recognize the difficulties caused by the
 international currency market and the relative wealth of nations. We can
 accept bank cheques in most currencies and international payment via Master
-Card and Visa. We also encourage people to form groups so that they can receive a single copy
+Card, Visa, and PayPal. We also encourage people to form groups so that they can receive a single copy
 of our materials, copying or passing them to others to keep the per-person
 costs low. We expect a lower standard of contact and contribution
 from overseas Lojbanists when deciding on whether to continue sending our
@@ -1079,7 +1076,7 @@ without any expense, but we welcome contributions and donations to offset
 our costs.</para>-->
 
 
-<para>If you are attempting to learn the language, we provide as much help
+<para>If you are attempting to learn the language, we will provide as much help
 as we can to assist you. We will put you in touch with
 Lojbanists who might be interested in studying or communicating with you in
 the language. You can also send your writings to us for review, or for
@@ -1088,7 +1085,7 @@ interaction among those who are learning, or who have already learned the
 language. We aid such people in organizing, leading, and teaching formal
 classes and study groups, and will sponsor affiliated groups in local areas
 where non-profit sponsorship can be of benefit. We conduct an
-annual (northern summer) celebration of the language and community, called
+annual celebration of the language and community (July or August), called
 <quote role="socalled">Logfest</quote><indexterm id="idx70">
 <primary>Logfest</primary>
 </indexterm>, in conjunction with our annual
@@ -1099,8 +1096,8 @@ local meetings and gatherings as the community grows.</para>
 <para>Of course, we also try to publicize the language. Our representatives
 can attend meetings to give presentations on the language. We distribute 
 informational material, including these
-brochures. Through our efforts, and with your help, the community of
-Lojbanists is rapidly growing.<indexterm id="idx68" class="endofrange" startref="idx67" significance="preferred"/>
+booklets. Through our efforts, and with your help, the community of
+Lojbanists is rapidly growing.<indexterm id="idx68" class="endofrange" startref="llg" significance="preferred"/>
 </para> </answer> </qandaentry>
 
 <qandaentry> <question> <para>What can I do now?</para> </question>
@@ -1168,7 +1165,7 @@ than do so later when such issues are raised by outsiders.</para>
 
 
 <para>Of course, the most important thing you can do is:</para>
-<important><title>Use Lojban</title>
+<important><title>Use Lojban!</title>
 
 
 <para>Lojban will not really achieve the status of <quote
@@ -1217,21 +1214,21 @@ url="http://groups.yahoo.com/group/lojban"><computeroutput>http://groups.yahoo.c
 <ulink
 url="http://groups.yahoo.com/group/jbosnu"><computeroutput>http://groups.yahoo.com/group/jbosnu</computeroutput></ulink>,
 <ulink
-url="http://groups.yahoo.com/group/lojban-beginners"><computeroutput>http://groups.yahoo.com/group/lojban-beginners</computeroutput></ulink></para></listitem></varlistentry>
+url="http://www.lojban.org/lsg2/"><computeroutput>http://www.lojban.org/lsg2/</computeroutput> (lojban-beginners)</ulink></para></listitem></varlistentry>
 
 <varlistentry><term>Email</term><listitem><para><ulink
 url="mailto://lojban@yahoogroups.com"><computeroutput>lojban@yahoogroups.com</computeroutput></ulink>,
 <ulink
 url="mailto://jbosnu@yahoogroups.com"><computeroutput>jbosnu@yahoogroups.com</computeroutput></ulink>,
 <ulink
-url="mailto://lojban-beginners@yahoogroups.com"><computeroutput>lojban-beginners@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+url="mailto://﻿lojban-beginners@chain.digitalkingdom.org"><computeroutput>lojban-beginners@chain.digitalkingdom.org</computeroutput></ulink></para></listitem></varlistentry>
 
 <varlistentry><term>Subscribe</term><listitem><para><ulink
 url="mailto://lojban-subscribe@yahoogroups.com"><computeroutput>lojban-subscribe@yahoogroups.com</computeroutput></ulink>,
 <ulink
 url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe@yahoogroups.com</computeroutput></ulink>,
 <ulink
-url="mailto://lojban-beginners-subscribe@yahoogroups.com"><computeroutput>lojban-beginners-subscribe@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+url="mailto://http://www.lojban.org/lsg2/"><computeroutput>http://www.lojban.org/lsg2/</computeroutput></ulink></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -1245,7 +1242,7 @@ booklet, you can provide us with useful information to aid us in serving
 you, and can order some of our materials. Write or call: 
 
 <blockquote>
-<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
+<address>
 <affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
 <street>2904 Beau Lane</street>
 <city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
@@ -1256,7 +1253,7 @@ E-mail can be sent to us at: <ulink
 url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink>
 </para>
 
-<blockquote><para><literallayout><foreignphrase lang="art-lojban">e'osai ko sarji la lojban.</foreignphrase>
+<blockquote><para><literallayout><foreignphrase lang="art-lojban">.e'osai ko sarji la lojban.</foreignphrase>
 <wordasword>/eh-ho-sai, ko-SAHR-zhee, lah LOZH-bahn./</wordasword>
 Please support Lojban! </literallayout></para></blockquote>
 

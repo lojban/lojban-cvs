@@ -1,19 +1,4 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
-<!ENTITY mdash "--">
-<!ENTITY ndash "-">
-<!ENTITY minus "-">
-<!ENTITY times "x">
-<!ENTITY rArr "=&gt;">
-<!ENTITY lArr "&lt;=">
-<!ENTITY rarr "-&gt;">
-<!ENTITY larr "&lt;-">
-<!ENTITY laquo "&lt;&lt;">
-<!ENTITY raquo "&gt;&gt;">
-<!ENTITY ldquo "&quot;">
-<!ENTITY rdquo "&quot;">
-<!ENTITY nbsp " ">
-<!ENTITY iquest "?">
-<!ENTITY int "the integral of">
 <!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
 <!ENTITY brochure SYSTEM "brochure.doc.xml">
 <!ENTITY intro SYSTEM "intro.doc.xml">
@@ -23,33 +8,34 @@
 <!ENTITY lingissues SYSTEM "lingissues.doc.xml">
 <!ENTITY xtomathy SYSTEM "xtomathy.doc.xml">
 <!ENTITY xtomathyinfo SYSTEM "xtomathyinfo.doc.xml">
-<!ENTITY phonapp SYSTEM "phonapp.doc.xml">
-<!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY bradi SYSTEM "bradi.doc.xml">
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY lorxu SYSTEM "lorxu.doc.xml">
 <!ENTITY attit SYSTEM "attit.doc.xml">
-<!ENTITY schwa "@">
-<!ENTITY backa "A">
-<!ENTITY esh "S">
-<!ENTITY ersh "s.">
-<!ENTITY ipaepsilon "E">
-<!ENTITY ipaphi "P">
-<!ENTITY ezh "Z">
-<!ENTITY erzh "z.">
-<!ENTITY syllabic "-">
-<!ENTITY openo "O">
-<!ENTITY trillr "r&lt;trl&gt;">
-<!ENTITY upsr "r">
-<!ENTITY tapr "*">
-<!ENTITY uvr "r&quot;">
-<!ENTITY ipabeta "B">
-<!ENTITY ipatheta "T">
-<!ENTITY glottal "?">
-<!ENTITY Ibarredipa "i&quot;">
+<!ENTITY phonapp SYSTEM "phonapp.doc.xml">
+<!ENTITY index SYSTEM "lojbanLevel0.index.doc.xml">
 <!ENTITY sumtiemph "be underlined">
 <!ENTITY selbriemph "be italicized">
-<!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)">
+<!ENTITY schwa "&#180;">
+<!ENTITY Ibarredipa "&ouml;">
+<!ENTITY backa "A">
+<!ENTITY esh "S">
+<!ENTITY ersh "&#223;">
+<!ENTITY ipaepsilon "E">
+<!ENTITY ipaphi "[[phi]]">
+<!ENTITY ezh "Z">
+<!ENTITY erzh "[[erzh]]">
+<!ENTITY syllabic "`">
+<!ENTITY openo "&#231;">
+<!ENTITY trillr "r">
+<!ENTITY upsr "&#174;">
+<!ENTITY tapr "R">
+<!ENTITY uvr "&#123;">
+<!ENTITY eng "N">
+<!ENTITY ipabeta "B">
+<!ENTITY ipatheta "T">
+<!ENTITY glottal "/">
+<!ENTITY IPAASCIIdisclaimer "">
 <!ENTITY a1 "a1">
 <!ENTITY a2 "a2">
 <!ENTITY a3 "a3">
@@ -70,13 +56,17 @@
 <!ENTITY u2 "u2">
 <!ENTITY u3 "u3">
 <!ENTITY u4 "u4">
+<!ENTITY uuml1 "u1">
+<!ENTITY uuml2 "u2">
+<!ENTITY uuml3 "u3">
+<!ENTITY uuml4 "u4">
 <!ENTITY cya "a">
 <!ENTITY cyb "b">
 <!ENTITY cyv "v">
 <!ENTITY cyg "g">
 <!ENTITY cyd "d">
 <!ENTITY cyje "e">
-<!ENTITY cyzh "zh">
+<!ENTITY cyzh "/">
 <!ENTITY cyz "z">
 <!ENTITY cyi "i">
 <!ENTITY cyj "j">
@@ -92,16 +82,16 @@
 <!ENTITY cyu "u">
 <!ENTITY cyf "f">
 <!ENTITY cyx "x">
-<!ENTITY cyc "ts">
-<!ENTITY cych "ch">
-<!ENTITY cysh "sh">
-<!ENTITY cyshch "shch">
-<!ENTITY cyhard "''">
+<!ENTITY cyc "c">
+<!ENTITY cych "h">
+<!ENTITY cysh "w">
+<!ENTITY cyshch "q">
+<!ENTITY cyhard "æ">
 <!ENTITY cyy "y">
-<!ENTITY cysoft "'">
+<!ENTITY cysoft "[[softsign]]">
 <!ENTITY cye "e">
-<!ENTITY cyju "ju">
-<!ENTITY cyja "ja">
+<!ENTITY cyju "]">
+<!ENTITY cyja "[">
 <!ENTITY cyT "T">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
 ]>
@@ -114,5 +104,3 @@
 &phonapp;
 &index;
 </book>
-
-

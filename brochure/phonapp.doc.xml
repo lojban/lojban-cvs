@@ -1,0 +1,446 @@
+<appendix id="phonapp"><title>Complete Pronunciation Guide</title>
+<subtitle><foreignphrase lang="art-lojban">mulno ke bacru tadji velciski</foreignphrase></subtitle><titleabbrev id="phonapptitle">Pronunciation Guide</titleabbrev>
+
+<para>The pronunciation guide that appeared in the <ulink url="overview">Overview</ulink> is intended for speakers of North American English. This more complete pronunciation guide uses the International Phonetic Alphabet, and comparison with the other five source languages of Lojban, in order to be useful outside North America.</para>
+
+<para>Rather than concentrate on precise phonetic targets, Lojban phonemes have a range of allowed pronunciations, although there are preferred variants (given first in the IPA chart below.) The intent is to allow speakers to be understood unambiguously, rather than to devise a specific Lojban <quote role="socalled">accent</quote>. &IPAASCIIdisclaimer;</para>
+
+<sect1 id="ipa"><title>International Phonetic Alphabet</title><subtitle><foreignphrase lang="art-lojban">munje sancyci'e lerfu</foreignphrase></subtitle>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">a</foreignphrase></term><listitem><para>[<emphasis role="ipa">a</emphasis>] ([<emphasis role="ipa">&backa;</emphasis>]): an open vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">b</foreignphrase></term><listitem><para>[<emphasis role="ipa">b</emphasis>]: a voiced bilabial stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para>[<emphasis role="ipa">&esh;</emphasis>] ([<emphasis role="ipa">&ersh;</emphasis>]): an unvoiced coronal sibilant</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">d</foreignphrase></term><listitem><para>[<emphasis role="ipa">d</emphasis>]: a voiced dental/alveolar stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para>[<emphasis role="ipa">&ipaepsilon;</emphasis>] ([<emphasis role="ipa">e</emphasis>]): a front mid vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">f</foreignphrase></term><listitem><para>[<emphasis role="ipa">f</emphasis>] ([<emphasis role="ipa">&ipaphi;</emphasis>]): an unvoiced labial fricative</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term><listitem><para>[<emphasis role="ipa">g</emphasis>]: a voiced velar stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">i</foreignphrase></term><listitem><para>[<emphasis role="ipa">i</emphasis>]: a front close vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para>[<emphasis role="ipa">&ezh;</emphasis>] ([<emphasis role="ipa">&erzh;</emphasis>]): a voiced coronal sibilant</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">k</foreignphrase></term><listitem><para>[<emphasis role="ipa">k</emphasis>]: an unvoiced velar stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">l</foreignphrase></term><listitem><para>[<emphasis role="ipa">l</emphasis>] ([<emphasis role="ipa">l&syllabic;</emphasis>]): a voiced lateral approximant (may be syllabic)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">m</foreignphrase></term><listitem><para>[<emphasis role="ipa">m</emphasis>] ([<emphasis role="ipa">m&syllabic;</emphasis>]): a voiced labial nasal (may be syllabic)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">n</foreignphrase></term><listitem><para>[<emphasis role="ipa">n</emphasis>] ([<emphasis role="ipa">n&syllabic;, &eng;, &eng;&syllabic;</emphasis>]): a voiced dental, alveolar or velar nasal (may be syllabic)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para>[<emphasis role="ipa">o</emphasis>] ([<emphasis role="ipa">&openo;</emphasis>]): a back mid vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">p</foreignphrase></term><listitem><para>[<emphasis role="ipa">p</emphasis>]: an unvoiced bilabial stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">r</foreignphrase></term><listitem><para>[<emphasis role="ipa">&trillr;</emphasis>] ([<emphasis role="ipa">&upsr;, &tapr;, &uvr;, &trillr;&syllabic;, &upsr;&syllabic;, &tapr;&syllabic;, &uvr;&syllabic;</emphasis>]): a rhotic sound</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">s</foreignphrase></term><listitem><para>[<emphasis role="ipa">s</emphasis>]; an unvoiced alveolar sibilant</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">t</foreignphrase></term><listitem><para>[<emphasis role="ipa">t</emphasis>]: an unvoiced dental/alveolar stop</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">u</foreignphrase></term><listitem><para>[<emphasis role="ipa">u</emphasis>]: a back close vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">v</foreignphrase></term><listitem><para>[<emphasis role="ipa">v</emphasis>] ([<emphasis role="ipa">&ipabeta;</emphasis>]): a voiced labial fricative</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para>[<emphasis role="ipa">x</emphasis>]: an unvoiced velar fricative</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">y</foreignphrase></term><listitem><para>[<emphasis role="ipa">&schwa;</emphasis>]; a central mid vowel</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">z</foreignphrase></term><listitem><para>[<emphasis role="ipa">z</emphasis>]: a voiced alveolar sibilant</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">'</foreignphrase></term><listitem><para>[<emphasis role="ipa">h</emphasis>] ([<emphasis role="ipa">&ipatheta;</emphasis>]): an unvoiced glottal spirant</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.</foreignphrase></term><listitem><para>[<emphasis role="ipa">&glottal;</emphasis>]: a glottal stop or a pause</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ai</foreignphrase></term><listitem><para>[<emphasis role="ipa">aj</emphasis>] ([<emphasis role="ipa">&backa;j</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para>[<emphasis role="ipa">aw</emphasis>] ([<emphasis role="ipa">&backa;w</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para>[<emphasis role="ipa">&ipaepsilon;j</emphasis>] ([<emphasis role="ipa">ej</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para>[<emphasis role="ipa">oj</emphasis>] ([<emphasis role="ipa">&openo;j</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para>[<emphasis role="ipa">ja</emphasis>] ([<emphasis role="ipa">j&backa;</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para>[<emphasis role="ipa">j&ipaepsilon;</emphasis>] ([<emphasis role="ipa">je</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ii</foreignphrase></term><listitem><para>[<emphasis role="ipa">ji</emphasis>]</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">io</foreignphrase></term><listitem><para>[<emphasis role="ipa">jo</emphasis>] ([<emphasis role="ipa">j&openo;</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para>[<emphasis role="ipa">ju</emphasis>]</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para>[<emphasis role="ipa">wa</emphasis>] ([<emphasis role="ipa">w&backa;</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para>[<emphasis role="ipa">w&ipaepsilon;</emphasis>] ([<emphasis role="ipa">we</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para>[<emphasis role="ipa">wi</emphasis>]</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para>[<emphasis role="ipa">wo</emphasis>] ([<emphasis role="ipa">w&openo;</emphasis>])</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uu</foreignphrase></term><listitem><para>[<emphasis role="ipa">wu</emphasis>]</para></listitem></varlistentry>
+
+</variablelist>
+
+</sect1>
+
+<sect1 id="xrabo"><title>Arabic</title><subtitle><foreignphrase lang="art-lojban">xrabo</foreignphrase></subtitle>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">a</foreignphrase></term><listitem><para><foreignphrase lang="ar">isl<emphasis role="strong">a</emphasis>m</foreignphrase> <quote role="gloss">Islam</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">b</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">b</emphasis>ayt</foreignphrase> <quote role="gloss">house</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para><foreignphrase lang="ar">mu<emphasis role="strong">sh</emphasis>hoor</foreignphrase> <quote role="gloss">famous</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">d</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">d</emphasis>aleel</foreignphrase> <quote role="gloss">guide</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para><foreignphrase lang="ar">waj<emphasis role="strong">i</emphasis>b</foreignphrase> <quote role="gloss">duty</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">f</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">fi</emphasis></foreignphrase> <quote role="gloss">in</quote>, <foreignphrase lang="ar">mu<emphasis role="strong">f</emphasis>awada</foreignphrase> <quote role="gloss">conference</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">G</emphasis>amal Abdel Nasser</foreignphrase> (Egyptian pronunciation)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">i</foreignphrase></term><listitem><para><foreignphrase lang="ar">muf<emphasis role="strong">ee</emphasis>d</foreignphrase> <quote role="gloss">useful</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">k</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">k</emphasis>ayf</foreignphrase> <quote role="gloss">how</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">l</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">m</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">M</emphasis>adeena</foreignphrase> (city)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">n</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">n</emphasis>adee</foreignphrase> <quote role="gloss">club</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">p</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">r</foreignphrase></term><listitem><para><foreignphrase lang="ar">ma<emphasis role="strong">r</emphasis>boot</foreignphrase> <quote role="gloss">connected</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">s</foreignphrase></term><listitem><para><foreignphrase lang="ar">madra<emphasis role="strong">ss</emphasis>a</foreignphrase> <quote role="gloss">school</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">t</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">t</emphasis>adrees</foreignphrase> <quote role="gloss">instruction</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">u</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">v</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">kh</emphasis>idma</foreignphrase> <quote role="gloss">service</quote>, <foreignphrase lang="ar"><emphasis role="strong">kh</emphasis>ibra</foreignphrase> <quote role="gloss">experience</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">y</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">z</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">'</foreignphrase></term><listitem><para><foreignphrase lang="ar">a<emphasis role="strong">h</emphasis>lan wa sa<emphasis role="strong">h</emphasis>lan</foreignphrase> <quote role="gloss">welcome</quote>, <foreignphrase lang="ar">al-<emphasis role="strong">h</emphasis>ijra</foreignphrase> <quote role="gloss">The Emigration</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ai</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">ya</emphasis></foreignphrase> <quote role="gloss">vocative marker</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ii</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">io</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">wa</emphasis>si'</foreignphrase> <quote role="gloss">wide</quote>, <foreignphrase lang="ar"><emphasis role="strong">wa</emphasis>seela</foreignphrase> <quote role="gloss">means</quote></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uu</foreignphrase></term><listitem><para><foreignphrase lang="ar"><emphasis role="strong">wu</emphasis>food</foreignphrase> <quote role="gloss">arrival</quote></para></listitem></varlistentry>
+
+</variablelist>
+
+</sect1>
+
+<sect1 id="jungo"><title>Chinese (Putonghua/Mandarin)</title><subtitle><foreignphrase lang="art-lojban">jungo to jungrputonxua toi</foreignphrase></subtitle>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">a</foreignphrase></term><listitem><para><foreignphrase lang="zh">m<emphasis role="strong">&a3;</emphasis>sh<emphasis role="strong">a</emphasis>ng</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">b</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">b</emphasis>&u2;<emphasis role="strong">b</emphasis>i&a4;n, <emphasis role="strong">b</emphasis>&i1;ng<emphasis role="strong">b</emphasis>&a2;o</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">sh</emphasis>&a1;w&e3;i, <emphasis role="strong">sh</emphasis>&a1;n <emphasis role="strong">sh</emphasis>ang</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">d</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">D</emphasis>atong, <emphasis role="strong">d</emphasis>&o1;ngf&a1;ng, <emphasis role="strong">d</emphasis>&a3;<emphasis role="strong">d</emphasis>&a3;o</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para><foreignphrase lang="zh">f<emphasis role="strong">&e1;</emphasis>i</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">f</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">f</emphasis>&e1;ngsh&u3;i</foreignphrase>, <foreignphrase lang="zh"><emphasis role="strong">f</emphasis>ei long wu <emphasis role="strong">f</emphasis>eng</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">g</emphasis>&a1;oli&a2;ng, z&a1;o<emphasis role="strong">g</emphasis>&a1;o</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">i</foreignphrase></term><listitem><para><foreignphrase lang="zh">b<emphasis role="strong">&i1;</emphasis>ngl<emphasis role="strong">&i4;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">k</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">k</emphasis>&e4;r&e2;n, <emphasis role="strong">k</emphasis>&a1;i<emphasis role="strong">k</emphasis>&o3;u</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">l</foreignphrase></term><listitem><para><foreignphrase lang="zh">Ao<emphasis role="strong">l</emphasis>&o2;ng, <emphasis role="strong">l</emphasis>&u2;n<emphasis role="strong">l</emphasis>&i2;u</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">m</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">m</emphasis>&a2;f&a4;n, <emphasis role="strong">m</emphasis>&i2;ng<emphasis role="strong">m</emphasis>&e4;i</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">n</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">N</emphasis>a<emphasis role="strong">n</emphasis>king, <emphasis role="strong">n</emphasis>&e2;<emphasis role="strong">ng</emphasis>l&i4;, <emphasis role="strong">n</emphasis>&o2;ngr&e2;n</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para><foreignphrase lang="zh">du<emphasis role="strong">&o1;</emphasis></foreignphrase>, <foreignphrase lang="zh">w<emphasis role="strong">&o3;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">p</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">p</emphasis>inyin, h&e2;<emphasis role="strong">p</emphasis>&i1;ng</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">r</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">r</emphasis>&e2;n, <emphasis role="strong">r</emphasis>&a2;ng, &e2;<emphasis role="strong">r</emphasis>t&o2;ng</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">s</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">s</emphasis>&a1;nji&a3;o, <emphasis role="strong">s</emphasis>&a3;ngm&e2;nr</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">t</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">T</emphasis>ang, <emphasis role="strong">t</emphasis>&e4;bi&e2;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">u</foreignphrase></term><listitem><para><foreignphrase lang="zh">da&o4;l<emphasis role="strong">u</emphasis>, g&o1;ngf<emphasis role="strong">&u1;</emphasis>, g<emphasis role="strong">&u3;</emphasis>w<emphasis role="strong">&u4;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">v</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">h</emphasis>en <emphasis role="strong">h</emphasis>ao</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">y</foreignphrase></term><listitem><para><foreignphrase lang="zh">sh&e2;nm<emphasis role="strong">e</emphasis>, w&o3; l&a2;i l<emphasis role="strong">e</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">z</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">'</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ai</foreignphrase></term><listitem><para><foreignphrase lang="zh">l<emphasis role="strong">&a2;i</emphasis>, b<emphasis role="strong">&a2;i</emphasis>c<emphasis role="strong">&a2;i</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para><foreignphrase lang="zh">l<emphasis role="strong">&a3;o</emphasis>, z<emphasis role="strong">&a1;o</emphasis>g<emphasis role="strong">&a1;o</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para><foreignphrase lang="zh">F<emphasis role="strong">ei</emphasis>zhou, M<emphasis role="strong">ei</emphasis>guo, B<emphasis role="strong">ei</emphasis>jing</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para><foreignphrase lang="zh">fat ch<emphasis role="strong">oy</emphasis></foreignphrase> in Cantonese (<foreignphrase lang="zh">f&a3; c&a4;i</foreignphrase>)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">Ya</emphasis>zhou, <emphasis role="strong">y&a1;</emphasis>zi, <emphasis role="strong">y&a2;</emphasis>ngr&e2;n</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">li&e4;</emphasis>f&e1;ng, m<emphasis role="strong">i&e4;</emphasis>w&a2;ng</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ii</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">Yi</emphasis>ngguo, <emphasis role="strong">y&i1;</emphasis>, <emphasis role="strong">y&i4;</emphasis>w&e2;n</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">io</foreignphrase></term><listitem><para><foreignphrase lang="zh">p&e2;ng<emphasis role="strong">y&o3;</emphasis>u, n<emphasis role="strong">i&u2;</emphasis>r&o4;u &rarr; n<emphasis role="strong">yo</emphasis>u</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">y&o4;</emphasis>ngg&o1;ng</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para><foreignphrase lang="zh">b&a1;g<emphasis role="strong">u&a4;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">w</emphasis>u + y<emphasis role="strong">e</emphasis> &rarr; <emphasis role="strong">we</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para><foreignphrase lang="zh">P<emphasis role="strong">u-yi</emphasis></foreignphrase> (don't pronounce the <foreignphrase lang="zh">y</foreignphrase>!)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para><foreignphrase lang="zh">L<emphasis role="strong">uo</emphasis>ma</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uu</foreignphrase></term><listitem><para><foreignphrase lang="zh"><emphasis role="strong">w&u2;</emphasis>b&i3;</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+</sect1>
+
+<sect1 id="xindo"><title>Hindi</title>
+
+<para></para>
+
+</sect1>
+
+<sect1 id="rusko"><title>Russian</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">a</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cym;<emphasis role="strong">&cya;</emphasis>&cys;&cys;&cya;</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">b</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyb;</emphasis>&cyy;&cyt;&cysoft;</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cysh;</emphasis>&cya;&cyr;</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">d</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyd;</emphasis>&cya;&cyt;&cysoft;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cye;</emphasis>&cyt;&cyo;</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">f</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyt;&cyje;&cyl;&cyje;<emphasis role="strong">&cyf;</emphasis>&cyo;&cyn;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyg;</emphasis>&cyo;&cyr;&cya;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">i</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cych;<emphasis role="strong">&cyi;</emphasis>&cys;&cyl;&cyo;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyzh;</emphasis>&cyje;&cyn;&cyshch;&cyi;&cyn;&cya;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">k</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyk;</emphasis>&cyo;&cyt;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">l</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyl;</emphasis>&cyu;&cyn;&cya;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">m</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cym;</emphasis>&cya;&cyt;&cysoft;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">n</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyn;</emphasis>&cyo;&cys;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyt;<emphasis role="strong">&cyo;</emphasis>&cym;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">p</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyz;&cya;<emphasis role="strong">&cyp;</emphasis>&cya;&cyd;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">r</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyr;</emphasis>&cyu;&cyb;&cyl;&cysoft;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">s</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cys;</emphasis>&cyo;<emphasis role="strong">&cys;</emphasis>&cye;&cyd;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">t</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyt;</emphasis>&cyu;<emphasis role="strong">&cyt;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">u</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cysh;<emphasis role="strong">&cyu;</emphasis>&cym;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">v</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyv;</emphasis>&cyo;&cyt;&cyu;&cym;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyx;</emphasis>&cyo;&cyr;&cyo;&cysh;&cyo;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">y</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyk;&cyo;&cyl;<emphasis role="strong">&cyo;</emphasis>&cyk;&cyo;&cyl;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">z</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyz;</emphasis>&cyl;&cyo;&cyj;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">'</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ai</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cych;&cyi;&cyt;<emphasis role="strong">&cya;&cyj;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyd;<emphasis role="strong">&cyje;&cyj;</emphasis>&cys;&cyt;&cyv;&cyo;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyT;&cyo;&cyl;&cys;&cyt;<emphasis role="strong">&cyo;&cyj;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyja;</emphasis> <emphasis role="strong">&cyja;</emphasis>&cyv;&cyl;<emphasis role="strong">&cyja;</emphasis>&cyju;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para><foreignphrase lang="ru"><emphasis role="strong">&cyje;</emphasis>&cyv;&cyr;&cyje;&cyj;&cys;&cyk;&cyi;&cyj;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ii</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">io</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyu;&cyz;&cyn;&cya;<emphasis role="strong">&cyje;</emphasis>&cyt;&cyje;</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para><foreignphrase lang="ru">&cyu;<emphasis role="strong">&cyju;</emphasis>&cyt;&cyn;&cyu;<emphasis role="strong">&cyju;</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uu</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+</variablelist>
+
+</sect1>
+
+<sect1 id="spano"><title>Spanish</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">a</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">a</emphasis>l<emphasis role="strong">a</emphasis></foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">b</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">b</emphasis>ote</foreignphrase> (plosive, not fricative)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">sh</emphasis>ow</foreignphrase> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">d</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">d</emphasis>ato</foreignphrase> (plosive, not fricative)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">e</emphasis>st<emphasis role="strong">e</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">f</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">f</emphasis>oto</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">b</emphasis>ato</foreignphrase> (plosive, not fricative)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">i</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">i</emphasis>r<emphasis role="strong">i</emphasis>s</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">ll</emphasis>uvia</foreignphrase> (some accents), <foreignphrase lang="es">pe<emphasis role="strong">rr</emphasis>o</foreignphrase> (some accents)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">k</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">k</emphasis>ilo</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">l</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">l</emphasis>una</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">m</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">m</emphasis>ano</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">n</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">n</emphasis>ube</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">o</emphasis>s<emphasis role="strong">o</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">p</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">p</emphasis>ato</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">r</foreignphrase></term><listitem><para><foreignphrase lang="es">pe<emphasis role="strong">r</emphasis>o, pe<emphasis role="strong">rr</emphasis>o</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">s</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">s</emphasis>apo</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">t</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">t</emphasis>apa</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">u</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">u</emphasis>no</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">v</foreignphrase></term><listitem><para><foreignphrase lang="es">nie<emphasis role="strong">v</emphasis>e</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">j</emphasis>aula</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">y</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">z</foreignphrase></term><listitem><para><foreignphrase lang="es">I<emphasis role="strong">s</emphasis>rael</foreignphrase> (voiced)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">'</foreignphrase></term><listitem><para><foreignphrase lang="es">le<emphasis role="strong">j</emphasis>os</foreignphrase> (some accents)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ai</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">ai</emphasis>re</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">au</emphasis>to</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para><foreignphrase lang="es">r<emphasis role="strong">ei</emphasis>no</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para><foreignphrase lang="es"><emphasis role="strong">oi</emphasis>go</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para><foreignphrase lang="es">p<emphasis role="strong">ia</emphasis>no</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para><foreignphrase lang="es">p<emphasis role="strong">ie</emphasis>dra</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ii</foreignphrase></term><listitem><para><foreignphrase lang="es">a<emphasis role="strong">ll&iacute;</emphasis></foreignphrase> (some accents)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">io</foreignphrase></term><listitem><para><foreignphrase lang="es">p<emphasis role="strong">io</emphasis>jo</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para><foreignphrase lang="es">c<emphasis role="strong">iu</emphasis>dad</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para><foreignphrase lang="es">c<emphasis role="strong">ua</emphasis>tro</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para><foreignphrase lang="es">p<emphasis role="strong">ue</emphasis>nte</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para><foreignphrase lang="es">r<emphasis role="strong">ui</emphasis>do</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para><foreignphrase lang="es">c<emphasis role="strong">uo</emphasis>ta</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">uu</foreignphrase></term><listitem><para></para></listitem></varlistentry>
+
+</variablelist>
+
+</sect1>
+
+
+
+</appendix>

@@ -114,7 +114,7 @@ lang="art-lojban">j</foreignphrase>.)</para></note>
 <colspec colnum="2" colwidth="2*" />
 <colspec colnum="3" colwidth="3*" />
 <colspec colnum="4" colwidth="3*" />
-<colspec colnum="5" colwidth="4*" />
+<colspec colnum="5" colwidth="5*" />
 <tbody>
 <row>
 
@@ -205,7 +205,7 @@ lang="art-lojban"><emphasis role="bold">k</emphasis>inli</foreignphrase></entry>
 <colspec colnum="2" colwidth="2*" />
 <colspec colnum="3" colwidth="3*" />
 <colspec colnum="4" colwidth="3*" />
-<colspec colnum="5" colwidth="4*" />
+<colspec colnum="5" colwidth="5*" />
 <tbody>
 
 
@@ -1146,7 +1146,7 @@ vowel.</para>
 <para>A pause is also required after any Lojban name, which always ends in
 a consonant. (A <quote><foreignphrase
 lang="art-lojban">.</foreignphrase></quote> is written after the name to mark this, thus
-distinguishing names from other words without capitalization.) Every
+distinguishing names from other words without using capitalization.) Every
 vowel-initial Lojban word is thus preceded by a pause, and such words are usually spelled with a <quote><foreignphrase
 lang="art-lojban">.</foreignphrase></quote> at the beginning. There are a small number
 of other places where pauses<indexterm id="idx105">
@@ -1172,7 +1172,7 @@ by stressing a non-penultimate syllable. In this case, capitalization is
 used to mark the abnormal stress, as in <foreignphrase lang="art-lojban">DJOsefin.</foreignphrase>
 <quote role="gloss">Josephine</quote> in the example above.</para>
 
-<para>Stress and pause are not mandatory in Lojban, except for word
+<para>It is not mandatory to mark stress and pause in writing in Lojban, except for word
 separation according to the rules above. There is no mandatory intonation, like
 the rising tone that always accompanies an English question. Lojban
 equivalents of English intonations are expressed as spoken (and written)
@@ -1234,7 +1234,7 @@ lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> include
 <varlistentry><term><foreignphrase lang="art-lojban">katrinas.</foreignphrase></term>
 <listitem><para>Katrina</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase lang="art-lojban">KAtr,in.</foreignphrase></term>
+<varlistentry><term><foreignphrase lang="art-lojban">katr,in.</foreignphrase></term>
 <listitem><para>Catherine</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">katis.</foreignphrase></term>
@@ -1289,8 +1289,8 @@ lang="art-lojban">s</foreignphrase>; it must, however, be a Lojban
 consonant of some variety.</para>
 
 <para><foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are not
-permitted to have the words <foreignphrase lang="art-lojban">la,
-lai</foreignphrase>, or <foreignphrase
+permitted to have the words <foreignphrase lang="art-lojban">la</foreignphrase>,
+<foreignphrase lang="art-lojban">lai</foreignphrase>, or <foreignphrase
 lang="art-lojban">doi</foreignphrase> embedded in them,
 because they are always
 preceded by one of these words or by a pause. With one of these words
@@ -1298,7 +1298,7 @@ embedded, the <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emph
 break up into valid Lojban words followed by a shorter, incorrect
 <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>. There are similar
 alternatives to these that can be used in Lojbanization, such as
-<foreignphrase lang="art-lojban">ly, lei</foreignphrase>, and
+<foreignphrase lang="art-lojban">ly</foreignphrase>, <foreignphrase lang="art-lojban">lei</foreignphrase>, and
 <foreignphrase lang="art-lojban">do'i</foreignphrase>, that do not cause these
 problems.<indexterm id="idx110" startref="idx109" significance="preferred" class="endofrange"/></para>
 
@@ -1368,7 +1368,7 @@ lang="art-lojban">klama</foreignphrase></para></listitem>
 lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase></term>
 
 <listitem><para>compounds of <foreignphrase
-lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>, with meanings defined from their
+lang="art-lojban"><emphasis role="term">gismu</emphasis></foreignphrase>, or their abbreviations, with meanings defined from their
 components; e.g. <foreignphrase
 lang="art-lojban">lobypli</foreignphrase></para></listitem>
 
@@ -1382,8 +1382,8 @@ lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase></term
 languages that have been Lojbanized (in a manner similar to how <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> are Lojbanized) in order to fit within the
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> requirements; e.g.
-<foreignphrase lang="art-lojban">djarspageti</foreignphrase> (<quote
-role="gloss">spaghetti</quote>)</para></listitem>
+<foreignphrase lang="art-lojban">cidjrspageti</foreignphrase> (<quote
+role="gloss">spaghetti</quote>) (it's not nearly as hard to say as it looks!)</para></listitem>
 
 </varlistentry>
 </variablelist>
@@ -1583,8 +1583,8 @@ one of several permitted <foreignphrase
 lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase> forms. A <foreignphrase
 lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase> is then attached to the beginning
 of the Lojbanized form, usually using a syllabic consonant as <quote
-role="socalled">glue</quote> to ensure that the resulting word doesn't fall
-apart. The <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase>
+role="socalled">glue</quote> to ensure that the resulting word 
+is not construed as two separate words. The <foreignphrase lang="art-lojban"><emphasis role="term">rafsi</emphasis></foreignphrase>
 categorizes or limits the meaning of the <foreignphrase
 lang="art-lojban"><emphasis role="term">fu'ivla</emphasis></foreignphrase>; otherwise a word having several
 different jargon meanings in other languages (such as
@@ -1724,8 +1724,8 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>.</para>
 <!-- WAS INSERT A -->
 
 <para><!--From this example, it should also be clear that --><foreignphrase
-lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are neither nouns, verbs,
-adjectives, nor adverbs; yet they incorporate elements of each. These
+lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> are not nouns, verbs,
+adjectives, or adverbs; yet they incorporate elements of each. These
 different aspects are brought out in the way the <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> is used in the grammar, but these
 different grammatical environments do not change the meaning of the
@@ -1848,7 +1848,7 @@ role="socalled">natural</quote> Lojban conversation, even though you
 achieve fluency in the language. No English speaker always speaks textbook
 English in natural conversation; Lojban speakers will also make grammatical
 errors when talking quickly. Lojbanists will, however, be able to speak or
-write unambiguously <emphasis>with care</emphasis>, which is difficult if
+write unambiguously <emphasis>if they are careful</emphasis>, which is difficult if
 not impossible with a natural language.</para>
 
 <para>In Lojban grammar rules, words are assembled into short phrases
@@ -1913,8 +1913,10 @@ express the past tense of a verb. In this sense, English has hundreds of
 
 <para>Lojban <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>
 are named after one word within the category, often
-the one most frequently used. The <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> names are capitalized in English
-discussion of Lojban: CU, KOhA, PU, and UI are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.</para>
+the one most frequently used. CU, KOhA, PU, and UI are examples of <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase>.
+
+<note><para>The <foreignphrase lang="art-lojban"><emphasis role="term">selma'o</emphasis></foreignphrase> names are capitalized in English
+discussion of Lojban. The apostrophe is converted to <wordasword>h</wordasword> in such usage; this is for compatibility with computer grammar parses.</para></note></para>
 
 </sect2>
 
@@ -2117,7 +2119,7 @@ ambiguity</firstterm><indexterm id="idx144">
 </indexterm> (the ambiguity embedded in the variable meanings of
 words when taken in context). Most Lojban expressions involve some amount
 of ellipsis. The listener, however, knowing that the omissions have occurred,
-has means of quickly questioning any specific one of them (or all of them),
+has a means of quickly questioning any specific one of them (or all of them),
 and resolving the ambiguity. So this kind of semantic ambiguity is not eliminated in
 Lojban, but it is made more recognizable and more amenable to
 resolution.</para>
@@ -2538,8 +2540,9 @@ place structure of the <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>. Various modifications can be made
 to the <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> and its
 place structure using <foreignphrase
-lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>. These include abstraction to
-states, events, activities, properties, amounts, etc. For example,
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase>. These include ways to treat a single <foreignphrase
+lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> as a
+state, an event, an activity, a property, an amount, etc. For example,
 <foreignphrase lang="art-lojban">jetnu</foreignphrase>, a <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> expressing that
 x<subscript>1</subscript> is true, becomes the basis for <foreignphrase
@@ -2951,7 +2954,7 @@ another, deduced it, etc.<indexterm id="idx177" startref="idx176" class="endofra
 <primary>questions</primary>
 </indexterm>The manner of asking questions in Lojban is quite different from English.
 In Lojban, most questions are asked by placing a question word in place of
-the value to be filled in by whoever answers. The question word <foreignphrase
+the value to be filled in by the person answering. The question word <foreignphrase
 lang="art-lojban">mo</foreignphrase> can be used in the grammatical place
 of any <foreignphrase lang="art-lojban"><emphasis
 role="term">bridi</emphasis></foreignphrase>, including those within
@@ -2982,7 +2985,7 @@ certitude, supposition, decision, approval, or intention, or as a question
 of truth and falsity. In the first case, the answer is an attitudinal.
 In the second case, the answer is an assertion or denial of the
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>
-being queried. Lojban also provides question words that can replace many other grammatical
+being queried. Lojban also provides question words that can request a value filling many other grammatical
 functions.<indexterm id="idx186" startref="idx185" class="endofrange"/></para> </sect2>
 
 <sect2><title>Tenses</title>
@@ -3035,7 +3038,7 @@ variety of different ways (e.g. <wordasword>...closed it</wordasword>,
 desk</wordasword>); in these, the <wordasword>and</wordasword> is joining a
 variety of different constructs. You must hear and analyze the whole
 sentence to interpret the <wordasword>and</wordasword>, and you still may
-not be certain of correct understanding.</para>
+not be certain of having a correct understanding.</para>
 
 <para>Another way Lojban supports logical connectives is by distinguishing them
 from non-logical connectives<indexterm id="idx189">
@@ -3078,7 +3081,9 @@ easy to talk about a <quote role="socalled">brace</quote> of oxen or a
 role="socalled">&int;
 &minus;2x<superscript>3</superscript>+x<superscript>2</superscript>&minus;3x+5
 dx evaluated over the interval of &minus;5 to +5 bottles of
-water</quote>.<indexterm id="idx191" startref="idx190" class="endofrange" significance="preferred"/></para> </sect2>
+water</quote>.<indexterm id="idx191" startref="idx190" class="endofrange" significance="preferred"/>
+
+<note><para>In case you're curious: <foreignphrase lang="art-lojban">ri'o ni'u re xy. te'a ci su'i xy. te'a re su'i mu ku'e xy. ku'e mo'e ni'u mu djacu botpi te'u ga'o bi'o ga'o mo'e mu djacu botpi</foreignphrase></para></note></para> </sect2>
 
 <sect2><title><foreignphrase lang="art-lojban">selsku</foreignphrase></title>
 
