@@ -9,7 +9,7 @@ k	start
 f	middle
 b	start
 d	start
-g	middle
+g	start
 v	middle
 s	middle
 z	middle
