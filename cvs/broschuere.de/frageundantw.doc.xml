@@ -24,14 +24,9 @@ der wesentlichen: </para>
 
 <itemizedlist>
 
-<listitem><para>Lojban is designed to be used by people in communication
-with each other, and possibly in the future with
-computers.</para></listitem>
 <listitem><para>Lojban wurde f&uuml;r die Kommunikation von Menschen untereinander als auch f&uuml;r die 
 m&ouml;gliche zuk&uuml;nftige Kommunikation mit Computer entworfen. </para></listitem>
 
-<listitem><para>Lojban is designed to be culturally
-neutral.</para></listitem>
 
 <listitem><para>Lojban ist kulturell neutral.</para></listitem>
 
@@ -342,114 +337,120 @@ Denkens w&auml;hrend es die strukturelle Syntax genau vorgibt.
 </para>
 </answer>
 </qandaentry>
-<!--bookmark-->
+
 <qandaentry>
 <question>
-<para>Lojban seems complex.  How hard is it to learn?</para>
+<para>Lojban sieht kompliziert aus, wie schwer ist es zu lernen?</para>
 </question>
 
 <answer>
-<para>Lojban is actually much simpler than natural languages.  Its grammar
-is comparable in complexity with the current generation of computer
-languages (such as C++ or Perl).  Lojban seems complex only because the
-varieties of human thought are complex, and Lojban is designed to minimize
-constraints on those thoughts.  Lojban text appears longer and more complex
-due to its lack of idiom, its complete revelation of logical structure, and
-most importantly, its unfamiliarity.  On the other hand, conversational
-speech uses less than half of the possible grammatical structures, leaving
-the rest for writing and for other circumstances when one is likely to take
-time to carefully formulate exact logical phrasings.</para>
 
 
-<para>Lojban's pronunciation, spelling, word formation, and grammar rules
-are fixed, and the language is free of exceptions to these rules.  Rule
-exceptions are the bane of learning and <emphasis>correctly</emphasis> speaking natural
-languages.  Without the burden of ambiguity, Lojban users can be precise
-and specific more easily than in other languages.</para>
+<para>Lojban ist viel einfacher als nat&uuml;rliche Sprachen. Seine Grammatik 
+ist vergleichbar mit der heutiger Programmiersprachen, wie C++ oder Perl. Lojban sieht nur so komplex aus
+wegen der Komplexit&auml;t der menschlichen Gedanken und Lojban darauf ausgelegt ist alle
+Einschr&auml;nkungen dieser Gedanken zu minimieren. Lojban sieht l&auml;nger und komlizierter aus,
+da es keine Redewendungen gibt und weil es die logischen Strukturen v&ouml;llig freilegt, und nat&uuml;rlich
+ist es ungewohnt. Auf der anderen Seite wird in gew&ouml;hnlichen Unterhaltungen weniger als die H&auml;lfte 
+der m&ouml;glichen grammatischen Konstrukte benutzt, wobei der Rest &uuml;brig bleibt f&uuml;r 
+geschriebenen Text und andere Situationen, wo man die Zeit hat sich genaue logische 
+Ausdr&uuml;cke zu &uuml;berlegen.
+</para>
 
 
-<para>Because Lojban's grammar is simple, it is easier to learn than other
-languages.  A working vocabulary including the complete set of 1250 root
-words takes about 8&ndash;12 weeks of study at 1 hour per day.  It is by no means
-uncommon for people who embark on learning Lojban to be able to write
-grammatical Lojban within a few days, and to hold at least a limited
-conversation within a few weeks.  Natural languages, especially English,
-have been determined to take several years to learn to a comparable level
-of skill.</para>
+<para>Die Lojban Aussprache, Buchstabierung, Wordbildung und Grammatik
+sind verbindlich festgelegt und es gibt von diesen Regeln keine Ausnahmen.
+Ausnahmen von Regeln sind ein &Auml;rgernis f&uuml;r jeden, der
+eine nat&uuml;rliche Sprache <emphasis>korrekt</emphasis> zu sprechen lernen will. Ohne das Erschwernis 
+der Mehrdeutigkeit kann man sich in Lojban viel einfacher richtig und genau ausdr&uuml;cken, als in 
+anderen Sprachen.
+</para>
 
 
-<para>The available Lojban teaching materials are so structured that you
-can learn the language without classroom instruction, and possibly without
-a close community of speakers.  Communication practice with others is
-needed to achieve fluency, but you can start using the language as you
-achieve proficiency.</para>
+<para>
+Da die Lojban Grammatik einfach ist, ist die Sprache einfacher zu lernen, 
+als andere Sprachen. Einen Grundwortschatz, der alle 1250 Stammvokabeln einschliesst,
+kann man in 8&ndash;12 Wochen erwerben, wenn man 1 Stunde t&auml;glich &uuml;bt. 
+Es ist &uuml;berhaupt nicht ungew&ouml;hnlich, dass jemand der anfa&auml;ngt Lojban zu
+lernen innerhalb weniger Tage in der Lage ist grammatisch richtiges Lojban zu schreiben 
+und innerhalb weniger Wochen wenigstens eine beschr&auml;nkte Unterhaltung zu f&uuml;hren.
+Bei nat&uuml;rlichen Sprachen, wie Deutsch oder Englisch dauert die Erlangung einer vergleichbaren 
+Kompetenz erfahrungsgem&auml;ss mehrere Jahre.
+</para>
+
+<para>
+Die vorhandenen Unterrichtsmaterialien sind so strukturiert, dass man die Sprache alleine
+lernen kann und auch ohne engen Kontakt mit anderen Lojbanisten auskommt. Um Lojban fliessend
+zu beherrschen, ist nat&uuml;rlich die Kommunikation mit anderen n&ouml;tig, aber man kann beginnen 
+die Sprache zu benutzen w&auml;hrend man lernt.
+</para>
+
 </answer>
 </qandaentry>
 
 <qandaentry>
 <question>
-<para>What do you mean by unambiguous?</para> </question>
+<para>Was bedeutet eindeutig?</para> </question>
 
 <answer>
-<para>Lojban has an unambiguous grammar (proven by computer analysis of a
-formal grammar), pronunciation, and morphology (word forms).  In practice
-this means that the person who reads or hears a Lojban sentence is never in
-doubt as to what words it contains or what roles they play in the sentence. 
-This is true even if the words are unfamiliar, so long as the spelling and
-grammar rules are known.  Lojban has no words that sound alike but have
-different meanings (like <quote role="gloss">herd</quote> and
-<quote role="gloss">heard</quote>), that have multiple unrelated meanings
-(<quote role="gloss">set</quote>), or that differ only in punctuation but not in
-sound (like the abominable <quote role="gloss">its</quote> and
-<quote role="gloss">it's</quote>).  There is never any doubt about where words begin
-and end (if you hear <quote role="gloss">cargo shipment</quote>, do you hear 2, 3,
-or 4 words?).  Most important, the function of each word is inescapably
-clear; there is nothing like the English sentence <quote>Time flies like
-an arrow.</quote>, in which any of the first three words could be the
-verb.</para>
+
+<para>Lojban hat eine eindeutige Grammatik, was durch eine Computeranalyse nachgewiesen
+wurde, eine eindeutige Aussprache und Morphologie, Wortformen. In der Praxis heisst das,
+dass jemand der einen Satz in Lojban h&ouml;rt oder liest niemals im Zweifel ist, welche W&ouml;rter
+benutzt wurden und welche Rolle sie in dem Satz spielen. Das funktioniert sogar, wenn die W&ouml;rter 
+selbst unbekannt sind, man aber Orthographie und Grammatik kennt. In Lojban gibt es keine 
+Homophone, das sind W&ouml;rter die sich gleich anh&ouml;hren, aber eine verschiedene Bedeutung haben.
+Zum Beispiel <quote role="gloss">Sie!</quote> und <quote role="gloss">Sieh!</quote>, das eine ein Vokativ,
+das andere ein Imperativ, oder die  <quote role="gloss">Bank</quote>, auf die man sich setzt und
+die  <quote role="gloss">Bank</quote>, zu der man sein Geld tr&auml;gt. 
+Man weiss in Lojban immer, wo ein Wort beginnt und endet, <quote role="gloss">Blumen-Topf-Erde</quote> ist ja 
+auch, etwas anderes als <quote role="gloss">Blumento-Pferde</quote>.
+Am wichtigsten ist, dass die Funktion eins Wortes immer unausweichlich festgelegt ist.
+<!-- better examples here-->
+</para>
+
+<para>
+Lojban ist nat&uuml;rlich nicht v&ouml;llig eindeutig, Menschen wollen hin und wieder
+uneindeutige Aussagen machen. In Lojban beschr&auml;nkt sich diese Uneindeutigkeit auf
+die Semantik, Metaphern  und absichtliche Auslassung von Informationen, die Ellipse. 
+</para>
+
+<para>In nat&uuml;rlichen Sprachen, stehen W&ouml;rter f&uuml;r ganze Gruppen von Konzepten
+anstatt einzelner Bedeutungen. Diese sehr verschiedenen Bedeutungen eines Wortes haben oft eine sehr
+ schwache Beziehung zueinander.
+<!--find example here-->
+Dazu kommt nocht die verschiedenen Erfahrungen jedes einzelnen, die jedem Wort eine
+individuelle emotionale F&auml;rbung geben. Durch den kulturell neutralen <quote>neuen Anfang</quote>
+soll eine &Uuml;bertragung dieser Assoziationen vermieden werden. 
+</para>
 
 
-<para>Lojban is NOT entirely unambiguous, of course; human beings
-occasionally desire to be ambiguous in their expressions.  In Lojban, this
-ambiguity is limited to semantics, metaphor, and intentional omission of
-information (ellipsis).</para>
 
+<para>Mit Hilfe der sehr ausdrucksstarken Metapher&ndash; und Wortbildungsmechanismen
+ist es m&ouml;glich einzelne Konzepte fein zu differenzieren, was der Tendenz vorbeugt, 
+dass einzelne W&ouml;rter mit einer ganzen Gruppe von Bedeutungen belegt wird. Lojban Metaphern,
+<foreignphrase lang="loj">tanru</foreignphrase> genannt,
+sind mehrdeutig, sie beschreiben eine Beziehung zwischen mehreren Konzepten, aber sie
+dr&uuml;cken nicht aus, worin diese Beziehung besteht. Diese Beziehung kann durch eindeutige 
+logische Konstrukte ausdr&uuml;cklich beschrieben
+werden oder offen gelassen werden, was normalerweise gew&uuml;nscht ist.
+Genauso k&ouml;nnen Teile der logischen Struktur eines Lojban Satzes fortgelassen werden,
+wodurch der Ausdruck unter Verursachung einer gewissen Mehrdeutigkeit vereinfacht wird.
+Anders als in nat&uuml;rlichen Sprachen ist diese Mehrdeutigkeit jedoch offensichtlich.
+Es sind also alle Mehrdeutigkeiten beschr&auml;nkt und erkennbar, so dass sie wenn n&ouml;tig
+leicht durch weitere Interaktionen aufgel&ouml;st werden k&ouml;nnen.
+</para>
 
-<para>Semantic ambiguity results because words in natural languages
-represent families of concepts rather than individual meanings.  These
-meanings often have only weak semantic relationships to each other (the
-English word <wordasword>run</wordasword> is an outstanding example).  In
-addition, each individual's personal experiences provide emotional
-connotations to words.  By providing a fresh, culturally-neutral start,
-Lojban attempts to minimize the transference of these associations as
-people learn the language.  (Most Lojban words do not much resemble
-corresponding words in other languages; the differences aid in making this
-fresh start possible.</para>
-
-
-<para>Lojban's powerful metaphor and word-building features make it easy to
-make fine distinctions between concepts.  This discourages the tendency for
-individual words to acquire families of meanings.  Lojban metaphors (called
-<foreignphrase lang="loj">tanru</foreignphrase>) are themselves ambiguous; they specify a relationship
-between concepts, but not what the relationship is.  That relationship can
-be made explicit using unambiguous logical constructs if necessary, or can
-be left vague as the speaker (usually) desires.  Similarly, portions of the
-logical structure of a Lojban expression can be omitted, greatly
-simplifying the expression while causing some ambiguity.  Unlike in the
-natural languages, though, this ambiguity is readily identified by a reader
-or listener.  Thus all ambiguity in Lojban is constrained and recognizable,
-and can be clarified as necessary by further interaction.</para>
-
-
-<para>This precision in no way confines the meaning of a Lojban sentence. 
-It is possible to be fanciful or ridiculous, to tell a lie, or to be
-misunderstood.  You can be very specific, or you can be intentionally
-vague.  Your hearer may not understand what you <emphasis>meant</emphasis>, but will
-always understand what you <emphasis>said</emphasis>.</para>
+<para>Diese Genauigkeit schr&auml;nkt die Ausdruckf&auml;higkeit nicht ein. 
+Es ist genauso m&ouml;glich sich ausschweifend wie l&auml;cherlich auszudr&uuml;cken,
+zu l&uuml;gen oder missverstanden zu werden.
+Man kann ebenso spezifisch wie vage sein. Der Zuh&ouml;hrer mag vielleicht nicht verstehen
+was Sie <emphasis>meinen</emphasis>, aber er wird immer verstehen was Sie <emphasis>gesagt haben</emphasis>.
+</para>
 
 </answer>
 </qandaentry>
-
+<!--bookmark-->
 <qandaentry>
 <question>
 <para>Can you make jokes in an unambiguous language?</para>

@@ -10,6 +10,7 @@
 <!ENTITY ckape SYSTEM "ckape.doc.xml">
 <!ENTITY texte SYSTEM "texte.doc.xml">
 ]>
+
 <book lang="de">
 <bookinfo>
    <title>Was ist Lojban? <foreignphrase lang="loj">velclicfa fi la 
