@@ -1,3 +1,4 @@
+
 <!-- -*- DocBook -*- -->
 <sect1 id="frageundantw"><title>Fragen und Antworten</title>
 
@@ -648,109 +649,112 @@ das Basisvokabular sind bereits f&uuml;r mehrere Jahre eingefroren. Wenn die Zah
 bedeutend gestiegen sein wird und sich eine Lojban Literatur herausgebeildet haben wird, wird
 Lojban wie eine nat&uuml;rliche Sprache behandelt werden, die ohne Beschr&auml;nkungen w&auml;chst und gedeit.
 </para> 
-<!--bgohla bookmark-->
 </answer>
 </qandaentry>
 
 <qandaentry>
 <question>
-<para>How many people speak Lojban?</para> </question>
+<para>Wie viele Leute sprechen Lojban?</para> </question>
 <answer>
 
-<para>Questions of how many people speak a language greatly depend on your
-presuppositions and definitions &mdash; which a language like Lojban, at least,
-can make explicit!  The on-line Lojban mailing list, which constitutes the
-largest community of people using the language, has over 200 subscribers,
-with well over 20 regular posters as of this writing.  The level of
-confidence of the language community has already risen to such a level that
-there is a Lojban-language-only discussion group, parallel to the general
-mailing list.  Lojban has also been used extensively in real-time
-conversation, both electronically (IRC) and face-to-face.  Though the
-Lojban-speaking community is so widely diffused that the opportunity for
-conversation does not arise frequently, the number of Lojbanists who can
-sustain a conversation in the language certainly ranges beyond what can be
-counted on the fingers of one hand, and is steadily increasing.  Lojban has
-been proven in communicative use for well over a decade, and the range and
-expressivity of the language is being continually explored by the language
-community.</para>
 
+<para>Die Frage wie viele Leute Lojban sprechen h&auml;ngt nat&uuml;rlich sehr
+von Ihren Voraussetzungen und Definitionen ab &mdash; die man in Lojban ausdr&uuml;cklich 
+angeben kann. Die Lojban Mailingliste, die die gr&ouml;sste Benutzergemeinde 
+der Sprache umfasst, hat mehr als 200 Abonenten, zur Zeit als dies geschrieben wird,
+nehmen 20 davon regelm&auml;ssig an Diskussionen teil. Das Sicherheit
+im Umgang mit der Sprache hat bereits ein Niveau erreicht, dass es sogar eine
+Mailingliste gibt, in der ausschliesslich Lojban benutzt wird. 
+Lojban wird auch ausgiebig in Echtzeitunterhaltungen benutzt, sowohl elektronisch, &uuml;ber
+Internet Relay Chat, als auch vom Angesicht zu Angesicht. Obwohl die
+Lojbansprechergemeinde weit verstreut ist, so dass die  M&ouml;glichkeit einer
+Konversation nicht oft entsteht, &uuml;bersteigt die Zahl derer, die an einer
+Lojban Konversation teilnehmen k&ouml;nnen, bereits das an einer Hand abz&auml;hlbare 
+und w&auml;chst stetig. Lojban hat sich in &uuml;ber einen Jahrzehnt als Kommunikationsmittel
+bew&auml;hrt und wird weiter von der Gemeinde erforscht.
+</para>
 
-<para>The first speakers of Lojban have a unique opportunity.  They are the
-history-makers who will shape the flavor of the first totally new language
-to achieve broad speakability.  Their ideas will be most influential in
-setting the patterns of usage that others will learn from.  Their
-experiences will teach things about language that have never before been
-learned &mdash; or learnable.</para> </answer>
+<para>Die ersten Lojban Sprecher haben eine ganz aussergew&ouml;hnliche M&ouml;glichkeit. 
+Sie werden Geschichte schreiben, indem sie den sprachlichen Reichtum
+einer v&ouml;llig neuen Sprache bestimmen werden. Ihre Ideen werden  auf
+die Gebrauchsgewohnheiten gr&ouml;ssten Einfluss haben, von denen andere sp&auml;ter lernen werden. Ihre Erfahrungen 
+werden ganz neue Einsichten in die menschliche Sprache vermittlen, die vorher unm&ouml;glich waren.
+</para>
+
+</answer>
 </qandaentry>
 
 <qandaentry>
 <question>
-<para>Why should I learn Lojban?</para> </question>
+<para>Warum sollte ich Lojban lernen?</para> </question>
 <answer>
 
-<para>There are several reasons for learning the language now.  Those who
-are working with the language now are actively consulted for their opinions
-on how to teach and spread the language.  Within a few weeks of work
-learning the material already written and some of the vocabulary, you will
-be able to work with those who have already started.  You will be a
-significant part of this small but rapidly growing community.  You will
-receive personalized attention to any problems you have with the language
-from those leading the effort.  If you are truly ambitious and committed to
-the language, you are welcome to join in that leadership.</para>
+
+<para>Es gibt mehrere Gr&uuml;nde die Sprache jetzt zu lernen.
+Die, die die Sprache jetzt benutzen, werden oft gefragt, wie die sie gelehrt
+und verbreitet werden kann. Nach einigen Wochen des Lernens mit dem vorhandenen
+Lehrmaterial und ein paar Vokabeln, werden Sie in der Lage sein 
+mit denen zusammenzuarbeiten, die schon fr&uuml;her angefangen haben sich mit der Sprache 
+zu befassen. Sie werden ein bedeutender Teil der schnell wachsenden Gemeinde sein.
+Bei allen Problemen, die Sie beim Lernen der Sprache haben, wird Ihnen jemand, 
+der schon weiter fortgeschritten ist, helfen k&ouml;nnen. Wenn Sie gen&uuml;gend 
+Erfahrung gesammelt haben werden, werden Sie in der Lage sein auch anderen 
+bei Lernen zu helfen. 
+</para>
 
 
-<para>Those with a computer background who learn the language now will be
-the leaders in developing the first meaningful computer applications for
-the language.  Expertise in the language will no doubt be valuable as
-Lojban becomes recognized as a useful tool for computer applications by the
-computer industry.  Meanwhile, computer-oriented Lojbanists can also aid in
-developing computer-aided instruction tools or converting existing software
-to run on new computers.</para>
+<para>Diejenigen mit Interesse an Computern, die die Sprache lernen, werden
+Pioniere sein in der Entwicklung der ersten bedeutsamen Computeranwendungen f&uuml;r Lojban.
+Die Erfahrung im Umbang mit der Sprache wird ohne Zweifel von
+grossem Nutzen sein, wenn sie einst als n&uuml;tzliches Werkzeug der Informationsverarbeitung
+anerkannt sein wird. Computer begeisterte Lojbanisten werden zur Zeit besonders
+f&uuml;r die Entwicklung computerbasierter Lernmethoden gebraucht oder um
+existierende Lernsoftware anzupassen.
+</para>
+
+<para>Nichtcomputerinteressierte werden Lojban auch als wertvoll erachten.
+Vielleicht sind Sie an der Saphir-Whorf Hypothese interessiert, und an den wissenschaftlichen
+Untersuchungen um sie zu pr&uuml;fen, oder an anderren sprachwissenschaftlichen Untersuchungen.
+Oder Sie interessieren sich f&uuml;r Lojbans Potential als interantionale Sprache
+und den Versuch mit Hilfe dieser kulturelle Grenzen zu &uuml;berwinden.
+</para>
+
+<para>Unabh&auml;ngig von Ihrem bisherigen Wissen werden Sie Lojban als Erweiterung
+Ihres Bewusstseins erfahren. Das Lernen jeder Fremsprache erweitert den Horizont
+und erlaubt es &uuml;ber die eigene Erfahrungswelt hinauszuschauen. Da Lojban viel leichter
+zu lernen ist als andere Sprachen, k&ouml;nnen Sie diese Vorteile schon viel
+eher nutzen.
+</para>
+
+<para>Nachdem Sie Lojban gelernt haben werden, werden Sie es als leichter empfinden 
+andere Sprachen zu lernen und mit Leuten anderer Herkunft zu kommunizieren, unabh&auml;ngig
+davon in welcher Sprache. Die sprachwissenschaftlichen Prinzipien, die Sie durch
+Lojban lernen, sind auch auf andere Sprachen und Kommunikationssituationen anwendbar. 
+Die in Lojban eingebundenen Strukturen werden es Ihnen erleichtern Ihre 
+Gedanken zu ordnen und sie klar auszudr&uuml;cken. Die neugewonnene Perspektive auf Sprache, 
+Vieldeutigkeit und Kommunikation wird es Ihnen erm&ouml;glichen, sich viel genauer 
+zu artikulieren, sogar wenn Sie nat&uuml;rliche Sprachen benutzen. 
+</para>
 
 
-<para>Those without a computer orientation will also find Lojban a valuable
-language.  You may be interested in the Sapir-Whorf hypothesis, and in the
-scientific tests to be planned and conducted, or in other language-related
-research.  You may be interested in Lojban's potential as international
-language, and in the attempts to use the language to reach across cultural
-bounds.</para>
+<para>Man braucht aber nicht unbedingt einen praktischen Grund, um Lojban zu lernen.
+Viele, wenn nicht die meissten, die Lojban lernen, tun dies weil es Ihnen Spass macht.
+Lojban zu lernen ist eine intellektuelle Herausforderung, die auch Ihr gesellschaftliches Leben 
+bereichern kann. Lojban hat alle Eigenschaften eines Unterhaltungsspiels, mit der
+zus&auml;tzlichen Chance durch diese Unterhaltung eine n&uuml;tzliche F&auml;higkeit zu entwickeln. 
+</para>
 
+<para>Lojban als <quote role="socalled">intellektuelles Spielzeug</quote> zu lernen
+kann Ihnen Freude am Lernen bringen ohne sich den Strapatzen  auszusetzen, die andere
+Sprachen verursachen k&ouml;nnen. Obwohl die fl&uuml;ssige Beherrschung der Sprache
+noch mehrere hundert Stunden &uuml;ber viele Monate dauern wird, k&ouml;nnen Sie
+das Gef&uuml;hl etwas erreicht zu haben bereits nach wenigen Stunden des Studiums erlangen.
+Man kann Lojban also von Anfang an geniessen, w&auml;hrend man an K&ouml;nnen dazugewinnt. 
+</para> 
 
-<para>Regardless of your background, you will find learning Lojban to be a
-mind-expanding experience.  Learning any language other than your native
-tongue broadens your perspectives and allows you to transcend the limited
-viewpoints of your native language culture.  Lojban, being much simpler to
-learn than natural languages, provides this benefit much more quickly than
-does the study of other languages.</para>
+<!--bgohla bookmark-->
 
-
-<para>Having learned Lojban, you will find it easier to learn other
-languages and to communicate with people from other backgrounds, regardless
-of the language studied; the linguistic principles you learn while learning
-Lojban are applicable to these languages and communication problems.  The
-logical organization embedded in Lojban will aid you in organizing and
-clarifying your thoughts.  Having done so, your new perspective on
-language, ambiguity, and communication will allow you to express those
-thoughts more clearly, even when you use an ambiguous natural
-language.</para>
-
-
-<para>You needn't learn Lojban for any practical purpose, however.  Many,
-if not most, of those who are learning Lojban are doing so because it is
-fun.  Learning Lojban is intellectually stimulating, providing human
-interaction (a way to meet other people and get to know them) and mental
-challenge.  Lojban has all the benefits of games designed for
-entertainment, with the added prospect of that entertainment possibly
-developing into a useful skill as a side benefit.</para>
-
-
-<para>Learning Lojban as an <quote role="socalled">intellectual toy</quote> means that you can get
-enjoyment from learning Lojban without nearly the effort needed to benefit
-from studying other languages.  While becoming fluent in Lojban will
-probably take hundreds of hours over several months, you can feel some
-sense of accomplishment in the language after just a couple of hours of
-study.  You can use Lojban immediately for fun, while gaining skill with
-greater experience.</para> </answer>
+</answer>
 </qandaentry>
 
 <qandaentry>
