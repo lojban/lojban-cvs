@@ -559,6 +559,18 @@
 		#t %hyphenation%)
   ($informal-object$ %informaltable-rules% %informaltable-rules%)))
 
+(define ($title-header-footer$)
+  (let* ((title (if (equal? (gi) (normalize "refentry"))
+		   ($refentry-header-footer-element$)
+		   ($title-header-footer-element$))))
+    (make sequence
+      font-posture: 'italic
+;; added NN: shrink it
+        font-size: (* (inherited-font-size) 
+						%smaller-size-factor%)
+;; end NN
+      (with-mode hf-mode 
+	(process-node-list title)))))
 
 
 </style-specification-body>
