@@ -21,3 +21,17 @@ n	middle
 l	middle
 r	middle
 h	middle
+
+This is how tsali splits plosives:
+  v-Beginning of closing stage
+##                   ##
+##                || ##
+##----------------||###
+##                || ##
+##                   ##
+^ Vowel           ^ Explosion
+         ^ Cut here  ^ Vowel
+
+The cruddy ASCII art represents the archetypal case of the voiceless plosive
+between two vowels. But it should *always* be safe to split in the middle of
+the closing stage.
