@@ -28,6 +28,11 @@
 (define %two-side% #t)
 (define %header-margin% 3pi)
 
+(define %para-sep% 0cm)
+(define %block-sep% %bf-size%)
+(define %para-indent% 0.3cm)
+(define %para-indent-firstpara% 0pt)
+
 (declare-initial-value page-width %page-width%)
 (declare-initial-value page-height %page-height%)
 (declare-initial-value left-margin %left-margin%)

@@ -448,8 +448,11 @@
       start-indent: (if (INBLOCK?)
 			(inherited-start-indent)
 			(+ %block-start-indent% (inherited-start-indent)))
-      space-before: (if (INLIST?) %para-sep% %block-sep%)
-      space-after:  (if (INLIST?) %para-sep% %block-sep%)
+;;      space-before: (if (INLIST?) %para-sep% %block-sep%)
+;;      space-after:  (if (INLIST?) %para-sep% %block-sep%)
+;; changed NN: force block-sep always
+		space-before: %block-sep%
+		space-after: %block-sep%
 ;; added: NN
 	  font-size: (if (equal? (inherited-attribute-string (normalize "role")) (normalize "vocabulary"))
 		(* %bf-size% %smaller-size-factor%) (inherited-font-size))  
@@ -632,6 +635,170 @@
 	($runinhead$) ($lowtitle$ 2 4))
 
 ))
+
+(mode book-titlepage-verso-mode
+
+  (element authorgroup
+	(let* ((editors (select-elements (children (current-node)) (normalize "editor"))))
+    (make paragraph
+      space-after: (* %bf-size% %line-spacing-factor%)
+      (make sequence
+	(if (node-list-empty? editors)
+        (literal (gentext-by))
+        (literal (gentext-edited-by))
+	)
+	(literal "\no-break-space;")
+	(process-children-trim)))))
+
+  (element editor
+    ;; Print the editor name.
+    (let ((in-group (have-ancestor? (normalize "authorgroup") (current-node))))
+      (if (or #f (not in-group)) ; nevermind, always put out the Edited by
+	  (make paragraph
+	    ;; Hack to get the spacing right below the author name line...
+	    space-after: (* %bf-size% %line-spacing-factor%)
+	    (make sequence
+	      (literal (gentext-edited-by))
+	      (literal "\no-break-space;")
+	      (literal (author-string))))
+	  (make sequence 
+	    (literal (author-list-string))))))
+
+
+)
+
+(define (is-first-para #!optional (para (current-node)))
+  ;; A paragraph is the first paragraph if it is preceded by a title
+  ;; (or bridgehead) and the only elements that intervene between the
+  ;; title and the paragraph are *info elements, indexterms, and beginpage.
+  ;;
+  (let loop ((nd (ipreced para)))
+    (if (node-list-empty? nd)
+	;; We've run out of nodes. We still might be the first paragraph
+	;; preceded by a title if the parent element has an implied
+	;; title.
+; added further: first para within informalexample is also considered firstpara: NN
+	(if (and 
+			(equal? (element-title-string (parent para)) "")
+			(not (equal? (gi (parent para)) (normalize "informalexample"))))
+	    #f  ;; nope
+	    #t) ;; yep
+	(if (or (equal? (gi nd) (normalize "title"))
+		(equal? (gi nd) (normalize "bridgehead"))
+        (equal? (gi nd) (normalize "titleabbrev"))
+        (equal? (gi nd) (normalize "note"))  ; personal prefs here on in: NN
+        (equal? (gi nd) (normalize "tip"))
+        (equal? (gi nd) (normalize "warning"))
+        (equal? (gi nd) (normalize "informalexample"))
+        (equal? (gi nd) (normalize "informaltable"))
+        (equal? (gi nd) (normalize "itemizedlist"))
+        (equal? (gi nd) (normalize "orderedlist"))
+        (equal? (gi nd) (normalize "variablelist"))
+        (equal? (gi nd) (normalize "example"))
+        (equal? (gi nd) (normalize "table"))
+; even more: if the last child of the preceding paragraph was an informalexample etc,
+; still call it first para: it's resumption after indentation: NN
+		(and 
+			(equal? (gi nd) (normalize "para"))
+			(or
+            	(equal? (gi (node-list-last (children nd))) (normalize "informalexample"))
+                (equal? (gi (node-list-last (children nd))) (normalize "itemizedlist"))
+                (equal? (gi (node-list-last (children nd))) (normalize "orderedlist"))
+                (equal? (gi (node-list-last (children nd))) (normalize "variablelist"))
+                (equal? (gi (node-list-last (children nd))) (normalize "note"))
+                (equal? (gi (node-list-last (children nd))) (normalize "tip"))
+			))
+		)
+	    #t
+
+	    (if (or (not (equal? (node-property 'class-name nd) 'element))
+		    (member (gi nd) (info-element-list)))
+		(loop (ipreced nd))
+		#f)))))
+
+ (define ($process-cell$ entry preventry row overhang)
+  (let* ((colnum    (cell-column-number entry overhang))
+	 (lastcellcolumn (if (node-list-empty? preventry)
+			     0
+			     (- (+ (cell-column-number preventry overhang)
+				   (hspan preventry))
+				1)))
+	 (lastcolnum (if (> lastcellcolumn 0)
+			 (overhang-skip overhang lastcellcolumn)
+			 0))
+	 (font-name (if (have-ancestor? (normalize "thead") entry)
+			%title-font-family%
+			%body-font-family%))
+	 (weight    (if (have-ancestor? (normalize "thead") entry)
+			'bold
+			'medium))
+	 (align     (cell-align entry colnum)))
+
+    (make sequence
+      ;; This is a little bit complicated.  We want to output empty cells
+      ;; to skip over missing data.  We start count at the column number
+      ;; arrived at by adding 1 to the column number of the previous entry
+      ;; and skipping over any MOREROWS overhanging entrys.  Then for each
+      ;; iteration, we add 1 and skip over any overhanging entrys.
+      (let loop ((count (overhang-skip overhang (+ lastcolnum 1))))
+	(if (>= count colnum)
+	    (empty-sosofo)
+	    (make sequence
+	      ($process-empty-cell$ count row)
+	      (loop (overhang-skip overhang (+ count 1))))))
+
+      ;; Now we've output empty cells for any missing entries, so we 
+      ;; are ready to output the cell for this entry...
+      (make table-cell 
+	column-number: colnum
+	n-columns-spanned: (hspan entry)
+	n-rows-spanned: (vspan entry)
+
+	cell-row-alignment: (cell-valign entry colnum)
+
+	cell-after-column-border: (if (cell-colsep entry colnum)
+				      calc-table-cell-after-column-border
+				      #f)
+
+	cell-after-row-border: (if (cell-rowsep entry colnum)
+				   (if (last-sibling? (parent entry))
+				       calc-table-head-body-border
+				       calc-table-cell-after-row-border)
+				   #f)
+
+	cell-before-row-margin: %cals-cell-before-row-margin%
+	cell-after-row-margin: %cals-cell-after-row-margin%
+	cell-before-column-margin: %cals-cell-before-column-margin%
+	cell-after-column-margin: %cals-cell-after-column-margin%
+
+	;; If there is some additional indentation (because we're in a list,
+	;; for example) make sure that gets passed along, but don't add
+	;; the normal body-start-indent.
+	start-indent: (+ (- (inherited-start-indent) %body-start-indent%)
+			 %cals-cell-content-start-indent%)
+	end-indent: %cals-cell-content-end-indent%
+
+;; added NN
+    first-line-start-indent: %para-indent-firstpara%
+;; end NN
+
+	(if (equal? (gi entry) (normalize "entrytbl"))
+	    (make paragraph 
+	      (literal "ENTRYTBL not supported."))
+	    (make paragraph
+	      font-family-name: font-name
+	      font-weight: weight
+	      quadding: align
+	      (process-node-list (children entry))))))))
+
+;; beef up spacing
+(define ($list$)
+  (make display-group
+    start-indent: (if (INBLOCK?)
+                      (inherited-start-indent)
+                      (+ %block-start-indent% (inherited-start-indent)))
+	space-before: %block-sep%
+    space-after:  %block-sep%))
 
 
 </style-specification-body>
