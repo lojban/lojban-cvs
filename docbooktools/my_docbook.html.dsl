@@ -230,6 +230,7 @@
   (let* ((tgroup (find-tgroup row))
 ;; added: NN
             (lastsib (if (last-sibling? row) #t #f))
+            (lasttgroup (if (last-sibling? tgroup) #t #f))
 ;; end added
 	 (rowcells (node-list-filter-out-pis (children row)))
 	 (maxcol (string->number (attribute-string (normalize "cols") tgroup)))
@@ -273,7 +274,7 @@
 			(make entity-ref name: "nbsp"))
 		  (loop (overhang-skip overhang (+ colnum 1)))))))
 ;; added: NN
-		(if (and lastsib (not (attribute-string (normalize "rowsep") row)))
+		(if (and (not lasttgroup) (and lastsib (not (attribute-string (normalize "rowsep") row))))
 ;; insert dashed row at end of each tgroup
 	(make element gi: "TR"
 		(make element gi: "TD"
@@ -306,6 +307,11 @@
 	 (lastcolnum (if (> lastcellcolumn 0)
 			 (overhang-skip overhang lastcellcolumn)
 			 0))
+;; added NN			 
+    (role (if (attribute-string (normalize "role") entry)
+		   (attribute-string (normalize "role") entry)
+		   (normalize "element")))
+;; end added 
 	 (htmlgi (if (have-ancestor? (normalize "tbody") entry)
 		     "TD"
 		     "TH")))
@@ -356,6 +362,10 @@
 ;		(literal "ENTRYTBL not supported."))
 	  (make element gi: htmlgi
 		attributes: (append
+;; added NN
+            (if (equal? role (normalize "placedef")) 
+                (list (list "BGCOLOR" "yellow")) '())
+;; end added
 			     (if (> (hspan entry) 1)
 				 (list (list "COLSPAN" (number->string (hspan entry))))
 				 '())
@@ -394,6 +404,10 @@
 (define %use-id-as-filename%
   ;; Use ID attributes as name for component HTML files?
   #t)
+  
+(element (part subtitle) (empty-sosofo))
+
+
 
 </style-specification-body>
 </style-specification>

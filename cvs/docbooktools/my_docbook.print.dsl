@@ -743,6 +743,11 @@
 	 (lastcolnum (if (> lastcellcolumn 0)
 			 (overhang-skip overhang lastcellcolumn)
 			 0))
+;; added NN			 
+    (role (if (attribute-string (normalize "role") entry)
+		   (attribute-string (normalize "role") entry)
+		   (normalize "element")))
+;; end added 
 	 (font-name (if (have-ancestor? (normalize "thead") entry)
 			%title-font-family%
 			%body-font-family%))
@@ -772,16 +777,28 @@
 	n-rows-spanned: (vspan entry)
 
 	cell-row-alignment: (cell-valign entry colnum)
-
-	cell-after-column-border: (if (cell-colsep entry colnum)
+;; modified NN
+	cell-after-column-border: (if (equal? role (normalize "placedef"))
+                    #t
+                    (if (cell-colsep entry colnum)
 				      calc-table-cell-after-column-border
-				      #f)
+				      #f))
 
-	cell-after-row-border: (if (cell-rowsep entry colnum)
+	cell-after-row-border: (if (equal? role (normalize "placedef"))
+                    #t
+                    (if (cell-rowsep entry colnum)
 				   (if (last-sibling? (parent entry))
 				       calc-table-head-body-border
 				       calc-table-cell-after-row-border)
-				   #f)
+				   #f))
+;; ended NN
+;; added NN
+    cell-before-column-border: (if (equal? role (normalize "placedef"))
+                    #t #f)
+    cell-before-row-border: (if (equal? role (normalize "placedef"))
+                    #t #f)
+;; ended NN 
+
 
 	cell-before-row-margin: %cals-cell-before-row-margin%
 	cell-after-row-margin: %cals-cell-after-row-margin%
@@ -841,6 +858,101 @@
 	  )
       (process-node-list restch)))))
 
+;; NN: looks like they forgot to explicitly do anything with subtitles of components
+
+
+(define ($component-title$)
+  (let* ((info (cond
+		((equal? (gi) (normalize "appendix"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "article"))
+		 (node-list-filter-by-gi (children (current-node))
+					 (list (normalize "artheader")
+					       (normalize "articleinfo"))))
+		((equal? (gi) (normalize "bibliography"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "chapter"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "dedication")) 
+		 (empty-node-list))
+		((equal? (gi) (normalize "glossary"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "index"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "preface"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "reference"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		((equal? (gi) (normalize "setindex"))
+		 (select-elements (children (current-node)) (normalize "docinfo")))
+		(else
+		 (empty-node-list))))
+	 (exp-children (if (node-list-empty? info)
+			   (empty-node-list)
+			   (expand-children (children info) 
+					    (list (normalize "bookbiblio") 
+						  (normalize "bibliomisc")
+						  (normalize "biblioset")))))
+	 (parent-titles (select-elements (children (current-node)) (normalize "title")))
+	 (info-titles   (select-elements exp-children (normalize "title")))
+	 (titles        (if (node-list-empty? parent-titles)
+			    info-titles
+			    parent-titles))
+	 (parent-subtitles (select-elements (children (current-node)) (normalize "subtitle")))
+	 (info-subtitles     (select-elements exp-children (normalize "subtitle")))
+	 (subtitles        (if (node-list-empty? parent-subtitles)
+			    info-subtitles
+			    parent-subtitles))
+	 )
+    (make sequence
+      (make paragraph
+	font-family-name: %title-font-family%
+	font-weight: 'bold
+	font-size: (HSIZE 4)
+	line-spacing: (* (HSIZE 4) %line-spacing-factor%)
+	space-before: (* (HSIZE 4) %head-before-factor%)
+	start-indent: 0pt
+	first-line-start-indent: 0pt
+	quadding: %component-title-quadding%
+	heading-level: (if %generate-heading-level% 1 0)
+	keep-with-next?: #t
+
+	(if (string=? (element-label) "")
+	    (empty-sosofo)
+	    (literal (gentext-element-name-space (current-node))
+		     (element-label)
+		     (gentext-label-title-sep (gi))))
+
+	(if (node-list-empty? titles)
+	    (element-title-sosofo) ;; get a default!
+	    (with-mode component-title-mode
+	      (make sequence
+		(process-node-list titles)))))
+
+      (make paragraph
+	font-family-name: %title-font-family%
+	font-weight: 'bold
+	font-posture: 'italic
+	font-size: (HSIZE 3)
+	line-spacing: (* (HSIZE 3) %line-spacing-factor%)
+	space-before: (* 0.5 (* (HSIZE 3) %head-before-factor%))
+	space-after: (* (HSIZE 4) %head-after-factor%)
+	start-indent: 0pt
+	first-line-start-indent: 0pt
+	quadding: %component-subtitle-quadding%
+	keep-with-next?: #t
+
+	(with-mode component-title-mode
+	  (make sequence
+	    (process-node-list subtitles)))))))
+
+(mode component-title-mode
+  (element title
+    (process-children))
+
+  (element subtitle
+    (process-children))
+)
 
 
 
