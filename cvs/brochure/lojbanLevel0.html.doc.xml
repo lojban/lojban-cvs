@@ -7,6 +7,8 @@
 <!ENTITY lArr "&lt;=">
 <!ENTITY rarr "-&gt;">
 <!ENTITY larr "&lt;-">
+<!ENTITY laquo "&lt;&lt;">
+<!ENTITY raquo "&gt;&gt;">
 <!ENTITY bookinfo SYSTEM "lojbanInfo.doc.xml">
 <!ENTITY brochure SYSTEM "brochure.doc.xml">
 <!ENTITY intro SYSTEM "intro.doc.xml">
