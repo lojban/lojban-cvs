@@ -265,9 +265,9 @@ the words, e.g. <wordasword>Pat'i Chris sever</wordasword> in Turkish means
 
 <para>In Lojban, the order in which arguments appear is built in to the meaning of the word. For example,
 the word <foreignphrase lang="art-lojban">dunda</foreignphrase> means
-<wordasword>give</wordasword>, but its full meaning is:
+<wordasword>give</wordasword>, but its full meaning is:</para>
 
-<informalexample><literallayout>x<subscript>1</subscript> gives x<subscript>2</subscript> to x<subscript>3</subscript></literallayout></informalexample></para>
+<informalexample><literallayout>x<subscript>1</subscript> gives x<subscript>2</subscript> to x<subscript>3</subscript></literallayout></informalexample>
 
 
 <para>So <foreignphrase lang="art-lojban">mi pu dunda le cuska le
@@ -840,10 +840,10 @@ contribution of $5 to cover its cost.</para>
 
 <para>If you are reading this brochure on-line, or have access to the
 Internet, the complete booklet is also available on the World Wide
-Web for free at the address:
+Web for free at the address:</para>
 
 <informalexample>
-<literallayout><computeroutput>&level0addr;</computeroutput></literallayout></informalexample></para>
+<literallayout><computeroutput>&level0addr;</computeroutput></literallayout></informalexample>
 
 <para>Once you have read this booklet, there are several
 directions you may proceed, depending on your goals for use of the language.</para>
@@ -911,7 +911,8 @@ finding other Lojban students of comparable skill level and interests,
 either in your local area or reachable by post or electronic mail. The
 on-line Lojban discussion groups regularly contains Lojban text, some with
 detailed translations and some without translation, as well as discussions
-of language points by various members of the Lojban community. Of course
+of language points by various members of the Lojban community. There is also a
+discussion group specifically for beginners as of this writing. Of course
 the best way to use the language is to recruit friends and associates into
 studying and using the language with you. Even if they are not interested
 in the same language goals as you are, the <quote
@@ -1187,39 +1188,48 @@ constantly being added to; please contact us for details.</para>
 
 
 <para>The Logical Language Group's website, which contains all its publicly
-available information, is at: <informalexample><para><ulink
-url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></para></informalexample></para>
+available information, is at:</para>
+
+<informalexample><para><ulink
+url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></para></informalexample>
 
 
-<para>Two active Lojban-related mailing lists<indexterm id="idx71" significance="preferred">
+<para>Three active Lojban-related mailing lists<indexterm id="idx71" significance="preferred">
 <primary>Lojban mailing list</primary>
 </indexterm> are available on the
 Internet. <!--The mailing lists may be accessed at:
 <informalexample><para><ulink
 url="http://groups.yahoo.com"><computeroutput>http://groups.yahoo.com</computeroutput></ulink></para></informalexample>
 Search for the keyword <quote role="gloss">lojban</quote>; t-->The general
-Lojban list is called <computeroutput>lojban</computeroutput>, while the
+Lojban list is called <computeroutput>lojban</computeroutput>; the
 list for discussions in Lojban only is
-<computeroutput>jbosnu</computeroutput>. They may be accessed as follows:
+<computeroutput>jbosnu</computeroutput>; and the list specifically for beginners
+is <computeroutput>lojban-beginners</computeroutput>. They may be accessed as follows:</para>
 
 <variablelist>
 
 <varlistentry><term>Web</term><listitem><para><ulink
 url="http://groups.yahoo.com/group/lojban"><computeroutput>http://groups.yahoo.com/group/lojban</computeroutput></ulink>,
 <ulink
-url="http://groups.yahoo.com/group/jbosnu"><computeroutput>http://groups.yahoo.com/group/jbosnu</computeroutput></ulink></para></listitem></varlistentry>
+url="http://groups.yahoo.com/group/jbosnu"><computeroutput>http://groups.yahoo.com/group/jbosnu</computeroutput></ulink>,
+<ulink
+url="http://groups.yahoo.com/group/lojban-beginners"><computeroutput>http://groups.yahoo.com/group/lojban-beginners</computeroutput></ulink></para></listitem></varlistentry>
 
 <varlistentry><term>Email</term><listitem><para><ulink
 url="mailto://lojban@yahoogroups.com"><computeroutput>lojban@yahoogroups.com</computeroutput></ulink>,
 <ulink
-url="mailto://jbosnu@yahoogroups.com"><computeroutput>jbosnu@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+url="mailto://jbosnu@yahoogroups.com"><computeroutput>jbosnu@yahoogroups.com</computeroutput></ulink>,
+<ulink
+url="mailto://lojban-beginners@yahoogroups.com"><computeroutput>lojban-beginners@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
 
 <varlistentry><term>Subscribe</term><listitem><para><ulink
 url="mailto://lojban-subscribe@yahoogroups.com"><computeroutput>lojban-subscribe@yahoogroups.com</computeroutput></ulink>,
 <ulink
-url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
+url="mailto://jbosnu-subscribe@yahoogroups.com"><computeroutput>jbosnu-subscribe@yahoogroups.com</computeroutput></ulink>,
+<ulink
+url="mailto://lojban-beginners-subscribe@yahoogroups.com"><computeroutput>lojban-beginners-subscribe@yahoogroups.com</computeroutput></ulink></para></listitem></varlistentry>
 
-</variablelist></para>
+</variablelist>
 
 
 <para>If you have received a registration form and an order form with this

@@ -4,7 +4,7 @@ lang="art-lojban">stura le dei cmacku</foreignphrase></title>
 
 
 <para>This booklet is an introduction to the language Lojban.  It is
-divided into three parts.  </para>
+divided into three parts.</para>
 
 
 <para><link linkend="sect1">Part I</link> gives a general
@@ -18,7 +18,6 @@ available separately. <link linkend="sect3">Part III</link>, finally,
 contains a few texts in Lojban, with parallel translation and glosses, to
 allow you to get a feel for how the language works. </para>
 
-<para>
 <itemizedlist>
 
 <listitem><para>The <citetitle>Introduction</citetitle> (formerly the <foreignphrase
@@ -52,9 +51,9 @@ John Cowan in 1991, in response to Arnold M. Zwicky's<indexterm id="idx408">
 
 <listitem><para>The glosses in Part III were made using the program
 <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html"><citetitle>jbofihe</citetitle></ulink>
-by Richard Curnow.</para></listitem></itemizedlist></para>
+by Richard Curnow.</para></listitem></itemizedlist>
 
-<para>Thanks to Pierre Abbat and Jay Kominek for their 
+<para>Thanks to Pierre Abbat, Jay Kominek and Nora Tansky LeChevalier for their 
 suggestions.</para>
 
 <note><para>This booklet is published by the 
@@ -70,7 +69,7 @@ teaching materials, to greater amounts for people actively learning or
 supporting the language.  </para> </note>
 
 <para><foreignphrase lang="art-lojban">.i le dei cmacku cu vasru loi cfari
-terdjuno datni pe la lojban. .i le cmacku cu pagbu lo cimei</foreignphrase></para>
+terdjuno datni pe la lojban. .i le cmacku cu se pagbu lo cimei</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">.i le <link linkend="sect1">1moi 
 pagbu</link> cu naltcila jai jarco ledu'u ly. mo kau kei .e ledu'u ly. zasti 
@@ -79,12 +78,12 @@ linkend="sect2">2moi pagbu</link> cu vasru lo ritlymau velski be ly. be'o
 no'u lo naltcila velski be le gerna sidbo
 kujoi lo xracartu torvelski be le jubme gerna be'o .e lo prosa poi casnu le bauske
 cuntu noi srana la lojban. .i ka'e pilno le go'i .a le 
-cfari ve ctuca be la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
-linkend="sect3">3 mu'amai moi pagbu</link> cu vasru so'u seltcidu pebau la 
+cfari ve cilre be fi la lojban. be'o noi ka'e ji'a sepli se cpacu .i le <link 
+linkend="sect3">3 mu'anai moi pagbu</link> cu vasru so'u seltcidu pebau la 
 lojban. ge'u .e lo kansa xe fanva .e lo kansa xe vlafanva mu'i lenu do co'a 
 jimpe ledu'u le bangu cu se sazri ta'i ma kau</foreignphrase></para>
 
-<para><foreignphrase lang="art-lojban">ni'o</foreignphrase> 
+<para><foreignphrase lang="art-lojban">ni'o</foreignphrase></para> 
 <itemizedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">le lidne pagbu po'u le lu la lojban.
@@ -92,35 +91,35 @@ mo li'u seltcidu pepuku cu krasi se
 finti la .AT,lstan. joi la lojbab. ca la 1988nan. gi'e se ningau ca la
 1991nan. .e la 2001nan. .i ji'a co'a vasru loi seltcidu pefi'e la robin.terner.</foreignphrase></para></listitem> 
 
-<listitem><para><foreignphrase lang="art-lojban">.i le naltcila velski cu krasi se finti la lojbab. joi la
+<listitem><para><foreignphrase lang="art-lojban">.i la naltcila velski cu krasi se finti la lojbab. joi la
 djan. kau,n.
 ca la 1989nan. gi'e se ningau ca la 1990nan. .e la 2001nan.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le xracartu
+<listitem><para><foreignphrase lang="art-lojban">.i la xracartu
 torvelski cu krasi se finti la noras. tanskis. lecevalier. joi la lojbab.
 ca la 1990nan. gi'e se ningau ca la 1992nan. .e la
 2001nan.</foreignphrase></para></listitem> 
 
 <listitem><para><foreignphrase lang="art-lojban">.i la bauske se casnu cu se jicmu loi seltcidu poi krasi se vasru
-le lu la lojban. mo li'u seltcidu ku'o .e la'o lu xu tu'a la lojban. saske cinri li'u
+le lu la lojban. mo li'u seltcidu ku'o .e la'e lu xu tu'a la lojban. saske cinri li'u
 noi krasi se finti la lojbab. ca la 1992nan.
 ku'o .e la me la loglan .e la lojban. .i la me la loglan .e la lojban. cu
 krasi se finti la djan. 
 kau,n. ca la 1991nan. mu'i lenu spuda le pajni prosa befi la .arnold. zuikis.
 beife la pamoi pe la loglan. ge'u nefi'e la djeimyz.kuk.braun. zi'epede'i la 1966nan.
-.i le la zuikis. pajni prosa cu se gubgau vecu'u le 444 bi'o 457moi papri be le
+.i le la zuikis. pajni prosa cu se gubgau vecu'u le 444moi bi'o 457moi papri be le
 45 pi'e 2moi krefu be le karni
 po'u la'o gy. Language gy. be'o nede'i la 1969nan.</foreignphrase></para></listitem> 
 
 <listitem><para><foreignphrase lang="art-lojban">.i le valsi xe fanva pe le 3moi pagbu cu se cupra sepi'o le mutmi'i
 po'u la <ulink url="http://http://www.epita.fr/~poss_r/lojban/jboski.html">jbofi'e</ulink>
-zi'e nefi'e la ritcrd.kernous.</foreignphrase></para></listitem></itemizedlist></para>
+zi'e nefi'e la ritcrd.kernous.</foreignphrase></para></listitem></itemizedlist>
 
-<para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e la djez. KOminek. 
+<para><foreignphrase lang="art-lojban">.i mi ckire la pier. .abat. .e la djez. KOminek. .e la noras.tanskis.lecevalier.
 lenu vo'e cu stidi sidju</foreignphrase></para>
 
 <note><title><foreignphrase lang="art-lojban">ni'o
-ju'i</foreignphrase></title><para><foreignphrase lang="art-lojban">le
+ju'ido'u</foreignphrase></title><para><foreignphrase lang="art-lojban">le
 dei cmacku cu se gubgau la lojbangirz. noi ba'o ritli binxo lo nalprali ke
 saske ja ctuca ke dinterdu'a girzu poi le merko turni cu zanru lenu le
 cteki be le jdini poi se dunda fi le girzu cu jdika .i mi cpedu lenu le
@@ -128,7 +127,7 @@ cpacu be lemi datni bei xebe'i le skami cu jungau ly. lenu se cinri kei
 semu'i lenu pelji ja skami mrilu .i mi ji'a cpedu lenu do dunda fi la
 lojbangirz. mu'i lenu jdikygau lemi ca'o se pleji befo lenu vrici sarji
 le lojbo cecmu .i ro jdini poi do dunda cu plixau .i le se pleji be le
-dunda cu merko rupnu li su'e 5 pemu'i tu'a le cfari cilre seltcidu ge'uku bi'o lo
+dunda cu merko rupnu li su'e 5 pemu'i tu'a le cfari cilre seltcidu ge'u bi'o lo
 zmadu pe lo ca'a cilre ja sarji be le bangu</foreignphrase></para></note>
 
 

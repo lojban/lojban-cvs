@@ -1,5 +1,5 @@
 <chapter id="lingissues"><title>Linguistic Issues of Lojban &mdash;
-<foreignphrase lang="art-lojban">bauske se casnu pe le lojbo</foreignphrase>
+<foreignphrase lang="art-lojban">bauske se casnu sera'a le lojbo</foreignphrase>
 </title><titleabbrev>Linguistic Issues of Lojban</titleabbrev>
 
 <qandaset>
@@ -29,19 +29,19 @@ gender or time in mind, sounds strange. In Chinese, on the other hand,
 role="gloss">he/she/it go</quote>) is perfectly normal. In Lojban there are plenty
 of words to show the time of an action, its length, how it happens and so
 on &mdash; but you don't have to use any of them. If you really wanted to,
-you could say:
+you could say:</para>
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">le ninmu puzuze'udi'i klama</foreignphrase>
 the female-human past-long-time-distance-long-time-interval-regularly go
 <wordasword>A long time ago, for a long time, she went regularly.</wordasword></literallayout>
 </informalexample>
-But you can equally well say:
+<para>But you can equally well say:</para>
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">klama</foreignphrase>
 [someone/something] go </literallayout>
-</informalexample></para>
+</informalexample>
 
 <para>Notice that you can translate the first example into English
 (more-or-less) but the second one just won't go into English, or most
@@ -1149,8 +1149,8 @@ be pronounced as a much easier medial cluster.<indexterm id="idx451">
 </indexterm> Thus <foreignphrase
 lang="art-lojban">le mlatu</foreignphrase> (<quote 
 role="socalled">the
-cat</quote>), while officially pronounced /<emphasis role="ipa">le,MLA,tu</emphasis>/, can be pronounced as
-/<emphasis role="ipa">lem,LA,tu</emphasis>/ with no confusion to the listener.</para>
+cat</quote>), while officially pronounced /<emphasis role="ipa">le,mla,tu</emphasis>/, can be pronounced as
+/<emphasis role="ipa">lem,la,tu</emphasis>/ with no confusion to the listener.</para>
 
 <para>In addition, the buffering sound, IPA [<emphasis role="ipa">&Ibarredipa;</emphasis>] (the
 <wordasword>i</wordasword> of English <wordasword>bit</wordasword>), is
@@ -1630,8 +1630,7 @@ in 1 year to the same degree to which you can learn French.</para></listitem>
 <listitem><para>Then you can learn the artificial language and German in
 3 years instead of 4, and all three languages in 5 years instead of
 6. This gains a year <emphasis>even if the student never again uses the
-artificial language</emphasis>.</para></listitem></itemizedlist><indexterm id="idx461aa" startref="idx460aa" class="endofrange"/></para></answer>
-</qandaentry>
+artificial language</emphasis>.<indexterm id="idx461aa" startref="idx460aa" class="endofrange"/></para></listitem></itemizedlist></para></answer></qandaentry>
 
 <qandaentry>
 <question>
@@ -1651,8 +1650,7 @@ equivalent of the entire English sentence <quote>Several small fires were
 burning in the house.</quote> Here is a Lojban sentence closely paralleling
 the English:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">
-so'i cmalu fagri puca'o    jelca   ne'i    le  zdani</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">so'i cmalu fagri puca'o    jelca   ne'i    le  zdani</foreignphrase>
 Many small fires were-then burning within the house.</literallayout>
 
 </informalexample>But here is the sentence as a single word (though not with the same
@@ -1663,17 +1661,17 @@ house-inside-type-of-small-fire-many-type-of-previous-burning</literallayout>
 
 </informalexample>In fact, according to Miller the Nootka breaks down as:
 
-<informalexample><literallayout><foreignphrase lang="nai">inikw     -ihl             -'minih -'is              -it</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="nai">inikw      -ihl               -'minih -'is              -it</foreignphrase>
 fire/burn in-the-house plural  diminutive  past-tense</literallayout>
 
 </informalexample>This order is also readily expressible in Lojban:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">fagykemzdanerso'icmapru</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">fagykemyzdanerso'icmapru</foreignphrase>
 fire-type-of-house-inside-many-small-past-event</literallayout>
 
-</informalexample></para>
+</informalexample>
 
-<para><indexterm id="idx460m" class="startofrange" significance="preferred">
+<indexterm id="idx460m" class="startofrange" significance="preferred">
 <primary>linguistic glossing</primary>
 </indexterm>In either case, the Lojban more accurately tracks the semantics of the
 Nootka, demonstrating the inadequacy of the English. The Nootka word as

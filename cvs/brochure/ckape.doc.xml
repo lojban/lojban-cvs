@@ -13,7 +13,7 @@
 <foreignphrase lang="art-lojban">i ca le nu finti dei kei mi zgana</foreignphrase>
 <foreignphrase lang="art-lojban">le nu le romoi gusni pe le vanci</foreignphrase>
 <foreignphrase lang="art-lojban">sekai le ka lazni cu masno canci</foreignphrase>
-<foreignphrase lang="art-lojban">i le nu mi ciska dei cu se ckana</foreignphrase>
+<foreignphrase lang="art-lojban">i le nu mi ciska dei cu te ckana</foreignphrase>
 
 <foreignphrase lang="art-lojban">i xu frili fa le nu mi le zdani</foreignphrase>
 <foreignphrase lang="art-lojban">cu cliva bai le banli mukti  i na</foreignphrase>
@@ -606,7 +606,7 @@ lang="art-lojban">[<subscript>4</subscript>(<subscript>5</subscript>mi)<subscrip
 <row>
 <entry>&nbsp;</entry>
 <entry spanname="ckana2"><foreignphrase 
-lang="art-lojban"><emphasis role="placestruct">ckana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (material)</emphasis></entry>
+lang="art-lojban"><emphasis role="placestruct">ckana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>3</subscript> (supported)</emphasis></entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (write-r(s))</emphasis></entry>
 </row>
@@ -656,14 +656,14 @@ lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><
 <entry><foreignphrase 
 lang="art-lojban">cu</foreignphrase></entry>
 
-<entry><foreignphrase lang="art-lojban">se 
+<entry><foreignphrase lang="art-lojban">te 
 ckana&raquo;<subscript>8</subscript>]<subscript>1</subscript></foreignphrase></entry>
 
 </row>
 
 <row rowsep="1">
 <entry>is/does</entry>
-<entry>being bed material</entry>
+<entry>being supported by bed</entry>
 </row>
 
 </tbody>

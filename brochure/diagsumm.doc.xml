@@ -35,7 +35,7 @@ corresponding words.</para>
 <simplesect><title>Some words used as <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></title>
 
-<para><variablelist>
+<variablelist>
 <varlistentry>
 <term><foreignphrase lang="art-lojban">mi</foreignphrase></term> 
 <listitem><para>I/me/my, we/us/our</para></listitem>
@@ -60,7 +60,9 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></title>
 <term><foreignphrase lang="art-lojban">zo'e</foreignphrase></term>
 <listitem><para>unspecified value (used when a <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> is unimportant or obvious)</para></listitem>
 </varlistentry>
-</variablelist></para><para><foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> are not
+</variablelist>
+
+<para><foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> are not
 specific as to number (singular or plural), nor gender
 (masculine/feminine/neuter). Such distinctions can be optionally 
 added.</para>
@@ -133,14 +135,14 @@ the sentence very clear.</para></listitem>
 
 <simplesect><title>Basic structure of a Lojban sentence</title>
 
-<para><informalexample><para><foreignphrase lang="art-lojban"><emphasis
-role="sumti"><emphasis role="term">sumti</emphasis></emphasis> <emphasis role="sumti"><emphasis role="term">sumti</emphasis></emphasis> ...
-<emphasis role="sumti"><emphasis role="term">sumti</emphasis></emphasis> [cu] <emphasis
-role="selbri"><emphasis role="term">selbri</emphasis></emphasis> <emphasis role="sumti"><emphasis role="term">sumti</emphasis></emphasis>
-<emphasis role="sumti"><emphasis role="term">sumti</emphasis></emphasis> ... <emphasis
-role="sumti"><emphasis role="term">sumti</emphasis></emphasis> [vau]</foreignphrase></para></informalexample></para>
+<informalexample><para><foreignphrase lang="art-lojban"><emphasis
+role="sumti">sumti</emphasis> <emphasis role="sumti">sumti</emphasis> ...
+<emphasis role="sumti">sumti</emphasis> [cu] <emphasis
+role="selbri">selbri</emphasis> <emphasis role="sumti">sumti</emphasis>
+<emphasis role="sumti">sumti</emphasis> ... <emphasis
+role="sumti">sumti</emphasis> [vau]</foreignphrase></para></informalexample>
 
-<para><itemizedlist>
+<itemizedlist>
 
 <listitem><para>Normally, there must be at least one <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> before the <foreignphrase
@@ -174,7 +176,7 @@ lang="art-lojban">vau</foreignphrase></primary>
 at the end of the sentence, indicating that no more <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> will follow. It usually may be
 omitted.</para></listitem>
-</itemizedlist></para></simplesect>
+</itemizedlist></simplesect>
 
 <simplesect><title>Sentence examples</title>
 
@@ -281,15 +283,15 @@ lang="art-lojban">zo'e</foreignphrase></primary>
 be omitted.</para></listitem>
 
 <listitem><para>Normally, there will be one <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> (the x<subscript>1</subscript>) before the <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>.  There may
-be more than one:
+be more than one:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
-<colspec colnum="1" colname="c1" colwidth="2*"/>
-<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="1" colname="c1" colwidth="3*"/>
+<colspec colnum="2" colname="c2" colwidth="4*"/>
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <colspec colnum="4" colname="c4" colwidth="2*"/>
-<colspec colnum="5" colname="c5" colwidth="2*"/>
+<colspec colnum="5" colname="c5" colwidth="3*"/>
 <tbody>
 
 <row>
@@ -362,7 +364,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 </tgroup>
 
 </informaltable>
-Usually, more than one <foreignphrase
+<para>Usually, more than one <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> before the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> will be for style or for emphasis
 on the <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> that are
@@ -384,7 +386,7 @@ obvious, and therefore omitted. Any <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> after the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> start counting from
 x<subscript>2</subscript>, x<subscript>3</subscript>,
-x<subscript>4</subscript>...:
+x<subscript>4</subscript>...:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -442,7 +444,9 @@ beautiful.</wordasword></entry>
 
 </tgroup>
 
-</informaltable></para><para>When the x<subscript>1</subscript> is omitted:
+</informaltable>
+
+<para>When the x<subscript>1</subscript> is omitted:</para>
 
 <informaltable frame="none">
 <tgroup cols="3">
@@ -533,7 +537,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </tgroup>
 
-</informaltable></para>
+</informaltable>
 <para>Omitting the x<subscript>1</subscript> adds emphasis to the
 <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> relation, which has
 become first and foremost in the sentence. This kind of sentence is termed
@@ -571,7 +575,7 @@ lang="art-lojban">xu</foreignphrase>)</secondary>
 <primary><foreignphrase
 lang="art-lojban">xu</foreignphrase></primary><see>questions</see>
 </indexterm><foreignphrase
-lang="art-lojban">xu</foreignphrase> question sentence (Is-it-true-that...):
+lang="art-lojban">xu</foreignphrase> question sentence (Is-it-true-that...):</para>
 
 <informaltable frame="none">
 <tgroup cols="7">
@@ -631,7 +635,9 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </tgroup>
 
-</informaltable></para><para><foreignphrase lang="art-lojban">xu</foreignphrase> has a very
+</informaltable>
+
+<para><foreignphrase lang="art-lojban">xu</foreignphrase> has a very
 unrestricted grammar, and is permitted virtually anywhere in a sentence. At
 the beginning of the sentence, <foreignphrase
 lang="art-lojban">xu</foreignphrase> asks about the truth of the
@@ -654,7 +660,7 @@ role="term">sumti</emphasis></foreignphrase> questions whether the
 role="term">bridi</emphasis></foreignphrase> relationship expressed by
 the sentence is true, in particular for that <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>
-value:
+value:</para>
 
 <informaltable frame="none">
 <tgroup cols="7">
@@ -730,7 +736,9 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </tgroup>
 
-</informaltable></para><para>Similarly, <foreignphrase lang="art-lojban">xu</foreignphrase>
+</informaltable>
+
+<para>Similarly, <foreignphrase lang="art-lojban">xu</foreignphrase>
 following <foreignphrase lang="art-lojban">vecnu</foreignphrase> in the
 above example would question the truth of the <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> relationship by specifically asking
@@ -880,7 +888,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 </tgroup>
 
 </informaltable>
-which is equivalent to:
+which is equivalent to:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -973,10 +981,12 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 </tgroup>
 
-</informaltable></para><para>After a <foreignphrase lang="art-lojban">fi</foreignphrase> tag sets
+</informaltable>
+
+<para>After a <foreignphrase lang="art-lojban">fi</foreignphrase> tag sets
 the place number, any later <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> places continue the numbering
-consecutively:
+consecutively:</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -1069,7 +1079,9 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>Another reason to use <foreignphrase
+</informaltable>
+
+<para>Another reason to use <foreignphrase
 lang="art-lojban">fi</foreignphrase> tags is to change emphasis; listeners
 focus most closely on the <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> at the beginning of a sentence.
@@ -1256,7 +1268,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 structure for talk or writing that is longer than one sentence. The
 entirety of a given speech event or written text is called an <firstterm>utterance</firstterm><indexterm id="idx219">
 <primary>utterances</primary>
-</indexterm>.
+</indexterm>.</para>
 
 <informalexample><literallayout>sentence <foreignphrase lang="art-lojban">.i</foreignphrase> sentence <foreignphrase lang="art-lojban">.i</foreignphrase> sentence [...] <foreignphrase lang="art-lojban">.i</foreignphrase> sentence
 <foreignphrase lang="art-lojban">ni'o</foreignphrase> sentence <foreignphrase lang="art-lojban">.i</foreignphrase> sentence <foreignphrase lang="art-lojban">.i</foreignphrase> sentence <foreignphrase lang="art-lojban">.i</foreignphrase> sentence [...] <foreignphrase lang="art-lojban">.i</foreignphrase> sentence
@@ -1307,7 +1319,7 @@ this, and then I did that, and ..., and ...</quote>.</para></listitem>
 end-of-utterance marker, used primarily in computer input. It is not needed
 in human speech.</para></listitem>
 
-</itemizedlist></informalexample></para>
+</itemizedlist></informalexample>
 
 <para>You may now see why the <foreignphrase
 lang="art-lojban">vau</foreignphrase> at the end of the sentence can
@@ -1471,7 +1483,7 @@ place-filler allowing you to skip over a <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> place in the ordered place
 structure without specifying a value. The speaker indicates that there is a
 value, but that it is not important to specify it, or that the speaker
-thinks it is obvious given the context.
+thinks it is obvious given the context.</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -1524,7 +1536,9 @@ language.)</wordasword></entry> </row>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><foreignphrase lang="art-lojban">ri</foreignphrase><indexterm id="idx231">
+</informaltable>
+
+<para><foreignphrase lang="art-lojban">ri</foreignphrase><indexterm id="idx231">
 <primary><foreignphrase 
 lang="art-lojban">ri</foreignphrase></primary>
 </indexterm><indexterm id="idx231a">
@@ -1536,7 +1550,7 @@ counting back to <quote role="socalled">the last <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></quote> include some special cases that
 can't be covered in this summary, but in most simple sentences, the
 referent will be obvious. There are two other back-referencing
-<foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> of this type.
+<foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> of this type.</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -1614,7 +1628,7 @@ role="sumti">ri</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para><foreignphrase lang="art-lojban">ko</foreignphrase><indexterm id="idx232">
 <primary><foreignphrase 
@@ -1679,7 +1693,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 </tbody>
 </tgroup>
 </informaltable>
-is the command equivalent of:
+is the command equivalent of:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -1726,7 +1740,9 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><foreignphrase lang="art-lojban">ko</foreignphrase> need not be in
+</informaltable>
+
+<para><foreignphrase lang="art-lojban">ko</foreignphrase> need not be in
 the first position, but rather can occur anywhere a <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> is allowed, leading to possible
 Lojban commands that are very unlike English commands:
@@ -1961,7 +1977,7 @@ role="sumti">do</emphasis></foreignphrase></entry>
 </tbody>
 </tgroup>
 </informaltable>
-is answerable by:
+is answerable by:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -1996,7 +2012,8 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
+
 <para>Like <foreignphrase lang="art-lojban">ko</foreignphrase>,
 <foreignphrase lang="art-lojban">ma</foreignphrase> can occur in any
 position where a <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> is
@@ -2191,10 +2208,10 @@ structure</title>
 
 <para>Though Lojban sentences often translate word-for-word into fairly
 clear English, <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>
-relations are actually quite unlike English. The <foreignphrase
+relations are actually quite unlike English. For example, the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> <foreignphrase
 lang="art-lojban">bajra</foreignphrase> expresses a relation of
-running.
+running.</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -2239,7 +2256,9 @@ role="sumti"><emphasis role="term">sumti</emphasis></emphasis></foreignphrase></
 
 </tbody>
 </tgroup>
-</informaltable></para><para>In some sentence positions, <foreignphrase
+</informaltable>
+
+<para>In some sentence positions, <foreignphrase
 lang="art-lojban">bajra</foreignphrase> might be interpreted as the <quote
 role="socalled">verb</quote> <wordasword>to run</wordasword>; in other
 positions, as the <quote role="socalled">noun</quote> or <quote
@@ -2445,7 +2464,7 @@ lang="art-lojban">go'i</foreignphrase></primary>
 <foreignphrase lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> of the previous
 Lojban sentence, with any new <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> or other sentence features being
-expressed replacing the previously expressed ones. Thus, in this context:
+expressed replacing the previously expressed ones. Thus, in this context:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -2487,7 +2506,9 @@ role="selbri">go'i</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>The word <foreignphrase lang="art-lojban">go'i</foreignphrase>, by
+</informaltable>
+
+<para>The word <foreignphrase lang="art-lojban">go'i</foreignphrase>, by
 itself, by repeating a <foreignphrase
 lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase> marked as a <foreignphrase
 lang="art-lojban">xu</foreignphrase> true/false question<indexterm id="idx246">
@@ -2653,7 +2674,23 @@ lang="art-lojban">na go'i</foreignphrase> denies the relation claimed by
 <foreignphrase lang="art-lojban">go'i</foreignphrase>. Thus, after a
 <foreignphrase lang="art-lojban">xu</foreignphrase> true/false question,
 <foreignphrase lang="art-lojban">na go'i</foreignphrase> expresses the
-answer <quote>False</quote>, or <quote>No</quote>.
+answer <quote>False</quote>, or <quote>No</quote>.</para>
+
+<para>If you were to use <foreignphrase
+lang="art-lojban">go'i</foreignphrase> after a sentence that contained a
+<foreignphrase lang="art-lojban">na</foreignphrase> contradictory negation,
+the negation would carry over to the repeated sentence. Unlike English,
+<foreignphrase lang="art-lojban">na go'i</foreignphrase> would
+<emphasis>not</emphasis> form a double negative; it merely replaces the
+<foreignphrase lang="art-lojban">na</foreignphrase> by another
+<foreignphrase lang="art-lojban">na</foreignphrase> leaving the sentence
+unchanged. Instead, you must cancel a negative by using the positive
+equivalent of <foreignphrase lang="art-lojban">na</foreignphrase>
+(<foreignphrase lang="art-lojban">ja'a</foreignphrase><indexterm id="idx252">
+<primary><foreignphrase
+lang="art-lojban">ja'a</foreignphrase></primary>
+</indexterm>) to replace the previous sentence
+<foreignphrase lang="art-lojban">na</foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -2693,25 +2730,12 @@ role="selbri">go'i</emphasis></foreignphrase></entry>
 <row>
 
 <entry spanname="whole"><wordasword>It is <emphasis>true</emphasis> that I do
-(go to this from that).</wordasword></entry> </row>
+(go to this from that).</wordasword><indexterm id="idx248" startref="idx247" class="endofrange"/></entry> </row>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>If you were to use <foreignphrase
-lang="art-lojban">go'i</foreignphrase> after a sentence that contained a
-<foreignphrase lang="art-lojban">na</foreignphrase> contradictory negation,
-the negation would carry over to the repeated sentence. Unlike English,
-<foreignphrase lang="art-lojban">na go'i</foreignphrase> would
-<emphasis>not</emphasis> form a double negative; it merely replaces the
-<foreignphrase lang="art-lojban">na</foreignphrase> by another
-<foreignphrase lang="art-lojban">na</foreignphrase> leaving the sentence
-unchanged. Instead, you must cancel a negative by using the positive
-equivalent of <foreignphrase lang="art-lojban">na</foreignphrase>
-(<foreignphrase lang="art-lojban">ja'a</foreignphrase><indexterm id="idx252">
-<primary><foreignphrase
-lang="art-lojban">ja'a</foreignphrase></primary>
-</indexterm>) to replace the previous sentence
-<foreignphrase lang="art-lojban">na</foreignphrase>.<indexterm id="idx248" startref="idx247" class="endofrange"/></para>
+</informaltable>
+
 </simplesect>
 
 <simplesect><title>Scalar negation (<quote><foreignphrase
@@ -2947,7 +2971,7 @@ role="selbri">je'a melbi</emphasis></foreignphrase></entry>
 question. It asks the respondent to provide a <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> that would be a true relation if
 inserted in place of the <foreignphrase
-lang="art-lojban">mo</foreignphrase>:
+lang="art-lojban">mo</foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -2977,7 +3001,8 @@ role="selbri">mo</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
+
 <para><foreignphrase lang="art-lojban">mo</foreignphrase> may be used
 <emphasis>anywhere</emphasis> a <foreignphrase
 lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase> or other <foreignphrase
@@ -3195,7 +3220,7 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 </tbody>
 </tgroup>
 </informaltable>
-can be converted to:
+can be converted to:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -3263,7 +3288,8 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>   
+</informaltable>
+  
 <para>The effect is similar to what in English is called <quote 
 role="socalled">passive voice</quote>.
 In Lojban, however, a conversion is <emphasis>not</emphasis> <quote 
@@ -3564,7 +3590,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> is alwa
 <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>/component of the
 <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>. Thus, the following
 has the place structure of <foreignphrase
-lang="art-lojban">klama</foreignphrase>:
+lang="art-lojban">klama</foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -3599,11 +3625,13 @@ role="sumti">la meris.</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>With the conversion <foreignphrase lang="art-lojban">se
+</informaltable>
+
+<para>With the conversion <foreignphrase lang="art-lojban">se
 klama</foreignphrase> in the final position, the place structure is that of
 <foreignphrase lang="art-lojban">se klama</foreignphrase>: the
 x<subscript>1</subscript> place is the destination, and the
-x<subscript>2</subscript> place is the go-er:
+x<subscript>2</subscript> place is the go-er:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -3638,7 +3666,9 @@ role="sumti">la meris.</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>A similar example shows that there is more to conversion than merely
+</informaltable>
+
+<para>A similar example shows that there is more to conversion than merely
 switching places, though:
 
 <informaltable frame="none">
@@ -3800,7 +3830,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase>. This a
 <foreignphrase lang="art-lojban">mo</foreignphrase> questions<indexterm id="idx272">
 <primary>questions</primary><secondary><foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase></secondary>
-</indexterm>:
+</indexterm>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -3866,7 +3896,9 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>It was stated above that you can use scalar negation (<foreignphrase
+</informaltable>
+
+<para>It was stated above that you can use scalar negation (<foreignphrase
 lang="art-lojban">na'e</foreignphrase> and its equivalents) in
 <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase><indexterm id="idx273">
 <primary>negation</primary><secondary>in <foreignphrase
@@ -3949,7 +3981,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 <para><indexterm id="idx274" class="startofrange" significance="preferred">
 <primary>quantifiers</primary>
-</indexterm>Lojban numbers are expressed as strings of digits.  The basic digits are:
+</indexterm>Lojban numbers are expressed as strings of digits.  The basic digits are:</para>
 
 <informaltable frame="none">
 <tgroup cols="11">
@@ -4010,9 +4042,11 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">moi</foreignphrase> (usually seen combined into one word) (<firstterm>ordinal numbers</firstterm><indexterm id="idx276">
+</informaltable>
+
+<para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">moi</foreignphrase> (usually seen combined into one word) (<firstterm>ordinal numbers</firstterm><indexterm id="idx276">
 <primary>quantifiers</primary><secondary>ordinal</secondary>
-</indexterm>):
+</indexterm>):</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -4042,10 +4076,12 @@ role="selbri">ci moi</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">mei</foreignphrase> (usually
+</informaltable>
+
+<para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">mei</foreignphrase> (usually
 seen combined into one word) (<firstterm>cardinal numbers</firstterm><indexterm id="idx277">
 <primary>quantifiers</primary><secondary>cardinal</secondary>
-</indexterm>):
+</indexterm>):</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -4075,10 +4111,12 @@ role="selbri">ci mei</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">si'e</foreignphrase> (usually
+</informaltable>
+
+<para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">si'e</foreignphrase> (usually
 seen combined into one word) (<firstterm>portional numbers</firstterm><indexterm id="idx278">
 <primary>quantifiers</primary><secondary>portional</secondary>
-</indexterm>):
+</indexterm>):</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -4108,10 +4146,12 @@ role="selbri">pimu si'e</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">cu'o</foreignphrase> (usually
+</informaltable>
+
+<para><emphasis role="term">number</emphasis> <foreignphrase lang="art-lojban">cu'o</foreignphrase> (usually
 seen combined into one word) (<firstterm>probability numbers</firstterm><indexterm id="idx279">
 <primary>quantifiers</primary><secondary>probability</secondary>
-</indexterm>):
+</indexterm>):</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -4142,7 +4182,9 @@ role="selbri">pimu cu'o</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>Note the interpretation of x<subscript>1</subscript> in the last
+</informaltable>
+
+<para>Note the interpretation of x<subscript>1</subscript> in the last
 example, which is a result of the place structure of probability numbers.
 Each of these special kinds of <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> have other places besides the
@@ -4267,7 +4309,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> of</sec
 </indexterm>Using the internal <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> structure, any of the components of
 a <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> can have its own
-<foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:
+<foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="9">
@@ -4346,7 +4388,7 @@ role="sumti">le melbi ku</emphasis></foreignphrase></entry>
 <tbody>
 
 <row>
-<entry><foreignphrase lang="art-lojban">[vau]</foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">vecnu [vau]</foreignphrase></entry>
 
 
 </row>
@@ -4359,7 +4401,7 @@ beautiful things.</wordasword></entry> </row>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>In compound constructs such as this one, the normally optional
 <firstterm>elidable</firstterm><indexterm id="idx288">
@@ -4485,7 +4527,7 @@ lang="art-lojban">be'o</foreignphrase>, we ended up with <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> attached to the <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> word in final position. The latter
 sentence is thus identical in meaning to the same sentence expressed
-without internal <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:
+without internal <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -4523,7 +4565,7 @@ you.</wordasword></entry> </row>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>Internal <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> can
 use any <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> construct,
@@ -4825,7 +4867,7 @@ lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> inversi
 <primary><foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase></primary>
 <secondary>inversion</secondary>
-</indexterm>:
+</indexterm>:</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -4890,7 +4932,7 @@ role="selbri">co cmalu</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> inversion can
 work for many simple grouping problems. However, since it changes the final
@@ -4923,7 +4965,7 @@ in other places where no ambiguity results, the <foreignphrase
 lang="art-lojban">ke'e</foreignphrase> terminator becomes optional
 (elidable):<indexterm id="idx297">
 <primary>ellipsis</primary>
-</indexterm>
+</indexterm></para>
 
 <informaltable frame="none">
 <tgroup cols="2">
@@ -5000,7 +5042,9 @@ role="selbri">[ke'e]</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>A <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> structure
+</informaltable>
+
+<para>A <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> structure
 surrounded by <foreignphrase lang="art-lojban">ke</foreignphrase> and
 <foreignphrase lang="art-lojban">ke'e</foreignphrase> has the same grammar
 as a single word <foreignphrase lang="art-lojban"><emphasis role="term">brivla</emphasis></foreignphrase>.
@@ -5116,7 +5160,7 @@ inside the two markers can be a Lojban sentence of <emphasis>any</emphasis>
 type discussed in this paper, no matter how complex. The word
 <foreignphrase lang="art-lojban">nu</foreignphrase> indicates an
 <firstterm>event abstraction</firstterm>, the most common kind of
-abstraction found in Lojban.
+abstraction found in Lojban.</para>
 
 <informaltable frame="none">
 <tgroup cols="2">
@@ -5228,13 +5272,13 @@ role="selbri">[kei]</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>The term <wordasword>event</wordasword> should not be misconstrued.
 In Lojban, it can refer to a momentary occurrence, or to a situation
 lasting hours, days, or even an indefinite period of time. <foreignphrase
 lang="art-lojban">nu</foreignphrase> can stand for any of these kinds and
-dura- tions of events. Other words may substitute for <foreignphrase
+durations of events. Other words may substitute for <foreignphrase
 lang="art-lojban">nu</foreignphrase> when you need to be specific and
 indicate particular <firstterm>event contours</firstterm><indexterm id="idx301">
 <primary>event contours</primary>
@@ -5449,7 +5493,7 @@ lang="art-lojban"><emphasis
 role="term">rafsi</emphasis></foreignphrase> combining form of <foreignphrase
 lang="art-lojban">nu</foreignphrase>, and <foreignphrase
 lang="art-lojban">bajra</foreignphrase>, which serves as its own combining
-form:
+form:</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -5509,7 +5553,7 @@ with gait x<subscript>5</subscript>.</entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 <para>Comparing this place structure with the one at the beginning of this
 section, you will see that x<subscript>1</subscript> has been assigned to
 the event, while the remaining places are those of <foreignphrase
@@ -5731,7 +5775,7 @@ lang="art-lojban"><emphasis role="term">bridi</emphasis></foreignphrase>, the de
 convert that sentence using <foreignphrase
 lang="art-lojban">se</foreignphrase>, and <foreignphrase
 lang="art-lojban">le se go'i [ku]</foreignphrase> means the destination
-(<foreignphrase lang="art-lojban">le se tavla [ku]</foreignphrase>).
+(<foreignphrase lang="art-lojban">le se tavla [ku]</foreignphrase>).</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -5862,7 +5906,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>It is <emphasis>important</emphasis> to remember and correctly use the elidable separator
 <foreignphrase lang="art-lojban">cu</foreignphrase><indexterm id="idx308">
@@ -6019,7 +6063,7 @@ role="sumti">le tavla</emphasis></foreignphrase></entry>
 role="sumti">mi</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">bei <emphasis
-role="sumti">le vecnu [ku]</emphasis> be'o</foreignphrase></entry>
+role="sumti">le vecnu [ku]</emphasis> [be'o]</foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">[ku]</foreignphrase></entry>
 </row>
@@ -6197,7 +6241,7 @@ goes.)</wordasword></entry>
 </tgroup>
 
 
-</informaltable>Without the omitted terminators this looks a bit less wordy:
+</informaltable>Without the omitted terminators this looks a bit less wordy:</para>
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -6216,7 +6260,9 @@ goes.)</wordasword></entry>
 </tbody>
 </tgroup>
 
-</informaltable></para><para>Since a <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> can be a
+</informaltable>
+
+<para>Since a <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> can be a
 <foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> with internal
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>, a <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> may be built on such a
@@ -6250,7 +6296,7 @@ role="sumti">le</emphasis></foreignphrase></entry>
 role="sumti">melbi</emphasis></foreignphrase></entry>
 
 <entry><foreignphrase lang="art-lojban">be <emphasis
-role="sumti">mi</emphasis> be'o</foreignphrase></entry>
+role="sumti">mi</emphasis> [be'o]</foreignphrase></entry>
 
 <entry>&nbsp;</entry>
 
@@ -6469,7 +6515,7 @@ lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase></primar
 <primary>orthography</primary>
 </indexterm> compounds are always understood as
 meaning the same thing as the words written separately. <foreignphrase
-lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> are generally written one word when
+lang="art-lojban"><emphasis role="term">cmavo</emphasis></foreignphrase> are generally written as one word when
 they together equate to a concept that is written in other languages as one
 word.</para>
    
@@ -6480,14 +6526,14 @@ the abstraction will often be omitted<indexterm id="idx326">
 and realizes that the go-er wasn't specified (as well as the origin, the
 route and the means), the obvious value(s) will be assumed. Leaving out the
 <foreignphrase lang="art-lojban">mi</foreignphrase> is exactly comparable
-to the difference between the two English sentences:
+to the difference between the two English sentences:</para>
 
-<informalexample><para><wordasword>I want to go to the store</wordasword>
-(and) <wordasword>I want myself to go to the 
-store.</wordasword></para></informalexample><informalexample>
+<informalexample><literallayout><wordasword>I want to go to the store</wordasword> (and) <wordasword>I want myself to go to the  store.</wordasword></literallayout></informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">mi djica lenu klama le zarci</foreignphrase>
 I want to go to the store.</literallayout>
-</informalexample></para><para>If an abstraction is in the x<subscript>1</subscript> position,
+</informalexample>
+
+<para>If an abstraction is in the x<subscript>1</subscript> position,
 <foreignphrase lang="art-lojban">cu</foreignphrase> allows four other
 elidable markers to be omitted. For example in a conversion<indexterm id="idx327a">
 <primary>place structure</primary>
@@ -6703,7 +6749,7 @@ lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>: quanti
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> being described is to insert the
 number followed by a terminator <foreignphrase
 lang="art-lojban">boi</foreignphrase> that may be omitted when no
-ambiguity results (the usual case):
+ambiguity results (the usual case):</para>
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -6723,7 +6769,8 @@ role="selbri">klama</emphasis> [vau]</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
+
 <para><foreignphrase
 lang="art-lojban">boi</foreignphrase> may not be elided when a number <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> follows, since you wouldn't know
@@ -7124,7 +7171,7 @@ text).</para>
 </simplesect>
 </sect1>
 
-<sect1 id="attach"><title>Attachments <foreignphrase
+<sect1 id="attach"><title>Attachments to <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> and <foreignphrase
 lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase> and sentences</title>
 
@@ -7209,7 +7256,7 @@ role="sumti">le nu do [cu] tavla [vau] [kei] [ku]</emphasis></foreignphrase></en
 </tbody>
 </tgroup>
 </informaltable>
-You must think carefully about what you mean with these constructions:
+You must think carefully about what you mean with these constructions:</para>
 
 <informaltable frame="none">
 <tgroup cols="6">
@@ -7254,7 +7301,9 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>Modal tags proper can also be used to add new <foreignphrase
+</informaltable>
+
+<para>Modal tags proper can also be used to add new <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> places: e.g. <foreignphrase
 lang="art-lojban">secau</foreignphrase> (without ...),
 <foreignphrase
@@ -7416,7 +7465,7 @@ lang="art-lojban">pe</foreignphrase></primary>
 identified more exactly by attaching a <firstterm>relative
 phrase</firstterm>, another <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>, that in some way restricts the
-possible set of things being referred to:
+possible set of things being referred to:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -7469,7 +7518,8 @@ role="selbri">blari'o</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
+
 <para><foreignphrase lang="art-lojban">pe</foreignphrase>, the basic marker
 of a <firstterm>restrictive relative phrase</firstterm>, is vague as to the
 exact nature of the relationship between the original <foreignphrase
@@ -7492,7 +7542,7 @@ lang="art-lojban">po</foreignphrase></primary><see>possessives: relative phrases
 </indexterm><indexterm id="idx353">
 <primary><foreignphrase
 lang="art-lojban">po'e</foreignphrase></primary><see>possessives: relative phrases</see>
-</indexterm>:
+</indexterm>:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -7571,7 +7621,9 @@ cut off.) </entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><foreignphrase lang="art-lojban">po'u</foreignphrase> identifies a
+</informaltable>
+
+<para><foreignphrase lang="art-lojban">po'u</foreignphrase> identifies a
 <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> by giving another
 <emphasis>identity</emphasis>: a <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> that
 could equivalently replace the original:<indexterm id="idx354">
@@ -7579,7 +7631,7 @@ could equivalently replace the original:<indexterm id="idx354">
 </indexterm><indexterm id="idx355">
 <primary><foreignphrase lang="art-lojban">po'u</foreignphrase></primary>
 <see>relative phrases: identity</see>
-</indexterm>
+</indexterm></para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -7649,7 +7701,9 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para><foreignphrase lang="art-lojban">goi</foreignphrase>, used like
+</informaltable>
+
+<para><foreignphrase lang="art-lojban">goi</foreignphrase>, used like
 <foreignphrase lang="art-lojban">pe</foreignphrase>, defines <foreignphrase
 lang="art-lojban">ko'a</foreignphrase> and other variable <foreignphrase
 lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase> for use throughout a text without
@@ -7658,7 +7712,7 @@ repeating:<indexterm id="idx356">
 </indexterm><indexterm id="idx357">
 <primary><foreignphrase lang="art-lojban">goi</foreignphrase></primary>
 <see>relative phrases: identity</see>
-</indexterm>
+</indexterm></para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -7731,7 +7785,7 @@ role="sumti">lenu do klama ko'a [vau] [kei] [ku]</emphasis> [vau]</foreignphrase
 </row>
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>Lojban has words identical in grammar to <foreignphrase
 lang="art-lojban">pe</foreignphrase> that provide 
@@ -7745,7 +7799,7 @@ lang="art-lojban">ne</foreignphrase> is the non-restrictive
 lang="art-lojban">pe</foreignphrase>.</para>
 
 <para>This construct may be combined with the modal construct discussed just
-   previously to identify a <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:
+   previously to identify a <foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -7801,10 +7855,12 @@ Mark, is a beautiful-talker.</wordasword></entry> </row>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>The contrast between <foreignphrase
+</informaltable>
+
+<para>The contrast between <foreignphrase
 lang="art-lojban">ne</foreignphrase> (incidental) and <foreignphrase
 lang="art-lojban">pe</foreignphrase> (identifying) is shown by giving the
-same sentence with <foreignphrase lang="art-lojban">pe</foreignphrase>:
+same sentence with <foreignphrase lang="art-lojban">pe</foreignphrase>:</para>
 
 <informaltable frame="none">
 <tgroup cols="5">
@@ -7857,7 +7913,9 @@ role="selbri">melbi tavla</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>Certain modal tags,<indexterm id="idx359">
+</informaltable>
+
+<para>Certain modal tags,<indexterm id="idx359">
 <primary>modal tags</primary>
 </indexterm> in fact, are designed primarily for use in
 relative phrases, rather than to attach additional <foreignphrase
@@ -7906,6 +7964,15 @@ role="sumti">la mark.</emphasis></foreignphrase></entry>
 <colspec colnum="4" colname="c9" colwidth="2*"/>
 <spanspec spanname="whole" namest="c6" nameend="c9" align="left" />
 <tbody>
+<row>
+<entry><foreignphrase lang="art-lojban">[cu]</foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="selbri">tavla</emphasis></foreignphrase></entry>
+
+<entry><foreignphrase lang="art-lojban"><emphasis
+role="sumti">mi</emphasis></foreignphrase></entry>
+<entry><foreignphrase lang="art-lojban">[vau]</foreignphrase></entry>
+</row>
 <row><entry spanname="whole">John, (incidentally) more than Mark, talks to me.</entry></row>
 
 <row> <entry spanname="whole"><wordasword>John talks to me more than Mark does.</wordasword></entry> </row>
@@ -8178,7 +8245,7 @@ role="selbri">blari'o</emphasis></foreignphrase></entry>
 </tgroup>
 </informaltable>
 Note that <foreignphrase
-lang="art-lojban">ke'a</foreignphrase> refers to the school.
+lang="art-lojban">ke'a</foreignphrase> refers to the school.</para>
 
 <informaltable frame="none">
 <tgroup cols="3">
@@ -8225,7 +8292,7 @@ role="selbri">vecnu</emphasis></foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 
 <para>There is also a <firstterm>non-restrictive relative 
 clause</firstterm> marker,<indexterm id="idx364">
@@ -8256,7 +8323,7 @@ have a time or location or modal tag in front of a description
 <row>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le pu bajra [ku]</emphasis> [cu] <emphasis
+role="sumti">le pu bajra [ku]</emphasis> cu <emphasis
 role="selbri">tavla</emphasis> [vau]</foreignphrase></entry>
 
 </row>
@@ -8278,7 +8345,7 @@ when.) </entry>
 <row>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
-role="sumti">le vi bajra [ku]</emphasis> [cu] <emphasis
+role="sumti">le vi bajra [ku]</emphasis> cu <emphasis
 role="selbri">tavla</emphasis> [vau]</foreignphrase></entry>
 
 </row>
@@ -8318,7 +8385,7 @@ possessive.</para>
 
 <para>English <wordasword>this</wordasword> might be represented by
 <foreignphrase lang="art-lojban">vi</foreignphrase> or by <foreignphrase
-lang="art-lojban">ti</foreignphrase>, depending on context.
+lang="art-lojban">ti</foreignphrase>, depending on context.</para>
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -8346,7 +8413,9 @@ role="selbri">tavla</emphasis> [vau]</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>A more complete structure of a <firstterm>description</firstterm>
+</informaltable>
+
+<para>A more complete structure of a <firstterm>description</firstterm>
 <foreignphrase
 lang="art-lojban"><emphasis role="term"><firstterm>sumti</firstterm></emphasis></foreignphrase><indexterm id="idx371">
 <primary><foreignphrase
@@ -8702,7 +8771,7 @@ came to make the statement. These include <foreignphrase
 lang="art-lojban">za'a</foreignphrase> (I directly observe the relationship),
 <foreignphrase lang="art-lojban">pe'i</foreignphrase> (I opine that the relationship
 holds) <foreignphrase lang="art-lojban">ru'a</foreignphrase> (I postulate), and others.
-Many Amerind languages use these type of words.
+Many Amerindian languages use these type of words.</para>
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -8744,12 +8813,14 @@ role="selbri">melbi</emphasis> [vau]</foreignphrase></entry>
 
 </tbody>
 </tgroup>
-</informaltable></para><para>Some expressions overlap between categories, having value as
+</informaltable>
+
+<para>Some expressions overlap between categories, having value as
 indicators as well as evidential import (<foreignphrase
 lang="art-lojban">.ia</foreignphrase>, belief, faith), or
 attitudinal/metalinguistic import (<foreignphrase
 lang="art-lojban">ga'i</foreignphrase>, hauteur, relative high-rank; cf.
-Japanese).
+Japanese).</para>
 
 <informaltable frame="none">
 <tgroup cols="1">
@@ -8776,7 +8847,7 @@ role="sumti">lo titnanba [ku]</emphasis> [vau]</foreignphrase></entry>
 </row>
 </tbody>
 </tgroup>
-</informaltable></para></simplesect>
+</informaltable></simplesect>
 </sect2>
 </sect1>
 
@@ -8813,7 +8884,7 @@ lang="art-lojban">nai</foreignphrase> may be used to negate connected terms
 OR b, if a then b; <foreignphrase lang="art-lojban">anai</foreignphrase>/a
 or not b, a if b).</para>
 
-<para>Parallel structures are shown in the following abbreviated table:
+<para>Parallel structures are shown in the following abbreviated table:</para>
 
 <informaltable frame="none">
 <tgroup cols="4">
@@ -9252,7 +9323,7 @@ role="sumti">ti</emphasis> [vau]</foreignphrase></entry>
 </row>
 </tbody>
 </tgroup>
-</informaltable></para>
+</informaltable>
 <para>Lojban also supports <emphasis>non</emphasis>-logical connectives,<indexterm id="idx391a">
 <primary>connectives</primary><secondary>non-logical</secondary>
 </indexterm>
@@ -9476,7 +9547,7 @@ permission</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">.ei</foreignphrase></term>
 
-<listitem><para>indicator</para></listitem></varlistentry>
+<listitem><para>indicator: obligation</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban"> fa</foreignphrase></term>
 

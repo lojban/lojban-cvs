@@ -13,7 +13,7 @@ url="http://people.fix.no/arj/lojban/bradi-je-bandu.html"><computeroutput>http:/
 <foreignphrase lang="art-lojban">i za'a le zekri lei turni cu xrani</foreignphrase>
 
 <foreignphrase lang="art-lojban">i pa jdaralju co prami je krici</foreignphrase>
-<foreignphrase lang="art-lojban">cu dunku bo catlu se farna le vrici</foreignphrase>
+<foreignphrase lang="art-lojban">cu dunku bo catlu te farna le vrici</foreignphrase>
 <foreignphrase lang="art-lojban">i malsi co krasi lo panpi bo stura</foreignphrase>
 <foreignphrase lang="art-lojban">i turni co terpa lo nu se malxlura</foreignphrase>
 
@@ -357,7 +357,7 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignp
 <entry>&nbsp;</entry>
 <entry spanname="farna2"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">farna</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>2</subscript> (thing(s) found in direction)</emphasis></entry>
+role="placestruct"><subscript>3</subscript> (being origin(s) of direction)</emphasis></entry>
 
 </row>
 </tbody>
@@ -435,7 +435,7 @@ lang="art-lojban">catlu}<subscript>7</subscript></foreignphrase></entry>
 <tbody>
 <row>
 
-<entry><foreignphrase lang="art-lojban">se 
+<entry><foreignphrase lang="art-lojban">te 
 farna}<subscript>6</subscript>&raquo;<subscript>5</subscript></foreignphrase></entry>
 
 <entry><foreignphrase 
@@ -447,7 +447,7 @@ lang="art-lojban">vrici)<subscript>8</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row>
-<entry>being found in direction</entry>
+<entry>being origin(s) of direction</entry>
 <entry>the</entry>
 <entry>miscellaneous thing(s)</entry>
 </row>
@@ -456,7 +456,7 @@ lang="art-lojban">vrici)<subscript>8</subscript>]<subscript>1</subscript></forei
 <entry>&nbsp;</entry>
 <entry spanname="farna1"><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">farna</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>1</subscript> (direction(s))</emphasis></entry>
+role="placestruct"><subscript>2</subscript> (thing(s) found in direction)</emphasis></entry>
 
 </row>
 
