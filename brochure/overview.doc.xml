@@ -6,7 +6,6 @@ sidbo</foreignphrase></title><titleabbrev>Overview of Lojban Grammar</titleabbre
 Tense
 Place structures: gismu --- there but not rigorous; 
 lujvo --- conventions non-binding
-Negation: quantification behaviour
 </para></important>
 
 <para>This overview of Lojban will hopefully
@@ -1198,14 +1197,27 @@ A <foreignphrase lang="art-lojban"><emphasis role="term">cmene</emphasis></forei
 parts, each ending with a consonant and pause, or the parts may be combined
 into a single word with no pause. Thus <foreignphrase lang="art-lojban">djan. djonz.</foreignphrase> /jahn.jonz./ and
 <foreignphrase lang="art-lojban">djandjonz.</foreignphrase> /JAHNjonz./ are valid Lojbanizations of <wordasword>John
-Jones</wordasword>, while <foreignphrase lang="art-lojban">.iunaited. steits.</foreignphrase> and either <foreignphrase lang="art-lojban">.iuNAIted,steits.</foreignphrase> or
-<foreignphrase lang="art-lojban">.iunaited,STEITS.</foreignphrase> are valid Lojbanizations for <wordasword>United
+Jones</wordasword>, while <foreignphrase lang="art-lojban">.iunaited. 
+steits.</foreignphrase> and either <foreignphrase lang="art-lojban">.iuNAItet,steits.</foreignphrase> or
+<foreignphrase lang="art-lojban">.iunaitet,STEITS.</foreignphrase> are valid Lojbanizations for <wordasword>United
 States</wordasword>, depending upon how you wish to stress the name. In the
 last example, writing the <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> as a single word requires
 capitalization of the stressed syllables /NAI/ or /STEITS/, neither of
 which is penultimate in the single-word form of the <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase>.</para>
+
+<para><note><foreignphrase lang="art-lojban"><emphasis 
+role="term">cmene</emphasis></foreignphrase> in Lojban do not allow a 
+<firstterm>voiced</firstterm> consonant (like <foreignphrase 
+lang="art-lojban">d</foreignphrase>) to be next to an 
+<firstterm>unvoiced</firstterm> consonant (like <foreignphrase 
+lang="art-lojban">s</foreignphrase>), without an intervening pause. This 
+is why the single-word version of <wordasword>United States</wordasword> 
+goes into Lojban as <foreignphrase 
+lang="art-lojban">.iunaitet,steits.</foreignphrase>, whereas the two-word 
+version tays <foreignphrase 
+lang="art-lojban">.iunaited. steits.</foreignphrase></note></para>
 
 <para>The final arbiter of the correct form of the <foreignphrase
 lang="art-lojban"><emphasis role="term">cmene</emphasis></foreignphrase> is the person doing the naming
@@ -1456,7 +1468,7 @@ lang="art-lojban"><emphasis role="term">lujvo</emphasis></foreignphrase> must en
 <foreignphrase lang="art-lojban">y</foreignphrase> (which is ignored in
 determining stress or consonant clusters) is inserted in the middle of the
 consonant cluster to glue the word together when the resulting cluster is
-either difficult to say or is likely to break up. There are specific rules
+either difficult to say or likely to break up. There are specific rules
 describing these conditions, and the inserted <foreignphrase
 lang="art-lojban">y</foreignphrase> is called a hyphen, or <foreignphrase
 lang="art-lojban"><emphasis role="term">jonle'u</emphasis></foreignphrase>.</para>
