@@ -679,8 +679,8 @@ the language. Not since the Middle Ages have poets had such an opportunity
 to affect the development of a new language, as they now can with Lojban.
 Lojban's rich and powerful <foreignphrase
 lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> have been used to create colorful
-images and to convey moving emotions. Unhindered by grammatical ambiguity
-that can obscure desired meanings, Lojban unleashes the full potential of
+images and to convey moving emotions. <!--Unhindered by grammatical ambiguity
+that can obscure desired meanings, -->Lojban unleashes the full potential of
 poetic expression to communicate both concrete and abstract ideas.</para>
 </answer> </qandaentry>
 
@@ -773,9 +773,9 @@ the language, you are welcome to join in that leadership.</para>
 the leaders in developing the earliest practical computer applications<indexterm id="idx54">
 <primary>computer applications</primary>
 </indexterm> for
-the language. Expertise in the language will no doubt be valuable if Lojban
+the language. <!--Expertise in the language will no doubt be valuable if Lojban
 becomes recognized as a useful tool for computer applications by the
-computer industry. Meanwhile, computer-oriented Lojbanists can also aid in
+computer industry. -->Meanwhile, computer-oriented Lojbanists can also aid in
 developing computer-aided instruction tools or converting existing software
 to run on new computers.</para>
 
@@ -795,7 +795,7 @@ mind-expanding experience. Learning any language other than your native
 tongue broadens your perspectives and allows you to transcend the necessarily limited
 viewpoints of your native language culture. Lojban, being much simpler to
 learn than natural languages, provides this benefit much more quickly than
-does the study of other languages. And being quite different to natural languages,
+does the study of other languages. And being quite different from natural languages,
 Lojban provides this benefit more directly.</para>
 
 
@@ -1149,7 +1149,7 @@ intrigued by it.</para>
 
 <para>Keep in touch with us. We want to know your ideas and opinions on the
 language, on our various activities, and on our products. We welcome open
-debate on the language design, and have even printed and made available
+debate on the language, and have even printed and made available
 writings that are critical of various aspects of our efforts, when they are
 of sufficient general interest. Open debate aids in understanding and
 improves the overall quality of the language and of our presentation of it
