@@ -965,7 +965,7 @@ item []:
                     text = "dummy" 
     item [25]:
         class = "TextGrid" 
-        name = "ak_1139" 
+        name = "ak_1131" 
         xmin = 0 
         xmax = 0.69993749999999999 
         tiers? <exists> 
@@ -984,7 +984,7 @@ item []:
                 intervals [2]:
                     xmin = 0.11766278041944843 
                     xmax = 0.19181114130434784 
-                    text = "#-z" 
+                    text = "#-t" 
                 intervals [3]:
                     xmin = 0.19181114130434784 
                     xmax = 0.69993749999999999 

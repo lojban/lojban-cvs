@@ -104,7 +104,7 @@ item []:
                 intervals [2]:
                     xmin = 0.65377375000000004 
                     xmax = 0.75173035714285719 
-                    text = "i-a" 
+                    text = "y-a" 
                 intervals [3]:
                     xmin = 0.75173035714285719 
                     xmax = 1.1000000000000001 
@@ -144,7 +144,7 @@ item []:
                 intervals [2]:
                     xmin = 0.56811250000000002 
                     xmax = 0.71204757695507492 
-                    text = "i-o" 
+                    text = "y-o" 
                 intervals [3]:
                     xmin = 0.71204757695507492 
                     xmax = 1.1000000000000001 
