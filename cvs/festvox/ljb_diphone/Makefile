@@ -10,8 +10,8 @@ $(pm_files): pm/%.pm: wav/%.wav
 	$(make_pm_wav) $<;
 
 
-ljb_diphone.index: ../praat/*.Collection ljb_diphone_hand_timed.index ../util/TextGrid2index.pl
-	../util/TextGrid2index.pl -l ljb_diphone_hand_timed.index \
+ljb_diphone.index: ../praat/*.Collection ljb_diphone_template.index ../util/TextGrid2index.pl
+	../util/TextGrid2index.pl -l ljb_diphone_template.index \
 	../praat/*.Collection > ljb_diphone.index
 clean:
 	rm -rf pm;
