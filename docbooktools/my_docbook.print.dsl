@@ -59,7 +59,7 @@
 ;; cf. paperback stylesheet, *.silencoding.doc.xml entities
 (define ($unicode-text$ #!optional (sosofo (process-children)))
 	(make sequence
-		font-family-name: "Code2000"
+		font-family-name: "Gentium"
 		sosofo))
 
 ;; For PC: distinct fonts for each language
@@ -69,6 +69,16 @@
 		sosofo))
 
 (define ($zh-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Bitstream Cyberbit"
+		sosofo))
+
+(define ($zh-traditional-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Bitstream Cyberbit"
+		sosofo))
+
+(define ($zh-simplified-text$ #!optional (sosofo (process-children)))
 	(make sequence
 		font-family-name: "Bitstream Cyberbit"
 		sosofo))
@@ -159,6 +169,8 @@
       ((equal? lang (normalize "art-lojban")) ($lojban-text$))
       ((equal? lang (normalize "art-klingon")) ($unicode-text$))
       ((equal? lang (normalize "zh")) ($zh-text$))
+      ((equal? lang (normalize "zh-traditional")) ($zh-traditional-text$))
+      ((equal? lang (normalize "zh-simplified")) ($zh-simplified-text$))
       ((equal? lang (normalize "zh-pinyin")) ($zh-pinyin-text$))
       ((equal? lang (normalize "ru")) ($ru-text$))
       ((equal? lang (normalize "hi")) ($hi-text$))

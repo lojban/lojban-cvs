@@ -72,6 +72,16 @@
 		   (normalize "element"))))
     (cond
       ((equal? lang (normalize "art-lojban")) ($lojban-text$))
+      ((equal? lang (normalize "zh")) ($charseq$))
+      ((equal? lang (normalize "zh-traditional")) ($charseq$))
+      ((equal? lang (normalize "zh-simplified")) ($charseq$))
+      ((equal? lang (normalize "zh-pinyin")) ($italic-seq$))
+      ((equal? lang (normalize "ru")) ($italic-seq$))
+      ((equal? lang (normalize "hi")) ($charseq$))
+      ((equal? lang (normalize "ur")) ($charseq$))
+      ((equal? lang (normalize "hi-translit")) ($italic-seq$))
+      ((equal? lang (normalize "ar")) ($charseq$))
+      ((equal? lang (normalize "ar-translit")) ($italic-seq$))
       (else ($italic-seq$)))))
 
 ;; based on $peril$, but no box
@@ -428,6 +438,19 @@
   
 (element (part subtitle) (empty-sosofo))
 
+
+(element qandaentry
+;; added: NN
+    (make sequence
+;; end added: NN
+
+  (make element gi: "DIV"
+	attributes: (list (list "CLASS" (gi)))
+	(process-children))
+;; added: NN
+    (make empty-element gi: "HR"))
+;; end added: NN
+)
 
 
 </style-specification-body>
