@@ -9,8 +9,6 @@
 ;;; load up the ljb diphone files
 (defvar ljb_diphone_dir "/home/steve/work/lojban/festvox/ljb_diphone/" 
 
-;(cdr (assoc 'ljb_diphone voice-locations))
-
   "ljb_diphone_dir
   The default directory for the lojban diphone database.")
 (set! load-path (cons (path-append ljb_diphone_dir "festvox/") load-path))
@@ -28,20 +26,13 @@
 
 ;; non-standard things
 (lex.add.entry '("." punc (((#) 0))))
-(lex.add.entry '("i" punc (((#) 0) ((iy) 0))))
-(lex.add.entry '("'i" nil (((hh) 0) ((iy) 0))))
-;(lex.add.entry '("'" punc nil))
 
 (lts.ruleset
 ;; Name of rule set
   lojban
 ;; Sets used in the rules
 (
-;  (LNS l n s )
   (AEIOUY a e i o u y )
-;  (AEO a e o )
-;  (EI e i )
-;  (BDGLMN b d g l m n )
 )
 ;; lojban
 (
@@ -77,7 +68,6 @@
 ;; consonants
  ( [ b ] = b )
  ( [ c ] = c )
-; ( [ d j ] = j )
  ( [ d ] = d )
  ( [ f ] = f )
  ( [ g ] = g )
@@ -90,7 +80,6 @@
  ( [ p ] = p )
  ( [ r ] = r )
  ( [ s ] = s )
- ( [ t c ] = c )
  ( [ t ] = t )
  ( [ v ] = v )
  ( [ x ] = x )
@@ -175,7 +164,7 @@
   "(lojban_lts WORD FEATURES) Using letter to sound rules build
 a lojban pronunciation of WORD."
   (require 'lts)
-;;DEBUG  (print word)
+;; (print word) ;; DEBUG
   (list word
         nil
         (lex.syllabify.phstress (lts.apply (downcase word) 'lojban))))
@@ -243,9 +232,9 @@ rules are not used unless explicitly called. [see Token to word rules]"
   ;;; seperates vowels next to each other eg: "a.o"
   ((string-matches name ".*\\..*")
    (append
-    (builtin_english_token_to_words token (string-before name "."))
+    (lojban_token_to_words token (string-before name "."))
     (builtin_english_token_to_words token ".")
-    (builtin_english_token_to_words token (string-after name "."))))
+    (lojban_token_to_words token (string-after name "."))))
   (t
    (builtin_english_token_to_words token name))
 ))
@@ -290,6 +279,9 @@ Set up synthesis for Male Lojban speaker"
   (set! window_factor 1.0)
   (set! us_rel_offset 0.0)
   (set! us_gain 1.0)
+  
+  (Parameter.set 'Duration_Stretch 1.2)
+
 
   (Parameter.set 'Synth_Method 'UniSyn)
   (Parameter.set 'us_sigpr 'lpc)
