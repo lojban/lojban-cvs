@@ -66,7 +66,7 @@ is dark. I'm going to watch a movie.
 
 <entry><foreignphrase lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>dei)<subscript>2</subscript></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -77,7 +77,7 @@ is dark. I'm going to watch a movie.
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (story(ies))</emphasis></entry>
 </row>
@@ -108,7 +108,7 @@ lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=lisri2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">lisri</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (plot)</emphasis></entry>
 </row>
@@ -141,9 +141,9 @@ lang="art-lojban">cmana)<subscript>8</subscript>]<subscript>6</subscript>&gt;<su
 </row>
 
 <row rowsep=1>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=cpare2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">cpare</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (climbing surface(s))</emphasis></entry>
 </row>
@@ -180,8 +180,8 @@ lang="art-lojban">(<subscript>3</subscript>le</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">go'i</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> ()</emphasis></entry>
 </row>
@@ -416,14 +416,14 @@ lang="art-lojban">(<subscript>7</subscript>mi)<subscript>7</subscript></foreignp
 
 <row>
 <entry>this utterance</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>I</entry>
 </row>
 
 <row>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">finti</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (creation(s))</emphasis></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">zgana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (observe-r(s))</emphasis></entry>
 </row>
@@ -440,7 +440,7 @@ lang="art-lojban"><emphasis role="placestruct">zgana</emphasis></foreignphrase><
 <tbody>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&laquo;<subscript>8</subscript>zgana&raquo;<subscript>8</subscript></foreignphrase></entry>
@@ -613,7 +613,7 @@ lang="art-lojban">[<subscript>4</subscript>(<subscript>5</subscript>mi)<subscrip
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=ckana2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">ckana</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (material)</emphasis></entry>
 <entry><foreignphrase 
@@ -630,7 +630,7 @@ lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><
 <tbody>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&laquo;<subscript>6</subscript>ciska&raquo;<subscript>6</subscript></foreignphrase></entry>
@@ -647,8 +647,8 @@ lang="art-lojban">(<subscript>7</subscript>dei)<subscript>7</subscript>]<subscri
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">ciska</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (written thing(s))</emphasis></entry>
 </row>
@@ -707,14 +707,14 @@ lang="art-lojban">le</foreignphrase></entry>
 <entry><quote role="gloss">.</quote></entry>
 <entry>{yes/no?...}</entry>
 <entry>being easy</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>the</entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=frili><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">frili</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (easy thing(s))</emphasis></entry>
 </row>
@@ -753,7 +753,7 @@ lang="art-lojban">zdani)<subscript>7</subscript></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">cliva</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (leave-r(s))</emphasis></entry>
 <entry spanname=cliva2><foreignphrase 
@@ -919,7 +919,7 @@ lang="art-lojban">pluta)<subscript>2</subscript></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=nandu1><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">nandu</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (difficulty 
 thing(s)), </emphasis><foreignphrase 
@@ -997,9 +997,9 @@ lang="art-lojban">lerci)<subscript>3</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row rowsep=1>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=binxo2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">binxo</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (result(s) of becoming)</emphasis></entry>
 </row>
@@ -1043,7 +1043,7 @@ lang="art-lojban">&laquo;<subscript>3</subscript>manku&raquo;<subscript>3</subsc
 </row>
 
 <row rowsep=1>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=manku1><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">manku</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (dark thing(s))</emphasis></entry>
 </row>
@@ -1076,8 +1076,8 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>mi)<subscrip
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">catlu</emphasis></foreignphrase><emphasis role="placestruct"><subscript>1</subscript> (look-er(s) at)</emphasis></entry>
 </row>
@@ -1094,7 +1094,7 @@ lang="art-lojban"><emphasis role="placestruct">catlu</emphasis></foreignphrase><
 <tbody>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&laquo;<subscript>3</subscript>catlu&raquo;<subscript>3</subscript></foreignphrase></entry>
@@ -1115,8 +1115,8 @@ lang="art-lojban">skina)<subscript>4</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=catlu2><foreignphrase 
 lang="art-lojban"><emphasis role="placestruct">catlu</emphasis></foreignphrase><emphasis role="placestruct"><subscript>2</subscript> (looked at thing(s))</emphasis></entry>
 </row>

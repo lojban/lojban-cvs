@@ -18,8 +18,8 @@ lobypli</foreignphrase></citetitle> 16, May 1992.</para>
 <foreignphrase lang="art-lojban">.i le cipnrkorvo noi djica lenu jarco fi le lorxu</foreignphrase>
 <foreignphrase lang="art-lojban">fe leka pu'i se voksa lo xamgu cu renro le rectu gi'e cladu krixa</foreignphrase>
 <foreignphrase lang="art-lojban">.i le lorxu cu bajra gi'e bacru ba'o lenu kavbu le rectu kei</foreignphrase>
-<foreignphrase lang="art-lojban">	<quote>lu doi cipnrkorvo noda fau leda'inu do se menli lo xamgu</quote></foreignphrase>
-<foreignphrase lang="art-lojban"><quote>	cu fanta lenu do turni roda li'u</quote></foreignphrase>
+<foreignphrase lang="art-lojban">	lu doi cipnrkorvo noda fau leda'inu do se menli lo xamgu</foreignphrase>
+<foreignphrase lang="art-lojban">	cu fanta lenu do turni roda li'u</foreignphrase>
 <foreignphrase lang="art-lojban">ni'o le prenu noi bebna ku'o le se cusku cu pilno se xamgu</foreignphrase>
 </literallayout>
 </para>
@@ -122,8 +122,8 @@ lang="art-lojban">{<subscript>3</subscript>cipnkorvo}<subscript>3</subscript></f
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=zutse1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (sit-ter(s))</emphasis></entry>
@@ -167,7 +167,7 @@ lang="art-lojban">rectu)<subscript>7</subscript>]<subscript>5</subscript>&gt;<su
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=kavbu2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">kavbu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
@@ -207,7 +207,7 @@ lang="art-lojban">tricu)<subscript>9</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row rowsep=1>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=zutse2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (sitting surface(s))</emphasis></entry>
@@ -251,8 +251,8 @@ lang="art-lojban">[<subscript>5</subscript>&laquo;<subscript>6</subscript>viska&
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=sanli1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (stand-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
@@ -293,11 +293,8 @@ lang="art-lojban">&laquo;<subscript>8</subscript>djica&raquo;<subscript>8</subsc
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">viska</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (seen thing(s))</emphasis></entry>
-<entry></entry>
-<entry></entry>
-<entry spanname=djica2><foreignphrase lang="art-lojban"><emphasis
-role="placestruct">zutse</emphasis></foreignphrase><emphasis
-role="placestruct"><subscript>1</subscript> (desired thing(s))</emphasis></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 
 </row>
 </tbody>
@@ -338,7 +335,7 @@ role="placestruct"><subscript>2</subscript> (desired thing(s))</emphasis></entry
 
 <tgroup cols=4>
 <colspec colnum=1 colname=c30 colwidth="1*"></colspec>
-<colspec colnum=2 colname=c31 colwidth="2*"></colspec>
+<colspec colnum=2 colname=c31 colwidth="3*"></colspec>
 <colspec colnum=3 colname=c32 colwidth="1*"></colspec>
 <colspec colnum=4 colname=c33 colwidth="2*"></colspec>
 <spanspec spanname=cpacu2 namest=c30 nameend=c31></spanspec>
@@ -515,9 +512,9 @@ lang="art-lojban">&lt;<subscript>23</subscript>du'u</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=bacru2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bacru</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (uttered sound(s))</emphasis></entry>
@@ -540,7 +537,7 @@ lang="art-lojban">[<subscript>24</subscript>ge</foreignphrase></entry>
 <entry><foreignphrase 
 lang="art-lojban">[<subscript>25</subscript>(<subscript>26</subscript>ra)<subscript>26</subscript></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase 
 lang="art-lojban">&laquo;<subscript>27</subscript>nu'o</foreignphrase></entry>
@@ -555,7 +552,7 @@ lang="art-lojban">&laquo;<subscript>27</subscript>nu'o</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">turni</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (govern-er(s))</emphasis></entry>
@@ -629,7 +626,7 @@ lang="art-lojban">da'i</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=nibli1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">nibli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (logically necessitating thing(s))</emphasis></entry>
@@ -663,7 +660,7 @@ lang="art-lojban">cu</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">voksa</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (thing(s) having voice)</emphasis></entry>
@@ -698,8 +695,8 @@ lang="art-lojban">xamgu)<subscript>35</subscript>]<subscript>32</subscript>&gt;<
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=voksa1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">voksa</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (voice sound(s))</emphasis></entry>
@@ -811,8 +808,8 @@ lang="art-lojban">{<subscript>3</subscript>cipnrkorvo}<subscript>3</subscript></
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=renro1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">renro</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (throw-er(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
@@ -854,7 +851,7 @@ lang="art-lojban">[<subscript>9</subscript>&laquo;<subscript>10</subscript>jarco
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=djica2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">djica</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (desired thing(s))</emphasis></entry>
@@ -896,10 +893,10 @@ lang="art-lojban">&lt;<subscript>13</subscript>ka</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>the</entry>
 <entry>fox(es)</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>the</entry>
 <entry>property of</entry>
 </row>
@@ -1000,8 +997,8 @@ lang="art-lojban">rectu)<subscript>18</subscript></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=renro2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">renro</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (thrown thing(s))</emphasis></entry>
@@ -1068,7 +1065,7 @@ lang="art-lojban">cu</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=bajra1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bajra</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (run-ner(s)), </emphasis><foreignphrase lang="art-lojban"><emphasis
@@ -1116,12 +1113,12 @@ lang="art-lojban">le</foreignphrase></entry>
 </tgroup>
 
 <tgroup cols=5>
-<colspec colnum=1 colname=c106 colwidth="2*"></colspec>
-<colspec colnum=2 colname=c107 colwidth="2*"></colspec>
-<colspec colnum=3 colname=c108 colwidth="1*"></colspec>
-<colspec colnum=4 colname=c109 colwidth="3*"></colspec>
-<colspec colnum=5 colname=c110 colwidth="2*"></colspec>
-<spanspec spanname=kavbu2 namest=c108 nameend=c109></spanspec>
+<colspec colnum=1 colname=c106 colwidth="4*"></colspec>
+<colspec colnum=2 colname=c107 colwidth="5*"></colspec>
+<colspec colnum=3 colname=c108 colwidth="3*"></colspec>
+<colspec colnum=4 colname=c109 colwidth="6*"></colspec>
+<colspec colnum=5 colname=c110 colwidth="3*"></colspec>
+<spanspec spanname=kavbu2a namest=c108 nameend=c109></spanspec>
 <tbody>
 <row>
 
@@ -1150,7 +1147,7 @@ lang="art-lojban">kei&gt;<subscript>6</subscript>)<subscript>5</subscript></fore
 </row>
 
 <row>
-<entry spanname=kavbu2><foreignphrase lang="art-lojban"><emphasis
+<entry spanname=kavbu2a><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">kavbu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (captured thing(s))</emphasis></entry>
 
@@ -1242,7 +1239,7 @@ role="placestruct"><subscript>2</subscript> (prevent-er(s))</emphasis></entry>
 
 <entry><foreignphrase lang="art-lojban">[<subscript>17</subscript>(<subscript>18</subscript>do)<subscript>18</subscript></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -1253,7 +1250,7 @@ role="placestruct"><subscript>2</subscript> (prevent-er(s))</emphasis></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">menli</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (of body)</emphasis></entry>
@@ -1320,8 +1317,8 @@ role="placestruct"><subscript>1</subscript> (mind(s))</emphasis></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=fanta2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">fanta</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (prevented event(s))</emphasis></entry>
@@ -1339,7 +1336,7 @@ role="placestruct"><subscript>2</subscript> (prevented event(s))</emphasis></ent
 
 <entry><foreignphrase lang="art-lojban">[<subscript>24</subscript>(<subscript>25</subscript>do)<subscript>25</subscript></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban">&laquo;<subscript>26</subscript>turni&raquo;<subscript>26</subscript></foreignphrase></entry>
 
@@ -1454,14 +1451,14 @@ lang="art-lojban">se cusku)<subscript>2</subscript></foreignphrase></entry>
 
 <row>
 <entry>being foolish</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>the</entry>
 <entry>said thing(s)</entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=xamgu1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">xamgu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (good thing(s))</emphasis></entry>

@@ -1,6 +1,6 @@
 <chapter id="diagsumm"><title>Diagrammed Summary of Lojban Grammar &mdash; 
 <foreignphrase lang="art-lojban">xracartu torvelski be le lojbo 
-gerna</foreignphrase></title>
+gerna</foreignphrase></title><titleabbrev>Diagrammed Summary</titleabbrev>
 
 <para>This section gives diagrammed examples of basic Lojban sentence structures.  The
 most general pattern is covered first, followed by successive variations on
@@ -209,7 +209,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>seller-x<subscript>1</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sells</entry>
 
@@ -223,7 +223,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sell</entry>
 
@@ -315,7 +315,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>goods-sold-x<subscript>2</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sells</entry>
 
@@ -329,7 +329,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>this</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sell</entry>
 
@@ -414,7 +414,7 @@ role="selbri">melbi</emphasis></foreignphrase></entry>
 
 <entry>object/idea-x<subscript>1</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-beautiful</entry>
 
@@ -426,7 +426,7 @@ role="selbri">melbi</emphasis></foreignphrase></entry>
 
 <entry>That/Those</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is/are beautiful.</entry>
 
@@ -614,7 +614,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sell</entry>
 
@@ -697,13 +697,13 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>&larr;</computeroutput></entry>
 
@@ -714,7 +714,7 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sell</entry>
 
@@ -829,11 +829,11 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
@@ -843,7 +843,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <entry>talker</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -855,7 +855,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -922,7 +922,7 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 
 <entry>talker</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -938,7 +938,7 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1024,11 +1024,11 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
@@ -1039,7 +1039,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <entry>talker</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talker</entry>
 
@@ -1054,7 +1054,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1130,11 +1130,11 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
@@ -1146,7 +1146,7 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 <entry spanname=fila>x<subscript>3</subscript>=topic</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1161,7 +1161,7 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 <entry spanname=fila>About Lojban</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1234,7 +1234,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
@@ -1518,11 +1518,11 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 
 <entry>You</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>about this.</entry>
 
@@ -1580,11 +1580,11 @@ role="sumti">ri</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
@@ -1595,7 +1595,7 @@ role="sumti">ri</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1666,7 +1666,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 <entry>You (imperative)</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1715,7 +1715,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 <entry>You</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1769,7 +1769,7 @@ role="sumti">ko</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1820,7 +1820,7 @@ role="sumti">ko</emphasis></foreignphrase></entry>
 
 <entry>You (imp.)</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1886,7 +1886,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 
 <entry>You</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -1955,7 +1955,7 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 <entry>__?</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talks</entry>
 
@@ -2143,7 +2143,7 @@ role="sumti">le vecnu [ku]</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -2327,7 +2327,7 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 
 <entry>Go-er</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>goes</entry>
 
@@ -2400,7 +2400,7 @@ role="selbri">blari'o</emphasis></foreignphrase></entry>
 
 <entry>That</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-blue-green.</entry>
 
@@ -2442,7 +2442,7 @@ role="selbri">djarspageti</emphasis></foreignphrase></entry>
 
 <entry>That</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-spaghetti.</entry>
 
@@ -2490,7 +2490,7 @@ role="selbri">go'i</emphasis></foreignphrase></entry>
 
 <entry>That</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>too/same-as-last <foreignphrase lang="art-lojban"><emphasis role="term">selbri</emphasis></foreignphrase>.</entry>
 
@@ -2634,9 +2634,9 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>nn&gt;</computeroutput></entry>
 
@@ -2695,9 +2695,9 @@ role="selbri">go'i</emphasis></foreignphrase></entry>
 </row>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><computeroutput>pppp&gt;</computeroutput></entry>
 
@@ -3162,7 +3162,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 <entry>seller-x<subscript>1</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>sells</entry>
 
@@ -3231,7 +3231,7 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 <entry>thing sold-x<subscript>1</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-sold-by</entry>
 
@@ -4316,7 +4316,7 @@ role="selbri">tavla</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="sumti">do</emphasis></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban">bei</foreignphrase></entry>
 
@@ -4330,9 +4330,9 @@ role="sumti">le melbi ku</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry colsep=1></entry>
 
@@ -4346,7 +4346,7 @@ role="sumti">le melbi ku</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry colsep=1></entry>
 
@@ -4430,7 +4430,7 @@ role="selbri">tavla</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="sumti">do</emphasis></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban">bei</foreignphrase></entry>
 
@@ -4453,7 +4453,7 @@ role="sumti">le melbi vecnu [ku]</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname="tavla" rowsep=1 colsep=1></entry>
 
@@ -4564,7 +4564,7 @@ role="selbri">tavla</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban">be <emphasis
 role="sumti">do</emphasis></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban">bei fo <emphasis
 role="sumti">la lojban.</emphasis></foreignphrase></entry>
@@ -4575,8 +4575,8 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname="be" rowsep=1 colsep=1></entry>
 
@@ -4587,7 +4587,7 @@ role="sumti">la lojban.</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname="tavla" rowsep=1 colsep=1></entry>
 
@@ -4811,7 +4811,7 @@ role="selbri">ckule</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname=partselbri rowsep=1 colsep=1></entry>
 
@@ -4821,7 +4821,7 @@ role="selbri">ckule</emphasis></foreignphrase></entry>
 
 <entry>This</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-a small-</entry>
 
@@ -4880,8 +4880,8 @@ role="selbri">co cmalu</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname=partselbri rowsep=1 colsep=1></entry>
 
@@ -4891,7 +4891,7 @@ role="selbri">co cmalu</emphasis></foreignphrase></entry>
 
 <entry>This</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-a boys</entry>
 
@@ -4956,7 +4956,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 
 <entry>This</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 
 </row>
@@ -5044,7 +5044,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 <row>
 <entry>This</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 
 </row>
@@ -5158,7 +5158,7 @@ role="sumti">ti</emphasis></foreignphrase></entry>
 <row>
 <entry>event-x<subscript>1</subscript></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 </tbody>
@@ -5201,11 +5201,11 @@ role="selbri">[kei]</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talker</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talks</entry>
 
@@ -5215,11 +5215,11 @@ role="selbri">[kei]</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>talk</entry>
 
@@ -5354,8 +5354,8 @@ role="selbri">cukta</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname=event rowsep=1 colsep=1></entry>
 
@@ -5415,8 +5415,8 @@ role="selbri">[kei]</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry spanname=event rowsep=1 colsep=1></entry>
 
@@ -5575,19 +5575,19 @@ role="selbri">cukta</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>{</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>}</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -6073,7 +6073,7 @@ role="sumti">le vecnu [ku]</emphasis> be'o</foreignphrase></entry>
 
 <entry>about the seller</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 
 </row>
@@ -6098,7 +6098,7 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>goes.</entry>
 
@@ -6159,7 +6159,7 @@ role="sumti">mi</emphasis> [be'o]</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry rowsep=1 colsep=1></entry>
 </row>
@@ -6184,7 +6184,7 @@ role="sumti">mi</emphasis> [be'o]</foreignphrase></entry>
 <entry>to</entry>
 <entry>the beautiful</entry>
 <entry>to me</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -6207,7 +6207,7 @@ role="selbri">klama</emphasis> [vau]</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>goes.</entry>
 
@@ -6286,7 +6286,7 @@ role="sumti">melbi</emphasis></foreignphrase></entry>
 <entry><foreignphrase lang="art-lojban">be <emphasis
 role="sumti">mi</emphasis> be'o</foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis
 role="sumti">tavla</emphasis></foreignphrase></entry>
@@ -6299,10 +6299,10 @@ role="sumti">la .an.</emphasis> [be'o]</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry rowsep=1 colsep=1></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry rowsep=1 colsep=1></entry>
 </row>
@@ -6390,7 +6390,7 @@ role="selbri">djica</emphasis></foreignphrase></entry>
 <row>
 
 <entry>I</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>want</entry>
 
 </row>
@@ -6423,7 +6423,7 @@ role="selbri">[kei]</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry colsep=1></entry>
 <entry rowsep=1 colsep=1></entry>
@@ -6636,7 +6636,7 @@ role="selbri">djuno</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>know</entry>
 
@@ -6908,7 +6908,7 @@ role="sumti">le ci [boi] bajra [ku]</emphasis></foreignphrase></entry>
 
 <entry>the three runners</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 </tbody>
@@ -6933,7 +6933,7 @@ role="selbri">melbi</emphasis> [vau]</foreignphrase></entry>
 
 <row>
 <entry>(end)</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-beautiful</entry>
 
@@ -7262,9 +7262,9 @@ role="sumti">do</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
 </row>
@@ -7316,9 +7316,9 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>....&gt;</computeroutput></entry>
 
 </row>
@@ -7652,7 +7652,7 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 </row>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>goes.</entry>
 
@@ -8150,13 +8150,13 @@ role="sumti">ke'a</emphasis></foreignphrase></entry>
 
 <entry>I</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>go-to</entry>
 
 <entry>it</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -8181,7 +8181,7 @@ role="selbri">blari'o</emphasis></foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>is-blue-green</entry>
 
@@ -8423,8 +8423,8 @@ role="sumti">zo'e</emphasis></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
 </row>
@@ -8460,8 +8460,8 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>.&gt;</computeroutput></entry>
 
 </row>
@@ -8503,8 +8503,8 @@ role="sumti">mi</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>...&gt;</computeroutput></entry>
 
 </row>
@@ -8843,7 +8843,7 @@ or not b, a if b).</para>
 <thead>
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis role="term">sumti</emphasis></foreignphrase></entry>
 
@@ -8928,7 +8928,7 @@ or not b, a if b).</para>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> </entry>
 
 <entry><foreignphrase lang="art-lojban"><emphasis role="term">tanru</emphasis></foreignphrase> forethought</entry>
@@ -9025,8 +9025,8 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>++</computeroutput></entry>
 
 </row>
@@ -9064,8 +9064,8 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>++</computeroutput></entry>
 
 </row>
@@ -9104,8 +9104,8 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>++++</computeroutput></entry>
 
 </row>
@@ -9144,8 +9144,8 @@ role="sumti">ta</emphasis></foreignphrase></entry>
 
 </row>
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>+++++</computeroutput></entry>
 
 </row>
@@ -9187,7 +9187,7 @@ role="selbri">klama</emphasis></foreignphrase></entry>
 </row>
 <row>
 <entry>+++++</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry><computeroutput>++</computeroutput></entry>
 
 </row>
@@ -9337,7 +9337,7 @@ role="sumti">[ku]</emphasis></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry colsep=1></entry>
 <entry rowsep=1 colsep=1></entry>
 <entry colsep=1><computeroutput>+++</computeroutput></entry>

@@ -1,6 +1,6 @@
-<chapter id="overview"><title xreflabel="Overview of Lojban Grammar">Overview of Lojban Grammar &mdash;
+<chapter id="overview"><title>Overview of Lojban Grammar &mdash;
 <foreignphrase lang="art-lojban">naltcila velski be le lojbo gerna 
-sidbo</foreignphrase></title>
+sidbo</foreignphrase></title><titleabbrev>Overview of Lojban Grammar</titleabbrev>
 
 <important><para>Add paragraph or two on:
 Tense
@@ -323,11 +323,11 @@ lang="art-lojban">lal<emphasis role="bold">x</emphasis>u</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><foreignphrase
 lang="art-lojban"><emphasis role="bold">x</emphasis>riso</foreignphrase></entry>
@@ -376,9 +376,9 @@ lang="art-lojban"><emphasis role="bold">c</emphasis>reka</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>Engli<emphasis role="bold">sh</emphasis></wordasword></entry>
 
@@ -410,15 +410,15 @@ lang="art-lojban">lo<emphasis role="bold">j</emphasis>ban</foreignphrase></entry
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>a<emphasis role="bold">z</emphasis>ure</wordasword></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -461,15 +461,15 @@ lang="art-lojban">mu<emphasis role="bold">tc</emphasis>e</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>=/ch/</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 
 </row>
@@ -493,15 +493,15 @@ lang="art-lojban">xe<emphasis role="bold">dj</emphasis>a</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry>=/j/</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
@@ -616,9 +616,9 @@ lang="art-lojban">l</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>Car<emphasis role="bold">l</emphasis></wordasword></entry>
 
@@ -642,9 +642,9 @@ lang="art-lojban">m</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>Miria<emphasis role="bold">m</emphasis></wordasword></entry>
 
@@ -668,9 +668,9 @@ lang="art-lojban">n</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>Elle<emphasis role="bold">n</emphasis></wordasword></entry>
 
@@ -694,9 +694,9 @@ lang="art-lojban">r</foreignphrase></entry>
 
 <row>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry><wordasword>B<emphasis role="bold">ur</emphasis>t</wordasword></entry>
 

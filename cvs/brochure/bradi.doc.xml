@@ -103,7 +103,7 @@ lang="art-lojban">{<subscript>3</subscript>finti</foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry spanname=zutse1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">zutse</emphasis></foreignphrase><emphasis
@@ -200,7 +200,7 @@ lang="art-lojban">skami)<subscript>8</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row rowsep=1>
-<entry></entry>
+<entry>&nbsp;</entry>
 
 <entry spanname=pilno2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">pilno</emphasis></foreignphrase><emphasis
@@ -241,8 +241,8 @@ lang="art-lojban">(<subscript>3</subscript>{<subscript>4</subscript>lo</foreignp
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=ciska2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">ciska</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (thing(s) written)</emphasis></entry>
@@ -316,8 +316,8 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>le</foreignp
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=ckape1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">ckape</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (dangerous thing(s))</emphasis></entry>
@@ -350,7 +350,7 @@ role="placestruct"><subscript>1</subscript> (dangerous thing(s))</emphasis></ent
 </row>
 
 <row rowsep=1>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=ckape2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">ckape</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (harmful to)</emphasis></entry>
@@ -384,7 +384,7 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignp
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=farna2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">farna</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (thing(s) found in direction)</emphasis></entry>
@@ -442,14 +442,14 @@ lang="art-lojban">&laquo;<subscript>5</subscript>{<subscript>6</subscript>{<subs
 <entry><foreignphrase 
 lang="art-lojban">catlu}<subscript>7</subscript></foreignphrase></entry>
 
-<entry></entry>
+<entry>&nbsp;</entry>
 
 </row>
 
 <row>
 <entry>is/does</entry>
 <entry>distressed</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>look-ing at</entry>
 <entry>[type-of]</entry>
 </row>
@@ -483,7 +483,7 @@ lang="art-lojban">vrici)<subscript>8</subscript>]<subscript>1</subscript></forei
 </row>
 
 <row rowsep=1>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry spanname=farna1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">farna</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (direction(s))</emphasis></entry>
@@ -546,7 +546,7 @@ lang="art-lojban">stura}<subscript>5</subscript>)<subscript>4</subscript>]<subsc
 <row>
 <entry>any/some</entry>
 <entry>thing(s) at peace</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>structure(s)</entry>
 </row>
 
@@ -650,8 +650,8 @@ lang="art-lojban">[<subscript>1</subscript>(<subscript>2</subscript>pa</foreignp
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=cusku1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">cusku</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (say-er(s))</emphasis></entry>
@@ -743,7 +743,7 @@ lang="art-lojban">bravla)<subscript>7</subscript>]<subscript>1</subscript></fore
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>say-ing</entry>
 <entry>any/some</entry>
 <entry>big word(s)</entry>
@@ -781,7 +781,7 @@ lang="art-lojban">sazri}<subscript>3</subscript>&raquo;<subscript>2</subscript><
 <row>
 <entry><quote role="gloss">.</quote></entry>
 <entry>being famous</entry>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>operat-ing</entry>
 </row>
 
@@ -928,8 +928,8 @@ lang="art-lojban">bandu)<subscript>2</subscript></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=bandu2><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">bandu</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>2</subscript> (defended thing(s))</emphasis></entry>
@@ -1054,8 +1054,8 @@ lang="art-lojban">palci)<subscript>2</subscript></foreignphrase></entry>
 </row>
 
 <row>
-<entry></entry>
-<entry></entry>
+<entry>&nbsp;</entry>
+<entry>&nbsp;</entry>
 <entry spanname=jmaji1><foreignphrase lang="art-lojban"><emphasis
 role="placestruct">jmaji</emphasis></foreignphrase><emphasis
 role="placestruct"><subscript>1</subscript> (thing(s) gather-ing)</emphasis></entry>
@@ -1155,7 +1155,7 @@ lang="art-lojban">kalci}<subscript>5</subscript>)<subscript>4</subscript>]<subsc
 </row>
 
 <row>
-<entry></entry>
+<entry>&nbsp;</entry>
 <entry>the</entry>
 <entry>human(s)</entry>
 <entry>of-type</entry>
