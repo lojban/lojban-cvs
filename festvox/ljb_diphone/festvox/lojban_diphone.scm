@@ -1,8 +1,13 @@
-;;; an attempt at a Lojban voice based on the ked diphones. It's not the best
-;;; solution, certainly, but it's much better than nothing. Hopefully,
-;;; some day, someone will record official lojban phones. 
+;;;               Lojban diphone
 
-;;; Steve Pomeroy <steve@staticfree.info>
+;;; This voice uses a diphone corpus recorded by 
+;;;    Candide Kemmler <candide@fractals.be>
+
+;;; Hand-timing done by Arnt Richard Johansen <arj@nvg.org>
+;;;    and Steve Pomeroy <steve@staticfree.info>
+
+;;; this file was brutally hacked into existance from the sample voice 
+;;; definitions and the el_diphone.scm file by Steve Pomeroy
 
 ;; $Revision$
 
@@ -19,13 +24,22 @@
 (lex.set.phoneset "toi_ljb")
 
 (set! token.whitespace " \t\n\r")
-(set! token.punctuation "\",:;!?(){}[]")
-(set! token.prepunctuation "\"({[")
+(set! token.punctuation "\",:;!?<>(){}[]")
+(set! token.prepunctuation "\"({[<")
 
 (lex.create "lojban")
 
 ;; non-standard things
 (lex.add.entry '("." punc (((#) 0))))
+
+(lex.add.entry '("(" punc (((#) 0))))
+(lex.add.entry '(")" punc (((#) 0))))
+
+(lex.add.entry '("<" punc (((#) 0))))
+(lex.add.entry '(">" punc (((#) 0))))
+
+(lex.add.entry '("{" punc (((#) 0))))
+(lex.add.entry '("}" punc (((#) 0))))
 
 (lts.ruleset
 ;; Name of rule set
@@ -90,12 +104,12 @@
 
 (set! lojban_phone_data
 '(
-   (# 0.0 0.250)
+   (# 0.0 0.250) ;; the sound of silence
 
    (e 0.0 0.080)
    (a 0.0 0.080)
    (o 0.0 0.080)
-   (i 0.0 0.070)
+   (i 0.0 0.080)
    (u 0.0 0.070)
    (y 0.0 0.080)
 
@@ -205,9 +219,9 @@ a lojban pronunciation of WORD."
 
 (set! lojban_phrase_cart_tree
 '
-((lisp_token_end_punc in ("?" "i" ":"))
+((lisp_token_end_punc in ("?" "i" ">" ")" "}" ":"))
   ((BB))
-  ((lisp_token_end_punc in ("'" "\"" "," ";"))
+  ((lisp_token_end_punc in ("\"" ";"))
    ((B))
    ((n.name is 0)  ;; end of utterance
     ((BB))
@@ -243,7 +257,7 @@ rules are not used unless explicitly called. [see Token to word rules]"
 ;;;  Full voice definition 
 (define (voice_lojban_diphone)
 "(voice_lojban_diphone)
-Set up synthesis for Male Lojban speaker"
+Set up synthesis for a male Lojban speaker"
   (voice_reset)
   (Parameter.set 'Language 'lojban)
   ;; Phone set
@@ -294,9 +308,8 @@ Set up synthesis for Male Lojban speaker"
  'lojban_diphone
  '((language lojban)
    (gender male)
-   (dialect american)
+   (dialect lojbanic)
    (description
-    "An attempt at a lojban voice based on existing diphones. The 
-\"x\" and \"j\" sounds are a bit off, but most other sounds are correct.")))
+    "A lojbanic male voice using Candide Kemmler's recordings.")))
 
 (provide 'lojban_diphone)
