@@ -120,11 +120,11 @@ item []:
                 intervals [2]:
                     xmin = 0.32643105375426618 
                     xmax = 0.40072061433447098 
-                    text = "" 
+                    text = "n-i" 
                 intervals [3]:
                     xmin = 0.40072061433447098 
                     xmax = 0.49086974402730377 
-                    text = "" 
+                    text = "i-n" 
                 intervals [4]:
                     xmin = 0.49086974402730377 
                     xmax = 0.89993749999999995 
@@ -142,7 +142,7 @@ item []:
                 intervals [2]:
                     xmin = 0.35314190699658704 
                     xmax = 0.44662989334470987 
-                    text = "" 
+                    text = "i" 
                 intervals [3]:
                     xmin = 0.44662989334470987 
                     xmax = 0.89993749999999995 
@@ -163,18 +163,18 @@ item []:
                 intervals: size = 4 
                 intervals [1]:
                     xmin = 0 
-                    xmax = 0.38402633105802048 
+                    xmax = 0.38912545289855072 
                     text = "" 
                 intervals [2]:
-                    xmin = 0.38402633105802048 
+                    xmin = 0.38912545289855072 
                     xmax = 0.45497703498293512 
-                    text = "" 
+                    text = "l-i" 
                 intervals [3]:
                     xmin = 0.45497703498293512 
-                    xmax = 0.54596087883959044 
-                    text = "" 
+                    xmax = 0.54652976190476188 
+                    text = "i-l" 
                 intervals [4]:
-                    xmin = 0.54596087883959044 
+                    xmin = 0.54652976190476188 
                     xmax = 0.89993749999999995 
                     text = "" 
             item [2]:
@@ -190,7 +190,7 @@ item []:
                 intervals [2]:
                     xmin = 0.41240661262798634 
                     xmax = 0.50255574232081912 
-                    text = "" 
+                    text = "i" 
                 intervals [3]:
                     xmin = 0.50255574232081912 
                     xmax = 0.89993749999999995 
