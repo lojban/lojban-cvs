@@ -10,13 +10,17 @@
 
 (define %ss-shift-factor% 0.3)
 
+(define %body-font-family% 
+  ;; The font family used in titles
+  "Palatino Linotype")
+
 (define %title-font-family% 
   ;; The font family used in titles
-  "Times New Roman")
+  "Palatino Linotype")
 
 (define %admon-font-family%
 	;; Exercises, notes
-	"Trebuchet MS")
+	"Optima")
 
 (define %may-format-variablelist-as-table% #t)
 
@@ -39,7 +43,7 @@
 (define ($lojban-text$ #!optional (sosofo (process-children)))
 	(make sequence
         hyphenate?: #f
-		font-family-name: "Andale Mono"
+		font-family-name: "Trebuchet MS"
 		font-size: (* (inherited-font-size) 
 						(if %verbatim-size-factor%
 							%verbatim-size-factor%
@@ -56,6 +60,55 @@
 (define ($unicode-text$ #!optional (sosofo (process-children)))
 	(make sequence
 		font-family-name: "Code2000"
+		sosofo))
+
+;; For PC: distinct fonts for each language
+(define ($ipa-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Gentium"
+		sosofo))
+
+(define ($zh-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Bitstream Cyberbit"
+		sosofo))
+
+(define ($zh-pinyin-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Gentium"
+        font-posture: 'italic
+		sosofo))
+
+(define ($ru-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "TITUS Cyberbit Basic"
+		sosofo))
+
+(define ($hi-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "TITUS Cyberbit Basic"
+		sosofo))
+
+(define ($hi-translit-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Gentium"
+        font-posture: 'italic
+		sosofo))
+
+(define ($ar-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Simplified Arabic"
+		sosofo))
+
+(define ($ar-translit-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Gentium"
+        font-posture: 'italic
+		sosofo))
+
+(define ($ur-text$ #!optional (sosofo (process-children)))
+	(make sequence
+		font-family-name: "Narkisim"
 		sosofo))
 
 (define ($underline-seq$ #!optional (sosofo (process-children)))
@@ -80,12 +133,20 @@
 		   (attribute-string (normalize "lang"))
 		   (normalize "element"))))
     (cond
-      ((equal? role (normalize "bold")) ($bold-seq$))
-      ((equal? role (normalize "strong")) ($bold-seq$))
+      ((equal? role (normalize "bold"))
+        (cond 
+            ((equal? lang (normalize "ar-translit")) ($underline-seq$)) 
+            ((equal? lang (normalize "hi-translit")) ($underline-seq$)) 
+            (else ($bold-seq$))))
+      ((equal? role (normalize "strong"))
+        (cond 
+            ((equal? lang (normalize "ar-translit")) ($underline-seq$)) 
+            ((equal? lang (normalize "hi-translit")) ($underline-seq$)) 
+            (else ($bold-seq$))))
       ((equal? role (normalize "sumti")) ($underline-seq$))
       ((equal? role (normalize "selbri")) ($italic-seq$))
       ((equal? role (normalize "placestruct")) ($italic-seq$))
-      ((equal? role (normalize "ipa")) ($unicode-text$))
+      ((equal? role (normalize "ipa")) ($ipa-text$))
       ((equal? role (normalize "symbol")) ($symbol-text$))
       (else ($italic-seq$)))))
 
@@ -97,6 +158,14 @@
     (cond
       ((equal? lang (normalize "art-lojban")) ($lojban-text$))
       ((equal? lang (normalize "art-klingon")) ($unicode-text$))
+      ((equal? lang (normalize "zh")) ($zh-text$))
+      ((equal? lang (normalize "zh-pinyin")) ($zh-pinyin-text$))
+      ((equal? lang (normalize "ru")) ($ru-text$))
+      ((equal? lang (normalize "hi")) ($hi-text$))
+      ((equal? lang (normalize "ur")) ($ur-text$))
+      ((equal? lang (normalize "hi-translit")) ($hi-translit-text$))
+      ((equal? lang (normalize "ar")) ($ar-text$))
+      ((equal? lang (normalize "ar-translit")) ($ar-translit-text$))
       (else ($italic-seq$)))))
 
 ;; based on $peril$, but no box
@@ -143,6 +212,28 @@
 	  (process-children)))))
 ;;)
 
+
+(define ($admonition$)
+  (if %admon-graphics%
+      ($graphical-admonition$)
+      (make display-group
+	space-before: %block-sep%
+	space-after: %block-sep%
+	start-indent: (if %admon-graphics%
+			  (inherited-start-indent)
+			  (+ (inherited-start-indent) (* (ILSTEP) 2)))
+;; added NN: do the same for end-indent
+	end-indent: (if %admon-graphics%
+			  (inherited-end-indent)
+			  (+ (inherited-end-indent) (* (ILSTEP) 2)))
+;; end NN
+	font-size: (- %bf-size% 1pt)
+	font-weight: 'medium
+	font-posture: 'upright
+	font-family-name: %admon-font-family%
+	line-spacing: (* (- %bf-size% 1pt) %line-spacing-factor%)
+	(process-children))))
+    
 
 ;; Treat exercises separately
 (element simplesect 
