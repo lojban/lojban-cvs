@@ -6,9 +6,11 @@ pm_files=$(shell echo $(wav_files)|sed 's/wav/pm/g')
 
 all: ljb_diphone.index $(pm_files)
 
-$(pm_files): pm/%.pm: wav/%.wav
+$(pm_files): pm pm/%.pm: wav/%.wav
 	$(make_pm_wav) $<;
 
+pm: 
+	mkdir pm
 
 ljb_diphone.index: ../praat/*.Collection ljb_diphone_template.index ../util/TextGrid2index.pl
 	../util/TextGrid2index.pl -l ljb_diphone_template.index \
