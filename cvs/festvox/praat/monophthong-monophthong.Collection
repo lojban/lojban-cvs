@@ -1,0 +1,725 @@
+File type = "ooTextFile"
+Object class = "Collection"
+
+size = 18 
+item []: 
+    item [1]:
+        class = "TextGrid" 
+        name = "ak_0397" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.43814666970802918 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.43814666970802918 
+                    xmax = 0.52275520833333333 
+                    text = "y-y" 
+                intervals [3]:
+                    xmin = 0.52275520833333333 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.49009834317203532 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.49009834317203532 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [2]:
+        class = "TextGrid" 
+        name = "ak_0398" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.52583288043478271 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.52583288043478271 
+                    xmax = 0.63918717783505163 
+                    text = "y-e" 
+                intervals [3]:
+                    xmin = 0.63918717783505163 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.59602969419412033 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.59602969419412033 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [3]:
+        class = "TextGrid" 
+        name = "ak_0399" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.65377375000000004 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.65377375000000004 
+                    xmax = 0.75173035714285719 
+                    text = "i-a" 
+                intervals [3]:
+                    xmin = 0.75173035714285719 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.70069995770403759 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.70069995770403759 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [4]:
+        class = "TextGrid" 
+        name = "ak_0400" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.56811250000000002 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.56811250000000002 
+                    xmax = 0.71204757695507492 
+                    text = "i-o" 
+                intervals [3]:
+                    xmin = 0.71204757695507492 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.64395101965649204 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.64395101965649204 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [5]:
+        class = "TextGrid" 
+        name = "ak_0401" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.45565937499999998 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.45565937499999998 
+                    xmax = 0.54529073952879581 
+                    text = "y-i" 
+                intervals [3]:
+                    xmin = 0.54529073952879581 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.49514269322070603 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.49514269322070603 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [6]:
+        class = "TextGrid" 
+        name = "ak_0402" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.40440732758620684 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.40440732758620684 
+                    xmax = 0.50728655660377364 
+                    text = "y-u" 
+                intervals [3]:
+                    xmin = 0.50728655660377364 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.45857115536784338 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.45857115536784338 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [7]:
+        class = "TextGrid" 
+        name = "ak_0419" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.39309821428571423 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.39309821428571423 
+                    xmax = 0.51509011243386249 
+                    text = "e-y" 
+                intervals [3]:
+                    xmin = 0.51509011243386249 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.45604898034350805 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.45604898034350805 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [8]:
+        class = "TextGrid" 
+        name = "ak_0420" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.5321199127906977 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.5321199127906977 
+                    xmax = 0.64916069560669465 
+                    text = "e-e" 
+                intervals [3]:
+                    xmin = 0.64916069560669465 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.58846316912111418 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.58846316912111418 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [9]:
+        class = "TextGrid" 
+        name = "ak_0421" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.50903286812297743 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.50903286812297743 
+                    xmax = 0.58320888157894735 
+                    text = "e-a" 
+                intervals [3]:
+                    xmin = 0.58320888157894735 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.54432510619524554 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.54432510619524554 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [10]:
+        class = "TextGrid" 
+        name = "ak_0422" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.52537978316326539 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.52537978316326539 
+                    xmax = 0.6344353693181819 
+                    text = "e-o" 
+                intervals [3]:
+                    xmin = 0.6344353693181819 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.57963555653594046 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.57963555653594046 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [11]:
+        class = "TextGrid" 
+        name = "ak_0423" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.61617062165775405 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.61617062165775405 
+                    xmax = 0.7053458686440679 
+                    text = "e-i" 
+                intervals [3]:
+                    xmin = 0.7053458686440679 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.66160624482683961 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.66160624482683961 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [12]:
+        class = "TextGrid" 
+        name = "ak_0424" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.51198762583892621 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.51198762583892621 
+                    xmax = 0.61053987068965521 
+                    text = "e-u" 
+                intervals [3]:
+                    xmin = 0.61053987068965521 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.56071924385342531 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.56071924385342531 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [13]:
+        class = "TextGrid" 
+        name = "ak_0441" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.26174855132450331 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.26174855132450331 
+                    xmax = 0.36957797029702971 
+                    text = "a-y" 
+                intervals [3]:
+                    xmin = 0.36957797029702971 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.31228500395639269 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.31228500395639269 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [14]:
+        class = "TextGrid" 
+        name = "ak_0442" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.58923631198347115 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.58923631198347115 
+                    xmax = 0.72485338855421688 
+                    text = "a-e" 
+                intervals [3]:
+                    xmin = 0.72485338855421688 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.65782298229033653 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.65782298229033653 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [15]:
+        class = "TextGrid" 
+        name = "ak_0443" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.46871056937172778 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.46871056937172778 
+                    xmax = 0.59549763141809298 
+                    text = "a-a" 
+                intervals [3]:
+                    xmin = 0.59549763141809298 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.53045314356140105 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.53045314356140105 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [16]:
+        class = "TextGrid" 
+        name = "ak_0444" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.42017994402985076 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.42017994402985076 
+                    xmax = 0.54127483974358981 
+                    text = "a-o" 
+                intervals [3]:
+                    xmin = 0.54127483974358981 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.47874855556252621 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.47874855556252621 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [17]:
+        class = "TextGrid" 
+        name = "ak_0445" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.39174405991735534 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.39174405991735534 
+                    xmax = 0.53703078007518801 
+                    text = "a-i" 
+                intervals [3]:
+                    xmin = 0.53703078007518801 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.46361550541651408 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.46361550541651408 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
+    item [18]:
+        class = "TextGrid" 
+        name = "ak_0446" 
+        xmin = 0 
+        xmax = 1.1000000000000001 
+        tiers? <exists> 
+        size = 2 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "Diphone" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 3 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.30103077471482886 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.30103077471482886 
+                    xmax = 0.40307499999999996 
+                    text = "a-u" 
+                intervals [3]:
+                    xmin = 0.40307499999999996 
+                    xmax = 1.1000000000000001 
+                    text = "" 
+            item [2]:
+                class = "IntervalTier" 
+                name = "midpoint" 
+                xmin = 0 
+                xmax = 1.1000000000000001 
+                intervals: size = 2 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 0.35137871683359073 
+                    text = "" 
+                intervals [2]:
+                    xmin = 0.35137871683359073 
+                    xmax = 1.1000000000000001 
+                    text = "dummy" 
