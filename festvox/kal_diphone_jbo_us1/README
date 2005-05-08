@@ -1,0 +1,11 @@
+This is an intermediate Lojban voice for the Festival speech synthesis
+system.  THIS IS NOT part of the "official" Lojban TTS.  It's just
+something which will work acceptably until such time as the offical TTS
+is finished.  This voice should perform better, in several respects,
+than the ked voice which has been floating around.
+
+The "festvox/" directory contains the Lojban voice kal_diphone_jbo_us1.
+
+The "vocabsay/" directory contains Festival scripts for creating
+vocabulary tapes/CDs.
+

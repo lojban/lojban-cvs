@@ -1,0 +1,18 @@
+TODO
+----
+
+We're still missing the Lojban ``x''.  Give the user a variable to set which
+chooses which approximation of the sound should be used.
+
+Syllabify more properly. (Currently, the "," won't cause syllable break.)
+"Syllabification is done by finding the minimum sonorant position between vowels."
+
+Improve handling of capitalization.
+
+Give the user easy access to alternate intonation and duration methods.
+
+Base intonation, duration, and prosodic phrasing on Lojban grammar.
+
+Everything in the code tagged with "&&&". :)
+
+
