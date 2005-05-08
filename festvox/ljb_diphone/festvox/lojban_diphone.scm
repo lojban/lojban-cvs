@@ -223,7 +223,11 @@
 )
 
 (define (has_final_consonant word)
-  (is_consonant (substring word (- (length word) 1) 1))
+     (is_consonant (substring word (- (length word) 1) 1))
+)
+
+(define (has_final_period word)
+     (member (substring word (- (length word) 1) 1) '("."))
 )
 
 (define (is_content_word sylstruc)
@@ -252,7 +256,9 @@
   (cons
    word
    (if
-    (or (has_final_consonant word) (has_consonant_cluster word))
+    (or (has_final_consonant word)
+       (or (has_consonant_cluster word)
+           (has_final_period word)))
     (cons 'content)
     '(nil)
     )
