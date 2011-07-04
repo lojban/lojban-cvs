@@ -1,3 +1,8 @@
+THIS DIRECTORY IS OBSOLETE
+Please see https://github.com/phma/lojban-bible/, which contains the
+translated text converted to USFM, a standard format for Bible translations.
+For write access, ask Pierre Abbat.
+------------------
 This is the directory for the effort to translate The Bible into lojban.
 The first file is 'drbible.texinfo', which contains information on
 modifying texinfo files.  The rest of the files are named after the
