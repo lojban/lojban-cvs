@@ -1,0 +1,69 @@
+#!/bin/sh
+
+##################
+# translation_post
+#
+# Run by root from cron.  Takes a cvs module name as input.  The cvs
+# module in question should have a set of *.texinfo files in it, plus a
+# file named 'toc'.  toc's non-comment lines should be the order to cat
+# files to get the full texinfo file.
+#
+# The full texinfo file will then be run through makeinfo in various
+# forms, which will be put in the directory names
+# /home/www/lojban/<module>.  The output of makeinfo -html will be
+# broken up into multiple files.
+##################
+
+MODULE=$1
+
+# Some things don't use TeXInfo, so we skip the processing
+TEXINFO=$2
+
+rm -rf /tmp/www-data-cvs
+mkdir /tmp/www-data-cvs
+cd /tmp/www-data-cvs
+
+cvs -d :pserver:rlpowell@digitalkingdom.org:/home/cvs checkout $MODULE
+
+cd $MODULE
+
+####
+# Used to use a toc file
+####
+#cat /dev/null >$MODULE.final.texinfo
+#for file in `cat toc | grep -v '^#'`
+#do
+#    cat $file >>$MODULE.final.texinfo
+#done
+#
+#mv $MODULE.final.texinfo $MODULE.texinfo
+
+PATH=$PATH:/usr/bin
+export PATH
+
+if [ "$TEXINFO" = "yes" ]
+then
+    # initex $MODULE.texinfo
+    /usr/bin/tex --interaction nonstopmode $MODULE.texinfo
+    /usr/bin/tex --interaction nonstopmode $MODULE.texinfo
+    /usr/bin/dvips $MODULE.dvi -o $MODULE.ps
+    /usr/bin/texi2pdf $MODULE.texinfo
+    #makeinfo --html $MODULE.texinfo -o ${MODULE}-html
+    /usr/bin/texi2html --toc-file=$MODULE.html -split chapter $MODULE.texinfo
+    /usr/bin/makeinfo --plaintext ${MODULE}.texinfo >${MODULE}_complete.txt
+    /usr/bin/texi2html --output=${MODULE}_complete.html ${MODULE}.texinfo
+    
+    ls ${MODULE}*.texinfo | /usr/bin/zip -@ ${MODULE}_texinfo.zip
+fi
+
+TODIR="/srv/lojban/static/texts/translations/$MODULE"
+mkdir -p $TODIR
+cp -pr * $TODIR
+chmod -R go-w $TODIR
+
+# Clean out crap
+cd $TODIR/
+rm -rf CVS
+mv $MODULE/*.html .
+rm -f toc
+rm $MODULE.aux $MODULE.cp $MODULE.fn $MODULE.ky $MODULE.log $MODULE.pg $MODULE.toc $MODULE.tp $MODULE.vr
